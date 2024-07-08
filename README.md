@@ -19,14 +19,11 @@
 
 - 💬 Ask me about **Electrical & Electronics Engineering and/or Software Engineering, maybe Football too, lol.**
 
-- ⚡ Fun fact: **I am funny**
+- 😌 Fun fact: **I am funny** :trollface:
 
-- 📫 How to reach me:
-	kalkyokya4@gmail.com
-	kalkyokya7@gmail.com
+- 📫 How to reach me: kalkyokya4@gmail.com and/or kalkyokya7@gmail.com
 
-- 🤔 Visit :
-	http://kalkyokya.tech/
+- ⚡ Visit : http://kalkyokya.tech/
 
 <h3 align="left">Connect with me:</h3>
 <p>   
