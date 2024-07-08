@@ -1,6 +1,3 @@
-## Hi there 👋
-
-
 <h2 align="center">Hi 👋, I am Jean-Paul De Marie KYOKYA KALULU from Congo DRC residing in Kenya, transitioning from Electrical & Electronics Engineering to Software Engineering. An Orderly and Industrious Student of The School of Life, Electrical Engineer, Football Player and soon to be Software Engineer (FULL STACK DEVELOPER). I have interest in doing Hard things and solving real-world problems with technology. An avid learner exploring information technology advancements and personal development</h2>
 
 
