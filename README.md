@@ -22,11 +22,11 @@
 - ⚡ Fun fact: **I am funny**
 
 - 📫 How to reach me:
-	- kalkyokya4@gmail.com
-	- kalkyokya7@gmail.com
+	kalkyokya4@gmail.com
+	kalkyokya7@gmail.com
 
 - 🤔 Visit :
-	- http://kalkyokya.tech/
+	http://kalkyokya.tech/
 
 <h3 align="left">Connect with me:</h3>
 <p>   
