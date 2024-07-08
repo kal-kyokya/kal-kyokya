@@ -10,9 +10,26 @@
 
 
 - 🔭 I’m currently working on **Deploying a clone of the AirBnB website**
+
 - 🌱 I’m currently learning **Network Basics**
+
 - 👯 I’m looking to collaborate on **C beginner projects**
+
 - 🤔 I’m looking for help with **brainstorming solutions to your problems**
+
 - 💬 Ask me about **Electrical & Electronics Engineering and/or Software Engineering**
-- 📫 How to reach me: **Check my socials below my profil picture** 😄
+
 - ⚡ Fun fact: **I am funny**
+
+- 📫 How to reach me:
+	- kalkyokya4@gmail.com
+
+- 🤔 Visit :
+	- http://kalkyokya.tech/
+
+<h3 align="left">Connect with me:</h3>
+<p>   
+  <a href="https://www.linkedin.com/in/jean-paul-kyokya-b21892223/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+  <a href="https://www.instagram.com/kal_kyokya/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
