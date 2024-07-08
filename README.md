@@ -23,6 +23,7 @@
 
 - 📫 How to reach me:
 	- kalkyokya4@gmail.com
+	- kalkyokya7@gmail.com
 
 - 🤔 Visit :
 	- http://kalkyokya.tech/
