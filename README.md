@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **Deploying a clone of the AirBnB website**
 
-- 🌱 I’m currently learning about *'Primary-Replica Cluster' Database Architecture**
+- 🌱 I’m currently learning about **'Primary-Replica Cluster' Database Architecture**
 
 - 👯 I’m looking to collaborate on **C beginner projects**
 
@@ -23,7 +23,7 @@
 
 - 📫 How to reach me: kalkyokya4@gmail.com and/or kalkyokya7@gmail.com
 
-- ⚡ Visit : http://kalkyokya.tech/
+- ⚡ Visit : https://kalkyokya.tech/
 
 <h3 align="left">Connect with me:</h3>
 <p>   
