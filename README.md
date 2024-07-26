@@ -2,7 +2,7 @@
 **kal-kyokya/kal-kyokya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on the GitHub profile.
 -->
 
-<h2 align="center">Hi 👋</br> I am Jean-Paul De Marie KYOKYA Kalulu from Congo/DRC, residing in Kenya. Currently transitioning from Electrical & Electronics Engineering to Software Engineering. An Orderly and Industrious Student of The School of Life, Electrical & Electronics Engineer, Football Player (Skillful winger) and soon to be Software Engineer (FULL STACK DEVELOPER). I have interest in doing Hard things and solving real-world problems with technology. An avid learner exploring information technology advancements and personal development</h2>
+<h2 align="center">Greetings 👋</br>My name is Jean-Paul De Marie KYOKYA Kalulu.</br> I am from Congo/DRCand resides in Nairobi/Kenya.</br> As I pursue a Career in EMBEDDED SYSTEMS/SOFTWARE ENGINEERING, I am currently transitioning from Electrical & Electronics Engineering to Software Engineering.</br></br> I believe in:</br><p><em>"Not the pursuit of Happiness, but rather, The Happiness in the pursuit..."</em></p></h2>
 
 <h3 align="center">A Passionate Full Stack Developer in Kenya</h3>
 <img align="right" alt="coding" width="400" src="https://i2.wp.com/i.giphy.com/media/26tn33aiTi1jkl6H6/giphy-downsized.gif?w=770&ssl=1">
@@ -11,13 +11,13 @@
 
 - 🔭 I’m currently working on **Deploying a clone of the AirBnB website**
 
-- 🌱 I’m currently learning **Network Basics**
+- 🌱 I’m currently learnin gabou t *'Primary-Replica Cluster' Database Architecture**
 
 - 👯 I’m looking to collaborate on **C beginner projects**
 
 - 🤔 I’m looking for help with **Work-Life Balance**
 
-- 💬 Ask me about **Electrical & Electronics Engineering and/or Software Engineering, maybe Football too, lol.**
+- 💬 Ask me about **Electrical & Electronics, Software Engineering and Football too, lol.**
 
 - 😌 Fun fact: **I am funny** :trollface:
 
