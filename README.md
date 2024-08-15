@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **Deploying a clone of the AirBnB website**
 
-- 🌱 I’m currently learning about **'Primary-Replica Cluster' Database Architecture**
+- 🌱 I’m currently learning about **Application Programming Interfacing using Python3**
 
 - 👯 I’m looking to collaborate on **C beginner projects**
 
