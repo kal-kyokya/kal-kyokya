@@ -1,0 +1,80 @@
+2024-09-04 01:36:59,298 INFO sqlalchemy.engine.Engine BEGIN (implicit)
+2024-09-04 01:36:59,301 INFO sqlalchemy.engine.Engine INSERT INTO `User` (`Email`, `Username`, `Firstname`, `Lastname`, `Password`, `Sex`, `Phone`, `Country`, `City`, `Birthday`, id, `Created_on`, `Updated_on`) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
+2024-09-04 01:36:59,301 INFO sqlalchemy.engine.Engine [generated in 0.00038s] (None, None, None, None, None, None, None, None, None, None, '1ae0a3e6-33af-492e-8a89-018038403540', datetime.datetime(2024, 9, 4, 1, 36, 24, 464995), datetime.datetime(2024, 9, 4, 1, 36, 24, 465012))
+2024-09-04 01:36:59,412 INFO sqlalchemy.engine.Engine ROLLBACK
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/sqlalchemy/engine/base.py", line 1967, in _exec_single_context
+      self.dialect.do_execute(
+        File "/usr/local/lib/python3.8/dist-packages/sqlalchemy/engine/default.py", line 941, in do_execute
+	    cursor.execute(statement, parameters)
+	      File "/usr/local/lib/python3.8/dist-packages/MySQLdb/cursors.py", line 179, in execute
+	          res = self._query(mogrified_query)
+		    File "/usr/local/lib/python3.8/dist-packages/MySQLdb/cursors.py", line 330, in _query
+		        db.query(q)
+			  File "/usr/local/lib/python3.8/dist-packages/MySQLdb/connections.py", line 261, in query
+			      _mysql.connection.query(self, query)
+			      MySQLdb.IntegrityError: (1048, "Column 'Email' cannot be null")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+    File "/home/ubuntu/Everything-IoT/models/engine/db_storage.py", line 100, in commit
+        self.__session.commit()
+	  File "/usr/local/lib/python3.8/dist-packages/sqlalchemy/orm/scoping.py", line 597, in commit
+	      return self._proxied.commit()
+	        File "/usr/local/lib/python3.8/dist-packages/sqlalchemy/orm/session.py", line 2028, in commit
+		    trans.commit(_to_root=True)
+		      File "<string>", line 2, in commit
+		        File "/usr/local/lib/python3.8/dist-packages/sqlalchemy/orm/state_changes.py", line 139, in _go
+			    ret_value = fn(self, *arg, **kw)
+			      File "/usr/local/lib/python3.8/dist-packages/sqlalchemy/orm/session.py", line 1313, in commit
+			          self._prepare_impl()
+				    File "<string>", line 2, in _prepare_impl
+				      File "/usr/local/lib/python3.8/dist-packages/sqlalchemy/orm/state_changes.py", line 139, in _go
+				          ret_value = fn(self, *arg, **kw)
+					    File "/usr/local/lib/python3.8/dist-packages/sqlalchemy/orm/session.py", line 1288, in _prepare_impl
+					        self.session.flush()
+						  File "/usr/local/lib/python3.8/dist-packages/sqlalchemy/orm/session.py", line 4352, in flush
+						      self._flush(objects)
+						        File "/usr/local/lib/python3.8/dist-packages/sqlalchemy/orm/session.py", line 4488, in _flush
+							    transaction.rollback(_capture_exception=True)
+							      File "/usr/local/lib/python3.8/dist-packages/sqlalchemy/util/langhelpers.py", line 146, in __exit__
+							          raise exc_value.with_traceback(exc_tb)
+								    File "/usr/local/lib/python3.8/dist-packages/sqlalchemy/orm/session.py", line 4448, in _flush
+								        flush_context.execute()
+									  File "/usr/local/lib/python3.8/dist-packages/sqlalchemy/orm/unitofwork.py", line 466, in execute
+									      rec.execute(self)
+									        File "/usr/local/lib/python3.8/dist-packages/sqlalchemy/orm/unitofwork.py", line 642, in execute
+										    util.preloaded.orm_persistence.save_obj(
+										      File "/usr/local/lib/python3.8/dist-packages/sqlalchemy/orm/persistence.py", line 93, in save_obj
+										          _emit_insert_statements(
+											    File "/usr/local/lib/python3.8/dist-packages/sqlalchemy/orm/persistence.py", line 1048, in _emit_insert_statements
+											        result = connection.execute(
+												  File "/usr/local/lib/python3.8/dist-packages/sqlalchemy/engine/base.py", line 1418, in execute
+												      return meth(
+												        File "/usr/local/lib/python3.8/dist-packages/sqlalchemy/sql/elements.py", line 515, in _execute_on_connection
+													    return connection._execute_clauseelement(
+													      File "/usr/local/lib/python3.8/dist-packages/sqlalchemy/engine/base.py", line 1640, in _execute_clauseelement
+													          ret = self._execute_context(
+														    File "/usr/local/lib/python3.8/dist-packages/sqlalchemy/engine/base.py", line 1846, in _execute_context
+														        return self._exec_single_context(
+															  File "/usr/local/lib/python3.8/dist-packages/sqlalchemy/engine/base.py", line 1986, in _exec_single_context
+															      self._handle_dbapi_exception(
+															        File "/usr/local/lib/python3.8/dist-packages/sqlalchemy/engine/base.py", line 2355, in _handle_dbapi_exception
+																    raise sqlalchemy_exception.with_traceback(exc_info[2]) from e
+																      File "/usr/local/lib/python3.8/dist-packages/sqlalchemy/engine/base.py", line 1967, in _exec_single_context
+																          self.dialect.do_execute(
+																	    File "/usr/local/lib/python3.8/dist-packages/sqlalchemy/engine/default.py", line 941, in do_execute
+																	        cursor.execute(statement, parameters)
+																		  File "/usr/local/lib/python3.8/dist-packages/MySQLdb/cursors.py", line 179, in execute
+																		      res = self._query(mogrified_query)
+																		        File "/usr/local/lib/python3.8/dist-packages/MySQLdb/cursors.py", line 330, in _query
+																			    db.query(q)
+																			      File "/usr/local/lib/python3.8/dist-packages/MySQLdb/connections.py", line 261, in query
+																			          _mysql.connection.query(self, query)
+																				  sqlalchemy.exc.IntegrityError: (MySQLdb.IntegrityError) (1048, "Column 'Email' cannot be null")
+																				  [SQL: INSERT INTO `User` (`Email`, `Username`, `Firstname`, `Lastname`, `Password`, `Sex`, `Phone`, `Country`, `City`, `Birthday`, id, `Created_on`, `Updated_on`) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)]
+																				  [parameters: (None, None, None, None, None, None, None, None, None, None, '1ae0a3e6-33af-492e-8a89-018038403540', datetime.datetime(2024, 9, 4, 1, 36, 24, 464995), datetime.datetime(2024, 9, 4, 1, 36, 24, 465012))]
+																				  (Background on this error at: https://sqlalche.me/e/20/gkpj)
+																				  >>>
