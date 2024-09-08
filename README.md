@@ -15,7 +15,7 @@
 
 - 👯 I’m looking to collaborate on **C beginner projects**
 
-- 🤔 I’m looking for help with **Work-life balance and assessment of the necessity for social interactions**
+- 🤔 I’m looking for help with **Work-life balance**
 
 - 💬 Ask me about **Electrical & Electronics, Software Engineering and Football too, lol.**
 
