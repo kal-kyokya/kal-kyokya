@@ -9,13 +9,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eyoul&label=Profile%20views&color=0e75b6&style=flat" alt="eyoul" /> </p>
 
 
-- 🔭 I’m currently working on **Deploying a clone of the AirBnB website**
+- 🔭 I’m currently working on **My very first brainchild: EverythingIoT**
 
-- 🌱 I’m currently learning about **Application Programming Interfacing using Python3**
+- 🌱 I’m currently learning about **Software Development Lifecycle**
 
 - 👯 I’m looking to collaborate on **C beginner projects**
 
-- 🤔 I’m looking for help with **Work-Life Balance**
+- 🤔 I’m looking for help with **Work-Life Balance and assessment of the necessity for social interactions**
 
 - 💬 Ask me about **Electrical & Electronics, Software Engineering and Football too, lol.**
 
