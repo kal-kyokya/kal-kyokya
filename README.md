@@ -2,7 +2,7 @@
 **kal-kyokya/kal-kyokya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on the GitHub profile.
 -->
 
-<h2 align="center">Greetings 👋</br>My name is Jean-Paul De Marie KYOKYA Kalulu.</br> I am from Congo/DRC and resides in Nairobi/Kenya.</br> As I pursue a Career in Embedded Systems/Software Engineering, I am currently transitioning from Electrical & Electronics Engineering to Software Engineering.</br></br> I believe in:</br><p><em>"Not the pursuit of Happiness, but rather, The Happiness in the pursuit..."</em></p></h2>
+<h2 align="center">Greetings 👋</br>My name is Jean-Paul De Marie KYOKYA Kalulu.</br> I am from Congo/DRC and resides in Nairobi/Kenya.</br> As I pursue a Career in Embedded Software and Systems Engineering, I am currently transitioning from Electrical & Electronics Engineering to Software Engineering.</br></br> I believe in:</br><p><em>"Not the pursuit of Happiness, but rather, The Happiness in the pursuit..."</em></p></h2>
 
 <h3 align="center">A Passionate Full Stack Developer in Kenya</h3>
 <img align="right" alt="coding" width="400" src="https://i2.wp.com/i.giphy.com/media/26tn33aiTi1jkl6H6/giphy-downsized.gif?w=770&ssl=1">
