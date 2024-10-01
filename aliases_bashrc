@@ -88,6 +88,8 @@ alias ga='git add .'
 alias gc='git commit -m'
 alias gp='git push'
 alias ta='tmux attach'
+alias nd='npm run dev'
+alias nl='npm run lint'
 
 # Alias definitions.
 # You may want to put all your additions into a separate file like
