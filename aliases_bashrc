@@ -87,6 +87,7 @@ alias fd='find . -type f -name "*~" -delete'
 alias ga='git add .'
 alias gc='git commit -m'
 alias gp='git push'
+alias ta='tmux attach'
 
 # Alias definitions.
 # You may want to put all your additions into a separate file like
