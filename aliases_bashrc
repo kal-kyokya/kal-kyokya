@@ -90,6 +90,7 @@ alias gp='git push'
 alias ta='tmux attach'
 alias nd='npm run dev'
 alias nl='npm run lint'
+alias chmx='chmod u+x'
 
 # Alias definitions.
 # You may want to put all your additions into a separate file like
