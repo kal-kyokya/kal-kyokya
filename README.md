@@ -2,16 +2,16 @@
 **kal-kyokya/kal-kyokya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on the GitHub profile.
 -->
 
-<h2 align="center">Greetings 👋</br>My name is Jean-Paul De Marie KYOKYA Kalulu.</br> I am from Congo/DRC and resides in Nairobi/Kenya.</br> As I pursue a Career in Embedded Software and Systems Engineering, I have transitioned from Electrical & Electronics Engineering to Software Engineering.</br></br> My Mission:</br><p><em>"To Use Football And Technology To Better My Life And That Of Others."</em></p></h2>
+<h2 align="center">Greetings 👋</br>My name is Jean-Paul De Marie KYOKYA Kalulu.</br> I am from Congo/DRC and resides in Nairobi/Kenya.</br> In pursuit of a Career in Embedded Software and Systems Engineering, as well as Sports Analytics, I have transitioned from Electrical & Electronics Engineering to Software Engineering.</br></br> My Mission:</br><p><em>"To Use Football And Technology To Better My Life And That Of Others."</em></p></h2>
 
 <h3 align="center">A Passionate Full Stack Developer in Kenya</h3>
 <img align="right" alt="coding" width="400" src="https://i2.wp.com/i.giphy.com/media/26tn33aiTi1jkl6H6/giphy-downsized.gif?w=770&ssl=1">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eyoul&label=Profile%20views&color=0e75b6&style=flat" alt="eyoul" /> </p>
 
 
-- 🔭 I’m currently working on **My very first brainchild: EverythingIoT**
+- 🔭 I’m currently working on **4 personal projects**
 
-- 🌱 I’m currently learning about **React (I'm a Backend Engineer)**
+- 🌱 I’m currently learning **how to use AI to boost productivity**
 
 - 👯 I’m looking to collaborate on **Backend Development Projects**
 
