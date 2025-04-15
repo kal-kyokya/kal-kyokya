@@ -7,7 +7,7 @@
 My name is Jean-Paul De Marie KYOKYA Kalulu.</br>
 I am from Congo/DRC and resides in Nairobi/Kenya.</br>
 
-In pursuit of a Career in <b>Embedded Software and Systems Engineering</b>, while using my <b>Electrical & Electronics Engineering</b> background and <b>Software Engineering</b> Certifications. I’m delighted to use my skills to help create a future you envision and help solve your problems.</br></br>
+In pursuit of a Career in <b>Embedded Software and Systems Engineering</b>, while using my <b>Electrical & Electronics Engineering</b> background and <b>Software Engineering</b> Certifications; I’m delighted to use my skills to help create a future you envision and help solve your problems.</br>
 
 My Mission:</br>
 
@@ -19,6 +19,7 @@ My Mission:</br>
 </h2>
 
 <h3 align="center">An Entrepreneurial Full Stack Developer in Kenya</h3>
+
 <img align="right" alt="coding" width="400" src="https://i2.wp.com/i.giphy.com/media/26tn33aiTi1jkl6H6/giphy-downsized.gif?w=770&ssl=1">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eyoul&label=Profile%20views&color=0e75b6&style=flat" alt="eyoul" /> </p>
 
