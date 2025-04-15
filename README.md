@@ -5,9 +5,9 @@
 <h2 align="center">Greetings 👋</br>
 
 My name is Jean-Paul De Marie KYOKYA Kalulu.</br>
-I am from Congo/DRC and resides in Nairobi/Kenya.</br>
+I am from Congo/DRC & resides in Nairobi/Kenya.</br>
 
-In pursuit of a career in <b>Embedded software and systems engineering</b>, with an <b>Electrical & Electronics Engineering</b> background & <b>Software Engineering</b> Certifications; I am delighted to use my skills to help create a future you envision and help solve your problems.</br>
+In pursuit of a career in <b>Embedded software & systems engineering</b>, with an <b>Electrical & Electronics Engineering</b> background & <b>Software Engineering</b> Certifications; I want to use my skills to help create a future you envision & help solve your problems.</br>
 
 My Mission:</br>
 <p>
@@ -23,21 +23,21 @@ My Mission:</br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eyoul&label=Profile%20views&color=0e75b6&style=flat" alt="eyoul" /> </p>
 
 
-- 🔭 I am the founder of **2 Tech Startups**
+- 🔭 I am the founder of **2 Tech Startups**.
 
-- 🌱 I am currently learning to **use AI to boost productivity**
+- 🌱 I am currently learning to **use AI to boost productivity**.
 
-- 👯 I am looking to collaborate on **Backend Development Projects**
+- 👯 I am looking to collaborate on **Backend Development Projects**.
 
-- 🤔 I am looking for help with **React and NodeJS App Integration**
+- 🤔 I am looking for help with **React & NodeJS App Integration**.
 
-- 💬 Ask me about **Electrical & Electronics, Software Engineering and Football, lol.**
+- 💬 Ask me about **Electronics, Software Engineering & Football, lol**.
 
-- 😌 Fun fact: **I am funny** :trollface:
+- 😌 Fun fact: **I am funny** :trollface: .
 
-- 📫 How to reach me: kalkyokya4@gmail.com and/or kalkyokya7@gmail.com
+- 📫 How to reach me: kalkyokya4@gmail.com &/or kalkyokya7@gmail.com .
 
-- ⚡ Visit : https://www.kalkyokya.tech/
+- ⚡ Visit : https://www.kalkyokya.tech/ .
 
 <h3 align="left">Connect with me:</h3>
 <p>   
@@ -45,5 +45,5 @@ My Mission:</br>
   <a href="https://www.instagram.com/kal_kyokya/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages & Tools:</h3>
 <p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> </p>
