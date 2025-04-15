@@ -7,10 +7,9 @@
 My name is Jean-Paul De Marie KYOKYA Kalulu.</br>
 I am from Congo/DRC and resides in Nairobi/Kenya.</br>
 
-In pursuit of a Career in <b>Embedded Software and Systems Engineering</b>, while using my <b>Electrical & Electronics Engineering</b> background and <b>Software Engineering</b> Certifications; I’m delighted to use my skills to help create a future you envision and help solve your problems.</br>
+In pursuit of a career in <b>Embedded software and systems engineering</b>, with an <b>Electrical & Electronics Engineering</b> background & <b>Software Engineering</b> Certifications; I am delighted to use my skills to help create a future you envision and help solve your problems.</br>
 
 My Mission:</br>
-
 <p>
 	<em>
 		"To make technology not just accessible, but <i>transformational</i>."
@@ -24,13 +23,13 @@ My Mission:</br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eyoul&label=Profile%20views&color=0e75b6&style=flat" alt="eyoul" /> </p>
 
 
-- 🔭 I'm the founder of **2 Tech Startups**
+- 🔭 I am the founder of **2 Tech Startups**
 
-- 🌱 I’m currently learning to **use AI to boost productivity**
+- 🌱 I am currently learning to **use AI to boost productivity**
 
-- 👯 I’m looking to collaborate on **Backend Development Projects**
+- 👯 I am looking to collaborate on **Backend Development Projects**
 
-- 🤔 I’m looking for help with **React and NodeJS App Integration**
+- 🤔 I am looking for help with **React and NodeJS App Integration**
 
 - 💬 Ask me about **Electrical & Electronics, Software Engineering and Football, lol.**
 
