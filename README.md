@@ -5,7 +5,6 @@
 <h2 align="center">Greetings 👋</br>
 
 My name is Jean-Paul De Marie KYOKYA Kalulu.</br>
-
 I am from Congo/DRC and resides in Nairobi/Kenya.</br>
 
 In pursuit of a Career in <b>Embedded Software and Systems Engineering</b>, while using my <b>Electrical & Electronics Engineering</b> background and <b>Software Engineering</b> Certifications. I’m delighted to use my skills to help create a future you envision and help solve your problems.</br></br>
