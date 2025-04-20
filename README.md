@@ -51,17 +51,17 @@ My Mission:</br>
 <p>
 	<a href="https://medium.com/@kal-kyokya"
 	   target="_blank">
-	   <img alt="Twitter"
+	   <img alt="Medium badge"
 	   	src="https://img.shields.io/badge/Medium-black?logo=medium&logoColor=white"/>
 	</a>&emsp;
 	<a href="https://anilist.co/user/kalkyokya/"
 	   target="_blank">
-	   <img alt="Pinterest"
+	   <img alt="Anilist badge"
 	     src="https://img.shields.io/badge/AniList-02A9FF?logo=anilist&logoColor=fff"/>
 	</a>&emsp;
 	<a href="https://myanimelist.net/profile/kal-kyokya"
 	   target="_blank">
-	   <img alt="Pinterest"
+	   <img alt="MyAnimeList badge"
 	   src="https://img.shields.io/badge/MyAnimeList-2E51A2?logo=myanimelist&logoColor=fff"/>
 	</a>&emsp;
 	<a href="https://www.pinterest.com/kalulukyokya/"
@@ -71,13 +71,23 @@ My Mission:</br>
 	</a>&emsp;
 	<a href="https://discordapp.com/users/1151038985683087410"
 	target="_blank">
-	<img alt="Pinterest"
+	<img alt="Discord badge"
 	src="https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white"/>
 	</a>&emsp;
-	<a href=""
+	<a href="https://www.quora.com/profile/Jeanpaul-Kyokya"
 	target="_blank">
-	<img alt="Pinterest"
-	src=""/>
+	<img alt="Quora badge"
+	src="https://img.shields.io/badge/Quora-B92B27?logo=quora&logoColor=fff"/>
+	</a>&emsp;
+	<a href="https://www.tiktok.com/@jeanpaulkyokya?_t=ZM-8vhRXpGAx8Q&_r=1"
+	target="_blank">
+	<img alt="Tiktok badge"
+	src="https://img.shields.io/badge/TikTok-black?logo=tiktok&logoColor=white"/>
+	</a>&emsp;
+	<a href="https://www.youtube.com/@jeanpaulkyokya2341"
+	target="_blank">
+	<img alt="Youtube badge"
+	src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white"/>
 	</a>&emsp;
 	
 </p>
