@@ -33,15 +33,13 @@ My Mission:</br>
 
 - 🌱 Currently learning to **use AI to boost productivity**.
 
-- 👯 Looking to collaborate on **Backend Development Projects**.
+- :bulb: Looking to collaborate on **Backend Development Projects**.
 
-- :bulb: Looking for help with **React & NodeJS App Integration**.
+- 📫 Looking for help with **React & NodeJS App Integration**.
 
 - 💬 Ask me about **Electronics, Software Engineering & Football, lol**.
 
 - 😌 Fun fact: **I am funny** :trollface: .
-
-- 📫 Reach out: kalkyokya4@gmail.com and/or kalkyokya7@gmail.com 
 
 - ⚡ Visit : <a href="https://www.kalkyokya.tech/"
      	     	target="_blank"
@@ -71,6 +69,7 @@ My Mission:</br>
 	<img alt="Pinterest"
 	src="https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white"/>
 	</a>&emsp;
+	[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://www.github.com/kal-kyokya)
 </p>
 
 <h3 align="left">Languages & Tools:</h3>
