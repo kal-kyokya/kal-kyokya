@@ -54,6 +54,16 @@ My Mission:</br>
 	   <img alt="Twitter"
 	   	src="https://img.shields.io/badge/Medium-black?logo=medium&logoColor=white"/>
 	</a>&emsp;
+	<a href="https://anilist.co/user/kalkyokya/"
+	   target="_blank">
+	   <img alt="Pinterest"
+	     src="https://img.shields.io/badge/AniList-02A9FF?logo=anilist&logoColor=fff"/>
+	</a>&emsp;
+	<a href="https://myanimelist.net/profile/kal-kyokya"
+	   target="_blank">
+	   <img alt="Pinterest"
+	   src="https://img.shields.io/badge/MyAnimeList-2E51A2?logo=myanimelist&logoColor=fff"/>
+	</a>&emsp;
 	<a href="https://www.linkedin.com/in/jean-paul-kyokya-b21892223/"
 	target="_blank">
 	<img alt="LinkedIn"
@@ -69,7 +79,12 @@ My Mission:</br>
 	<img alt="Pinterest"
 	src="https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white"/>
 	</a>&emsp;
-	[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://www.github.com/kal-kyokya)
+	<a href=""
+	target="_blank">
+	<img alt="Pinterest"
+	src=""/>
+	</a>&emsp;
+	
 </p>
 
 <h3 align="left">Languages & Tools:</h3>
