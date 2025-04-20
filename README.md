@@ -64,16 +64,6 @@ My Mission:</br>
 	   <img alt="Pinterest"
 	   src="https://img.shields.io/badge/MyAnimeList-2E51A2?logo=myanimelist&logoColor=fff"/>
 	</a>&emsp;
-	<a href="https://www.linkedin.com/in/jean-paul-kyokya-b21892223/"
-	target="_blank">
-	<img alt="LinkedIn"
-	     src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"/>
-	</a>&emsp;
-	<a href="https://www.instagram.com/kal_kyokya/"
-	target="_blank">
-	<img alt="Instagram"
-	src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/>
-	</a>&emsp;
 	<a href="https://www.pinterest.com/kalulukyokya/"
 	target="_blank">
 	<img alt="Pinterest"
