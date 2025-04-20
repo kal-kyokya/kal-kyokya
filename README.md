@@ -69,6 +69,11 @@ My Mission:</br>
 	<img alt="Pinterest"
 	src="https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white"/>
 	</a>&emsp;
+	<a href="https://discordapp.com/users/1151038985683087410"
+	target="_blank">
+	<img alt="Pinterest"
+	src="https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white"/>
+	</a>&emsp;
 	<a href=""
 	target="_blank">
 	<img alt="Pinterest"
