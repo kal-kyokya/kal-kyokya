@@ -35,15 +35,19 @@ My Mission:</br>
 
 - 👯 Looking to collaborate on **Backend Development Projects**.
 
-- 🤔 Looking for help with **React & NodeJS App Integration**.
+- :bulb: Looking for help with **React & NodeJS App Integration**.
 
 - 💬 Ask me about **Electronics, Software Engineering & Football, lol**.
 
 - 😌 Fun fact: **I am funny** :trollface: .
 
-- 📫 How to reach me: kalkyokya4@gmail.com &/or kalkyokya7@gmail.com .
+- 📫 Reach out: kalkyokya4@gmail.com and/or kalkyokya7@gmail.com 
 
-- ⚡ Visit : https://www.kalkyokya.tech/ .
+- ⚡ Visit : <a href="https://www.kalkyokya.tech/"
+     	     	target="_blank"
+		>
+		https://www.kalkyokya.tech
+	     </a>
 
 <h3 align="left">Connect with me:</h3>
 <p>
@@ -51,17 +55,22 @@ My Mission:</br>
 	   target="_blank">
 	   <img alt="Twitter"
 	   	src="https://img.shields.io/badge/Medium-black?logo=medium&logoColor=white"/>
-	</a>
+	</a>&emsp;
 	<a href="https://www.linkedin.com/in/jean-paul-kyokya-b21892223/"
 	target="_blank">
 	<img alt="LinkedIn"
 	     src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"/>
-	</a>
+	</a>&emsp;
 	<a href="https://www.instagram.com/kal_kyokya/"
 	target="_blank">
 	<img alt="Instagram"
 	src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/>
-	</a>
+	</a>&emsp;
+	<a href="https://www.pinterest.com/kalulukyokya/"
+	target="_blank">
+	<img alt="Pinterest"
+	src="https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white"/>
+	</a>&emsp;
 </p>
 
 <h3 align="left">Languages & Tools:</h3>
