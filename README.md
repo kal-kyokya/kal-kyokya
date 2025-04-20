@@ -139,9 +139,9 @@ My Mission:</br>
 	   rel="noreferrer"
 	   >
 	   <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg"
-	   alt="flask"
-	   width="40"
-	   height="40"
+	   	alt="flask"
+	   	width="40"
+	   	height="40"
 	   />
 	</a>
 	<a href="https://git-scm.com/"
