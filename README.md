@@ -17,19 +17,25 @@ My Mission:</br>
 </p>
 </h2>
 
-<h3 align="center">An Entrepreneurial Full Stack Developer in Kenya</h3>
+<h3 align="center">An Entrepreneurial Full-stack Developer in Kenya</h3>
 
-<img align="right" alt="coding" width="400" src="https://i2.wp.com/i.giphy.com/media/26tn33aiTi1jkl6H6/giphy-downsized.gif?w=770&ssl=1">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eyoul&label=Profile%20views&color=0e75b6&style=flat" alt="eyoul" /> </p>
+<p align="left">
+   <img alt="eyoul"
+   	src="https://komarev.com/ghpvc/?username=eyoul&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 
+<img align="right"
+     alt="coding"
+     width="400"
+     src="https://i2.wp.com/i.giphy.com/media/26tn33aiTi1jkl6H6/giphy-downsized.gif?w=770&ssl=1"/>
 
-- 🔭 I am the founder of **2 Tech Startups**.
+- 🔭 Founder of **2 Tech Startups**.
 
-- 🌱 I am currently learning to **use AI to boost productivity**.
+- 🌱 Currently learning to **use AI to boost productivity**.
 
-- 👯 I am looking to collaborate on **Backend Development Projects**.
+- 👯 Looking to collaborate on **Backend Development Projects**.
 
-- 🤔 I am looking for help with **React & NodeJS App Integration**.
+- 🤔 Looking for help with **React & NodeJS App Integration**.
 
 - 💬 Ask me about **Electronics, Software Engineering & Football, lol**.
 
@@ -40,9 +46,22 @@ My Mission:</br>
 - ⚡ Visit : https://www.kalkyokya.tech/ .
 
 <h3 align="left">Connect with me:</h3>
-<p>   
-  <a href="https://www.linkedin.com/in/jean-paul-kyokya-b21892223/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.instagram.com/kal_kyokya/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<p>
+	<a href="https://medium.com/@kal-kyokya"
+	   target="_blank">
+	   <img alt="Twitter"
+	   	src="https://img.shields.io/badge/Medium-black?logo=medium&logoColor=white"/>
+	</a>
+	<a href="https://www.linkedin.com/in/jean-paul-kyokya-b21892223/"
+	target="_blank">
+	<img alt="LinkedIn"
+	     src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"/>
+	</a>
+	<a href="https://www.instagram.com/kal_kyokya/"
+	target="_blank">
+	<img alt="Instagram"
+	src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/>
+	</a>
 </p>
 
 <h3 align="left">Languages & Tools:</h3>
