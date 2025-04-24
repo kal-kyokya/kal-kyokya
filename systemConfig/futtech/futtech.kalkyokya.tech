@@ -1,0 +1,36 @@
+server {
+    listen 443 ssl; # managed by Certbot
+    server_name futtech.kalkyokya.tech www.futtech.kalkyokya.tech;
+    ssl_certificate /etc/letsencrypt/live/kalkyokya.tech-0001/fullchain.pem; # managed by Certbot
+ # Certbot managed
+    ssl_certificate_key /etc/letsencrypt/live/kalkyokya.tech-0001/privkey.pem; # managed by Certbot
+ # Certbot managed
+    include /etc/letsencrypt/options-ssl-nginx.conf; # managed by Certbot
+    ssl_dhparam /etc/letsencrypt/ssl-dhparams.pem; # managed by Certbot
+
+    location / {
+    	     root /var/www/Futtech/frontend/dist;
+	     index index.html index.htm;
+	     proxy_http_version 1.1;
+	     proxy_set_header Upgrade $http_upgrade;
+	     proxy_set_header Connection 'upgrade';
+	     proxy_set_header Host $host;
+	     proxy_cache_bypass $http_upgrade;
+    }
+
+
+}
+
+server {
+    if ($host = www.futtech.kalkyokya.tech) {
+        return 301 https://$host$request_uri;
+    } # managed by Certbot
+
+    if ($host = futtech.kalkyokya.tech) {
+        return 301 https://$host$request_uri;
+    } # managed by Certbot
+
+    listen 80;
+    server_name futtech.kalkyokya.tech www.futtech.kalkyokya.tech;
+    return 404; # managed by Certbot
+}
