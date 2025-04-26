@@ -29,9 +29,9 @@ My Mission:</br>
      width="400"
      src="https://i2.wp.com/i.giphy.com/media/26tn33aiTi1jkl6H6/giphy-downsized.gif?w=770&ssl=1"/>
 
-- 🔭 Founder of **2 Tech Startups**.
+- 🌱 Founder of **2 Tech Startups**.
 
-- 🌱 Currently learning to **use AI to boost productivity**.
+- 🔭 Currently learning to **use AI to boost productivity**.
 
 - :bulb: Seeking to collaborate on **Backend Development Projects**.
 
