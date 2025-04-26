@@ -33,9 +33,9 @@ My Mission:</br>
 
 - 🔭 Currently learning to **use AI to boost productivity**.
 
-- :bulb: Seeking to collaborate on **Backend Development Projects**.
+- :bulb: Seeking to collaborate on **MERN App Development Projects**.
 
-- 📫 Looking for help with **React & NodeJS App Integration**.
+- 📫 Looking for help with **Creation of animation-filled UIs.**.
 
 - 💬 Ask me about **Electronics, Software Engineering & Football, lol**.
 
