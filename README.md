@@ -7,12 +7,12 @@
 My name is Jean-Paul De Marie KYOKYA Kalulu.</br>
 I am from Congo/DRC & resides in Nairobi/Kenya.</br>
 
-In pursuit of a career in <b>Embedded software & systems engineering</b>, with an <b>Electrical & Electronics Engineering</b> background & <b>Software Engineering</b> Certifications; I want to use my skills to create a future you envision & help solve your problems.</br>
+In pursuit of a career in <b>Embedded software & systems engineering</b>—with an <b>Electrical & Electronics Engineering</b> background & <b>Software Engineering</b> Certifications; I want to use my skills to help create a future you envision and solve your problems.</br>
 
 My Mission:</br>
 <p>
 	<em>
-		"To make technology not just accessible, but <i>transformational</i>."
+		"To make technology not just accessible, but transformational."
 	</em>
 </p>
 </h2>
@@ -35,7 +35,7 @@ My Mission:</br>
 
 - :bulb: Seeking to collaborate on **MERN App Development Projects**.
 
-- 📫 Looking for help with **Creation of animation-filled UIs.**.
+- 📫 Looking for help with **Creation of animation-filled UIs**.
 
 - 💬 Ask me about **Electronics, Software Engineering & Football, lol**.
 
