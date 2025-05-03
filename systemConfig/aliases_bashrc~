@@ -94,7 +94,7 @@ alias chmx='chmod u+x'
 
 # Saturday, 3rd May 2025, 10:51 AM
 
-alias gs='./home/jpkk/gitCommit.sh'
+alias acp='./home/jpkk/gitCommit.sh'
 
 # Alias definitions.
 # You may want to put all your additions into a separate file like
