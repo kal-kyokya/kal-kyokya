@@ -31,13 +31,13 @@ My Mission:</br>
 
 - 🌱 Founder of **2 Tech Startups**.
 
-- 🔭 Currently learning to **use AI to boost productivity**.
+- 🔭 Currently learning to **create backend operations efficiency-boosting modules**.
 
 - :bulb: Seeking to collaborate on **MERN App Development Projects**.
 
-- 📫 Looking for help with **Creation of animation-filled UIs**.
+- 📫 Looking for help with **Web App to Mobile Responsive Web Design transition**.
 
-- 💬 Ask me about **Electronics, Software Engineering & Football, lol**.
+- 💬 Ask me about **Electronics, Software Engineering & Football**.
 
 - 😌 Fun fact: **I am funny** :trollface: .
 

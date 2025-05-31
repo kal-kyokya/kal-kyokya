@@ -93,6 +93,7 @@ alias nl='npm run lint'
 alias chmx='chmod u+x'
 
 # Saturday, 3rd May 2025, 10:51 AM
+# Failed: Copied script to root directory '/' instead
 
 alias gs='./home/jpkk/gitCommit.sh'
 
