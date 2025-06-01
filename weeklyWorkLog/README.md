@@ -7,7 +7,7 @@ Created: {{ 2025-05-31 }}
 # **Jean-Paul KYOKYA — Weekly Work Log**  
 **Start Date:** Saturday, May 31, 2025<br />
 **Location:** Nairobi, Kenya<br />
-**Title:** Software Engineering Student at [USIU](https://www.usiu.ac.ke) | Embedded Systems Aspirant | Tech Founder (Futtech & Everything-IoT) | Upwork Freelancer<br />
+**Title:** Software Engineering Student at [USIU](https://www.usiu.ac.ke) | Embedded Systems Aspirant | Tech Founder (Futtech & Everything-IoT) | [ALX](https://www.alxafrica.com) Graduate<br />
 **Mission:** Build impactful tech products at the intersection of software, hardware, and football development in Africa.
 
 ---
