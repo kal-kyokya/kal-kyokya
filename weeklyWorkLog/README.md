@@ -26,27 +26,35 @@ Created: {{ 2025-05-31 }}
 
 ### ✅ **What I Worked On**
 - **Projects**
+  - **Python Django App** — Initialized the environment variable and directory structure for future Django development.
   - **Python Decorators** — An interesting way of manipulating existing Python structures.
-  - **Context Managers & Asynchronous Programming** — Understanding the inner workings of both programming paradigm and see what gain awareness of what is abstracted away by everyday libraries.
+  - **Python Context Managers & Asynchronous Programming** — Understood the inner workings of both programming paradigm and see what gain awareness of what is abstracted away by everyday libraries.
 - **Learning & Growth**
-  - ```"A corrupt heart elicits in an hour all that is bad in us;"``` - In search for the spelling of ```'elicit'```, I came across [this article](https://biblehub.com/sermons/auth/robertson/the_power_of_purity.htm), meditated on the text and was left feeling deeply grateful for the serendipituous google search.
+  - ```"A corrupt heart elicits in an hour all that is bad in us;"``` - In search for the spelling of ```'elicit'```, I came across [this article](https://biblehub.com/sermons/auth/robertson/the_power_of_purity.htm), meditated on the text and was left feeling deeply grateful for the serendipitous google search.
+  - Read the [documentation](https://django-environ.readthedocs.io/en/latest/) for ```django-environ``` and a [Quick Start](https://django-environ.readthedocs.io/en/latest/quickstart.html) manual to learn how to configure the Django 'ALX Travel App' with environment variables.
+  - Spent over an hour watching Youtube videos explaining what the ```'settings.py'``` file does for any Django Application.
+  - Refreshed my memory on the usage and syntax of ```Try-Except-Else-Finally``` blocks in Python through [this article](https://www.w3schools.com/python/python_try_except.asp).
+  - After having learned that ```SQL Cursor objects``` allow to process table records one at a time, I was curious to investigate further and used [this article](https://www.geeksforgeeks.org/what-is-cursor-in-sql/) here.
+  - To better understand how to manipulate a MySQL Database using Python, I referred to the ```mysql-connector-python``` documentation [here](https://dev.mysql.com/doc/connector-python/en/) as well as as its [usage](https://pypi.org/project/mysql-connector-python/) before practicing.
+  - Stacking up decorators and passing arguments to them turned out to be less intuitive than I thought it would, I improved my intuition through read of [this article](https://www.geeksforgeeks.org/decorators-with-parameters-in-python/) on Decorators with parameters.
+  - I was recommended [this blog post](https://www.saiyangrowthletter.com/p/habits-i-recommend-to-succeed-as?utm_source=substack&utm_medium=web&utm_content=embedded-post&triedRedirect=true) listing out habits likely to help developers succeed and found myself already executing 70% of what was advised.
 - **Freelancing (Upwork)**
   - No Jobs applied - No milestones delivered
-```
 
-### 🏆 <b>Wins & Achievements</b>
-- {{ Small or big victory #1 }}
-- {{ Victory #2 }}
+### 🏆 <b>3 Wins and/or Achievements</b>
+- I picked up this Weekly Work Blog habit and acted on it right away.
+- I completed a week's worth of task in my ALX Backend Web ProDev program.
+- My Engineering work proved itself to be in alignment with my values, beliefs and worldview.
 
-### 🔥 <b>Fails & Lessons Learned</b>
-- <b>Failure:</b> {{ What went wrong }}  
-  <b>Lesson:</b> {{ What I’ll do differently }}
-- <b>Failure:</b> {{ … }}  
-  <b>Lesson:</b> {{ … }}
+### 🔥 <b>3 Fails & Lessons Learned</b>
+- <b>Failure:</b> I didn't work for more than an hour on making Futtech Mobile-friendly.
+  <b>Lesson:</b> Unless I am intentional and allocate a specific time slot every evening, I will not use my time ti work on it. (This coming week, 30 minutes everyday at 11PM)
+- <b>Failure:</b> I am late by a week in the ALX Backend Web ProDev program.
+  <b>Lesson:</b> My willingness to fall behind due to my desire to take in-depth looks at programming concepts frees me from guilt, but I need to be aware that in the workplace deadlines are to be respected. I need to balanced being too relaxed and letting demands rush me.
 
 ### 🌟 <b>Highlights of the Week</b>
-- {{ Memorable moment / breakthrough / proud event }}
-- {{ Quote, inspiration, or personal reflection (optional) }}
+- ```Memorable moment / breakthrough / proud event```: Through Python Decorators and Context Managers, realizing that, over the years, programming is attempting to abstract away as many steps as possible in the development of software solutions. Almost as if the new technology says: 'Focus more on ideations than implementation'.
+- ```Quote, inspiration, or personal reflection```: 'Ignorance and willful blindness' - Jordan B. Peterson on the things that make people miss the target in life.
 
 ---
 
