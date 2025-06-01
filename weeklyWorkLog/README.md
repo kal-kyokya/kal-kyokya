@@ -4,11 +4,11 @@ Repository: kal-kyokya
 Created: {{ 2025-05-31 }}
 -->
 
-# **Jean-Paul KYOKYA — Weekly Work Log**  
-**Start Date:** Saturday, May 31, 2025<br />
-**Location:** Nairobi, Kenya<br />
-**Title:** Software Engineering Student at [USIU](https://www.usiu.ac.ke) | Tech Founder ([Futtech](https://www.futtech.kalkyokya.tech) & Everything-IoT) | [ALX](https://www.alxafrica.com) Graduate | Embedded Systems Aspirant<br />
-**Mission:** Build impactful tech products at the intersection of software, hardware, and football development in Africa.
+# <Jean-Paul KYOKYA — Weekly Work Log
+<b>Start Date:</b> Saturday, May 31, 2025<br />
+<b>Location:</b> Nairobi, Kenya<br />
+<b>Title:</b> Software Engineering Student at [USIU](https://www.usiu.ac.ke) | Tech Founder ([Futtech](https://www.futtech.kalkyokya.tech) & Everything-IoT) | [ALX](https://www.alxafrica.com) Graduate | Embedded Systems Aspirant<br />
+<b>Mission:</b> Build impactful tech products at the intersection of software, hardware, and football development in Africa.
 
 ---
 
@@ -42,30 +42,30 @@ Created: {{ 2025-05-31 }}
 * No Jobs applied - No milestones delivered
 ```
 
-### 🏆 **Wins & Achievements**
+### 🏆 <b>Wins & Achievements</b>
 - {{ Small or big victory #1 }}
 - {{ Victory #2 }}
 
-### 🔥 **Fails & Lessons Learned**
-- **Failure:** {{ What went wrong }}  
-  **Lesson:** {{ What I’ll do differently }}
-- **Failure:** {{ … }}  
-  **Lesson:** {{ … }}
+### 🔥 <b>Fails & Lessons Learned</b>
+- <b>Failure:</b> {{ What went wrong }}  
+  <b>Lesson:</b> {{ What I’ll do differently }}
+- <b>Failure:</b> {{ … }}  
+  <b>Lesson:</b> {{ … }}
 
-### 🌟 **Highlights of the Week**
+### 🌟 <b>Highlights of the Week</b>
 - {{ Memorable moment / breakthrough / proud event }}
 - {{ Quote, inspiration, or personal reflection (optional) }}
 
 ---
 
-## 📅 **Coming Up Next Week**
+## 📅 <b>Coming Up Next Week</b>
 - [ ] {{ Goal or task #1 }}
 - [ ] {{ Goal or task #2 }}
 - [ ] {{ Goal or task #3 }}
 
 ---
 
-## 📈 **Meta**
+## 📈 <b>Meta</b>
 | Metric | This Week |
 | ------ | --------- |
 | GitHub Commits | {{ n }} |
