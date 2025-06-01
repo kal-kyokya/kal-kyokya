@@ -26,12 +26,12 @@ Created: {{ 2025-05-31 }}
 
 ### ✅ **What I Worked On**
 - **Projects**
-  - Python Decorators — An interesting way of manipulating existing Python structures.
-  - Context Managers & Asynchronous Programming — Understanding the inner workings of both programming paradigm and see what gain awareness of what is abstracted away by everyday libraries.
+  - **Python Decorators** — An interesting way of manipulating existing Python structures.
+  - **Context Managers & Asynchronous Programming** — Understanding the inner workings of both programming paradigm and see what gain awareness of what is abstracted away by everyday libraries.
 - **Learning & Growth**
-  - {{ Course / article / deep-dive topic }}
+  - *"A corrupt heart elicits in an hour all that is bad in us;"* - In search for the spelling of *'elicit'*, I came across [this article](https://biblehub.com/sermons/auth/robertson/the_power_of_purity.htm), meditated on the text and was left feeling deeply grateful for the serendipituous google search.
 - **Freelancing (Upwork)**
-  - {{ Jobs applied / milestones delivered }}
+  - No Jobs applied - No milestones delivered
 
 ### 🏆 **Wins & Achievements**
 - {{ Small or big victory #1 }}
