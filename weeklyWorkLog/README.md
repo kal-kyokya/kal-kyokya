@@ -30,14 +30,14 @@ Created: {{ 2025-05-31 }}
   - **Python Decorators** — An interesting way of manipulating existing Python structures.
   - **Python Context Managers & Asynchronous Programming** — Understood the inner workings of both programming paradigm and see what gain awareness of what is abstracted away by everyday libraries.
 - **Learning & Growth**
-  - ```"A corrupt heart elicits in an hour all that is bad in us;"``` - In search for the spelling of ```'elicit'```, I came across [this article](https://biblehub.com/sermons/auth/robertson/the_power_of_purity.htm), meditated on the text and was left feeling deeply grateful for the serendipitous google search.
+  - ```"A corrupt heart elicits in an hour all that is bad in us;"``` - In search for the spelling of ```'elicit'```, I came across this [article](https://biblehub.com/sermons/auth/robertson/the_power_of_purity.htm), meditated on the text and was left feeling deeply grateful for the serendipitous google search.
   - Read the [documentation](https://django-environ.readthedocs.io/en/latest/) for ```django-environ``` and a [Quick Start](https://django-environ.readthedocs.io/en/latest/quickstart.html) manual to learn how to configure the Django 'ALX Travel App' with environment variables.
   - Spent over an hour watching Youtube videos explaining what the ```'settings.py'``` file does for any Django Application.
-  - Refreshed my memory on the usage and syntax of ```Try-Except-Else-Finally``` blocks in Python through [this article](https://www.w3schools.com/python/python_try_except.asp).
-  - After having learned that ```SQL Cursor objects``` allow to process table records one at a time, I was curious to investigate further and used [this article](https://www.geeksforgeeks.org/what-is-cursor-in-sql/) here.
+  - Refreshed my memory on the usage and syntax of ```Try-Except-Else-Finally``` blocks in Python through this [article](https://www.w3schools.com/python/python_try_except.asp).
+  - After having learned that ```SQL Cursor objects``` allow to process table records one at a time, I was curious to investigate further and this used [article](https://www.geeksforgeeks.org/what-is-cursor-in-sql/) here.
   - To better understand how to manipulate a MySQL Database using Python, I referred to the ```mysql-connector-python``` documentation [here](https://dev.mysql.com/doc/connector-python/en/) as well as as its [usage](https://pypi.org/project/mysql-connector-python/) before practicing.
-  - Stacking up decorators and passing arguments to them turned out to be less intuitive than I thought it would, I improved my intuition through read of [this article](https://www.geeksforgeeks.org/decorators-with-parameters-in-python/) on Decorators with parameters.
-  - I was recommended [this blog post](https://www.saiyangrowthletter.com/p/habits-i-recommend-to-succeed-as?utm_source=substack&utm_medium=web&utm_content=embedded-post&triedRedirect=true) listing out habits likely to help developers succeed and found myself already executing 70% of what was advised.
+  - ```Passing arguments to decorators``` turned out to be less intuitive than I thought it would, I improved my intuition through read of this [article](https://www.geeksforgeeks.org/decorators-with-parameters-in-python/) on Decorators with parameters.
+  - I was recommended this [blog](https://www.saiyangrowthletter.com/p/habits-i-recommend-to-succeed-as?utm_source=substack&utm_medium=web&utm_content=embedded-post&triedRedirect=true) post listing out ```habits likely to help developers succeed``` and found myself already executing 70% of what was advised.
 - **Freelancing (Upwork)**
   - No Jobs applied - No milestones delivered
 
