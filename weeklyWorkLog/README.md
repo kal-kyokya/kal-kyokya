@@ -26,8 +26,8 @@ Created: {{ 2025-05-31 }}
 
 ### ✅ **What I Worked On**
 - **Projects**
-  - {{ Project 1 — key commit / ticket summary }}
-  - {{ Project 2 — key commit / ticket summary }}
+  - Python Decorators — An interesting way of manipulating existing Python structures.
+  - Context Managers & Asynchronous Programming — Understanding the inner workings of both programming paradigm and see what gain awareness of what is abstracted away by everyday libraries.
 - **Learning & Growth**
   - {{ Course / article / deep-dive topic }}
 - **Freelancing (Upwork)**
