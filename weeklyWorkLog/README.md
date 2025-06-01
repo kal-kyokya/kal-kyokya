@@ -2,22 +2,22 @@
 
 **Start Date:** Saturday, May 31, 2025<br />
 **Location:** Nairobi, Kenya<br />
-**Title:** Software Engineering Student @[USIU](https://www.usiu.ac.ke) | Embedded Systems Aspirant | Tech Founder (Futtech & Everything-IoT) | Upwork Freelancer<br />
+**Title:** Software Engineering Student at [USIU](https://www.usiu.ac.ke) | Embedded Systems Aspirant | Tech Founder (Futtech & Everything-IoT) | Upwork Freelancer<br />
 **Mission:** Build impactful tech products at the intersection of software, hardware, and football development in Africa.
 
 ---
 
-🗓️ What tis Included (Every Week!)
+## 🗓️ What ts Included (Weekly
 
-🔹 What did I work on?
-🔹 Bugs I have solved
-🔹 What did I achieve?
-🔹 What didn’t go well — and what did I learn?
+🔹 What did I work on?<br />
+🔹 Bugs I have solved<br />
+🔹 What did I achieve?<br />
+🔹 What didn’t go well — and what did I learn?<br />
 🔹 Any standout moments or breakthroughs?
 
 ---
 
-## 🗓️ Week \0 — Sunday, 1st June 2025
+## 🗓️ Week \ — Sunday, 1st June 2025
 
 ### ✅ **What I Worked On**
 
