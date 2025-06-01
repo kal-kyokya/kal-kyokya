@@ -1,26 +1,28 @@
 <!--
 Jean-Paul KYOKYA — Weekly Work Log (Brag List)
-Repository: {{ repo-name }}
+Repository: kal-kyokya
 Created: {{ 2025-05-31 }}
 -->
 
 # **Jean-Paul KYOKYA — Weekly Work Log**  
-**Role:** Software Engineering Student @ USIU · Embedded-Systems Aspirant · Tech Founder (Futtech & Everything-IoT) · Upwork Freelancer  
+**Start Date:** Saturday, May 31, 2025<br />
+**Location:** Nairobi, Kenya<br />
+**Title:** Software Engineering Student at [USIU](https://www.usiu.ac.ke) | Embedded Systems Aspirant | Tech Founder (Futtech & Everything-IoT) | Upwork Freelancer<br />
 **Mission:** Build impactful tech products at the intersection of software, hardware, and football development in Africa.
 
 ---
 
-## What is included weekly
+## What Is Included Weekly
 
 🔹 What did I work on?<br />
-🔹 Bugs I have solved<br />
+🔹 Bugs I have solved.<br />
 🔹 What did I achieve?<br />
 🔹 What didn’t go well — and what did I learn?<br />
 🔹 Any standout moments or breakthroughs?
 
 ---
 
-## 🗓️ **Week {{ WEEK_NUMBER }} — {{ DATE_RANGE }}**
+## Week 0 — Sunday, 1st June 2025
 
 ### ✅ **What I Worked On**
 - **Projects**
