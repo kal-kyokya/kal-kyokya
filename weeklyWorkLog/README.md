@@ -25,13 +25,22 @@ Created: {{ 2025-05-31 }}
 ## Week 0 — Sunday, 1st June 2025
 
 ### ✅ **What I Worked On**
-- **Projects**
-  - **Python Decorators** — An interesting way of manipulating existing Python structures.
-  - **Context Managers & Asynchronous Programming** — Understanding the inner workings of both programming paradigm and see what gain awareness of what is abstracted away by everyday libraries.
-- **Learning & Growth**
-  - *"A corrupt heart elicits in an hour all that is bad in us;"* - In search for the spelling of *'elicit'*, I came across [this article](https://biblehub.com/sermons/auth/robertson/the_power_of_purity.htm), meditated on the text and was left feeling deeply grateful for the serendipituous google search.
-- **Freelancing (Upwork)**
-  - No Jobs applied - No milestones delivered
+
+#### **Projects**
+```
+- **Python Decorators** — An interesting way of manipulating existing Python structures.
+- **Context Managers & Asynchronous Programming** — Understanding the inner workings of both programming paradigm and see what gain awareness of what is abstracted away by everyday libraries.
+```
+
+#### **Learning & Growth**
+```
+- *"A corrupt heart elicits in an hour all that is bad in us;"* - In search for the spelling of *'elicit'*, I came across [this article](https://biblehub.com/sermons/auth/robertson/the_power_of_purity.htm), meditated on the text and was left feeling deeply grateful for the serendipituous google search.
+```
+
+#### **Freelancing (Upwork)**
+```
+- No Jobs applied - No milestones delivered
+```
 
 ### 🏆 **Wins & Achievements**
 - {{ Small or big victory #1 }}
