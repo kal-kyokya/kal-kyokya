@@ -61,7 +61,7 @@ Created: {{ 2025-05-31 }}
 ## 📅 <b>Coming Up Next Week</b> - 2nd to 8th June 2025
 - [ ] Spend 30 minutes making Futtech Mobile-friendly - 11 to 11:30PM
 - [ ] Complete slightly more than a week's worth of ALX ProDev tasks.
-- [ ] Apply to 3 jobs on Upwork
+- [ ] Apply for 3 jobs on Upwork
 
 ---
 
