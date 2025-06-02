@@ -42,40 +42,40 @@ Created: {{ 2025-05-31 }}
   - No Jobs applied - No milestones delivered
 
 ### 🏆 <b>3 Wins and/or Achievements</b>
-- I picked up this Weekly Work Blog habit and acted on it right away.
-- I completed a week's worth of task in my ALX Backend Web ProDev program.
-- My Engineering work proved itself to be in alignment with my values, beliefs and worldview.
+- I picked up this ```Weekly work log habit``` and acted on it right away.
+- I completed a week's worth of tasks for the ```ALX Backend Web ProDev program```.
+- My Engineering work proved itself to be in ```alignment``` with my values, beliefs and worldview.
 
 ### 🔥 <b>3 Fails & Lessons Learned</b>
-- <b>Failure:</b> I didn't work for more than an hour on making Futtech Mobile-friendly.
-  <b>Lesson:</b> Unless I am intentional and allocate a specific time slot every evening, I will not use my time ti work on it. (This coming week, 30 minutes everyday at 11PM)
-- <b>Failure:</b> I am late by a week in the ALX Backend Web ProDev program.
-  <b>Lesson:</b> My willingness to fall behind due to my desire to take in-depth looks at programming concepts frees me from guilt, but I need to be aware that in the workplace deadlines are to be respected. I need to balanced being too relaxed and letting demands rush me.
+- <b>Failure:</b> I didn't work for more than an hour on ```making Futtech Mobile-friendly```.
+  <b>Lesson:</b> Unless I am ```intentional``` and ```allocate a specific time slot``` every evening, I will not use my time ti work on it. (This coming week, 30 minutes everyday at 11PM)
+- <b>Failure:</b> I am ```behind schedule``` by a week in the ALX Backend Web ProDev program.
+  <b>Lesson:</b> My desire to take in-depth looks at programming concepts - at the expense of meeting deadlines - needs to be managed appropriately. In the workplace deadlines are to be respected. I need to ```balance``` being too relaxed and letting demands rush me.
 
 ### 🌟 <b>Highlights of the Week</b>
-- ```Memorable moment / breakthrough / proud event```: Through Python Decorators and Context Managers, realizing that, over the years, programming is attempting to abstract away as many steps as possible in the development of software solutions. Almost as if the new technology says: 'Focus more on ideations than implementation'.
-- ```Quote, inspiration, or personal reflection```: 'Ignorance and willful blindness' - Jordan B. Peterson on the things that make people miss the target in life.
+- <b>Memorable moment / breakthrough / proud event</b>: Through Python Decorators and Context Managers, realizing that, over the years, programming is attempting to ```abstract away``` as many steps as possible in the development of software solutions. Almost as if the new technology says: 'Focus more on ideations than implementation'.
+- <b>Quote, inspiration, or personal reflection</b>: ```'Ignorance and willful blindness'``` - Jordan B. Peterson on the things that make people miss the target in life.
 
 ---
 
-## 📅 <b>Coming Up Next Week</b>
-- [ ] {{ Goal or task #1 }}
-- [ ] {{ Goal or task #2 }}
-- [ ] {{ Goal or task #3 }}
+## 📅 <b>Coming Up Next Week</b> - 2nd to 8th June 2025
+- [ ] Spend 30 minutes making Futtech Mobile-friendly - 11 to 11:30PM
+- [ ] Complete slightly more than a week's worth of ALX ProDev tasks.
+- [ ] Apply to 3 jobs on Upwork
 
 ---
 
 ## 📈 <b>Meta</b>
 | Metric | This Week |
 | ------ | --------- |
-| GitHub Commits | {{ n }} |
-| Study Hours | {{ n }} |
-| Sleep Avg (hrs) | {{ n }} |
-| Training Sessions (Football) | {{ n }} |
-| Total Coding Time (hrs) | {{ n }} |
+| GitHub Commits | 73 |
+| Study Hours | 50 |
+| Sleep Avg (hrs) | 7 |
+| Training Sessions (Football) | 3 |
+| Total Coding Time (hrs) | 24 |
 
 ---
 
 > _“The man who moves a mountain begins by carrying away small stones.” — Confucius_
 
-<!-- Update log every Saturday. Keep pushing! -->
+<!-- Let's update the log every Sunday. Let's Go! -->
