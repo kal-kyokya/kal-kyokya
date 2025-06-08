@@ -80,7 +80,7 @@ The symbolism in 'One Piece' with the Paternal Spirit and Father-Son relationshi
 
 ---
 
-> _“The man who moves a mountain begins by carrying away small stones.” — Confucius_
+> _“To get what you want, you must derserve what you want. The world is not yet a crazy enough place to reward a whole bunch of underserving people.” — Charles T. Munger_
 
 <!-- Let's update the log every Sunday. Let's Go! -->
 
