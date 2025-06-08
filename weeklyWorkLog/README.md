@@ -15,7 +15,7 @@ Created: {{ 2025-05-31 }}
 ## What Is Included Weekly
 
 🔹 What was worked on.<br />
-🔹 Bugs encounterd and resolution.<br />
+🔹 Bugs encountered and resolution.<br />
 🔹 What was achieved.<br />
 🔹 What didn’t go well — and what was learned.<br />
 🔹 Any standout moments or breakthroughs.
@@ -39,7 +39,8 @@ Created: {{ 2025-05-31 }}
   - Finally learned how to type the Em and En Dashes on windows computers through this [article](https://zapier.com/blog/em-dash-on-keyboard/).
   - Familiarized myself with The Pareto Principle ([Investopedia](https://www.investopedia.com/terms/p/paretoprinciple.asp), [Wikipedia](https://en.wikipedia.org/wiki/Pareto_principle)) and [Price's Law](https://miro.medium.com/v2/resize:fit:1400/1*SffnOBvk4RdXgaAZk_QeiA.png) definitions and graphic representation and and was impressed with the relevance of these law and principle.
 - **Freelancing (Upwork)**
-  - No Jobs applied - No milestones delivered
+  - Applied for a Virtual Assistant job mentioning and linking [My personal website](https://www.kalkyokya.tech/).
+  - Applied for a 'Web and mobile developer' job at a company claiming to actively use AI to create websites and applications.
 
 ### 🏆 <b>3 Wins and/or Achievements</b>
 - I picked up this ```Weekly work log habit``` and acted on it right away.
