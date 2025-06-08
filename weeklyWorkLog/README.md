@@ -48,10 +48,12 @@ Created: {{ 2025-05-31 }}
 - Maintained my foundational routines despite the trip to anf from USIU.
 
 ### 🔥 <b>3 Fails & Lessons Learned</b>
-- <b>Failure:</b> I didn't work for more than an hour on ```making Futtech Mobile-friendly```.<br />
-  <b>Lesson:</b> Unless I am ```intentional``` and ```allocate a specific time slot``` every evening, I will not use my time ti work on it. (This coming week, 30 minutes everyday at 11PM)
-- <b>Failure:</b> I am ```behind schedule``` by a week in the ALX Backend Web ProDev program.<br />
-  <b>Lesson:</b> My desire to take in-depth looks at programming concepts - at the expense of meeting deadlines - needs to be managed appropriately. In the workplace deadlines are to be respected. I need to ```balance``` being too relaxed and letting demands rush me.
+- <b>Failure:</b> My lung capacity had me struggling during sprinting drills we had in Tuesday's football training session.<br />
+  <b>Lesson:</b> I need to engage in High Intensity Interval Training on a weekly basis and see how better my stamina gets.
+- <b>Failure:</b> I reacted and responded to a disagreement that emerged during Rondo.<br />
+  <b>Lesson:</b> Keeping a stoic expression is not about 'not feeling' emotions, it is about noticing the emotions, accepting it but remember that we have taken an oath to 'at all times stay on the straight path, free from fleeting emotions'. Be the same person, no matter what.
+- <b>Failure:</b> I didn't apply for 3 jobs.<br />
+  <b>Lesson:</b> I avoided the area of my mind where a discussion on my job applications would had been raised. I dismissed it thinking 'my budget doesn't allow'. I need to budget my job applications.
 
 ### 🌟 <b>Highlights of the Week</b>
 - <b>Memorable moment / breakthrough / proud event</b>: Through Python Decorators and Context Managers, realizing that, over the years, programming is attempting to ```abstract away``` as many steps as possible in the development of software solutions. Almost as if the new technology says: 'Focus more on ideations than implementation'.
@@ -108,12 +110,10 @@ Created: {{ 2025-05-31 }}
 - My Engineering work proved itself to be in ```alignment``` with my values, beliefs and worldview.
 
 ### 🔥 <b>3 Fails & Lessons Learned</b>
-- <b>Failure:</b> My lung capacity had me struggling during sprinting drills we had in Tuesday's football training session.<br />
-  <b>Lesson:</b> I need to engage in High Intensity Interval Training on a weekly basis and see how better my stamina gets.
-- <b>Failure:</b> I reacted and responded to a disagreement that emerged during Rondo.<br />
-  <b>Lesson:</b> Keeping a stoic expression is not about 'not feeling' emotions, it is about noticing the emotions, accepting it but remember that we have taken an oath to 'at all times stay on the straight path, free from fleeting emotions'. Be the same person, no matter what.
-- <b>Failure:</b> I didn't apply for 3 jobs.<br />
-  <b>Lesson:</b> I avoided the area of my mind where a discussion on my job applications would had been raised. I dismissed it thinking 'my budget doesn't allow'. I need to budget my job applications.
+- <b>Failure:</b> I didn't work for more than an hour on ```making Futtech Mobile-friendly```.<br />
+  <b>Lesson:</b> Unless I am ```intentional``` and ```allocate a specific time slot``` every evening, I will not use my time ti work on it. (This coming week, 30 minutes everyday at 11PM)
+- <b>Failure:</b> I am ```behind schedule``` by a week in the ALX Backend Web ProDev program.<br />
+  <b>Lesson:</b> My desire to take in-depth looks at programming concepts - at the expense of meeting deadlines - needs to be managed appropriately. In the workplace deadlines are to be respected. I need to ```balance``` being too relaxed and letting demands rush me.
 
 ### 🌟 <b>Highlights of the Week</b>
 - <b>Memorable moment / breakthrough / proud event</b>: Through Python Decorators and Context Managers, realizing that, over the years, programming is attempting to ```abstract away``` as many steps as possible in the development of software solutions. Almost as if the new technology says: 'Focus more on ideations than implementation'.
