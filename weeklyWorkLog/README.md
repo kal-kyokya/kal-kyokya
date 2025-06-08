@@ -56,8 +56,8 @@ Created: {{ 2025-05-31 }}
   <b>Lesson:</b> I avoided the area of my mind where a discussion on my job applications would had been raised. I dismissed it thinking 'my budget doesn't allow'. I need to budget my job applications.
 
 ### 🌟 <b>Highlights of the Week</b>
-- <b>Memorable moment / breakthrough / proud event</b>: Through Python Decorators and Context Managers, realizing that, over the years, programming is attempting to ```abstract away``` as many steps as possible in the development of software solutions. Almost as if the new technology says: 'Focus more on ideations than implementation'.
-- <b>Quote, inspiration, or personal reflection</b>: ```'Ignorance and willful blindness'``` - Jordan B. Peterson on the things that make people miss the target in life.
+- <b>Memorable moment / breakthrough / proud event</b>: The ball roll 'Tshobo' I got me during training and the one touch overhead 'kanzu' I executed during training. Moments like those are the reason why I believe in my ability to be a better footballer provided I work at it longer.
+- <b>Quote, inspiration, or personal reflection</b>: ```'Anime'```<br /> - The symbolism in 'One Piece' with the Paternal Spirit and Father-Son relationships, the Spirit of Absolute Truth and Ego manipulating abilities revealing the 'Self' of those who come in touch with him that Ayanokoji represents in 'Classroom of the Elite', the potential representation of the constitution of the individual and collective Psyche in 'The Rise of the Shield Hero'. I'm loving the stories, metanarratives I can extract from Anime.
 
 ---
 
@@ -117,7 +117,7 @@ Created: {{ 2025-05-31 }}
 
 ### 🌟 <b>Highlights of the Week</b>
 - <b>Memorable moment / breakthrough / proud event</b>: Through Python Decorators and Context Managers, realizing that, over the years, programming is attempting to ```abstract away``` as many steps as possible in the development of software solutions. Almost as if the new technology says: 'Focus more on ideations than implementation'.
-- <b>Quote, inspiration, or personal reflection</b>: ```'Ignorance and willful blindness'``` - Jordan B. Peterson on the things that make people miss the target in life.
+- <b>Quote, inspiration, or personal reflection</b>: ```'Ignorance and willful blindness'```<br /> - Jordan B. Peterson on the things that make people miss the target in life.
 
 ---
 
