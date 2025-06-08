@@ -17,7 +17,7 @@ Created: {{ 2025-05-31 }}
 🔹 What I worked on.<br />
 🔹 Bugs I have solved.<br />
 🔹 What I achieved.<br />
-🔹 What didn’t go well — and what did I learn.<br />
+🔹 What didn’t go well — and what I learned.<br />
 🔹 Any standout moments or breakthroughs.
 
 ---
@@ -32,12 +32,12 @@ Created: {{ 2025-05-31 }}
 - **Learning & Growth**
   - Came across a geeksforgeeks [article](https://www.geeksforgeeks.org/python-property-function/) on the built-in ```Python property() function``` and gained a new way of looking at Python classes and access to their attributes.
   - To better create Python Unit Tests I read the [documentation](https://docs.python.org/3/library/unittest.mock.html) of ```unittest.mock``` and the [package description](https://pypi.org/project/parameterized/) of ```parameterized``` which gave me a taste for reading the documentation over getting overviews from AI models such as ChatGPT.
-  - To better understand the work I was doing on making Futtech's Web design responsive, I read documentation/article by 'developer.mozilla', [here](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Values_and_units), & 'w3schools', [here](https://www.w3schools.com/cssref/css_units.php),  on ```CSS values and Units```. After which my view on what 16px represents has changed forever.
-  - Refreshed my memory on the usage and syntax of ```Try-Except-Else-Finally``` blocks in Python through this [article](https://www.w3schools.com/python/python_try_except.asp).
-  - After having learned that ```SQL Cursor objects``` allow to process table records one at a time, I was curious to investigate further and this used [article](https://www.geeksforgeeks.org/what-is-cursor-in-sql/) here.
-  - To better understand how to manipulate a MySQL Database using Python, I referred to the ```mysql-connector-python``` documentation [here](https://dev.mysql.com/doc/connector-python/en/) as well as as its [usage](https://pypi.org/project/mysql-connector-python/) before practicing.
-  - ```Passing arguments to decorators``` turned out to be less intuitive than I thought it would, I improved my intuition through read of this [article](https://www.geeksforgeeks.org/decorators-with-parameters-in-python/) on Decorators with parameters.
-  - I was recommended this [blog](https://www.saiyangrowthletter.com/p/habits-i-recommend-to-succeed-as?utm_source=substack&utm_medium=web&utm_content=embedded-post&triedRedirect=true) post listing out ```habits likely to help developers succeed``` and found myself already executing 70% of what was advised.
+  - To better understand the work I was doing with making Futtech's Web design responsive, I read documentations by [developer.mozilla](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Values_and_units) and [w3schools](https://www.w3schools.com/cssref/css_units.php),  on ```CSS values and Units```. After which my view on what 16px represents changed forever.
+  - Went throught the entire ```Introduction to the Document Object Model``` by [developer.mozilla](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction) to better conceptualize what the 'document', 'windown', 'console', etc,... objects represent.
+  - Investigated the meaning of Absolute and Relative Truth through this [article](https://www.christianity.com/wiki/christian-life/what-is-the-difference-between-absolute-truth-and-relative-truth.html#google_vignette) here and put the idea of Absolute and Relative CSS Units in perspective.
+  - Was amazed by the pen of a blogger whose description of her worldview felt so relatable I felt deeply grateful for her existence. This [blog](https://amandagoodriddance.substack.com/p/the-epidemic-of-constant-communication) post on ```The Epidemic of Constant Communication``` puts in words a reality I experience.
+  - Finally learned how to type the Em and En Dashes on windows computers through this [article](https://zapier.com/blog/em-dash-on-keyboard/).
+  - Familiarized myself with The Pareto Principle [1](https://www.investopedia.com/terms/p/paretoprinciple.asp) [2](https://en.wikipedia.org/wiki/Pareto_principle) and [Price's Law](https://miro.medium.com/v2/resize:fit:1400/1*SffnOBvk4RdXgaAZk_QeiA.png) definitions and graphic representation and and was impressed with the relevance of these law and principle.
 - **Freelancing (Upwork)**
   - No Jobs applied - No milestones delivered
 
