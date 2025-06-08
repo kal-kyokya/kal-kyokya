@@ -43,14 +43,14 @@ Created: {{ 2025-05-31 }}
   - Applied for a 'Web and mobile developer' job at a company claiming to actively use AI to create websites and applications.
 
 ### 🏆 <b>3 Wins and/or Achievements</b>
-- I was back to training in USIU with the football team and showed up for 3 of the 4 sessions.
+- I was back to training in USIU with the football team, showed up for 3 of the 4 sessions and had a home-session where I tried Plyometrics exercises that I left me feeling nicely sore.
 - I worked a whole lot more on Futtech than I had done in the previous weeks.
 - Maintained my foundational routines despite the trip to anf from USIU.
 
 ### 🔥 <b>3 Fails & Lessons Learned</b>
-- <b>Failure:</b> I didn't work for more than an hour on ```making Futtech Mobile-friendly```.
+- <b>Failure:</b> I didn't work for more than an hour on ```making Futtech Mobile-friendly```.<br />
   <b>Lesson:</b> Unless I am ```intentional``` and ```allocate a specific time slot``` every evening, I will not use my time ti work on it. (This coming week, 30 minutes everyday at 11PM)
-- <b>Failure:</b> I am ```behind schedule``` by a week in the ALX Backend Web ProDev program.
+- <b>Failure:</b> I am ```behind schedule``` by a week in the ALX Backend Web ProDev program.<br />
   <b>Lesson:</b> My desire to take in-depth looks at programming concepts - at the expense of meeting deadlines - needs to be managed appropriately. In the workplace deadlines are to be respected. I need to ```balance``` being too relaxed and letting demands rush me.
 
 ### 🌟 <b>Highlights of the Week</b>
