@@ -22,13 +22,13 @@ Created: {{ 2025-05-31 }}
 
 ---
 
-## Week 0 — Sunday, 1st June 2025
+## Week 1 — Sunday, 8th June 2025
 
 ### ✅ **What I Worked On**
 - **Projects**
-  - **Python Django App** — Initialized the environment variable and directory structure for future Django development.
-  - **Python Decorators** — An interesting way of manipulating existing Python structures.
-  - **Python Context Managers & Asynchronous Programming** — Understood the inner workings of both programming paradigm and see what gain awareness of what is abstracted away by everyday libraries.
+  - **Futtech Responsive Web Design** — Refactored Syntactically Awesome CSS (```sass```) scripts to use relative units in place of fixed (absolute) ones.
+  - **Python Unit testing** — Used the builtin ```'unittest'``` module to explore the idea of validating one own's logical structures.
+  - **Django Project Life cycle** — Trained to start a project using ```django-admin``` and running the server after basic configurations.
 - **Learning & Growth**
   - ```"A corrupt heart elicits in an hour all that is bad in us;"``` - In search for the spelling of ```'elicit'```, I came across this [article](https://biblehub.com/sermons/auth/robertson/the_power_of_purity.htm), meditated on the text and was left feeling deeply grateful for the serendipitous google search.
   - Read the [documentation](https://django-environ.readthedocs.io/en/latest/) for ```django-environ``` and a [Quick Start](https://django-environ.readthedocs.io/en/latest/quickstart.html) manual to learn how to configure the Django 'ALX Travel App' with environment variables.
