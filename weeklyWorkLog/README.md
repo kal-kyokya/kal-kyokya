@@ -108,9 +108,9 @@ Created: {{ 2025-05-31 }}
 - My Engineering work proved itself to be in ```alignment``` with my values, beliefs and worldview.
 
 ### 🔥 <b>3 Fails & Lessons Learned</b>
-- <b>Failure:</b> I didn't work for more than an hour on ```making Futtech Mobile-friendly```.
+- <b>Failure:</b> I didn't work for more than an hour on ```making Futtech Mobile-friendly```.<br />
   <b>Lesson:</b> Unless I am ```intentional``` and ```allocate a specific time slot``` every evening, I will not use my time ti work on it. (This coming week, 30 minutes everyday at 11PM)
-- <b>Failure:</b> I am ```behind schedule``` by a week in the ALX Backend Web ProDev program.
+- <b>Failure:</b> I am ```behind schedule``` by a week in the ALX Backend Web ProDev program.<br />
   <b>Lesson:</b> My desire to take in-depth looks at programming concepts - at the expense of meeting deadlines - needs to be managed appropriately. In the workplace deadlines are to be respected. I need to ```balance``` being too relaxed and letting demands rush me.
 
 ### 🌟 <b>Highlights of the Week</b>
