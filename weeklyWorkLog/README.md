@@ -43,9 +43,9 @@ Created: {{ 2025-05-31 }}
   - Applied for a 'Web and mobile developer' job at a company claiming to actively use AI to create websites and applications.
 
 ### 🏆 <b>3 Wins and/or Achievements</b>
-- I picked up this ```Weekly work log habit``` and acted on it right away.
-- I completed a week's worth of tasks for the ```ALX Backend Web ProDev program```.
-- My Engineering work proved itself to be in ```alignment``` with my values, beliefs and worldview.
+- I was back to training in USIU with the football team and showed up for 3 of the 4 sessions.
+- I worked a whole lot more on Futtech than I had done in the previous weeks.
+- Maintained my foundational routines despite the trip to anf from USIU.
 
 ### 🔥 <b>3 Fails & Lessons Learned</b>
 - <b>Failure:</b> I didn't work for more than an hour on ```making Futtech Mobile-friendly```.
