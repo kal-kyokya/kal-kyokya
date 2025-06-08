@@ -57,12 +57,13 @@ Created: {{ 2025-05-31 }}
 
 ### 🌟 <b>Highlights of the Week</b>
 - <b>Memorable moment / breakthrough / proud event</b>: The ball roll 'Tshobo' I got me during training and the one touch overhead 'kanzu' I executed during training. Moments like those are the reason why I believe in my ability to be a better footballer provided I work at it longer.
-- <b>Quote, inspiration, or personal reflection</b>: ```'Anime'```<br /> - The symbolism in 'One Piece' with the Paternal Spirit and Father-Son relationships, the Spirit of Absolute Truth and Ego manipulating abilities revealing the 'Self' of those who come in touch with him that Ayanokoji represents in 'Classroom of the Elite', the potential representation of the constitution of the individual and collective Psyche in 'The Rise of the Shield Hero'. I'm loving the stories, metanarratives I can extract from Anime.
+- <b>Quote, inspiration, or personal reflection</b>: I got my inspiratio from ```Anime```<br />
+The symbolism in 'One Piece' with the Paternal Spirit and Father-Son relationships, the Spirit of Absolute Truth and Ego manipulating abilities revealing the 'Self' of those who come in touch with him that Ayanokoji represents in 'Classroom of the Elite', the potential representation of the constitution of the individual and collective Psyche in 'The Rise of the Shield Hero'. I'm loving the stories, metanarratives I can extract from Anime.
 
 ---
 
-## 📅 <b>Coming Up Next Week</b> - 2nd to 8th June 2025
-- [ ] Spend 30 minutes making Futtech Mobile-friendly - 11 to 11:30PM
+## 📅 <b>Coming Up Next Week</b> - 9th to 15th June 2025
+- [ ] Average an hour per day making Futtech Mobile-friendly
 - [ ] Complete slightly more than a week's worth of ALX ProDev tasks.
 - [ ] Apply for 3 jobs on Upwork
 
@@ -71,11 +72,11 @@ Created: {{ 2025-05-31 }}
 ## 📈 <b>Meta</b>
 | Metric | This Week |
 | ------ | --------- |
-| GitHub Commits | 73 |
-| Study Hours | 50 |
+| GitHub Commits | 59 |
+| Study Hours | 35 |
 | Sleep Avg (hrs) | 7 |
-| Training Sessions (Football) | 3 |
-| Total Coding Time (hrs) | 24 |
+| Training Sessions (Football) | 7 |
+| Total Coding Time (hrs) | 15 |
 
 ---
 
