@@ -27,12 +27,12 @@ Created: {{ 2025-05-31 }}
 ### ✅ **What I Worked On**
 - **Projects**
   - **Futtech Responsive Web Design** — Refactored Syntactically Awesome CSS (```sass```) scripts to use relative units in place of fixed (absolute) ones.
-  - **Python Unit testing** — Used the builtin ```'unittest'``` module to explore the idea of validating one own's logical structures.
+  - **Python Unit testing** — Used the built-in ```'unittest'``` module to explore the idea of validating one own's logical structures.
   - **Django Project Life cycle** — Trained to start a project using ```django-admin``` and running the server after basic configurations.
 - **Learning & Growth**
-  - ```"A corrupt heart elicits in an hour all that is bad in us;"``` - In search for the spelling of ```'elicit'```, I came across this [article](https://biblehub.com/sermons/auth/robertson/the_power_of_purity.htm), meditated on the text and was left feeling deeply grateful for the serendipitous google search.
-  - Read the [documentation](https://django-environ.readthedocs.io/en/latest/) for ```django-environ``` and a [Quick Start](https://django-environ.readthedocs.io/en/latest/quickstart.html) manual to learn how to configure the Django 'ALX Travel App' with environment variables.
-  - Spent over an hour watching Youtube videos explaining what the ```'settings.py'``` file does for any Django Application.
+  - Came across a geeksforgeeks [article](https://www.geeksforgeeks.org/python-property-function/) on the built-in ```Python property() function``` and gained a new way of looking at Python classes and access to their attributes.
+  - To better create Python Unit Tests I read the [documentation](https://docs.python.org/3/library/unittest.mock.html) of ```unittest.mock``` and the [package description](https://pypi.org/project/parameterized/) of ```parameterized``` which gave me a taste for reading the documentation over getting overviews from AI models such as ChatGPT.
+  - To better understand the work I was doing on making Futtech's Web design responsive, I read documentation/article by 'developer.mozilla', [here](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Values_and_units), & 'w3schools', [here](https://www.w3schools.com/cssref/css_units.php),  on ```CSS values and Units```. After which my view on what 16px represents has changed forever.
   - Refreshed my memory on the usage and syntax of ```Try-Except-Else-Finally``` blocks in Python through this [article](https://www.w3schools.com/python/python_try_except.asp).
   - After having learned that ```SQL Cursor objects``` allow to process table records one at a time, I was curious to investigate further and this used [article](https://www.geeksforgeeks.org/what-is-cursor-in-sql/) here.
   - To better understand how to manipulate a MySQL Database using Python, I referred to the ```mysql-connector-python``` documentation [here](https://dev.mysql.com/doc/connector-python/en/) as well as as its [usage](https://pypi.org/project/mysql-connector-python/) before practicing.
