@@ -14,17 +14,17 @@ Created: {{ 2025-05-31 }}
 
 ## What Is Included Weekly
 
-🔹 What I worked on.<br />
-🔹 Bugs I have solved.<br />
-🔹 What I achieved.<br />
-🔹 What didn’t go well — and what I learned.<br />
+🔹 What was worked on.<br />
+🔹 Bugs encounterd and resolution.<br />
+🔹 What was achieved.<br />
+🔹 What didn’t go well — and what was learned.<br />
 🔹 Any standout moments or breakthroughs.
 
 ---
 
 ## Week 1 — Sunday, 8th June 2025
 
-### ✅ **What I Worked On**
+### ✅ **What was Worked On**
 - **Projects**
   - **Futtech Responsive Web Design** — Refactored Syntactically Awesome CSS (```sass```) scripts to use relative units in place of fixed (absolute) ones.
   - **Python Unit testing** — Used the built-in ```'unittest'``` module to explore the idea of validating one own's logical structures.
@@ -37,7 +37,7 @@ Created: {{ 2025-05-31 }}
   - Investigated the meaning of Absolute and Relative Truth through this [article](https://www.christianity.com/wiki/christian-life/what-is-the-difference-between-absolute-truth-and-relative-truth.html#google_vignette) here and put the idea of Absolute and Relative CSS Units in perspective.
   - Was amazed by the pen of a blogger whose description of her worldview felt so relatable I felt deeply grateful for her existence. This [blog](https://amandagoodriddance.substack.com/p/the-epidemic-of-constant-communication) post on ```The Epidemic of Constant Communication``` puts in words a reality I experience.
   - Finally learned how to type the Em and En Dashes on windows computers through this [article](https://zapier.com/blog/em-dash-on-keyboard/).
-  - Familiarized myself with The Pareto Principle [1](https://www.investopedia.com/terms/p/paretoprinciple.asp) [2](https://en.wikipedia.org/wiki/Pareto_principle) and [Price's Law](https://miro.medium.com/v2/resize:fit:1400/1*SffnOBvk4RdXgaAZk_QeiA.png) definitions and graphic representation and and was impressed with the relevance of these law and principle.
+  - Familiarized myself with The Pareto Principle ([Investopedia](https://www.investopedia.com/terms/p/paretoprinciple.asp), [Wikipedia](https://en.wikipedia.org/wiki/Pareto_principle)) and [Price's Law](https://miro.medium.com/v2/resize:fit:1400/1*SffnOBvk4RdXgaAZk_QeiA.png) definitions and graphic representation and and was impressed with the relevance of these law and principle.
 - **Freelancing (Upwork)**
   - No Jobs applied - No milestones delivered
 
