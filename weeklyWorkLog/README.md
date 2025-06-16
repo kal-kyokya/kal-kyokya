@@ -63,20 +63,20 @@ Created: {{ 2025-05-31 }}
 
 ---
 
-## 📅 <b>Coming Up Next Week</b> - 9th to 15th June 2025
+## 📅 <b>Coming Up Next Week</b> - 16th to 22nd June 2025
 - [ ] Average an hour per day making Futtech Mobile-friendly
 - [ ] Complete slightly more than a week's worth of ALX ProDev tasks.
-- [ ] Apply for 3 jobs on Upwork
+- [ ] Execute the food budget plan.
 
 ---
 
 ## 📈 <b>Meta</b>
 | Metric | This Week |
 | ------ | --------- |
-| GitHub Commits | 59 |
-| Study Hours | 35 |
+| GitHub Commits | 119 |
+| Study Hours | 41 |
 | Sleep Avg (hrs) | 7 |
-| Training Sessions (Football) | 7 |
+| Training Sessions (Football) | 3 |
 | Total Coding Time (hrs) | 15 |
 
 
