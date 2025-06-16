@@ -26,13 +26,13 @@ Created: {{ 2025-05-31 }}
 
 ### 🌱 **What Was Worked On**
 
-1. **Projects**
-	1. **Futtech Responsive Web Design** — Used CSS Media Queries (```@media```) to ensure the nav bar item is mobile-friendly.
-	2. **Django Authentication & Permissions** — Started a project for which a array of custom permission classes were created and for which authentication was handled by a Django package.
-	3. **Django Middlewares and the Django Request-Response Cycle** — Built varying types of middlewares (like logging, rate limiting and constraints) and took a deep dive into the bigger picture of Django Life Cycle.
+- **Projects**
+	1. **Futtech Responsive Web Design** — Used CSS Media Queries (```@media```) to make the navigation bar mobile-friendly.
+	2. **Django Authentication & Permissions** — Started a project for which an array of custom permission classes were created and authentication handled by a Django package.
+	3. **Django Middlewares and the Django Request-Response Cycle** — Built varying types of middlewares (logging, rate limiting and constraints) and looked up the bigger picture — Django Life Cycle.
 
-2. **Learning & Growth**
-	1. Started the week with an investigation of whether Web software products should be developed: Mobile First or Desktop First? What are the ```Mobile-First Design``` and ```Desktop-First Design``` Approaches? And found the answers, [here](https://www.softermii.com/blog/web-development-mobile-first-or-desktop-first).
+- **Learning & Growth**
+	1. Started the week with an investigation of whether web software products should be developed: [Mobile-First or Desktop-First](https://www.softermii.com/blog/web-development-mobile-first-or-desktop-first)? What are the ```Mobile-First Design``` and ```Desktop-First Design``` Approaches?
 	2. Tuesday's focus being to ensure Futtech's Navigation Bar was responsive, I wrote media queries expanding my Desktop-First Design, juggled between my ```navbar.scss``` file and the main ```NavBar.jsx``` file and from the many google searches, found this [article](https://www.w3schools.com/howto/howto_js_mobile_navbar.asp) by ```w3schools``` filled with guidance.
 	3. I had trouble with the creation of a hamburger menu - mine would not be hidden on Desktop size screens - and, on Wednesday, after having resolved the issue found [this particular YouTube Tutorial](https://www.youtube.com/watch?v=gAGcjlJyKk0) to correctly detail the steps one might take in order to create one.
 	4. On Wednesday, after practice I scrolled through this list of ```48 Johan Cruyff Quotes on Success (FOOTBALL)```, [here](https://graciousquotes.com/johan-cruyff/), and was inspired by the fact that there exists and has existed indivuals who have invested their being to the game of Football and have generated quotes so powerful that exposure to them is enough to lift spirits and drive forward the passionates.
@@ -41,7 +41,7 @@ Created: {{ 2025-05-31 }}
 	7. Although it was at midday, on Wednesday that I made a google search on ```Monasticism```, it's between 7 and 11 PM, on Friday that I read 12 long format articles, of which 3 by ```britannica``` truly captivated me the most: [Stoicism](https://www.britannica.com/topic/Stoicism), [Asceticism](https://www.britannica.com/topic/asceticism) and [Monasticism](https://www.britannica.com/topic/monasticism).
 	8. Familiarized myself with Django Signals through a read of [its documentation](https://docs.djangoproject.com/en/5.2/topics/signals/).
 
-3. **Freelancing (Upwork)**
+- **Freelancing (Upwork)**
 	- No Jobs applied - No milestones delivered
 
 ### 🏆 <b>3 Wins and/or Achievements</b>
