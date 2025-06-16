@@ -81,10 +81,7 @@ Created: {{ 2025-05-31 }}
 
 ---
 
-> _\
-“Then we may begin by assuming that there are three classes of men — lovers of wisdom, lovers of honour, lovers of gain?”\
-      — Plato, The Republic\
-_
+> _“Then we may begin by assuming that there are three classes of men — lovers of wisdom, lovers of honour, lovers of gain?” — Plato_
 
 <!-- Let's update the log every Sunday. Let's Go! -->
 
