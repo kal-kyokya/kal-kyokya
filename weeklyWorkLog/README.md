@@ -50,12 +50,12 @@ Created: {{ 2025-05-31 }}
 3. I have persisted the newly acquire habit of reading documentations, long format articles and/or blog posts as well as hours-long YouTube Videos.
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
-1. <b>Failure:</b> My lung capacity had me struggling during sprinting drills we had in Tuesday's football training session.<br />
-	<b>Lesson:</b> I need to engage in High Intensity Interval Training on a weekly basis and see how better my stamina gets.
-2. <b>Failure:</b> I reacted and responded to a disagreement that emerged during Rondo.<br />
-	<b>Lesson:</b> Keeping a stoic expression is not about 'not feeling' emotions, it is about noticing the emotions, accepting it but remember that we have taken an oath to 'at all times stay on the straight path, free from fleeting emotions'. Be the same person, no matter what.
-3. <b>Failure:</b> I didn't apply for 3 jobs.<br />
-	<b>Lesson:</b> I avoided the area of my mind where a discussion on my job applications would had been raised. I dismissed it thinking 'my budget doesn't allow'. I need to budget my job applications.
+1. <b>Failure:</b> Thursday night, I overindulged in food and didn't let my decision be guided by the plan I had.<br />
+	<b>Lesson:</b> I need to increase my self-discipline for moments when/where the world offers me options I am yet to have incorporated/integrated in my current plans and worldview. I should be able to delay acceptance or refusal for 'only after' I have thought about it.
+2. <b>Failure:</b> I didn't apply for jobs.<br />
+	<b>Lesson:</b> I need to expand my current planning to allocate the money required to not just food, rent and transportation, but also job hunting.
+3. <b>Failure:</b> I didn't wake up at 7:20 AM everyday of the week. I overslep a couple of times.<br />
+	<b>Lesson:</b> I need to execute stepping away from phone and laptop by 11:30 PM and run my pre-bed routine.
 
 ### 🌟 <b>Highlights of the Week</b>
 - <b>Memorable moment / breakthrough / proud event</b>: The ball roll 'Tshobo' I got me during training and the one touch overhead 'kanzu' I executed during training. Moments like those are the reason why I believe in my ability to be a better footballer provided I work at it longer.
