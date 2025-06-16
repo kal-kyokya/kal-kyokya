@@ -41,13 +41,13 @@ Created: {{ 2025-05-31 }}
 	7. Although it was at midday, on Wednesday that I made a google search on ```Monasticism```, it's between 7 and 11 PM, on Friday that I read 12 long format articles, of which 3 by ```britannica``` truly captivated me the most: [Stoicism](https://www.britannica.com/topic/Stoicism), [Asceticism](https://www.britannica.com/topic/asceticism) and [Monasticism](https://www.britannica.com/topic/monasticism).
 	8. Familiarized myself with Django Signals through a read of [its documentation](https://docs.djangoproject.com/en/5.2/topics/signals/).
 
-3. **Freelancing (Upwork)*
+3. **Freelancing (Upwork)**
 	- No Jobs applied - No milestones delivered
 
 ### 🏆 <b>3 Wins and/or Achievements</b>
-1. I was back to training in USIU with the football team, showed up for 3 of the 4 sessions and had a home-session where I tried Plyometrics exercises that I left me feeling nicely sore.
-2. I worked a whole lot more on Futtech than I had done in the previous weeks.
-3. Maintained my foundational routines despite the trip to anf from USIU.
+1. I was taught to cross the ball 'ping style' using the upper part of the inside of my foot and got it right surprisingly fast.
+2. I have reduced the gap between my completed and expected ALX Backend Web Pro-Dev tasks, and with proper execution of any reasonable plans should see myself catch up by Sunday 22nd.
+3. I have persisted the newly acquire habit of reading documentations, long format articles and/or blog posts as well as hours-long YouTube Videos.
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
 1. <b>Failure:</b> My lung capacity had me struggling during sprinting drills we had in Tuesday's football training session.<br />
@@ -112,7 +112,7 @@ Created: {{ 2025-05-31 }}
 ### 🏆 <b>3 Wins and/or Achievements</b>
 1. I was back to training in USIU with the football team, showed up for 3 of the 4 sessions and had a home-session where I tried Plyometrics exercises that I left me feeling nicely sore.
 2. I worked a whole lot more on Futtech than I had done in the previous weeks.
-3. Maintained my foundational routines despite the trip to anf from USIU.
+3. Maintained my foundational routines despite the trip to and from USIU.
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
 1. <b>Failure:</b> My lung capacity had me struggling during sprinting drills we had in Tuesday's football training session.<br />
