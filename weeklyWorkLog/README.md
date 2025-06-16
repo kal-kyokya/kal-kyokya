@@ -83,7 +83,6 @@ Created: {{ 2025-05-31 }}
 
 > _
 “Then we may begin by assuming that there are three classes of men — lovers of wisdom, lovers of honour, lovers of gain?”
-<br />
       — Plato, The Republic
 _
 
