@@ -59,7 +59,7 @@ Created: {{ 2025-05-31 }}
 
 ### 🌟 <b>Highlights of the Week</b>
 - <b>Memorable moment / breakthrough / proud event</b>: The moment first time attempt success of a 'ping pass' that had me put my hands on my head, mouth wide open in disbelief for the ease with which I was able to add a new tool for toolkit, a new skill for my skillset. Peace be on that Sudanese brother who cared enough to tell me what my problem was and how I could fix it.
-- <b>Quote, inspiration, or personal reflection</b>: I came up with: ```Remember to be the same person.```, and have been repeating it to myself day and night, as soon as I wake up and every time I catch myself straying from having a stoic facial expression. No highs, no lows, Wu wei, the art of the middleway.
+- <b>Quote, inspiration, or personal reflection</b>: I came up with ```Remember to be the same person```, and have been repeating it to myself day and night, as soon as I wake up and every time I catch myself straying from having a stoic facial expression. No highs, no lows, Wu wei, the art of the middleway.
 
 ---
 
@@ -79,8 +79,13 @@ Created: {{ 2025-05-31 }}
 | Training Sessions (Football) | 3 |
 | Total Coding Time (hrs) | 15 |
 
+---
 
-> _“To get what you want, you must derserve what you want. The world is not yet a crazy enough place to reward a whole bunch of undeserving people.” — Charles T. Munger_
+> _
+“Then we may begin by assuming that there are three classes of men — lovers of wisdom, lovers of honour, lovers of gain?”
+<br />
+      — Plato, The Republic
+_
 
 <!-- Let's update the log every Sunday. Let's Go! -->
 
@@ -144,6 +149,7 @@ Created: {{ 2025-05-31 }}
 | Training Sessions (Football) | 7 |
 | Total Coding Time (hrs) | 15 |
 
+---
 
 > _“To get what you want, you must derserve what you want. The world is not yet a crazy enough place to reward a whole bunch of undeserving people.” — Charles T. Munger_
 
