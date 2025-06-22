@@ -27,8 +27,8 @@ Created: {{ 2025-05-31 }}
 ### 🌱 **What Was Worked On**
 
 - **Projects**
-	1. **Django Advanced ORM Techniques** — Complete [this project](https://github.com/kal-kyokya/alx-backend-python/tree/main/Django-signals_orm-0x04/messaging) whose focus was on Django Event Listeners (Signals), ORM & Advanced techniques.
-	2. **Bourne Again Shell Scripting** — Create a set of Bash scripts enabling API calls for JSON data that was stored in individual as well as collective files and directories.
+	1. **Django advanced ORM techniques** — Completed [this project](https://github.com/kal-kyokya/alx-backend-python/tree/main/Django-signals_orm-0x04/messaging) whose focus was on Django Event Listeners (Signals), ORM & Advanced techniques.
+	2. **Bourne Again Shell and advanced shell scripting** — Created a set of Bash scripts enabling API calls for JSON data that was stored in individual as well as collective files and directories.
 	3. **Shell, init files, variables and expansions** — Practiced using command-line tools such as 'awk', 'jq', 'sed', 'curl' and the '$' extraction operator.
 
 - **Learning & Growth**
