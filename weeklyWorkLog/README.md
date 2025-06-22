@@ -40,8 +40,8 @@ Created: {{ 2025-05-31 }}
 	6. Early afternoon, on Friday, I own my ignorance and googled: 'create github repository from local' and learned through the answers in [this Stack Overflow Exchange](https://stackoverflow.com/questions/76527789/how-do-i-create-a-new-public-github-repository-and-push-my-locally-stored-newly) that there is no running away from accessing GitHub first, creating the repo and then cloning it.
 	7. Saturday was all about Advanced Bash Scripting and practicing making API calls as well as processing large JSON data using [this pokémon API](https://pokeapi.co/api/v2/pokemon/).
 
-- **Freelancing (Upwork)**
-	- No Jobs applied - No milestones delivered
+- **Job hunting**
+	- On Tuesday, found the use of drones by [GainForest](https://gainforest.gitbook.io/docs) enough reason for me to apply for an Ethereum-based paid internship listed on [Ethereum Website](https://blog.ethereum.org/).
 
 ### 🏆 <b>3 Wins and/or Achievements</b>
 1. I was taught to cross the ball 'ping style' using the upper part of the inside of my foot and got it right surprisingly fast.
