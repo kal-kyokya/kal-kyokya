@@ -22,6 +22,71 @@ Created: {{ 2025-05-31 }}
 
 ---
 
+## Week 4 — Sunday, 22nd June 2025
+
+### 🌱 **What Was Worked On**
+
+- **Projects**
+	1. **Django Advanced ORM Techniques** — Complete [this project](https://github.com/kal-kyokya/alx-backend-python/tree/main/Django-signals_orm-0x04/messaging) whose focus was on Django Event Listeners (Signals), ORM & Advanced techniques.
+	2. **Bourne Again Shell Scripting** — Create a set of Bash scripts enabling API calls for JSON data that was stored in individual as well as collective files and directories.
+	3. **Shell, init files, variables and expansions** — Practiced using command-line tools such as 'awk', 'jq', 'sed', 'curl' and the '$' extraction operator.
+
+- **Learning & Growth**
+	1. Started the week with an investigation of whether web software products should be developed: [Mobile-First or Desktop-First?](https://www.softermii.com/blog/web-development-mobile-first-or-desktop-first) What are the ```Mobile-First Design``` and ```Desktop-First Design``` Approaches?
+	2. Tuesday's focus being to ensure Futtech's navigation bar was responsive, I wrote media queries expanding my Desktop-First design, juggled between ```navbar.scss``` & ```NavBar.jsx```, and found [this article by w3schools](https://www.w3schools.com/howto/howto_js_mobile_navbar.asp) helpful on the topic of Mobile navbars.
+	3. I had trouble creating a hamburger menu — mine appeared on Desktop size screens — and, on Wednesday after having resolved the issue, found [this particular YouTube Tutorial](https://www.youtube.com/watch?v=gAGcjlJyKk0) to correctly detail the steps one might take in order to create one.
+	4. Wednesday after training, I scrolled through [48 Johan Cruyff Quotes on Success](https://graciousquotes.com/johan-cruyff/) and was inspired by how there exists indivuals whose self-investment in Football generated quotes so powerful that exposure to them is enough to lift spirits and drive forward the passionates.
+	5. Thursday morning, tackling ```Authentication``` & ```Permissions``` led to my investigating Django's MVT Architecture through [this article by freecodecamp](https://www.freecodecamp.org/news/how-django-mvt-architecture-works/). Around midday, the task at hand led me to [this article by developer.mozilla](https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Server-side/Django/Models) on ```Django Models``` which helped me fill a knowledge that stymied project completion.
+	6. Early afternoon, on Friday, this simple google search; '[django middleware diagram](https://www.google.com/search?client=opera&q=django+middleware+diagram&sourceid=opera&ie=UTF-8&oe=UTF-8)' introduced me to an array of web resources of such staggering relevance that, by the time I was done reading and internalizing, the sun had set and I felt a man better than I was when I woke. What started as an investigation of Django middlewares, ended up being of the ```Django Request-Response Cycle```.
+	7. Although it was at midday, on Wednesday that I made a google search on ```Monasticism```, it's between 7 and 11 PM, on Friday that I read 12 long format articles, of which 3 by ```britannica``` truly captivated me the most: [Stoicism](https://www.britannica.com/topic/Stoicism), [Asceticism](https://www.britannica.com/topic/asceticism) and [Monasticism](https://www.britannica.com/topic/monasticism).
+	8. Familiarized myself with Django Signals through a read of [its documentation](https://docs.djangoproject.com/en/5.2/topics/signals/).
+
+- **Freelancing (Upwork)**
+	- No Jobs applied - No milestones delivered
+
+### 🏆 <b>3 Wins and/or Achievements</b>
+1. I was taught to cross the ball 'ping style' using the upper part of the inside of my foot and got it right surprisingly fast.
+2. I have reduced the gap between my completed and expected ALX Backend Web Pro-Dev tasks, and with proper execution of any reasonable plans should see myself catch up by Sunday 22nd.
+3. I have persisted the newly acquire habit of reading documentations, long format articles and/or blog posts as well as hours-long YouTube Videos.
+
+### 🔭 <b>3 Fails & Lessons Learned</b>
+1. <b>Failure:</b> Thursday night, I overindulged in food and didn't let my decision be guided by the plan I had.<br />
+	<b>Lesson:</b> I need to increase my self-discipline for moments when/where the world offers me options I am yet to have incorporated/integrated in my current plans and worldview. I should be able to delay acceptance or refusal for 'only after' I have thought about it.
+2. <b>Failure:</b> I didn't apply for jobs.<br />
+	<b>Lesson:</b> I need to expand my current budget planning to allocate the money required to not just food, rent and transportation, but also job hunting.
+3. <b>Failure:</b> I didn't wake up at 7:20 AM everyday of the week. I overslep a couple of times.<br />
+	<b>Lesson:</b> I need to execute stepping away from phone and laptop by 11:30 PM and run my pre-bed routine.
+
+### 🌟 <b>Highlights of the Week</b>
+- <b>Memorable moment / breakthrough / proud event</b>: The moment first time attempt success of a 'ping pass' that had me put my hands on my head, mouth wide open in disbelief for the ease with which I was able to add a new tool for toolkit, a new skill for my skillset. Peace be on that Sudanese brother who cared enough to tell me what my problem was and how I could fix it.
+- <b>Quote, inspiration, or personal reflection</b>: I came up with ```Remember to be the same person```, and have been repeating it to myself day and night, as soon as I wake up and every time I catch myself straying from having a stoic facial expression. No highs, no lows, Wu wei, the art of the middleway.
+
+---
+
+## 📅 <b>Coming Up Next Week</b> - 16th to 22nd June 2025
+- [ ] Average an hour per day making Futtech Mobile-friendly
+- [ ] Complete slightly more than a week's worth of ALX ProDev tasks.
+- [ ] Execute the food budget plan.
+
+---
+
+## 📈 <b>Meta</b>
+| Metric | This Week |
+| ------ | --------- |
+| GitHub Commits | 119 |
+| Study Hours | 41 |
+| Sleep Avg (hrs) | 7 |
+| Training Sessions (Football) | 3 |
+| Total Coding Time (hrs) | 15 |
+
+---
+
+> _“Then we may begin by assuming that there are three classes of men — lovers of wisdom, lovers of honour, lovers of gain?” — Plato_
+
+<!-- Let's update the log every Sunday. Let's Go! -->
+
+---
+
 ## Week 3 — Sunday, 15th June 2025
 
 ### 🌱 **What Was Worked On**
