@@ -41,7 +41,7 @@ Created: {{ 2025-05-31 }}
 	7. Saturday was all about Advanced Bash Scripting and practicing making API calls as well as processing large JSON data using [this pokémon API](https://pokeapi.co/api/v2/pokemon/).
 
 - **Job hunting**
-	- On Tuesday, found the use of drones by [GainForest](https://gainforest.gitbook.io/docs) enough reason for me to apply for an Ethereum-based paid internship listed on [Ethereum Website](https://blog.ethereum.org/).
+	- On Tuesday, found the use of drones by [GainForest](https://gainforest.gitbook.io/docs) enough reason for me to apply for their Ethereum-based paid internship listed on [Ethereum Website](https://blog.ethereum.org/).
 
 ### 🏆 <b>3 Wins and/or Achievements</b>
 1. I was taught to cross the ball 'ping style' using the upper part of the inside of my foot and got it right surprisingly fast.
@@ -80,7 +80,7 @@ Created: {{ 2025-05-31 }}
 
 ---
 
-> _“Then we may begin by assuming that there are three classes of men — lovers of wisdom, lovers of honour, lovers of gain?” — Plato_
+> _“In the beginner's mind there are many possibilities, in the expert's there are few.” — Shunryu Suzuki_
 
 <!-- Let's update the log every Sunday. Let's Go! -->
 
