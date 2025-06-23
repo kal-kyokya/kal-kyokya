@@ -63,8 +63,8 @@ Created: {{ 2025-05-31 }}
 ---
 
 ## 📅 <b>Coming Up Next Week</b> - 23rd to 29th June 2025
+- [ ] Attend every training sessions this week.
 - [ ] Average an hour per day making Futtech Mobile-friendly
-- [ ] Complete slightly more than a week's worth of ALX ProDev tasks.
 - [ ] Execute the food budget plan.
 
 ---
