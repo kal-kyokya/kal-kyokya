@@ -57,12 +57,12 @@ Created: {{ 2025-05-31 }}
 	<b>Lesson:</b> Discovery of the meaning of patronize provides me with the name for a type of behavior I do not want to catch myself tending to. Just yesterday, during my Sunday cleanup ritual, I assessed myself to always have been Ambitious, but also predisposed to Pride. The more I grow, the greater my personal achievements, the easier it becomes for me to think that I know better and need to embody the pitfalls of the savior archetype.
 
 ### 🌟 <b>Highlights of the Week</b>
-- <b>Memorable moment / breakthrough / proud event</b>: The moment first time attempt success of a 'ping pass' that had me put my hands on my head, mouth wide open in disbelief for the ease with which I was able to add a new tool for toolkit, a new skill for my skillset. Peace be on that Sudanese brother who cared enough to tell me what my problem was and how I could fix it.
-- <b>Quote, inspiration, or personal reflection</b>: I came up with ```Remember to be the same person```, and have been repeating it to myself day and night, as soon as I wake up and every time I catch myself straying from having a stoic facial expression. No highs, no lows, Wu wei, the art of the middleway.
+- <b>Memorable moment / breakthrough / proud event</b>: The realization that Futtech truly has the potential to please its target users. A nigerian brother recorded Friday's training session and sent footage on WhatsApp. I have filtered out the videos I appear in and have been repeatedly watching them. Futtech no only takes out the need to filter out snippets, but also it eliminates snippets and provide a single long-format video that captures every moment at an elevated angle.
+- <b>Quote, inspiration, or personal reflection</b>: "Don't worry about the elements around you and what's going on. You gotta get out there and get it." - David Goggins, Taking souls.
 
 ---
 
-## 📅 <b>Coming Up Next Week</b> - 16th to 22nd June 2025
+## 📅 <b>Coming Up Next Week</b> - 23rd to 29th June 2025
 - [ ] Average an hour per day making Futtech Mobile-friendly
 - [ ] Complete slightly more than a week's worth of ALX ProDev tasks.
 - [ ] Execute the food budget plan.
@@ -122,7 +122,7 @@ Created: {{ 2025-05-31 }}
 	<b>Lesson:</b> I need to execute stepping away from phone and laptop by 11:30 PM and run my pre-bed routine.
 
 ### 🌟 <b>Highlights of the Week</b>
-- <b>Memorable moment / breakthrough / proud event</b>: The moment first time attempt success of a 'ping pass' that had me put my hands on my head, mouth wide open in disbelief for the ease with which I was able to add a new tool for toolkit, a new skill for my skillset. Peace be on that Sudanese brother who cared enough to tell me what my problem was and how I could fix it.
+- <b>Memorable moment / breakthrough / proud event</b>: The first-try successful 'ping pass' that had me put my hands on my head, mouth wide open in disbelief for the ease with which I was able to add a new tool/skill to my toolkit. Peace be on that Sudanese brother who cared enough to tell me what my problem was and how I could fix it.
 - <b>Quote, inspiration, or personal reflection</b>: I came up with ```Remember to be the same person```, and have been repeating it to myself day and night, as soon as I wake up and every time I catch myself straying from having a stoic facial expression. No highs, no lows, Wu wei, the art of the middleway.
 
 ---
