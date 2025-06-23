@@ -44,17 +44,17 @@ Created: {{ 2025-05-31 }}
 	- On Tuesday, found the use of drones by [GainForest](https://gainforest.gitbook.io/docs) enough reason for me to apply for their Ethereum-based paid internship listed on [Ethereum Website](https://blog.ethereum.org/).
 
 ### 🏆 <b>3 Wins and/or Achievements</b>
-1. I was included in training drills (as a goalkeeper) and had the chance to make a couple mistakes that revealed further practice of 'not complicating it' and 'increasing my passing range with accuracy'.
-2. I finally have a 70% score with ALX Web Pro Development and can now consider make it so I graduate with 80% as with all my other ALX certificates.
+1. I was included in training drills (as a goalkeeper) and had the chance to make a couple mistakes that revealed further practice of **not complicating it** and **increasing my passing range with accuracy**.
+2. I finally have a 70% score with ALX Web Pro Development and can now consider make it so I **graduate with 80%** as with all my other ALX certificates.
 3. I have done a good job executing my financial plan for the week and feel more confident moving forward.
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
-1. <b>Failure:</b> Thursday night, I overindulged in food and didn't let my decision be guided by the plan I had.<br />
-	<b>Lesson:</b> I need to increase my self-discipline for moments when/where the world offers me options I am yet to have incorporated/integrated in my current plans and worldview. I should be able to delay acceptance or refusal for 'only after' I have thought about it.
-2. <b>Failure:</b> I didn't apply for jobs.<br />
-	<b>Lesson:</b> I need to expand my current budget planning to allocate the money required to not just food, rent and transportation, but also job hunting.
-3. <b>Failure:</b> I didn't wake up at 7:20 AM everyday of the week. I overslep a couple of times.<br />
-	<b>Lesson:</b> I need to execute stepping away from phone and laptop by 11:30 PM and run my pre-bed routine.
+1. <b>Failure:</b> As I requested a review from ALX ProDev's discord channel, I allowed my internal dialogue to sound bitter, distrustful and cynical. I wouldn't let myself be 'used' and spent 15 minutes waiting to be reviewed first before I reviewed back. All this time, I had sent the same link to a project that just got reviewed 10-15 minutes ago.<br />
+	<b>Lesson:</b> Carl Gustav Jung called it **Projection**; attributing to others one's own deep, dark thoughts, impulses and repressed desires. A concept related to _"Why do you look at the speck of sawdust in your brother's eye and pay no attention to the plank in your own eye?"_ from Matthew 7:3. In this particular case, the blame was entirely on me, but I was blind to my own ignorance and attributed exploitative intention (I know people can have) to this individual I had engaged in this transaction.
+2. <b>Failure:</b> I once again found myself needing to stand my ground during Rondo. Although it is praiseworthy to stick up for oneself, continuously finding myself in a position where I need to do so might be proof that I keep on falling short in terms of technique and awareness.<br />
+	<b>Lesson:</b> I need to study Rondos. Better understand what it is I need to adjust in terms of spacing, decision-making on number of touches, next passes.
+3. <b>Failure:</b> I contemplated on an end of training interaction I had with a teammate and noticed myself acting out a small scale version of the verb **patronize**; _"If someone patronizes you, they speak or behave toward you in a way that seems friendly, but that shows that they think they are superior to you in some way"_.<br />
+	<b>Lesson:</b> Discovery of the meaning of patronize provides me with the name for a type of behavior I do not want to catch myself tending to. Just yesterday, during my Sunday cleanup ritual, I assessed myself to always have been Ambitious, but also predisposed to Pride. The more I grow, the greater my personal achievements, the easier it becomes for me to think that I know better and need to embody the pitfalls of the savior archetype.
 
 ### 🌟 <b>Highlights of the Week</b>
 - <b>Memorable moment / breakthrough / proud event</b>: The moment first time attempt success of a 'ping pass' that had me put my hands on my head, mouth wide open in disbelief for the ease with which I was able to add a new tool for toolkit, a new skill for my skillset. Peace be on that Sudanese brother who cared enough to tell me what my problem was and how I could fix it.
