@@ -44,9 +44,9 @@ Created: {{ 2025-05-31 }}
 	- On Tuesday, found the use of drones by [GainForest](https://gainforest.gitbook.io/docs) enough reason for me to apply for their Ethereum-based paid internship listed on [Ethereum Website](https://blog.ethereum.org/).
 
 ### 🏆 <b>3 Wins and/or Achievements</b>
-1. I was taught to cross the ball 'ping style' using the upper part of the inside of my foot and got it right surprisingly fast.
-2. I have reduced the gap between my completed and expected ALX Backend Web Pro-Dev tasks, and with proper execution of any reasonable plans should see myself catch up by Sunday 22nd.
-3. I have persisted the newly acquire habit of reading documentations, long format articles and/or blog posts as well as hours-long YouTube Videos.
+1. I was included in training drills (as a goalkeeper) and had the chance to make a couple mistakes that revealed further practice of 'not complicating it' and 'increasing my passing range with accuracy'.
+2. I finally have a 70% score with ALX Web Pro Development and can now consider make it so I graduate with 80% as with all my other ALX certificates.
+3. I have done a good job executing my financial plan for the week and feel more confident moving forward.
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
 1. <b>Failure:</b> Thursday night, I overindulged in food and didn't let my decision be guided by the plan I had.<br />
