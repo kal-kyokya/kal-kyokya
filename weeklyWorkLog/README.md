@@ -224,7 +224,7 @@ Created: {{ 2025-05-31 }}
 1. **Projects**
 	1. **Python Django App** — Initialized the environment variable and directory structure for future Django development.
 	2. **Python Decorators** — An interesting way of manipulating existing Python structures.
-	3. **Python Context Managers & Asynchronous Programming** — Understood the inner workings of both programming paradigm and see what gain awareness of what is abstracted away by everyday libraries.
+	3. **Python Context Managers & Asynchronous Programming** — Understood the inner workings of both programming paradigms and gained awareness of what is abstracted away by everyday libraries.
 
 2. **Learning & Growth**
 	1. ```"A corrupt heart elicits in an hour all that is bad in us;"``` - In search for the spelling of ```'elicit'```, I came across this [article](https://biblehub.com/sermons/auth/robertson/the_power_of_purity.htm), meditated on the text and was left feeling deeply grateful for the serendipitous google search.
@@ -251,7 +251,7 @@ Created: {{ 2025-05-31 }}
 	<b>Lesson:</b> My desire to take in-depth looks at programming concepts - at the expense of meeting deadlines - needs to be managed appropriately. In the workplace deadlines are to be respected. I need to ```balance``` being too relaxed and letting demands rush me.
 
 ### 🌟 <b>Highlights of the Week</b>
-- <b>Memorable moment / breakthrough / proud event</b>: Through Python Decorators and Context Managers, realizing that, over the years, programming is attempting to ```abstract away``` as many steps as possible in the development of software solutions. Almost as if the new technology says: 'Focus more on ideations than implementation'.
+- <b>Memorable moment / breakthrough / proud event</b>: Through Python Decorators and Context Managers, realized that, over the years, programming has attempted to ```abstract away``` as many steps as possible in the development of software solutions. Almost as if the new technology says: 'Focus more on ideations than implementation'.
 - <b>Quote, inspiration, or personal reflection</b>: ```'Ignorance and willful blindness'```<br /> - Jordan B. Peterson on the things that make people miss the target in life.
 
 ---
