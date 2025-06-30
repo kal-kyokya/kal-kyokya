@@ -22,6 +22,70 @@ Created: {{ 2025-05-31 }}
 
 ---
 
+## Week 5 — Sunday, 29th June 2025
+
+### 🌱 **What Was Worked On**
+
+- **Projects**
+	1. **Version Control** — Completed [this project](https://github.com/kal-kyokya/ALXprodev-advanced_git) focused on Advanced Git Techniques and Workflows.
+	2. **Futtech** — Completed responsive web design of the 'Featured' component and started working on the 'List' structure beneath it.
+	3. **Containerization with Docker** — Created a 'docker-compose' YAML file to orchestrate a multi-container application with all its 'python3 freeze' dependencies.
+
+- **Learning & Growth**
+	1. Started the week with a read of the official Django documentation on ['Making queries'](https://docs.djangoproject.com/en/5.2/topics/db/queries/).
+	2. Tuesday was marked by an insightful read and a memorable analogy for [Plato's Tripatite Soul](https://voegelinview.com/belief-vs-knowledge-and-platos-tripartite-soul/) and the difference between Belief and Knowledge.
+	3. On wednesday, spent an hour and a half seeking clarification on how to use Django's ORM functions 'select_related()' and 'prefetch_related' through the official ['QuerySet API reference'](https://docs.djangoproject.com/en/5.2/ref/models/querysets/) documentation.
+	4. Wednesday before bedtime, added 3 Youtube Tutorials to my Watch Later playlist in anticipation for next day's  study session and my need to understand what 'verbose_name' represent in Django ORM Models, [the first of them being](https://www.youtube.com/watch?v=ls3HmI893EQ&list=WL&index=1).
+	5. Thursday morning, after watching the remaining 2 videos added to my Youtube Watch Later playlist, understanding [Why Linux Is Better For Programming](https://www.youtube.com/watch?v=otDOHt_Jges) and [What is Docker](https://www.youtube.com/watch?v=Gjnup-PuquQ) revealed themselves as important and in needfor the answers I found.
+	6. Early afternoon, on Friday, I own my ignorance and googled: 'create github repository from local' and learned through the answers in [this Stack Overflow Exchange](https://stackoverflow.com/questions/76527789/how-do-i-create-a-new-public-github-repository-and-push-my-locally-stored-newly) that there is no running away from accessing GitHub first, creating the repo and then cloning it.
+	7. Saturday was all about Advanced Bash Scripting and practicing making API calls as well as processing large JSON data using [this pokémon API](https://pokeapi.co/api/v2/pokemon/).
+
+- **Job hunting**
+	- On Tuesday, found the use of drones by [GainForest](https://gainforest.gitbook.io/docs) enough reason for me to apply for their Ethereum-based paid internship listed on [Ethereum Website](https://blog.ethereum.org/).
+
+### 🏆 <b>3 Wins and/or Achievements</b>
+1. I was included in training drills (as a goalkeeper) and had the chance to make a couple mistakes that revealed further practice of ```not complicating it``` and ```increasing my passing range with accuracy```.
+2. I finally have a 70% score with ALX Web Pro Development and can now consider make it so I ```graduate with 80%``` as with all my other ALX certificates.
+3. I have done a good job executing my financial plan for the week and feel more confident moving forward.
+
+### 🔭 <b>3 Fails & Lessons Learned</b>
+1. <b>Failure:</b> As I requested a review from ALX ProDev's discord channel, I allowed ```my internal dialogue``` to sound bitter, distrustful and cynical. I wouldn't let myself be 'used' and spent 15 minutes waiting to be reviewed first before I reviewed back. All this time, I had sent the same link to a project that just got reviewed 10-15 minutes ago.<br />
+	<b>Lesson:</b> ```Carl Gustav Jung``` called it ```Projection```; attributing to others one's own deep, dark thoughts, impulses and repressed desires. A concept related to _```Why do you look at the speck of sawdust in your brother's eye and pay no attention to the plank in your own eye?```_ - Matthew 7:3. In this particular case, I was entirely responsible, but was blind to my own ignorance and attributed exploitative intention to this individual I had engaged in this transaction.
+2. <b>Failure:</b> I once again found myself ```needing to stand my ground``` during Rondo. Although it is praiseworthy to stick up for oneself, continuously finding myself in a position where I need to do so might be proof that I keep on falling short in terms of technique and awareness.<br />
+	<b>Lesson:</b> I need to ```study Rondos```. Better understand what it is I need to adjust in terms of spacing, decision-making on number of touches, next passes.
+3. <b>Failure:</b> I contemplated an end of training interaction I had with a teammate and noticed myself acting out a small scale version of the verb ```patronize```; _```If someone patronizes you, they speak or behave toward you in a way that seems friendly, but that shows that they think they are superior to you in some way```_.<br />
+	<b>Lesson:</b> Discovery of the meaning of patronize provides me with the name for a ```behavior I do not want to catch myself tending to```. Just yesterday, during my Sunday cleanup ritual, I assessed myself to always have been ```Ambitious```, but also ```predisposed to Pride```. The more I grow, the greater my personal achievements, the easier it becomes for me to think that I know better and need to embody the ```pitfalls of the savior archetype```.
+
+### 🌟 <b>Highlights of the Week</b>
+- <b>Memorable moment / breakthrough / proud event</b>: The realization that ```Futtech truly has the potential to please its target users```. A nigerian brother recorded Friday's training session and sent footage on WhatsApp. I have filtered out the videos I appear in and have been repeatedly watching them. Futtech no only takes out the need to filter out snippets, but also the idea of snippets. It provides a single ```long-format video that captures every moment at an elevated angle```.
+- <b>Quote, inspiration, or personal reflection</b>: _"Don't worry about the elements around you and what's going on. You gotta ```get out there and get it```."_ - David Goggins, Taking souls. ```Attahiyyatu Lillahi Wa's-Salawatu Wat-Tayyibatu``` - Words, Emerging thoughts and All Acts; from the Truth, to the Truth.
+
+---
+
+## 📅 <b>Coming Up Next Week</b> - 23rd to 29th June 2025
+- [ ] Attend every training sessions this week.
+- [ ] Average an hour per day making Futtech Mobile-friendly
+- [ ] Execute the food budget plan.
+
+---
+
+## 📈 <b>Meta</b>
+| Metric | This Week |
+| ------ | --------- |
+| GitHub Commits | 57 |
+| Study Hours | 31 |
+| Sleep Avg (hrs) | 7 |
+| Training Sessions (Football) | 3 |
+| Total Coding Time (hrs) | 9 |
+
+---
+
+> _“In the beginner's mind there are many possibilities, in the expert's there are few.” — Shunryu Suzuki_
+
+<!-- Let's update the log every Sunday. Let's Go! -->
+
+---
+
 ## Week 4 — Sunday, 22nd June 2025
 
 ### 🌱 **What Was Worked On**
