@@ -46,9 +46,9 @@ Created: {{ 2025-05-31 }}
 	- Sunday 29th June, in the afternoon, acquired a Upwork Plus monthly subscription out of curiosity for a 'premium' experience.
 
 ### 🏆 <b>3 Wins and/or Achievements</b>
-1. I was included in training drills (as a goalkeeper) and had the chance to make a couple mistakes that revealed further practice of ```not complicating it``` and ```increasing my passing range with accuracy```.
-2. I finally have a 70% score with ALX Web Pro Development and can now consider make it so I ```graduate with 80%``` as with all my other ALX certificates.
-3. I have done a good job executing my financial plan for the week and feel more confident moving forward.
+1. I fasted for 40 hours and, an hour after breaking my fast, took part in Wednesday's training session, performed in a satisfactory manner, had a 'near-faint' experience due to severe dehydration and got myself back home.
+2. Practiced ```Not dancing, but performing``` through a quasi impromptu wedding I attended over the weeked. My improvisations were truthful, honest and on point.
+3. Renew my domain name's license for the next year (July 2026) and covered the lowest level of 'Maslow's Hierarchy of financial Needs' for the next 3 months.
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
 1. <b>Failure:</b> As I requested a review from ALX ProDev's discord channel, I allowed ```my internal dialogue``` to sound bitter, distrustful and cynical. I wouldn't let myself be 'used' and spent 15 minutes waiting to be reviewed first before I reviewed back. All this time, I had sent the same link to a project that just got reviewed 10-15 minutes ago.<br />
