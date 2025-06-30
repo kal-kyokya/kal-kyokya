@@ -42,7 +42,8 @@ Created: {{ 2025-05-31 }}
 	7. The last concept explored turned out to be [CSS 2D transforms](https://www.w3schools.com/css/css3_2dtransforms.asp) and all the functions associated with for manipulation of screen objects.
 
 - **Job hunting**
-	- On Tuesday, found the use of drones by [GainForest](https://gainforest.gitbook.io/docs) enough reason for me to apply for their Ethereum-based paid internship listed on [Ethereum Website](https://blog.ethereum.org/).
+	- On Thursday, applied for a freelance-job whose task was 'to refactor and test existing scripts', titled 'JS expert for Vanilla JS and refactor/built', and applicants were informed that they 'needed' to 'utilize Claude AI and GPT.'
+	- Sunday 29th June, in the afternoon, acquired a Upwork Plus monthly subscription out of curiosity for a 'premium' experience.
 
 ### 🏆 <b>3 Wins and/or Achievements</b>
 1. I was included in training drills (as a goalkeeper) and had the chance to make a couple mistakes that revealed further practice of ```not complicating it``` and ```increasing my passing range with accuracy```.
