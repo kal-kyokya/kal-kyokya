@@ -74,15 +74,15 @@ Created: {{ 2025-05-31 }}
 ## 📈 <b>Meta</b>
 | Metric | This Week |
 | ------ | --------- |
-| GitHub Commits | 57 |
-| Study Hours | 31 |
+| GitHub Commits | 46 |
+| Study Hours | 30 |
 | Sleep Avg (hrs) | 7 |
-| Training Sessions (Football) | 3 |
+| Training Sessions (Football) | 2 |
 | Total Coding Time (hrs) | 9 |
 
 ---
 
-> _“In the beginner's mind there are many possibilities, in the expert's there are few.” — Shunryu Suzuki_
+> _“Learn ten things from one tip.” — Maomao, The Apothecary Diaries, S2E40_
 
 <!-- Let's update the log every Sunday. Let's Go! -->
 
