@@ -56,11 +56,11 @@ Created: {{ 2025-05-31 }}
 2. <b>Failure:</b> I lied regarding the progress I have made in completion of the University project.<br />
 	<b>Lesson:</b> Through practice, I need to build the discipline required for me to catch myself (my tongue) before I utter things I know not to be true.
 3. <b>Failure:</b> I did not apply for 3 jobs.<br />
-	<b>Lesson:</b> I need to be aware of the the fact that I subconsciously tell myself that ```Futtech``` partly is an employment for which I get the money that pays rent and puts food on the table. I'm thinking that Futtech, ALX and Training sessions are what I am committed to daily and am reluctant to adding a job demanding say 4-5 hours to the mix. Maybe after ALX ProDev has freed up space I will for sure want and need something to occupy that space in my schedule.
+	<b>Lesson:</b> I need to be aware of the the fact that I subconsciously tell myself that Futtech partly is an employment for which I get the money that pays rent and puts food on the table. I'm thinking that ```Futtech```, ```ALX``` and ```Training sessions``` are what I am committed to daily and am reluctant to adding a job demanding say 4-5 hours to the mix. Maybe after ALX ProDev has freed up space I will for sure want and need something to occupy that space in my schedule.
 
 ### 🌟 <b>Highlights of the Week</b>
-- <b>Memorable moment / breakthrough / proud event</b>: The realization that ```Futtech truly has the potential to please its target users```. A nigerian brother recorded Friday's training session and sent footage on WhatsApp. I have filtered out the videos I appear in and have been repeatedly watching them. Futtech no only takes out the need to filter out snippets, but also the idea of snippets. It provides a single ```long-format video that captures every moment at an elevated angle```.
-- <b>Quote, inspiration, or personal reflection</b>: _"Don't worry about the elements around you and what's going on. You gotta ```get out there and get it```."_ - David Goggins, Taking souls. ```Attahiyyatu Lillahi Wa's-Salawatu Wat-Tayyibatu``` - Words, Emerging thoughts and All Acts; from the Truth, to the Truth.
+- <b>Memorable moment / breakthrough / proud event</b>: The wedding I attended on Saturday, 28th June 2025. The sequence of synchronicities as events or moments that I observed and the skillful manner with which I handled my existence, then and there. I had something of a serendipituous encounter with the camera crew and, after having mentioned my desire to build a drone from scratch, had a lengthy discussion and drone flight demonstration from them with their DJI mini 2.
+- <b>Quote, inspiration, or personal reflection</b>: _"Learn ten things from one tip."_ - Maomao, The Apothecary Diaries, S2E40.
 
 ---
 
