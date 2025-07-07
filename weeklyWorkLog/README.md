@@ -22,7 +22,7 @@ Created: {{ 2025-05-31 }}
 
 ---
 
-## Week 6 — Sunday, 30th June 2025
+## Week 6 — Sunday, 6th July 2025
 
 ### 🌱 **What Was Worked On**
 
@@ -32,14 +32,13 @@ Created: {{ 2025-05-31 }}
 	3. **Web Stack Debugging** — revisited this [ALX project](https://github.com/kal-kyokya/alx-system_engineering-devops/0x0D-web_stack_debugging_0) focused on exposure to some of the most useful and commonly used Linux cli tools for monitoring and debugging.
 
 - **Learning & Growth**
-	1. Started the week with an extensive exploration of [Git Workflow](https://www.google.com/search?client=opera&q=git+workflow&sourceid=opera&ie=UTF-8&oe=UTF-8) through exposure to 5 articles by [Atlassian](https://www.atlassian.com/git/tutorials/comparing-workflows) and 11 [YouTube Videos](https://www.youtube.com/watch?v=Aa8RpP0sf-Y).
-	2. Tuesday was marked by an investigation of the CSS Box Shadow property thanks to [this article](https://www.w3schools.com/css/css3_shadows_box.asp) by W3schools.
-	3. Still on Tuesday, resolution of a deprecation message regarding the 'darken()' function allowed exposure to the concept of [imports in SASS](https://sass-lang.com/documentation/modules/color/).
-	4. On wednesday, early morning, 3 hours were invested in ```Docker related``` [YouTube tutorials](https://www.youtube.com/watch?v=YFl2mCHdv24&list=TLPQMjQwNjIwMjUngL1zEE5iGQ&index=3) that helped better visualize what happens behind the scenes in a ```Kubernetes and Docker system```.
-	5. Thursday's initial focus was the visualization of ['Key Kubernetes Components'](https://www.google.com/search?client=opera&q=key+Kubernetes+components&sourceid=opera&ie=UTF-8&oe=UTF-8) through pictorial representations of the ```Kubernetes Architecture```.
-	5. Still on Thursday, understanding of the [CSS text-overflow property](https://www.w3schools.com/cssref/css3_pr_text-overflow.php) revealed itself as necessary while ```Futtech``` was being designed for mobile responsiveness.
-	6. Friday, after a 10 AM training session during which the coach asked about [The principles of Attack and Defense in Football](https://www.google.com/search?client=opera&q=principles+of+attacking+and+defending+in+football&sourceid=opera&ie=UTF-8&oe=UTF-8), reading and pondering on [this article](https://learn.englandfootball.com/articles-and-resources/coaching/resources/2022/What-are-the-principles-of-football) brought enlightenment.
-	7. The last concept explored turned out to be [CSS 2D transforms](https://www.w3schools.com/css/css3_2dtransforms.asp) and all the functions associated with for manipulation of screen objects.
+	1. In order to better understand implementation of a video slider, I started the week with an investigation of [CSS Translate](https://developer.mozilla.org/en-US/docs/Web/CSS/transform-function/translate), a subset of [CSS 2D Transforms](https://developer.mozilla.org/en-US/docs/Web/CSS/transform-function/translate).
+	2. Still on Monday, curiosity as to what is the full definition of the word [Numinous](https://en.wikipedia.org/wiki/Numinous) led to the discovery of these insightful articles [here](https://oxfordre.com/religion/religion/abstract/10.1093/acrefore/9780199340378.001.0001/acrefore-9780199340378-e-88#:~:text=The%20numinous%20is%20further%20described,the%20Mysterium%20tremendum%20et%20fascinans.) and [here](https://www.encyclopedia.com/philosophy-and-religion/christianity/christianity-general/numinous).
+	3. Tuesday was marked by an investigation of the HTML DOM Element [getBoundingClientRect() Method](https://www.w3schools.com/jsref/met_element_getboundingclientrect.asp) by W3schools.
+	4. On wednesday, I completed the watch of parts 62 to 65 of this [YouTube tutorial playlist](https://www.youtube.com/watch?v=lRKWJtzqwcQ&list=TLPQMDEwNzIwMjWDeaO3Ra7A8w&index=2), which helped better understand how to integrate ```GraphQL with a React-Django App```.
+	5. Thursday's focus was [debugging Futtech's video slider](https://github.com/kal-kyokya/Futtech/commit/6e0ee63eddf57e2ef0644df21b0e0b07903d4a81) which helped better understand the effect that 'translateX()' has on the list component.
+	6. Friday, understanding how to append a GraphQL API with Django through [this project](https://github.com/kal-kyokya/alx-backend-graphql_crm) and the browser interaction with ```GraphiQL``` introduced me to a new programming paradigm.
+	7. The last concept explored turned out to be [Payment Integration in App Development](https://www.youtube.com/watch?v=3OOHC_UzrKA&list=TLPQMDUwNzIwMjX40Qiy9tdjtw&index=5) with ```Stripe``` being the focus.
 
 - **Job hunting**
 	- On Thursday, applied for a freelance-job whose task was 'to refactor and test existing scripts', titled 'JS expert for Vanilla JS and refactor/built', and applicants were informed that they 'needed' to 'utilize Claude AI and GPT.'
