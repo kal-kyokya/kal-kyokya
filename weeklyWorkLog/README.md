@@ -41,8 +41,7 @@ Created: {{ 2025-05-31 }}
 	7. The last concept explored turned out to be [Payment Integration in App Development](https://www.youtube.com/watch?v=3OOHC_UzrKA&list=TLPQMDUwNzIwMjX40Qiy9tdjtw&index=5) with ```Stripe``` being the focus.
 
 - **Job hunting**
-	- On Thursday, applied for a freelance-job whose task was 'to refactor and test existing scripts', titled 'JS expert for Vanilla JS and refactor/built', and applicants were informed that they 'needed' to 'utilize Claude AI and GPT.'
-	- Sunday 29th June, in the afternoon, acquired a Upwork Plus monthly subscription out of curiosity for a 'premium' experience.
+	- On Wednesday, applied for a freelance-job whose task was to 'write blog articles according to the provided outline', $25-$35 per 1000 words, 2-3 blog posts per week.
 
 ### 🏆 <b>3 Wins and/or Achievements</b>
 1. I fasted for 40 hours and, an hour after breaking my fast, took part in Wednesday's training session, performed in a satisfactory manner, had a 'near-faint' experience due to severe dehydration and got myself back home.
