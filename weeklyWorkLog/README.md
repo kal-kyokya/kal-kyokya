@@ -58,8 +58,8 @@ Created: {{ 2025-05-31 }}
 	<b>Lesson:</b> I got 2 entries in the 'job hunting' section. I fail short by one and need to correct that next chance that presents itself.
 
 ### 🌟 <b>Highlights of the Week</b>
-- <b>Memorable moment / breakthrough / proud event</b>: The wedding I attended on Saturday, 28th June 2025. The sequence of synchronicities — moments and their constituting events — that I observed and the skillful manner with which I handled my existence, then and there. I had something of a serendipituous encounter with the camera crew and, after having mentioned my desire to build a drone from scratch, had a lengthy discussion and drone flight demonstration from them with their DJI mini 2.
-- <b>Quote, inspiration, or personal reflection</b>: _"Learn ten things from one tip."_ - Maomao, The Apothecary Diaries, S2E40.
+- <b>Memorable moment / breakthrough / proud event</b>: The Elastico I pulled on my teammate and the banter that ensued as I stared him down before releasing the pass and later on burst out laughing.
+- <b>Quote, inspiration, or personal reflection</b>: Each training sessions, I get to see the person I am turning myself into, the triggers and influences I am subject to and the opportunity to look around and extract inspiration for ```who to be``` and ```who not to be```.
 
 ---
 
