@@ -63,9 +63,9 @@ Created: {{ 2025-05-31 }}
 
 ---
 
-## 📅 <b>Coming Up Next Week</b> - 30th June to 6th July 2025
-- [ ] Apply for more than one job.
-- [ ] Attend every training sessions this week.
+## 📅 <b>Coming Up Next Week</b> - 7th to 13th July 2025
+- [ ] Apply for 3 job.
+- [ ] Attend every training sessions.
 - [ ] Average an hour per day making Futtech Mobile-friendly
 
 ---
