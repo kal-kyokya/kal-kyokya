@@ -81,7 +81,7 @@ Created: {{ 2025-05-31 }}
 
 ---
 
-> _“Learn ten things from one tip.” — Maomao, The Apothecary Diaries, S2E40_
+> _“Better to argue than to fight, unless fighting is what you want.” — Jordan B. Peterson, Biblical Series, Sodom amd Gomorrah_
 
 <!-- Let's update the log every Sunday. Let's Go! -->
 
