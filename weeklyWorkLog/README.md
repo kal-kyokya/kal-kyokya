@@ -47,7 +47,7 @@ Created: {{ 2025-05-31 }}
 ### 🏆 <b>3 Wins and/or Achievements</b>
 1. I expressed myself during all 3 training sessions the team had this week; from using my feet to using my words in order to maintain order and drive players towards calm and compusure as well as continuous efforts. I loved it.
 2. Discovered a new 'home laptop setup' that makes it possible for me to sit for 6-8 hours on my office chair and not feel strain in my lower back.
-3. Completed read of the entire Qu'ran.
+3. Completed read of the entire Qur'an.
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
 1. <b>Failure:</b> I, once again, did not start working on this 'weekly work log' on Sunday.<br />
@@ -64,7 +64,7 @@ Created: {{ 2025-05-31 }}
 ---
 
 ## 📅 <b>Coming Up Next Week</b> - 7th to 13th July 2025
-- [ ] Apply for 3 job.
+- [ ] Apply for 3 jobs.
 - [ ] Attend every training sessions.
 - [ ] Average an hour per day making Futtech Mobile-friendly
 
@@ -73,11 +73,11 @@ Created: {{ 2025-05-31 }}
 ## 📈 <b>Meta</b>
 | Metric | This Week |
 | ------ | --------- |
-| GitHub Commits | 46 |
-| Study Hours | 30 |
-| Sleep Avg (hrs) | 7 |
-| Training Sessions (Football) | 2 |
-| Total Coding Time (hrs) | 9 |
+| GitHub Commits | 56 |
+| Study Hours | 25 |
+| Sleep Avg (hrs) | 6 |
+| Training Sessions (Football) | 3 |
+| Total Coding Time (hrs) | 6 |
 
 ---
 
