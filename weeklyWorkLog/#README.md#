@@ -55,7 +55,7 @@ Created: {{ 2025-05-31 }}
 2. <b>Failure:</b> I didn't execute the food plan.<br />
 	<b>Lesson:</b> I consider some of the meals on there to be cause for flatulence despite their relatively cheap price and prefer to incur the financial cost over spending the next day bloated.
 3. <b>Failure:</b> I did not apply for 3 jobs.<br />
-	<b>Lesson:</b> .
+	<b>Lesson:</b> I got 2 entries in the 'job hunting' section. I fail short by one and need to correct that next chance that presents itself.
 
 ### 🌟 <b>Highlights of the Week</b>
 - <b>Memorable moment / breakthrough / proud event</b>: The wedding I attended on Saturday, 28th June 2025. The sequence of synchronicities — moments and their constituting events — that I observed and the skillful manner with which I handled my existence, then and there. I had something of a serendipituous encounter with the camera crew and, after having mentioned my desire to build a drone from scratch, had a lengthy discussion and drone flight demonstration from them with their DJI mini 2.
