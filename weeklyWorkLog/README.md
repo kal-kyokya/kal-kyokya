@@ -22,6 +22,72 @@ Created: {{ 2025-05-31 }}
 
 ---
 
+## Week 6 — Sunday, 30th June 2025
+
+### 🌱 **What Was Worked On**
+
+- **Projects**
+	1. **Understanding GraphQL with Django** — Completed [this project](https://github.com/kal-kyokya/alx-backend-graphql_crm) focused on the integration of GraphQL API to handle requests sent to a Django backend.
+	2. **Futtech** — Investigated the 'translate' transformation logic associated with the video slider on the home page.
+	3. **Web Stack Debugging** — revisited this [ALX project](https://github.com/kal-kyokya/alx-system_engineering-devops/0x0D-web_stack_debugging_0) focused on exposure to some of the most useful and commonly used Linux cli tools for monitoring and debugging.
+
+- **Learning & Growth**
+	1. Started the week with an extensive exploration of [Git Workflow](https://www.google.com/search?client=opera&q=git+workflow&sourceid=opera&ie=UTF-8&oe=UTF-8) through exposure to 5 articles by [Atlassian](https://www.atlassian.com/git/tutorials/comparing-workflows) and 11 [YouTube Videos](https://www.youtube.com/watch?v=Aa8RpP0sf-Y).
+	2. Tuesday was marked by an investigation of the CSS Box Shadow property thanks to [this article](https://www.w3schools.com/css/css3_shadows_box.asp) by W3schools.
+	3. Still on Tuesday, resolution of a deprecation message regarding the 'darken()' function allowed exposure to the concept of [imports in SASS](https://sass-lang.com/documentation/modules/color/).
+	4. On wednesday, early morning, 3 hours were invested in ```Docker related``` [YouTube tutorials](https://www.youtube.com/watch?v=YFl2mCHdv24&list=TLPQMjQwNjIwMjUngL1zEE5iGQ&index=3) that helped better visualize what happens behind the scenes in a ```Kubernetes and Docker system```.
+	5. Thursday's initial focus was the visualization of ['Key Kubernetes Components'](https://www.google.com/search?client=opera&q=key+Kubernetes+components&sourceid=opera&ie=UTF-8&oe=UTF-8) through pictorial representations of the ```Kubernetes Architecture```.
+	5. Still on Thursday, understanding of the [CSS text-overflow property](https://www.w3schools.com/cssref/css3_pr_text-overflow.php) revealed itself as necessary while ```Futtech``` was being designed for mobile responsiveness.
+	6. Friday, after a 10 AM training session during which the coach asked about [The principles of Attack and Defense in Football](https://www.google.com/search?client=opera&q=principles+of+attacking+and+defending+in+football&sourceid=opera&ie=UTF-8&oe=UTF-8), reading and pondering on [this article](https://learn.englandfootball.com/articles-and-resources/coaching/resources/2022/What-are-the-principles-of-football) brought enlightenment.
+	7. The last concept explored turned out to be [CSS 2D transforms](https://www.w3schools.com/css/css3_2dtransforms.asp) and all the functions associated with for manipulation of screen objects.
+
+- **Job hunting**
+	- On Thursday, applied for a freelance-job whose task was 'to refactor and test existing scripts', titled 'JS expert for Vanilla JS and refactor/built', and applicants were informed that they 'needed' to 'utilize Claude AI and GPT.'
+	- Sunday 29th June, in the afternoon, acquired a Upwork Plus monthly subscription out of curiosity for a 'premium' experience.
+
+### 🏆 <b>3 Wins and/or Achievements</b>
+1. I fasted for 40 hours and, an hour after breaking my fast, took part in Wednesday's training session, performed in a satisfactory manner, had a 'near-faint' experience due to severe dehydration and got myself back home.
+2. Practiced ```Not dancing, but performing``` through a quasi impromptu wedding I attended over the weeked. My improvisations were truthful, honest and on point.
+3. Renew my domain name's license for the next year (July 2026) and covered the lowest level of 'Maslow's Hierarchy of financial Needs' for the next 3 months.
+
+### 🔭 <b>3 Fails & Lessons Learned</b>
+1. <b>Failure:</b> I did not start working on this 'weekly work log' on Sunday.<br />
+	<b>Lesson:</b> An accumulation of unreached deadlines pushed everything one step late.
+2. <b>Failure:</b> I lied regarding the progress I have made in completion of the University project.<br />
+	<b>Lesson:</b> Through practice, I need to build the discipline required for me to catch myself (my tongue) before I utter things I know not to be true.
+3. <b>Failure:</b> I did not apply for 3 jobs.<br />
+	<b>Lesson:</b> I need to be aware of the the fact that I subconsciously tell myself that Futtech partly is an employment for which I get the money that pays rent and puts food on the table. I'm thinking that ```Futtech```, ```ALX``` and ```Training sessions``` are what I am committed to daily and am reluctant to adding a job demanding say 4-5 hours to the mix. Maybe after ALX ProDev has freed up space I will for sure want and need something to occupy that space in my schedule.
+
+### 🌟 <b>Highlights of the Week</b>
+- <b>Memorable moment / breakthrough / proud event</b>: The wedding I attended on Saturday, 28th June 2025. The sequence of synchronicities — moments and their constituting events — that I observed and the skillful manner with which I handled my existence, then and there. I had something of a serendipituous encounter with the camera crew and, after having mentioned my desire to build a drone from scratch, had a lengthy discussion and drone flight demonstration from them with their DJI mini 2.
+- <b>Quote, inspiration, or personal reflection</b>: _"Learn ten things from one tip."_ - Maomao, The Apothecary Diaries, S2E40.
+
+---
+
+## 📅 <b>Coming Up Next Week</b> - 30th June to 6th July 2025
+- [ ] Apply for more than one job.
+- [ ] Attend every training sessions this week.
+- [ ] Average an hour per day making Futtech Mobile-friendly
+
+---
+
+## 📈 <b>Meta</b>
+| Metric | This Week |
+| ------ | --------- |
+| GitHub Commits | 46 |
+| Study Hours | 30 |
+| Sleep Avg (hrs) | 7 |
+| Training Sessions (Football) | 2 |
+| Total Coding Time (hrs) | 9 |
+
+---
+
+> _“Learn ten things from one tip.” — Maomao, The Apothecary Diaries, S2E40_
+
+<!-- Let's update the log every Sunday. Let's Go! -->
+
+---
+
 ## Week 5 — Sunday, 29th June 2025
 
 ### 🌱 **What Was Worked On**
@@ -59,7 +125,7 @@ Created: {{ 2025-05-31 }}
 	<b>Lesson:</b> I need to be aware of the the fact that I subconsciously tell myself that Futtech partly is an employment for which I get the money that pays rent and puts food on the table. I'm thinking that ```Futtech```, ```ALX``` and ```Training sessions``` are what I am committed to daily and am reluctant to adding a job demanding say 4-5 hours to the mix. Maybe after ALX ProDev has freed up space I will for sure want and need something to occupy that space in my schedule.
 
 ### 🌟 <b>Highlights of the Week</b>
-- <b>Memorable moment / breakthrough / proud event</b>: The wedding I attended on Saturday, 28th June 2025. The sequence of synchronicities as events or moments that I observed and the skillful manner with which I handled my existence, then and there. I had something of a serendipituous encounter with the camera crew and, after having mentioned my desire to build a drone from scratch, had a lengthy discussion and drone flight demonstration from them with their DJI mini 2.
+- <b>Memorable moment / breakthrough / proud event</b>: The wedding I attended on Saturday, 28th June 2025. The sequence of synchronicities — moments and their constituting events — that I observed and the skillful manner with which I handled my existence, then and there. I had something of a serendipituous encounter with the camera crew and, after having mentioned my desire to build a drone from scratch, had a lengthy discussion and drone flight demonstration from them with their DJI mini 2.
 - <b>Quote, inspiration, or personal reflection</b>: _"Learn ten things from one tip."_ - Maomao, The Apothecary Diaries, S2E40.
 
 ---
