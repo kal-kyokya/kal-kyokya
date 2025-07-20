@@ -47,12 +47,12 @@ Created: {{ 2025-05-31 }}
 3. Had 4 sessions helping me on my journey towards improvement as a Football player. I noticed myself having gotten better.
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
-1. <b>Failure:</b> I, once again, did not start working on this 'weekly work log' on Sunday.<br />
-	<b>Lesson:</b> I was behind schedule on a number of ALX tasks due this sunday, my 'Sunday Ritual' enough time for me to only have time to completed the urgent tasks from the accumulation of unreached deadlines that pushed everything one step late. I should close the week on Saturday to, at least, log the work on Sunday.
-2. <b>Failure:</b> I didn't execute the food plan.<br />
-	<b>Lesson:</b> I consider some of the meals on there to be cause for flatulence despite their relatively cheap price and prefer to incur the financial cost over spending the next day bloated.
-3. <b>Failure:</b> I did not apply for 3 jobs.<br />
-	<b>Lesson:</b> I got 2 entries in the 'job hunting' section. I fail short by one and need to correct that next chance that presents itself.
+1. <b>Failure:</b> I have repeatedly failed to wake up in and around 7AM as had been the norm.<br />
+	<b>Lesson:</b> I don't hear my morning alarm anymore, I prioritize acquiring more dreams to analyze over spending hours completing ALX tasks. I'm tempted to think that 'vibe coding' gives me a rationale for why there is no rush to get out of bed and deprive myself of much needed rest and insightful dreams which are much more meaningful than spend hours typing the result of a prompt to an AI model.
+2. <b>Failure:</b> I skipped week 7's logging of work done.<br />
+	<b>Lesson:</b> I didn't have much progress done as far as Projects were concerned and although there was a certain amount of Football growth that week, I preferred accumulating worthwhile content first. Also, I want to move on from ALX and am dragging my feet, spending more time on Futtech and not prioritizing the ALX learning.
+3. <b>Failure:</b> I haven't executed the food plan in a minute.<br />
+	<b>Lesson:</b> I tell myself that a diet rich in protein will benefit my efforts in bettering myself as a footballer and make me overlook the options that don't have meat in them. Also, the discovery of new combinations of food make me more inclined to exploring rather than settling for the fixed plan. I guess Feast restaurant helped by reducing the possibilities to a fixed set.
 
 ### 🌟 <b>Highlights of the Week</b>
 - <b>Memorable moment / breakthrough / proud event</b>: The Elastico I pulled on my teammate and the banter that ensued as I stared him down before releasing the pass and later on burst out laughing.
