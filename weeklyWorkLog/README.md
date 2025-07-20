@@ -37,8 +37,9 @@ Created: {{ 2025-05-31 }}
 	3. Through [this project](https://github.com/kal-kyokya/alx-backend-graphql_crm) by ALX on Task Automation in Django, I got to visualize features I plan on integrating to Futtech once transitioned from MERN to a React-Django App.
 
 - **Job hunting**
-	- On Wednesday, applied for a freelance-job whose task was to 'write blog articles according to the provided outline', $25-$35 per 1000 words, 2-3 blog posts per week.
-	- My sister prompted me for my CV. Request to which I sent a link to my professional portfolio website 'Contact' section which contains the CV. Can't help but feel like this counts.
+	- Starting at the end, there's this job linked to https://iperceptive.com that I have applied for today and would love to get. I like the idea of having a repository for 'all' the wise sayings that have been uttered by great men of the past as well as their sources; book source, speech place, context, etc... I respect the vision.
+	- Before this I applied for a job focused on SEO, received an initial feedback for which I haven't heard much since. Nevertheless, the idea of specializing in Search Engine Optimization and use Futtech as a tool for that, pleases me. The idea of being someone capable of rendering client's software products appealing to search engines such as Google and therefore increasing their online visibility sounds like a valuable skills to possess.
+	- The first job I applied for during this stretch was a 'Lingala to English Transcription' project that left me feeling like the odds of getting a job are higher when the task at end relates to skills that very few offer on the market. Some 'low traffic areas'.
 
 ### 🏆 <b>3 Wins and/or Achievements</b>
 1. I expressed myself during all 3 training sessions the team had this week; from using my feet to using my words in order to maintain order and drive players towards calm and compusure as well as continuous efforts. I loved it.
