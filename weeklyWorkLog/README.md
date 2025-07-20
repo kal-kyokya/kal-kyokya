@@ -54,10 +54,6 @@ Created: {{ 2025-05-31 }}
 3. <b>Failure:</b> I haven't executed the food plan in a minute.<br />
 	<b>Lesson:</b> I tell myself that a diet rich in protein will benefit my efforts in bettering myself as a footballer and make me overlook the options that don't have meat in them. Also, the discovery of new combinations of food make me more inclined to exploring rather than settling for the fixed plan. I guess Feast restaurant helped by reducing the possibilities to a fixed set.
 
-### 🌟 <b>Highlights of the Week</b>
-- <b>Memorable moment / breakthrough / proud event</b>: The Elastico I pulled on my teammate and the banter that ensued as I stared him down before releasing the pass and later on burst out laughing.
-- <b>Quote, inspiration, or personal reflection</b>: Each training sessions, I get to see the person I am turning myself into, the triggers and influences I am subject to and the opportunity to look around and extract inspiration for ```who to be``` and ```who not to be```.
-
 ---
 
 ## 📅 <b>Coming Up Next Week</b> - 7th to 13th July 2025
@@ -67,18 +63,7 @@ Created: {{ 2025-05-31 }}
 
 ---
 
-## 📈 <b>Meta</b>
-| Metric | This Week |
-| ------ | --------- |
-| GitHub Commits | 56 |
-| Study Hours | 25 |
-| Sleep Avg (hrs) | 6 |
-| Training Sessions (Football) | 3 |
-| Total Coding Time (hrs) | 6 |
-
----
-
-> _“Better to argue than to fight, unless fighting is what you want.” — Jordan B. Peterson, Biblical Series, Sodom amd Gomorrah_
+> _“Stay ready so you don't have to get ready.” — Andrew Schulz, "Andrew Schulz's Flagrant with Akaash Singh"_
 
 <!-- Let's update the log every Sunday. Let's Go! -->
 
