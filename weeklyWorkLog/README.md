@@ -28,17 +28,13 @@ Created: {{ 2025-05-31 }}
 
 - **Projects**
 	1. **Futtech** — Completed refactor of the 'list' component as well as 'list item' components, and began redesign of the register page.
-	2. **Automation and Scheduling** — Complemented [this project](https://github.com/kal-kyokya/alx-backend-graphql_crm) by integrating a set of ```cron jobs``` smoothing out processes such as database updates and process log creations.
+	2. **Automating Tasks in Django and Scheduling** — Complemented [this project](https://github.com/kal-kyokya/alx-backend-graphql_crm) by integrating a set of ```cron jobs``` smoothing out processes such as database updates and process log creations.
 	3. **Redis within a Django App** — Explored usage of Redis within its CLI (```redis-cli```) before experimenting with it through python3's Command-line Interface.
 
 - **Learning & Growth**
-	1. In order to better understand implementation of a video slider, I started the week with an investigation of [CSS Translate](https://developer.mozilla.org/en-US/docs/Web/CSS/transform-function/translate), a subset of [CSS 2D Transforms](https://developer.mozilla.org/en-US/docs/Web/CSS/transform-function/translate).
-	2. Still on Monday, curiosity as to what is the full definition of the word [Numinous](https://en.wikipedia.org/wiki/Numinous) led to the discovery of these insightful articles [here](https://oxfordre.com/religion/religion/abstract/10.1093/acrefore/9780199340378.001.0001/acrefore-9780199340378-e-88#:~:text=The%20numinous%20is%20further%20described,the%20Mysterium%20tremendum%20et%20fascinans.) and [here](https://www.encyclopedia.com/philosophy-and-religion/christianity/christianity-general/numinous).
-	3. Tuesday was marked by an investigation of the HTML DOM Element [getBoundingClientRect() Method](https://www.w3schools.com/jsref/met_element_getboundingclientrect.asp) by W3schools.
-	4. On wednesday, I completed the watch of parts 62 to 65 of this [YouTube tutorial playlist](https://www.youtube.com/watch?v=lRKWJtzqwcQ&list=TLPQMDEwNzIwMjWDeaO3Ra7A8w&index=2), which helped better understand how to integrate ```GraphQL with a React-Django App```.
-	5. Thursday's focus was [debugging Futtech's video slider](https://github.com/kal-kyokya/Futtech/commit/6e0ee63eddf57e2ef0644df21b0e0b07903d4a81) which helped better understand the effect that 'translateX()' has on the list component.
-	6. Friday, understanding how to append a GraphQL API with Django through [this project](https://github.com/kal-kyokya/alx-backend-graphql_crm) and the browser interaction with ```GraphiQL``` introduced me to a new programming paradigm.
-	7. The last concept explored turned out to be [Payment Integration in App Development](https://www.youtube.com/watch?v=3OOHC_UzrKA&list=TLPQMDUwNzIwMjX40Qiy9tdjtw&index=5) with ```Stripe``` being the focus.
+	1. [This article](https://realpython.com/python-redis/) revealed itself to be everything I needed in order to explore the topic of Redis as well as Redis integrated with python, I liked how it prompted remembrance of a wide range of programming concepts and paradigm.
+	2. A [google search](https://www.google.com/search?client=opera&q=venture+vs+startup&sourceid=opera&ie=UTF-8&oe=UTF-8) on ```venture vs startup``` helped me better conceptualize what Futtech and Everything-IoT are; Startups.
+	3. Through [this project](https://github.com/kal-kyokya/alx-backend-graphql_crm) by ALX on Task Automation in Django, I got to visualize features I plan on integrating to Futtech once transitioned from MERN to a React-Django App.
 
 - **Job hunting**
 	- On Wednesday, applied for a freelance-job whose task was to 'write blog articles according to the provided outline', $25-$35 per 1000 words, 2-3 blog posts per week.
