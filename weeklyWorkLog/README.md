@@ -42,9 +42,9 @@ Created: {{ 2025-05-31 }}
 	- The first job I applied for during this stretch was a 'Lingala to English Transcription' project that left me feeling like the odds of getting a job are higher when the task at end relates to skills that very few offer on the market. Some 'low traffic areas'.
 
 ### 🏆 <b>3 Wins and/or Achievements</b>
-1. I expressed myself during all 3 training sessions the team had this week; from using my feet to using my words in order to maintain order and drive players towards calm and compusure as well as continuous efforts. I loved it.
-2. Discovered a new 'home laptop setup' that makes it possible for me to sit for 6-8 hours on my office chair and not feel strain in my lower back.
-3. Completed read of the entire Qur'an.
+1. I applied for 3 jobs this week.
+2. I watched myself be a rock upon which others can rely while processing their 'pathos'.
+3. Had 4 sessions helping me on my journey towards improvement as a Football player. I noticed myself having gotten better.
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
 1. <b>Failure:</b> I, once again, did not start working on this 'weekly work log' on Sunday.<br />
@@ -109,7 +109,7 @@ Created: {{ 2025-05-31 }}
 ### 🏆 <b>3 Wins and/or Achievements</b>
 1. I expressed myself during all 3 training sessions the team had this week; from using my feet to using my words in order to maintain order and drive players towards calm and compusure as well as continuous efforts. I loved it.
 2. Discovered a new 'home laptop setup' that makes it possible for me to sit for 6-8 hours on my office chair and not feel strain in my lower back.
-3. Completed read of the entire Qur'an.
+3. Completed the read of the entire Qur'an.
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
 1. <b>Failure:</b> I, once again, did not start working on this 'weekly work log' on Sunday.<br />
