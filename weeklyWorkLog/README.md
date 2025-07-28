@@ -22,6 +22,53 @@ Created: {{ 2025-05-31 }}
 
 ---
 
+## Week 9 — Sunday, 28th July 2025
+
+### 🌱 **What Was Worked On**
+
+- **Projects**
+	1. **Futtech** — Refactored the 'register' page and ensured the background image repeats on larger screens.
+	2. **Caching in Django** — Through [this project](https://github.com/kal-kyokya/alx-backend-caching_property_listings) by ALX, a test Django project was set up with Dockerized PostgreSQL and Redis.
+	3. **Redis within a Django App** — Explored usage of Redis within its CLI (```redis-cli```) before experimenting with it through python3's Command-line Interface.
+
+- **Learning & Growth**
+	1. [This article](https://realpython.com/python-redis/) revealed itself to be everything I needed in order to explore the topic of Redis as well as Redis integrated with python, I liked how it prompted remembrance of a wide range of programming concepts and paradigm.
+	2. A [google search](https://www.google.com/search?client=opera&q=venture+vs+startup&sourceid=opera&ie=UTF-8&oe=UTF-8) on ```venture vs startup``` helped me better conceptualize what Futtech and Everything-IoT are; Startups.
+	3. Through [this project](https://github.com/kal-kyokya/alx-backend-graphql_crm) by ALX on Task Automation in Django, I got to visualize features I plan on integrating to Futtech once transitioned from MERN to a React-Django App.
+
+- **Job hunting**
+	- Starting at the end, there's this job linked to https://iperceptive.com that I have applied for today and would love to get. It is a [passion project](https://www.google.com/search?client=opera&q=passion+project&sourceid=opera&ie=UTF-8&oe=UTF-8). I like the idea of having a repository for 'all' the wise sayings that have been uttered by great men of the past as well as their sources; book source, speech place, context, etc... I respect the vision.
+	- Before this I applied for a job focused on SEO, received an initial feedback for which I haven't heard much since. Nevertheless, the idea of specializing in Search Engine Optimization and use Futtech as a tool for that, pleases me. The idea of being someone capable of rendering client's software products appealing to search engines such as Google and therefore increasing their online visibility sounds like a valuable skills to possess.
+	- The first job I applied for during this stretch was a 'Lingala to English Transcription' project that left me feeling like the odds of getting a job are higher when the task at end relates to skills that very few offer on the market. Some 'low traffic areas'.
+
+### 🏆 <b>3 Wins and/or Achievements</b>
+1. I applied for 3 jobs this week.
+2. I watched myself be a rock upon which others can rely while processing their 'pathos'.
+3. Had 4 sessions helping me on my journey towards improvement as a Football player. I noticed myself having gotten better.
+
+### 🔭 <b>3 Fails & Lessons Learned</b>
+1. <b>Failure:</b> I have repeatedly failed to wake up in and around 7AM as had been the norm.<br />
+	<b>Lesson:</b> I don't hear my morning alarm anymore, I prioritize acquiring more dreams to analyze over spending hours completing ALX tasks. I'm tempted to think that 'vibe coding' gives me a rationale for why there is no rush to get out of bed and deprive myself of much needed rest and insightful dreams which are much more meaningful than spend hours typing the result of a prompt to an AI model.
+2. <b>Failure:</b> I skipped week 7's logging of work done.<br />
+	<b>Lesson:</b> I didn't have much progress done as far as Projects were concerned and although there was a certain amount of Football growth that week, I preferred accumulating worthwhile content first. Also, I want to move on from ALX and am dragging my feet, spending more time on Futtech and not prioritizing the ALX learning.
+3. <b>Failure:</b> I haven't executed the food plan in a minute.<br />
+	<b>Lesson:</b> I tell myself that a diet rich in protein will benefit my efforts in bettering myself as a footballer and make me overlook the options that don't have meat in them. Also, the discovery of new combinations of food make me more inclined to exploring rather than settling for the fixed plan. I guess Feast restaurant helped by reducing the possibilities to a fixed set.
+
+---
+
+## 📅 <b>Coming Up Next Week</b> - 7th to 13th July 2025
+- [ ] Apply for 3 jobs.
+- [ ] Attend every training sessions.
+- [ ] Average an hour per day making Futtech Mobile-friendly
+
+---
+
+> _“Stay ready so you don't have to get ready.” — Andrew Schulz, "Andrew Schulz's Flagrant with Akaash Singh"_
+
+<!-- Let's update the log every Sunday. Let's Go! -->
+
+---
+
 ## Week 7 and 8 — Sunday, 13th July and 20th July 2025
 
 ### 🌱 **What Was Worked On**
@@ -37,7 +84,7 @@ Created: {{ 2025-05-31 }}
 	3. Through [this project](https://github.com/kal-kyokya/alx-backend-graphql_crm) by ALX on Task Automation in Django, I got to visualize features I plan on integrating to Futtech once transitioned from MERN to a React-Django App.
 
 - **Job hunting**
-	- Starting at the end, there's this job linked to https://iperceptive.com that I have applied for today and would love to get. I like the idea of having a repository for 'all' the wise sayings that have been uttered by great men of the past as well as their sources; book source, speech place, context, etc... I respect the vision.
+	- Starting at the end, there's this job linked to https://iperceptive.com that I have applied for today and would love to get. It is a [passion project](https://www.google.com/search?client=opera&q=passion+project&sourceid=opera&ie=UTF-8&oe=UTF-8). I like the idea of having a repository for 'all' the wise sayings that have been uttered by great men of the past as well as their sources; book source, speech place, context, etc... I respect the vision.
 	- Before this I applied for a job focused on SEO, received an initial feedback for which I haven't heard much since. Nevertheless, the idea of specializing in Search Engine Optimization and use Futtech as a tool for that, pleases me. The idea of being someone capable of rendering client's software products appealing to search engines such as Google and therefore increasing their online visibility sounds like a valuable skills to possess.
 	- The first job I applied for during this stretch was a 'Lingala to English Transcription' project that left me feeling like the odds of getting a job are higher when the task at end relates to skills that very few offer on the market. Some 'low traffic areas'.
 
