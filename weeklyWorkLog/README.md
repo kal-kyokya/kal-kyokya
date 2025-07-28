@@ -63,6 +63,10 @@ Created: {{ 2025-05-31 }}
 3. <b>Failure:</b> I didn't execute the food plan this week.<br />
 	<b>Lesson:</b> I guess this is Parkinson's law ('you will stretch out the completion of your tasks until they fill the time available to complete them'). I have money on me and am stretching my food expenses to the 500Ksh mark. Discipline OG, lets go.
 
+### 🌟 <b>Highlights of the Week</b>
+- <b>Memorable moment / breakthrough / proud event</b>: The dead ball sombrero I pulled on a teammate during a tuesday's training session as we were playing rondo was just exquisite.
+- <b>Quote, inspiration, or personal reflection</b>: "It is all about the extra hours"; got this from a teammate who is more techically proficient than I am, after I asked him to give me an advise that would help me grow.
+
 ---
 
 ## 📅 <b>Coming Up Next Week</b> - 7th to 13th July 2025
