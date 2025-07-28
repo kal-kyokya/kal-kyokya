@@ -69,14 +69,25 @@ Created: {{ 2025-05-31 }}
 
 ---
 
-## 📅 <b>Coming Up Next Week</b> - 28th to 3rd August 2025
+## 📅 <b>Coming Up Next Week</b> - 28th July to 3rd August 2025
 - [ ] Apply for 3 jobs.
 - [ ] Emgage in 4 transformative sessions.
 - [ ] Average an hour per day making Futtech Mobile-friendly
 
 ---
 
-> _“Stay ready so you don't have to get ready.” — Andrew Schulz, "Andrew Schulz's Flagrant with Akaash Singh"_
+## 📈 <b>Meta</b>
+| Metric | This Week |
+| ------ | --------- |
+| GitHub Commits | 56 |
+| Study Hours | 25 |
+| Sleep Avg (hrs) | 6 |
+| Training Sessions (Football) | 3 |
+| Total Coding Time (hrs) | 6 |
+
+---
+
+> _“Live to improve, not to impress.”, X (Twitter), 3:56 PM · Jul 22, 2025, by @Lovandfear_
 
 <!-- Let's update the log every Sunday. Let's Go! -->
 
