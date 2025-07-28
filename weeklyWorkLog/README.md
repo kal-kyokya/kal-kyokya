@@ -56,7 +56,7 @@ Created: {{ 2025-05-31 }}
 2. <b>Failure:</b> For the second week running, I did not execute all the plyometrics exercises while in the gym.<br />
 	<b>Lesson:</b> I want to believe that the cardio session and weight-lifting that goes on before I get to Plyometrics impact my ability to finish strong and cause the light headeness I feel apprehensive about when it occurs. InshaAllah, I will show up next 2 weeks to see if my body adjusts and test the other hypothesis of dehydration.
 3. <b>Failure:</b> I didn't execute the food plan this week.<br />
-	<b>Lesson:</b> I guess this is Parkinson's law ('you will stretch out the completion of your tasks until they fill the time available to complete them'). I have money on me and am stretching my food expenses to the 500Ksh mark. Discipline OG, lets go.
+	<b>Lesson:</b> I guess this is Parkinson's law (_'you will stretch out the completion of your tasks until they fill the time available to complete them'_). I have money on me and am stretching my food expenses to the 500Ksh mark. Discipline OG, let's go.
 
 ### 🌟 <b>Highlights of the Week</b>
 - <b>Memorable moment / breakthrough / proud event</b>: The dead ball sombrero I pulled on a teammate during a tuesday's training session as we were playing rondo was just exquisite.
@@ -65,7 +65,7 @@ Created: {{ 2025-05-31 }}
 ---
 
 ## 📅 <b>Coming Up Next Week</b> - 28th July to 3rd August 2025
-- [ ] Apply for 3 jobs.
+- [ ] Finish strong with ALX Backend Web Pro-Development; tasks and project nexus.
 - [ ] Engage in 4 transformative sessions.
 - [ ] Average an hour per day making Futtech Mobile-friendly
 
