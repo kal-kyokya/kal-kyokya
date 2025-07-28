@@ -43,9 +43,7 @@ Created: {{ 2025-05-31 }}
   	9. Although [this article](https://www.geeksforgeeks.org/python/custom-django-management-commands/) is about custom Django management commands, the concepts I am grateful I got exposure to is that of differentiation between ```django-admin``` and ```python manage.py```.
 
 - **Job hunting**
-	- Starting at the end, there's this job linked to https://iperceptive.com that I have applied for today and would love to get. It is a [passion project](https://www.google.com/search?client=opera&q=passion+project&sourceid=opera&ie=UTF-8&oe=UTF-8). I like the idea of having a repository for 'all' the wise sayings that have been uttered by great men of the past as well as their sources; book source, speech place, context, etc... I respect the vision.
-	- Before this I applied for a job focused on SEO, received an initial feedback for which I haven't heard much since. Nevertheless, the idea of specializing in Search Engine Optimization and use Futtech as a tool for that, pleases me. The idea of being someone capable of rendering client's software products appealing to search engines such as Google and therefore increasing their online visibility sounds like a valuable skills to possess.
-	- The first job I applied for during this stretch was a 'Lingala to English Transcription' project that left me feeling like the odds of getting a job are higher when the task at end relates to skills that very few offer on the market. Some 'low traffic areas'.
+	- No Jobs applied - No milestones delivered
 
 ### 🏆 <b>3 Wins and/or Achievements</b>
 1. I applied for 3 jobs this week.
