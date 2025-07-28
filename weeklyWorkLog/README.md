@@ -51,12 +51,12 @@ Created: {{ 2025-05-31 }}
 3. Had 4 sessions helping me on my journey towards improvement as a Football player. I noticed myself having gotten better.
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
-1. <b>Failure:</b> I have repeatedly failed to wake up in and around 7AM as had been the norm.<br />
-	<b>Lesson:</b> I don't hear my morning alarm anymore, I prioritize acquiring more dreams to analyze over spending hours completing ALX tasks. I'm tempted to think that 'vibe coding' gives me a rationale for why there is no rush to get out of bed and deprive myself of much needed rest and insightful dreams which are much more meaningful than spend hours typing the result of a prompt to an AI model.
-2. <b>Failure:</b> I skipped week 7's logging of work done.<br />
-	<b>Lesson:</b> I didn't have much progress done as far as Projects were concerned and although there was a certain amount of Football growth that week, I preferred accumulating worthwhile content first. Also, I want to move on from ALX and am dragging my feet, spending more time on Futtech and not prioritizing the ALX learning.
-3. <b>Failure:</b> I haven't executed the food plan in a minute.<br />
-	<b>Lesson:</b> I tell myself that a diet rich in protein will benefit my efforts in bettering myself as a footballer and make me overlook the options that don't have meat in them. Also, the discovery of new combinations of food make me more inclined to exploring rather than settling for the fixed plan. I guess Feast restaurant helped by reducing the possibilities to a fixed set.
+1. <b>Failure:</b> I did not apply for a single job.<br />
+	<b>Lesson:</b> The idea that the money required for me to send proposal can be used to feed myself and my daily expenses while I continuously work on Futtech as my "job" made it easier for me to look at my budget for the next couple months and realize that I don't have money to apply for more job this July.
+2. <b>Failure:</b> For the second week running, I did not execute all the plyometrics exercises while in the gym.<br />
+	<b>Lesson:</b> I want to believe that the cardio session and weight-lifting that goes on before I get to Plyometrics impact my ability to finish strong and cause the light headeness I feel apprehensive about when it occurs. InshaAllah, I will show up next 2 weeks to see if my body adjusts and test the other hypothesis of dehydration.
+3. <b>Failure:</b> I didn't execute the food plan this week.<br />
+	<b>Lesson:</b> I guess this is Parkinson's law ('you will stretch out the completion of your tasks until they fill the time available to complete them'). I have money on me and am stretching my food expenses to the 500Ksh mark. Discipline OG, lets go.
 
 ---
 
