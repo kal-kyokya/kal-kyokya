@@ -50,11 +50,6 @@ Created: {{ 2025-05-31 }}
 2. I was consistent going to ned at midnight.
 3. I had 4 sessions contributing to my growth as a footballer and liked the person I was when going through each.
 
-### 🏆 <b>3 Wins and/or Achievements</b>
-1. I applied for 3 jobs this week.
-2. I watched myself be a rock upon which others can rely while processing their 'pathos'.
-3. Had 4 sessions helping me on my journey towards improvement as a Football player. I noticed myself having gotten better.
-
 ### 🔭 <b>3 Fails & Lessons Learned</b>
 1. <b>Failure:</b> I did not apply for a single job.<br />
 	<b>Lesson:</b> The idea that the money required for me to send proposal can be used to feed myself and my daily expenses while I continuously work on Futtech as my "job" made it easier for me to look at my budget for the next couple months and realize that I don't have money to apply for more job this July.
@@ -71,7 +66,7 @@ Created: {{ 2025-05-31 }}
 
 ## 📅 <b>Coming Up Next Week</b> - 28th July to 3rd August 2025
 - [ ] Apply for 3 jobs.
-- [ ] Emgage in 4 transformative sessions.
+- [ ] Engage in 4 transformative sessions.
 - [ ] Average an hour per day making Futtech Mobile-friendly
 
 ---
@@ -79,11 +74,11 @@ Created: {{ 2025-05-31 }}
 ## 📈 <b>Meta</b>
 | Metric | This Week |
 | ------ | --------- |
-| GitHub Commits | 56 |
+| GitHub Commits | 52 |
 | Study Hours | 25 |
-| Sleep Avg (hrs) | 6 |
-| Training Sessions (Football) | 3 |
-| Total Coding Time (hrs) | 6 |
+| Sleep Avg (hrs) | 7 |
+| Training Sessions (Football) | 4 |
+| Total Coding Time (hrs) | 3 |
 
 ---
 
