@@ -29,7 +29,7 @@ Created: {{ 2025-05-31 }}
 - **Projects**
 	1. **Futtech** — Refactored the 'register' page and ensured the background image repeats on larger screens.
 	2. **Caching in Django** — Through [this project](https://github.com/kal-kyokya/alx-backend-caching_property_listings) by ALX, a test Django project was set up with Dockerized PostgreSQL and Redis.
-	3. **Redis within a Django App** — Explored usage of Redis within its CLI (```redis-cli```) before experimenting with it through python3's Command-line Interface.
+	3. **IP tracking within a Django Project** — Explored implemetation of security and analytics concepts and best practices associated with backend systems.
 
 - **Learning & Growth**
 	1. [This article](https://realpython.com/python-redis/) revealed itself to be everything I needed in order to explore the topic of Redis as well as Redis integrated with python, I liked how it prompted remembrance of a wide range of programming concepts and paradigm.
