@@ -46,6 +46,11 @@ Created: {{ 2025-05-31 }}
 	- No Jobs applied - No milestones delivered
 
 ### 🏆 <b>3 Wins and/or Achievements</b>
+1. I embodied Solution Guy nicely, an instance of DLHI.
+2. I was consistent going to ned at midnight.
+3. I had 4 sessions contributing to my growth as a footballer and liked the person I was when going through each.
+
+### 🏆 <b>3 Wins and/or Achievements</b>
 1. I applied for 3 jobs this week.
 2. I watched myself be a rock upon which others can rely while processing their 'pathos'.
 3. Had 4 sessions helping me on my journey towards improvement as a Football player. I noticed myself having gotten better.
