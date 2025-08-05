@@ -71,11 +71,11 @@ Created: {{ 2025-05-31 }}
 ## 📈 <b>Meta</b>
 | Metric | This Week |
 | ------ | --------- |
-| GitHub Commits | 52 |
-| Study Hours | 25 |
+| GitHub Commits | 25 |
+| Study Hours | 12 |
 | Sleep Avg (hrs) | 7 |
 | Training Sessions (Football) | 4 |
-| Total Coding Time (hrs) | 3 |
+| Total Coding Time (hrs) | 1 |
 
 ---
 
@@ -85,7 +85,7 @@ Created: {{ 2025-05-31 }}
 
 ---
 
-## Week 9 — Sunday, 28th July 2025
+## Week 9 — Sunday, 27th July 2025
 
 ### 🌱 **What Was Worked On**
 
