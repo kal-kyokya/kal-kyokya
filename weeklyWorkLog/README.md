@@ -36,16 +36,16 @@ Created: {{ 2025-05-31 }}
 	2. Django rate limiting: Ensure the practice Django project had a rate limiting feature. Read of the [documetation](https://django-ratelimit.readthedocs.io/en/stable/) as well as [this web page](https://pypi.org/project/django-ratelimit/) helped further the understanding of how best to implement such a feature.
 	3. Read of '[Ratelimit Keys](https://django-ratelimit.readthedocs.io/en/stable/keys.html)' and '[How to use Django Ratelimit](https://django-ratelimit.readthedocs.io/en/stable/usage.html)' broaden understanding of this particular topic.
 	4. The 'annotate()' method of Django querySets objects turned out to be a concept I had been exposed to but needed a deeper investigation. This was done thanks to the documentation; [Aggregation | Django documentation](https://docs.djangoproject.com/en/5.2/topics/db/aggregation/).
-	5. The difference between 'CAN et CHAN' [AFCON & CHAN); CHAN is albout allowing 'rising stars' to shine and represent their nation. CAF is more of the 'All-stars'. That's an NBA terms explanation.
+	5. The difference between 'CAN et CHAN' (AFCON & CHAN); CHAN is albout allowing 'rising stars' to shine and represent their nation. CAF is more of the 'All-stars'. That's an NBA terms explanation.
 	6. The 'values()' method of Django querySet objects revealed itself as a useful tool in the context of Django model manipulation. The [AI overview](https://www.google.com/search?client=opera&q=django+values+queryset+method&sourceid=opera&ie=UTF-8&oe=UTF-8) by google associated with 'django values queryset method' summarized it well.
 
 - **Job hunting**
 	- No Jobs applied - No milestones delivered
 
 ### 🏆 <b>3 Wins and/or Achievements</b>
-1. I embodied Solution Guy nicely, an instance of DLHI.
-2. I was consistent going to ned at midnight.
-3. I had 4 sessions contributing to my growth as a footballer and liked the person I was when going through each.
+1. While in Kasarani stadium for the Congo vs Kenya CHAN game, I effectively embodied the Stoic philosopher who has absolute control over 'pathos' and focuses solely on extracting 'logos' from every moment. An emodiment of my 'ethos', and an addition to the cookie jar.
+2. I was presented chances to take pictures and record videos twice over the weekend (USIU game and Kasarani with Congo), and each time I gave my best, went the extra mile and consolidated the need to focus the iPhone lense on the object by tapping the screen.
+3. I didn't feel as tense as I once felt when it came time to socialize. The prospect of engaging with people doesn't move me off the center as much as it once did. My introverted nature is learning to integrate social interactions.
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
 1. <b>Failure:</b> I did not apply for a single job.<br />
@@ -110,7 +110,7 @@ Created: {{ 2025-05-31 }}
 
 ### 🏆 <b>3 Wins and/or Achievements</b>
 1. I embodied Solution Guy nicely, an instance of DLHI.
-2. I was consistent going to ned at midnight.
+2. I was consistent going to bed at midnight.
 3. I had 4 sessions contributing to my growth as a footballer and liked the person I was when going through each.
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
