@@ -22,6 +22,72 @@ Created: {{ 2025-05-31 }}
 
 ---
 
+## Week 10 — Sunday, 3rd August 2025
+
+### 🌱 **What Was Worked On**
+
+- **Projects**
+	1. **ALX Backend ProDev Web Development Final Project**: Internally referred as (Project Nexus)[https://github.com/kal-kyokya/alx-project-nexus], the documentation for a movie recommendation system project was detailed (here)[https://github.com/kal-kyokya/alx-project-nexus/blob/main/project-nexus.md].
+	2. **IP Tracking - Security and Analytics**: Add IP Geolocation capabilities to a Django project using the module named '(django-ip-geolocation)[https://docs.djangoproject.com/en/5.2/ref/contrib/gis/geoip2/]'. Additional web resource interacted with include (this page)[https://pypi.org/project/django-ip-geolocation/].
+	3. **Django rate limiting**: Ensure the practice Django project had a rate limiting feature. Read of the (documetation)[https://django-ratelimit.readthedocs.io/en/stable/] as well as (this web page)[https://pypi.org/project/django-ratelimit/] helped further the understanding of how best to implement such a feature.
+
+- **Learning & Growth**
+	1. A quick search on Tuesday morning led to [this article](https://www.w3schools.com/cssref/css3_pr_flex.php) by w3schools which allowed me to refine my understanding of the ```CSS flex property``` and how I could integrate it in the refactor of Futtech for mobile responsiveness.
+	2. This was followed by an investigation of the ```CSS background property``` through this [other article by w3schools](https://www.w3schools.com/cssref/css3_pr_background.php).
+	3. Still on tuesday, reading the book ```System Thinking``` by Jahshid Gharajedaghi exposed me to the comparison between [Analytical thinking and System Thinking](https://www.google.com/search?client=opera&hs=R14&sca_esv=271f39430edfaf17&sxsrf=AE3TifNxNDWXFWBIVPJu1-IitwT2fs0aOw:1753697684533&q=analytical+vs+systems+thinking&udm=2&fbs=AIIjpHxU7SXXniUZfeShr2fp4giZ1Y6MJ25_tmWITc7uy4KIeoJTKjrFjVxydQWqI2NcOha3O1YqG67F0QIhAOFN_ob1aWGQOelbxvw0PKo40QtwvZMGAT8mh52EQduMaEwrkL_OWJKMRsfwjGjYSpRBlZ1JDaBjTRFJHK6nc3h7Df_ewEX8XvmvbWbC3KO9R3Wzz8-jDjRXDvvSfLP0DDBhoo8LSWAeOg&sa=X&ved=2ahUKEwjVuJ78qN-OAxXs_7sIHcxLMjgQtKgLKAF6BAgVEAE&biw=1191&bih=621&dpr=1.1#vhid=J6bbV6l0MTtlvM&vssid=mosaic), 2 concepts of great importance for me as an aspiring embedded systems engineer and a footballer.
+ 	4. Wednesday morning, in search for a better phrasing of what [Futtech](https:futtech.kalkyokya.tech) offers to players, the AI overview of [this google search](https://www.google.com/search?client=opera&q=a+player%27s+technic+and&sourceid=opera&ie=UTF-8&oe=UTF-8) established a distinction between ```Technical and Tactical skills```. Distinction that enlightened me as a footballer and a sport app developer.
+	5. Still on wednesday, through an other AI overview, I gained awareness of the what ```Causal reasoning``` entails and analyzed my football technique and tactics as I read through the overview of [this google search](https://www.google.com/search?client=opera&q=causal+reasoning&sourceid=opera&ie=UTF-8&oe=UTF-8).
+ 	6. My SSL certificate for kalkyokya.tech couldn't be automatically renewed due to the absence of dhaabu's AA record anywhere online, I relied on gemini to take me through the procedure required for me to remove it from the list of record supported by ```certbot``` during certificate renewal.
+ 	7. Saturday, after a home session where I recorded myself practicing some fancy ball flicks and wall control-pass cycles, through ```Genius```, I read the lyrics to [La rue est morte.](https://genius.com/Damso-la-rue-est-morte-lyrics) by ```Damso``` and rediscover this song that I currently find continuously deep and meaningful.
+  	8. Later that day, the idea of being abble to create your own django management commands revealed itself to me as powerful and sophisticated. The potential it has really had me looking forward to the time I will use it to created custom commands for Futtech. [The documentation](https://docs.djangoproject.com/en/5.2/howto/custom-management-commands/) on ```How to created django-admin custom commands``` does a great job putting things in perspective.
+  	9. Although [this article](https://www.geeksforgeeks.org/python/custom-django-management-commands/) is about custom Django management commands, the concepts I am grateful I got exposure to is that of differentiation between ```django-admin``` and ```python manage.py```.
+
+- **Job hunting**
+	- No Jobs applied - No milestones delivered
+
+### 🏆 <b>3 Wins and/or Achievements</b>
+1. I embodied Solution Guy nicely, an instance of DLHI.
+2. I was consistent going to ned at midnight.
+3. I had 4 sessions contributing to my growth as a footballer and liked the person I was when going through each.
+
+### 🔭 <b>3 Fails & Lessons Learned</b>
+1. <b>Failure:</b> I did not apply for a single job.<br />
+	<b>Lesson:</b> The idea that the money required for me to send proposal can be used to feed myself and my daily expenses while I continuously work on Futtech as my "job" made it easier for me to look at my budget for the next couple months and realize that I don't have money to apply for more job this July.
+2. <b>Failure:</b> For the second week running, I did not execute all the plyometrics exercises while in the gym.<br />
+	<b>Lesson:</b> I want to believe that the cardio session and weight-lifting that goes on before I get to Plyometrics impact my ability to finish strong and cause the light headeness I feel apprehensive about when it occurs. InshaAllah, I will show up next 2 weeks to see if my body adjusts and test the other hypothesis of dehydration.
+3. <b>Failure:</b> I didn't execute the food plan this week.<br />
+	<b>Lesson:</b> I guess this is Parkinson's law (_'you will stretch out the completion of your tasks until they fill the time available to complete them'_). I have money on me and am stretching my food expenses to the 500Ksh mark. Discipline OG, let's go.
+
+### 🌟 <b>Highlights of the Week</b>
+- <b>Memorable moment / breakthrough / proud event</b>: The dead ball sombrero I pulled on a teammate during a tuesday's training session as we were playing rondo was just exquisite.
+- <b>Quote, inspiration, or personal reflection</b>: "It is all about the extra hours"; got this from a teammate who is more techically proficient than I am, after I asked him to give me an advise that would help me grow.
+
+---
+
+## 📅 <b>Coming Up Next Week</b> - 28th July to 3rd August 2025
+- [ ] Finish strong with ALX Backend Web Pro-Development; tasks and project nexus.
+- [ ] Engage in 4 transformative sessions.
+- [ ] Average an hour per day making Futtech Mobile-friendly
+
+---
+
+## 📈 <b>Meta</b>
+| Metric | This Week |
+| ------ | --------- |
+| GitHub Commits | 52 |
+| Study Hours | 25 |
+| Sleep Avg (hrs) | 7 |
+| Training Sessions (Football) | 4 |
+| Total Coding Time (hrs) | 3 |
+
+---
+
+> _“Live to improve, not to impress.”, X (Twitter), 3:56 PM · Jul 22, 2025, by @Lovandfear_
+
+<!-- Let's update the log every Sunday. Let's Go! -->
+
+---
+
 ## Week 9 — Sunday, 28th July 2025
 
 ### 🌱 **What Was Worked On**
