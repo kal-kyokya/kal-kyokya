@@ -56,8 +56,8 @@ Created: {{ 2025-05-31 }}
 **Lesson:** I am yet to fully define the degree to which pathos needs to be detached from and find myself indulging in it as a tool to socialize and not stand out as cold and/or unfeeling.
 
 ### 🌟 <b>Highlights of the Week</b>
-- <b>Memorable moment / breakthrough / proud event</b>: The dead ball sombrero I pulled on a teammate during a tuesday's training session as we were playing rondo was just exquisite.
-- <b>Quote, inspiration, or personal reflection</b>: "It is all about the extra hours"; got this from a teammate who is more techically proficient than I am, after I asked him to give me an advise that would help me grow.
+- <b>Memorable moment / breakthrough / proud event</b>: The home session I had where I practiced wall passing and ball trapping without letting the ball touch the ground.
+- <b>Quote, inspiration, or personal reflection</b>: "Tools change, but principles, they remain the same" I got this from watching A TEDxTalk on YouTube about AI and its impact on Software Engineers.
 
 ---
 
