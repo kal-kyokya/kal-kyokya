@@ -48,12 +48,12 @@ Created: {{ 2025-05-31 }}
 3. I didn't feel as tense as I once felt when it came time to socialize. The prospect of engaging with people doesn't move me off the center as much as it once did. My introverted nature is learning to integrate social interactions.
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
-1. <b>Failure:</b> I did not apply for a single job.<br />
-	<b>Lesson:</b> The idea that the money required for me to send proposal can be used to feed myself and my daily expenses while I continuously work on Futtech as my "job" made it easier for me to look at my budget for the next couple months and realize that I don't have money to apply for more job this July.
-2. <b>Failure:</b> For the second week running, I did not execute all the plyometrics exercises while in the gym.<br />
-	<b>Lesson:</b> I want to believe that the cardio session and weight-lifting that goes on before I get to Plyometrics impact my ability to finish strong and cause the light headeness I feel apprehensive about when it occurs. InshaAllah, I will show up next 2 weeks to see if my body adjusts and test the other hypothesis of dehydration.
-3. <b>Failure:</b> I didn't execute the food plan this week.<br />
-	<b>Lesson:</b> I guess this is Parkinson's law (_'you will stretch out the completion of your tasks until they fill the time available to complete them'_). I have money on me and am stretching my food expenses to the 500Ksh mark. Discipline OG, let's go.
+	1. **Failure:** During Tuesday's training session in USIU, I noticed that my 'in-game' awareness and sharpeness are going dull. I failed to be impactful and express myself beautifully as soon as we moved from Rondo to a 5-7 a-side.
+	**Lesson:** I'm thinking Turf on Friday, but given how late the team I'd like to play with trains (I have to be in bed by midnight) and how expensive it, sometimes, is to be there, I need to find a way to pratice 'in-game' situations.
+	2. **Failure:** I bought the Congo vs Kenya CHAN ticket 5x the original price.
+	**Lesson:** "Failure to prepare is preparation to fail". I wouldn't have done so if I had decided long ago that I was going to watch the CHAN games. It has to be said that I am grateful I got to watch that game in-person, as well as the other game happening later on that same day. CHAN provides me data I turn into information to make me more knowledgeable on 'System Thinking Applied to Football' and is an opportunity to learn as well as grow wiser.
+	3. **Failure:** There were moments where I gave into Pathos during the Congo vs Kenya CHAN game on Sunday.
+	**Lesson:** I am yet to fully define the degree to which pathos needs to be detached from and find myself indulging in it as a tool to socialize and not stand out as cold and/or unfeeling.
 
 ### 🌟 <b>Highlights of the Week</b>
 - <b>Memorable moment / breakthrough / proud event</b>: The dead ball sombrero I pulled on a teammate during a tuesday's training session as we were playing rondo was just exquisite.
