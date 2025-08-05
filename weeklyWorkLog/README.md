@@ -79,7 +79,7 @@ Created: {{ 2025-05-31 }}
 
 ---
 
-> _“Live to improve, not to impress.”, X (Twitter), 3:56 PM · Jul 22, 2025, by @Lovandfear_
+> _“To insist on a virtue when the times clearly don't allow for it, that's how you miss the mark.”, Jordan B. Peterson (Paraphrase), The Lord of the rings, Hero Journey of the Protagonist._
 
 <!-- Let's update the log every Sunday. Let's Go! -->
 
