@@ -67,7 +67,7 @@ Created: {{ 2025-05-31 }}
 ---
 
 ## 📅 <b>Coming Up Next Week</b> - 4th August 2025 to 10th August 2025
-- [ ] Finish strong with ALX Backend Web Pro-Development; The movie recommendation algorithm for Project nexus.
+- [ ] See what reveal itself to be the thing that can occupy the time I allocated to ALX until now.
 - [ ] Engage in 4 transformative sessions.
 - [ ] Average an hour per day making Futtech Mobile-friendly
 
