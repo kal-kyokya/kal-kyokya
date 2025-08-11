@@ -66,7 +66,7 @@ Created: {{ 2025-05-31 }}
 
 ---
 
-## 📅 <b>Coming Up Next Week</b> - 4th August 2025 to 10th August 2025
+## 📅 <b>Coming Up Next Week</b> - 11th August 2025 to 17th August 2025
 - [ ] See what reveal itself to be the thing that can occupy the time I allocated to ALX until now.
 - [ ] Engage in 4 transformative sessions.
 - [ ] Average an hour per day making Futtech Mobile-friendly
@@ -84,7 +84,7 @@ Created: {{ 2025-05-31 }}
 
 ---
 
-> _“Slower and more control movements.”, One of Jean-Paul De Marie KYOKYA Kalulu's moment to moment's goal._
+> _“Slower and, more control movements.”, One of Jean-Paul De Marie KYOKYA Kalulu's moment to moment's goal._
 
 <!-- Let's update the log every Sunday. Let's Go! -->
 
