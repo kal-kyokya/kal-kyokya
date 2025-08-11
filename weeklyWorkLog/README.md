@@ -61,8 +61,8 @@ Created: {{ 2025-05-31 }}
 **Lesson:** Dreams are important, they show me images that are related and sometimes revalatory to my life experience, but my pursuit of meaning through them shouldn't get in the way of my daily goals.
 
 ### 🌟 <b>Highlights of the Week</b>
-- <b>Memorable moment / breakthrough / proud event</b>: The home session I had where I practiced wall passing and ball trapping without letting the ball touch the ground.
-- <b>Quote, inspiration, or personal reflection</b>: "Tools change, but principles, they remain the same" I got this from watching A TEDxTalk on YouTube about AI and its impact on Software Engineers.
+- <b>Memorable moment / breakthrough / proud event</b>: Something about to be said about the appreciation I had for what I referred to as "la fraîcheur du Congolais", the beauty I attributed to the well-groomed and good-looking people who were in attendance for the Congo vs Zambia game.
+- <b>Quote, inspiration, or personal reflection</b>: "Expressing complex thoughts/ideas using simple language is the hallmark of a great mind", paraphrase from a good friend of mine. Speak not to impress but to show your understanding of what you've heard or ensure you are understood.
 
 ---
 
