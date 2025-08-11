@@ -22,6 +22,68 @@ Created: {{ 2025-05-31 }}
 
 ---
 
+## Week 11 — Sunday, 10th August 2025
+
+### 🌱 **What Was Worked On**
+
+- **Projects**
+	1. **ALX Backend ProDev Web Development Final Project**: Whiteboarded, [here](https://github.com/kal-kyokya/alx-project-nexus/blob/main/Whiteboard.md), the implementation of a Video recommendation algorithm for [Futtech](https://futtech.kalkyokya.tech) using [Project Nexus](https://github.com/kal-kyokya/alx-project-nexus).
+	2. **Responsive Web Design for Futtech**: Completed refactor of Futtech's login page, aligned background image and resolved disproportionate rendering of input fields in the login form.
+
+- **Learning & Growth**
+	1. IP Tracking - Security and Analytics: Add IP Geolocation capabilities to a Django project using the module named '[django-ip-geolocation](https://docs.djangoproject.com/en/5.2/ref/contrib/gis/geoip2/)'. Additional web resource interacted with include [this page](https://pypi.org/project/django-ip-geolocation/).
+	2. Django rate limiting: Ensure the practice Django project had a rate limiting feature. Read of the [documetation](https://django-ratelimit.readthedocs.io/en/stable/) as well as [this web page](https://pypi.org/project/django-ratelimit/) helped further the understanding of how best to implement such a feature.
+	3. Read of '[Ratelimit Keys](https://django-ratelimit.readthedocs.io/en/stable/keys.html)' and '[How to use Django Ratelimit](https://django-ratelimit.readthedocs.io/en/stable/usage.html)' broaden understanding of this particular topic.
+	4. The 'annotate()' method of Django querySets objects turned out to be a concept I had been exposed to but needed a deeper investigation. This was done thanks to the documentation; [Aggregation | Django documentation](https://docs.djangoproject.com/en/5.2/topics/db/aggregation/).
+	5. The difference between 'CAN et CHAN' (AFCON & CHAN); CHAN is albout allowing 'rising stars' to shine and represent their nation. CAF is more of the 'All-stars'. That's an NBA terms explanation.
+	6. The 'values()' method of Django querySet objects revealed itself as a useful tool in the context of Django model manipulation. The [AI overview](https://www.google.com/search?client=opera&q=django+values+queryset+method&sourceid=opera&ie=UTF-8&oe=UTF-8) by google associated with 'django values queryset method' summarized it well.
+
+- **Job hunting**
+	- No Jobs applied - No milestones delivered
+
+### 🏆 <b>3 Wins and/or Achievements</b>
+1. While in Kasarani stadium for the Congo vs Kenya CHAN game, I effectively embodied the Stoic philosopher who has absolute control over 'pathos' and focuses solely on extracting 'logos' from every moment. An emodiment of my 'ethos', and an addition to the cookie jar.
+2. I was presented chances to take pictures and record videos twice over the weekend (USIU game and Kasarani with Congo), and each time I gave my best, went the extra mile and consolidated the need to focus the iPhone lense on the object by tapping the screen.
+3. I didn't feel as tense as I once felt when it came time to socialize. The prospect of engaging with people doesn't move me off the center as much as it once did. My introverted nature is learning to integrate social interactions.
+
+### 🔭 <b>3 Fails & Lessons Learned</b>
+1. **Failure:** During Tuesday's training session in USIU, I noticed that my 'in-game' awareness and sharpeness are going dull. I failed to be impactful and express myself beautifully as soon as we moved from Rondo to a 5-7 a-side.<br />
+**Lesson:** I'm thinking Turf on Friday, but given how late the team I'd like to play with trains (I have to be in bed by midnight) and how expensive it, sometimes, is to be there, I need to find a way to pratice 'in-game' situations.
+2. **Failure:** I bought the Congo vs Kenya CHAN ticket 5x the original price.<br />
+**Lesson:** "Failure to prepare is preparation to fail". I wouldn't have done so if I had decided long ago that I was going to watch the CHAN games. It has to be said that I am grateful I got to watch that game in-person, as well as the other game happening later on that same day. CHAN provides me data I turn into information to make me more knowledgeable on 'System Thinking Applied to Football' and is an opportunity to learn as well as grow wiser.
+3. **Failure:** There were moments where I gave into Pathos during the Congo vs Kenya CHAN game on Sunday.<br />
+**Lesson:** I am yet to fully define the degree to which pathos needs to be detached from and find myself indulging in it as a tool to socialize and not stand out as cold and/or unfeeling.
+
+### 🌟 <b>Highlights of the Week</b>
+- <b>Memorable moment / breakthrough / proud event</b>: The home session I had where I practiced wall passing and ball trapping without letting the ball touch the ground.
+- <b>Quote, inspiration, or personal reflection</b>: "Tools change, but principles, they remain the same" I got this from watching A TEDxTalk on YouTube about AI and its impact on Software Engineers.
+
+---
+
+## 📅 <b>Coming Up Next Week</b> - 4th August 2025 to 10th August 2025
+- [ ] Finish strong with ALX Backend Web Pro-Development; The movie recommendation algorithm for Project nexus.
+- [ ] Engage in 4 transformative sessions.
+- [ ] Average an hour per day making Futtech Mobile-friendly
+
+---
+
+## 📈 <b>Meta</b>
+| Metric | This Week |
+| ------ | --------- |
+| GitHub Commits | 25 |
+| Study Hours | 12 |
+| Sleep Avg (hrs) | 7 |
+| Training Sessions (Football) | 4 |
+| Total Coding Time (hrs) | 1 |
+
+---
+
+> _“To insist on a virtue when the times clearly don't allow for it, that's how you miss the mark.”, Jordan B. Peterson (Paraphrase)_
+
+<!-- Let's update the log every Sunday. Let's Go! -->
+
+---
+
 ## Week 10 — Sunday, 3rd August 2025
 
 ### 🌱 **What Was Worked On**
