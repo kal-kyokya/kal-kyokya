@@ -84,7 +84,7 @@ Created: {{ 2025-05-31 }}
 
 ---
 
-> _“To insist on a virtue when the times clearly don't allow for it, that's how you miss the mark.”, Jordan B. Peterson (Paraphrase)_
+> _“Slower and more control movements.”, One of Jean-Paul De Marie KYOKYA Kalulu's moment to moment's goal._
 
 <!-- Let's update the log every Sunday. Let's Go! -->
 
