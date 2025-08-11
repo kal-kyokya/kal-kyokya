@@ -48,9 +48,9 @@ Created: {{ 2025-05-31 }}
 	- No Jobs applied - No milestones delivered
 
 ### 🏆 <b>3 Wins and/or Achievements</b>
-1. While in Kasarani stadium for the Congo vs Kenya CHAN game, I effectively embodied the Stoic philosopher who has absolute control over 'pathos' and focuses solely on extracting 'logos' from every moment. An emodiment of my 'ethos', and an addition to the cookie jar.
-2. I was presented chances to take pictures and record videos twice over the weekend (USIU game and Kasarani with Congo), and each time I gave my best, went the extra mile and consolidated the need to focus the iPhone lense on the object by tapping the screen.
-3. I didn't feel as tense as I once felt when it came time to socialize. The prospect of engaging with people doesn't move me off the center as much as it once did. My introverted nature is learning to integrate social interactions.
+1. Completing 3 physical session and 2 tactical session contributing to my ```growth as a footballer```.
+2. I recorded a significant amount of videos while the Congolese team was warming-up before their game and will use them for ```my growth and that of Futtech```.
+3. Twice, did I ```'pick up the shovel and made my own path'``` as I left Nyayo Stadium and headed to Town to take a matatu. The first time was by accident, the second was by design. I have discovered a different route connecting Nyayo and Town.
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
 1. **Failure:** During Tuesday's training session in USIU, I noticed that my 'in-game' awareness and sharpeness are going dull. I failed to be impactful and express myself beautifully as soon as we moved from Rondo to a 5-7 a-side.<br />
@@ -111,7 +111,7 @@ Created: {{ 2025-05-31 }}
 	- No Jobs applied - No milestones delivered
 
 ### 🏆 <b>3 Wins and/or Achievements</b>
-1. While in Kasarani stadium for the Congo vs Kenya CHAN game, I effectively embodied the Stoic philosopher who has absolute control over 'pathos' and focuses solely on extracting 'logos' from every moment. An emodiment of my 'ethos', and an addition to the cookie jar.
+1. While in Kasarani stadium for the Congo vs Kenya CHAN game, I effectively embodied the Stoic philosopher who has absolute control over 'pathos' and focuses solely on extracting 'logos' from every moment. An embodiment of my 'ethos', and an addition to the cookie jar.
 2. I was presented chances to take pictures and record videos twice over the weekend (USIU game and Kasarani with Congo), and each time I gave my best, went the extra mile and consolidated the need to focus the iPhone lense on the object by tapping the screen.
 3. I didn't feel as tense as I once felt when it came time to socialize. The prospect of engaging with people doesn't move me off the center as much as it once did. My introverted nature is learning to integrate social interactions.
 
