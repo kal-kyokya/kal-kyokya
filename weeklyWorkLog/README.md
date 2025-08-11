@@ -53,12 +53,12 @@ Created: {{ 2025-05-31 }}
 3. Twice, did I ```'pick up the shovel and made my own path'``` as I left Nyayo Stadium and headed to Town to take a matatu. The first time was by accident, the second was by design. I have discovered a different route connecting Nyayo and Town.
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
-1. **Failure:** During Tuesday's training session in USIU, I noticed that my 'in-game' awareness and sharpeness are going dull. I failed to be impactful and express myself beautifully as soon as we moved from Rondo to a 5-7 a-side.<br />
-**Lesson:** I'm thinking Turf on Friday, but given how late the team I'd like to play with trains (I have to be in bed by midnight) and how expensive it, sometimes, is to be there, I need to find a way to pratice 'in-game' situations.
-2. **Failure:** I bought the Congo vs Kenya CHAN ticket 5x the original price.<br />
-**Lesson:** "Failure to prepare is preparation to fail". I wouldn't have done so if I had decided long ago that I was going to watch the CHAN games. It has to be said that I am grateful I got to watch that game in-person, as well as the other game happening later on that same day. CHAN provides me data I turn into information to make me more knowledgeable on 'System Thinking Applied to Football' and is an opportunity to learn as well as grow wiser.
-3. **Failure:** There were moments where I gave into Pathos during the Congo vs Kenya CHAN game on Sunday.<br />
-**Lesson:** I am yet to fully define the degree to which pathos needs to be detached from and find myself indulging in it as a tool to socialize and not stand out as cold and/or unfeeling.
+1. **Failure:** I will not be receiving a certificate from ALX for the Backend Web Pro-development program.<br />
+**Lesson:** I want to believe that the fact that I didn't complete some of the mandatory projects caused my being 'failed automatically'. I guess what will matter the most for me are the habits I picked up during this past 4 months, the birth of Futtech as well as how far I've gone along its development.
+2. **Failure:** I failed to tell the truth when my presence was requested to use 'my photography skills' and get pictures of him during the game on Friday. I gave my word and took it back after I really sat down and thought about it.<br />
+**Lesson:** I know I shoudl tell the truth, I want to serve the Truth but in 'heat of the moment' scenarios, I say things that feel right but aren't necessarily. That right there is a case of don't rely on your instinct, execute a plan, execute the plan. GG is daily target, but it shouldn't come before DD.
+3. **Failure:** Yeah, I haven't been waking up immediately when my alarm rings. I'm out here thinking about the 'staying in bed and partaking in dream analysis', but naaan, that's a failure.<br />
+**Lesson:** Dreams are important, they show me images that are related and sometimes revalatory to my life experience, but my pursuit of meaning through them shouldn't get in the way of my daily goals.
 
 ### 🌟 <b>Highlights of the Week</b>
 - <b>Memorable moment / breakthrough / proud event</b>: The home session I had where I practiced wall passing and ball trapping without letting the ball touch the ground.
