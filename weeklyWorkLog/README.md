@@ -69,7 +69,7 @@ Created: {{ 2025-05-31 }}
 ## 📅 <b>Coming Up Next Week</b> - 11th August 2025 to 17th August 2025
 - [ ] See what reveal itself to be the thing that can occupy the time I allocated to ALX until now.
 - [ ] Engage in 4 transformative sessions.
-- [ ] Average an hour per day making Futtech Mobile-friendly
+- [ ] Average 2 hours per day making Futtech Mobile-friendly
 
 ---
 
