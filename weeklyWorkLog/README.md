@@ -41,9 +41,9 @@ Created: {{ 2025-05-31 }}
 	- No Jobs applied - No milestones delivered
 
 ### 🏆 <b>3 Wins and/or Achievements</b>
-1.
-2.
-3.
+1. I have now completed refactor of Futtech for responsive web design and can proceed to implementing video on-demand capabilities.
+2. This week as well, I completed 3 physical and 2 tactical sessions contributing to my ```growth as a footballer```. The tactical ones were facilitated by CHAN games played by DR Congo against Angola on Thursday and Morocco on Sunday.
+3. I was useful to a friend of mine, 'showed up, got the job done', proceeded to Artcaffe, was my best self, whether through interaction with the world or in isolation working on my laptop and reconnected with my piano practices of the past before stepping out and heading home.
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
 1. **Failure:** I will not be receiving a certificate from ALX for the Backend Web Pro-development program.<br />
