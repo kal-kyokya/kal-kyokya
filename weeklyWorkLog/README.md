@@ -46,12 +46,12 @@ Created: {{ 2025-05-31 }}
 3. I was useful to a friend of mine, 'showed up, got the job done', proceeded to Artcaffe, was my best self, whether through interaction with the world or in isolation working on my laptop and reconnected with my piano practices of the past before stepping out and heading home.
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
-1. **Failure:** I will not be receiving a certificate from ALX for the Backend Web Pro-development program.<br />
-**Lesson:** I want to believe that the fact that I didn't complete some of the mandatory projects caused my being 'failed automatically'. I guess what will matter the most for me are the habits I picked up during this past 4 months, the birth of Futtech as well as how far I've gone along its development.
-2. **Failure:** I failed to tell the truth when my presence was requested to use 'my photography skills' and get pictures of him during the game on Friday. I gave my word and took it back after I really sat down and thought about it.<br />
-**Lesson:** I know I shoudl tell the truth, I want to serve the Truth but in 'heat of the moment' scenarios, I say things that feel right but aren't necessarily. That right there is a case of don't rely on your instinct, execute a plan, execute the plan. GG is daily target, but it shouldn't come before DD.
-3. **Failure:** Yeah, I haven't been waking up immediately when my alarm rings. I'm out here thinking about the 'staying in bed and partaking in dream analysis', but naaan, that's a failure.<br />
-**Lesson:** Dreams are important, they show me images that are related and sometimes revalatory to my life experience, but my pursuit of meaning through them shouldn't get in the way of my daily goals.
+1. **Failure:** I failed to do a near-perfect job fixing the leaking of the bathroom sink after puRchasing the required pipe and [PTFE thread seal tape](https://www.google.com/search?client=opera&q=ptfe+thread+seal+tape&sourceid=opera&ie=UTF-8&oe=UTF-8).<br />
+**Lesson:** I was a fool, I didn't know better, otherwise I would have done better. It was an interesting experience. The day before my attempt saw a plumber come in and assess the situation. Through observation of what he did, I got a general idea of what needed to be done and simply attempted to do so the next day.
+2. **Failure:** After refusal to answer to 'whistle calls' from security agents by ignoring them, I was engage in a small exchange that had me warm up to them. Guilty of acting like I didn't hear their attempts to get my attention earlier, I gave into the temptation to lie about what is it that I was doing on my phone that made it hard for me to hear people seated 2-3 meters away from me.<br />
+**Lesson:** The thought that I generated after reflecting on that interaction was "Telling the truth doesn't come naturally". It is a habit, a skill, a lifestyle. For what it's worth, I did catch myself immediately after the 'white lie' and corrected myself. But yeah, gotta ```practice``` telling the truth.
+3. **Failure:** My average for 'working on Futtech' seems to be slightly below 2 hours a day.<br />
+**Lesson:** Gotta be precise in establishing a plan that guarantees hitting the target.
 
 ### 🌟 <b>Highlights of the Week</b>
 - <b>Memorable moment / breakthrough / proud event</b>: Something about to be said about the appreciation I had for what I referred to as "la fraîcheur du Congolais", the beauty I attributed to the well-groomed and good-looking people who were in attendance for the Congo vs Zambia game.
