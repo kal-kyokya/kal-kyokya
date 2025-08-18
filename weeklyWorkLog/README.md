@@ -54,8 +54,8 @@ Created: {{ 2025-05-31 }}
 **Lesson:** Gotta be precise in establishing a plan that guarantees hitting the target.
 
 ### 🌟 <b>Highlights of the Week</b>
-- <b>Memorable moment / breakthrough / proud event</b>: Something about to be said about the appreciation I had for what I referred to as "la fraîcheur du Congolais", the beauty I attributed to the well-groomed and good-looking people who were in attendance for the Congo vs Zambia game.
-- <b>Quote, inspiration, or personal reflection</b>: "Expressing complex thoughts/ideas using simple language is the hallmark of a great mind", paraphrase from a good friend of mine. Speak not to impress but to show your understanding of what you've heard or ensure you are understood.
+- <b>Memorable moment / breakthrough / proud event</b>: Seeing the Congolese team handle both success and failure in the span of 3 days is an experience that sticks with me and fuels my grind this coming week.
+- <b>Quote, inspiration, or personal reflection</b>: "Do not do things that you hate. Which, I think, is a variant of telling the truth. Because you have to act out the truth, as well as telling it." - Jordan B. Peterson. Is a quote I embodied twice this week and through which I reinforced my commitment to what seems to be true to me.
 
 ---
 
@@ -122,7 +122,7 @@ Created: {{ 2025-05-31 }}
 **Lesson:** Dreams are important, they show me images that are related and sometimes revalatory to my life experience, but my pursuit of meaning through them shouldn't get in the way of my daily goals.
 
 ### 🌟 <b>Highlights of the Week</b>
-- <b>Memorable moment / breakthrough / proud event</b>: Something about to be said about the appreciation I had for what I referred to as "la fraîcheur du Congolais", the beauty I attributed to the well-groomed and good-looking people who were in attendance for the Congo vs Zambia game.
+- <b>Memorable moment / breakthrough / proud event</b>: Something needs to be said about the appreciation I had for what I referred to as "la fraîcheur du Congolais", the beauty I attributed to the well-groomed and good-looking people who were in attendance for the Congo vs Zambia game.
 - <b>Quote, inspiration, or personal reflection</b>: "Expressing complex thoughts/ideas using simple language is the hallmark of a great mind", paraphrase from a good friend of mine. Speak not to impress but to show your understanding of what you've heard or ensure you are understood.
 
 ---
