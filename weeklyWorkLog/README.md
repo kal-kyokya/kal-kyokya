@@ -22,6 +22,64 @@ Created: {{ 2025-05-31 }}
 
 ---
 
+## Week 12 — Sunday, 17th August 2025
+
+### 🌱 **What Was Worked On**
+
+- **Projects**
+	1. **Responsive Web Design for Futtech**: Finished complete refactor of [Futtech](https://futtech.kalkyokya.tech/about), ensuring it mobile version renders accordingly no matter what screen size.
+
+- **Learning & Growth**
+1.
+2.
+3.
+
+- **Job hunting**
+	- No Jobs applied - No milestones delivered
+
+### 🏆 <b>3 Wins and/or Achievements</b>
+1.
+2.
+3.
+
+### 🔭 <b>3 Fails & Lessons Learned</b>
+1. **Failure:** I will not be receiving a certificate from ALX for the Backend Web Pro-development program.<br />
+**Lesson:** I want to believe that the fact that I didn't complete some of the mandatory projects caused my being 'failed automatically'. I guess what will matter the most for me are the habits I picked up during this past 4 months, the birth of Futtech as well as how far I've gone along its development.
+2. **Failure:** I failed to tell the truth when my presence was requested to use 'my photography skills' and get pictures of him during the game on Friday. I gave my word and took it back after I really sat down and thought about it.<br />
+**Lesson:** I know I shoudl tell the truth, I want to serve the Truth but in 'heat of the moment' scenarios, I say things that feel right but aren't necessarily. That right there is a case of don't rely on your instinct, execute a plan, execute the plan. GG is daily target, but it shouldn't come before DD.
+3. **Failure:** Yeah, I haven't been waking up immediately when my alarm rings. I'm out here thinking about the 'staying in bed and partaking in dream analysis', but naaan, that's a failure.<br />
+**Lesson:** Dreams are important, they show me images that are related and sometimes revalatory to my life experience, but my pursuit of meaning through them shouldn't get in the way of my daily goals.
+
+### 🌟 <b>Highlights of the Week</b>
+- <b>Memorable moment / breakthrough / proud event</b>: Something about to be said about the appreciation I had for what I referred to as "la fraîcheur du Congolais", the beauty I attributed to the well-groomed and good-looking people who were in attendance for the Congo vs Zambia game.
+- <b>Quote, inspiration, or personal reflection</b>: "Expressing complex thoughts/ideas using simple language is the hallmark of a great mind", paraphrase from a good friend of mine. Speak not to impress but to show your understanding of what you've heard or ensure you are understood.
+
+---
+
+## 📅 <b>Coming Up Next Week</b> - 11th August 2025 to 17th August 2025
+- [ ] See what reveal itself to be the thing that can occupy the time I allocated to ALX until now.
+- [ ] Engage in 4 transformative sessions.
+- [ ] Average 2 hours per day making Futtech Mobile-friendly
+
+---
+
+## 📈 <b>Meta</b>
+| Metric | This Week |
+| ------ | --------- |
+| GitHub Commits | 38 |
+| Study Hours | 17 |
+| Sleep Avg (hrs) | 7 |
+| Training Sessions (Football) | 4 |
+| Total Coding Time (hrs) | 4 |
+
+---
+
+> _“Slower and, more control movements.”, One of Jean-Paul De Marie KYOKYA Kalulu's moment to moment's goal._
+
+<!-- Let's update the log every Sunday. Let's Go! -->
+
+---
+
 ## Week 11 — Sunday, 10th August 2025
 
 ### 🌱 **What Was Worked On**
@@ -31,7 +89,7 @@ Created: {{ 2025-05-31 }}
 	2. **Responsive Web Design for Futtech**: Completed refactor of Futtech's [login page](https://futtech.kalkyokya.tech/login), aligned background image and resolved disproportionate rendering of input fields in the login form.
 
 - **Learning & Growth**
-	1. Started the week off with a home session consisting of [Plyometrics](https://www.google.com/search?client=opera&q=plyometrics+exercises+for+footballers&sourceid=opera&ie=UTF-8&oe=UTF-8) and off-the-wall ball trapping drills aimed at improving my first touch and ball to eye connection aka The ['Quiet eye'](https://www.google.com/search?client=opera&q=quiet+eye+meaning&sourceid=opera&ie=UTF-8&oe=UTF-8).
+	1. Started the week off with a home session consisting of [Plyometrics](https://www.google.com/search?client=opera&q=plyometrics+exercises+for+footballers&sourceid=opera&ie=UTF-8&oe=UTF-8) and off-the-wall ball trapping drills aimed at improving my first touch and ball to eye connection AKA The ['Quiet eye'](https://www.google.com/search?client=opera&q=quiet+eye+meaning&sourceid=opera&ie=UTF-8&oe=UTF-8).
 	2. Tuesday was all about setting my week up for success through late submission of my weekly work log and ```decluttering``` of my email inbox.
 	3. While decluttering, I renewed my Blynk account and got curious about a tutorial like video they serve on their website. An investigation of the video's url revealed its hosting on github as a ['GitHub raw link'](https://www.google.com/search?client=opera&q=github+raw+link&sourceid=opera&ie=UTF-8&oe=UTF-8), which had me wonder if Futtech could host all its videos on there (Theoritically: Yes, Practically: No).
 	4. Still on Tuesday, after an AI investigation of the proper implementation of a 'Video on-demand' System, it hit me that my current VPS provider, [Akamai Linode](https://www.google.com/search?client=opera&q=akamai+linode+about+page&sourceid=opera&ie=UTF-8&oe=UTF-8), offers a service labeled 'Object Storage' which might just be what Futtech relies on to dish out videos over the internet.
