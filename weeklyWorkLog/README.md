@@ -77,7 +77,7 @@ Created: {{ 2025-05-31 }}
 
 ---
 
-> _“Slower and, more control movements.”, One of Jean-Paul De Marie KYOKYA Kalulu's moment to moment's goal._
+> _“I hear and I forget. I see and I remember. I do and I understand” — Confucius._
 
 <!-- Let's update the log every Sunday. Let's Go! -->
 
