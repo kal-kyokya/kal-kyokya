@@ -31,11 +31,11 @@ My Mission:</br>
 
 - 🌱 Founder of **2 Tech Startups**.
 
-- 🔭 Currently learning to **create backend operations efficiency-boosting modules**.
+- 🔭 Currently learning to **integrate Django backends with react clients**.
 
-- :bulb: Seeking to collaborate on **MERN App Development Projects**.
+- :bulb: Seeking to collaborate on **Django & MERN Development Projects**.
 
-- 📫 Looking for help with **Web App to Mobile Responsive Web Design transition**.
+- 📫 Looking for help with **'Cost Of Sold Goods' optimization**.
 
 - 💬 Ask me about **Electronics, Software Engineering & Football**.
 
