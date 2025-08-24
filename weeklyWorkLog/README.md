@@ -77,7 +77,7 @@ Created: {{ 2025-05-31 }}
 
 ---
 
-> _“I hear and I forget. I see and I remember. I do and I understand” — Confucius._
+> _“Si Jeunesse Savait, Si Vieillesse Pouvait” — Frédéric Soulié._
 
 <!-- Let's update the log every Sunday. Let's Go! -->
 
