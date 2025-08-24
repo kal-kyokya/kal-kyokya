@@ -30,12 +30,12 @@ Created: {{ 2025-05-31 }}
 	1. **Futtech Django Backend Transition**: Initiated backend transition of [Futtech](https://futtech.kalkyokya.tech/about), from a Node and MongoDB App to a Django and PostgreSQL/Redis one.
 
 - **Learning & Growth**
-	1. Here is a concept I needed to be introduced to but never knew: ["Perception Of Productivity"](https://www.youtube.com/watch?v=tfVhrDgFK70&list=TLPQMTIwODIwMjVPo7-yAK4nxQ&index=3). This idea according to which, people will sometimes choose the suboptimal choice simply because it involves 'much more movement: dynamic over static' was discovered on Tuesday night via Youtube and was immediately used as a heuristic in the days that followed.
-	2. On wednesday, my ability to watch [this 40-minute video](https://www.youtube.com/watch?v=kdPHcwPSGAI) exploring "The Tech Stack of an established company processing 4,000 transactions per second", provided me with proof for the growth experienced over the past two years. As I commented: "AlhamduliAllah, I have learned enough to watch this video and recognize the different concepts/principles regulating parts of the said Tech Stack. #DoHardThings".
-	3. There is a web service named ["FutureMe"](https://www.futureme.org/) whose concept is storing of digital letters for as many as 10 years before sending them to the email of your choice. On thursday, I received a letter from 'past me' sent six months prior and wanted to use it again but didn't/couldn't pay the subscription fee associated with subsequent letters, therefore investigated my options, used "Gmail's scheduled" options and now wait to see how that will feel when, insha'Allah, I receive the letter/email.
-	4. Friday brought about the realization of the potency of the 'flex-direction' property embedded within a 'Media Query'. Use of this enabled refactor of the Desktop-first code used for [Futtech](https://futtech.kalkyokya.tech/about) to accomodate mobile size screens.
-	5. Saturday, while finishing refactor of Futtech in [Artcaffe](https://share.google/j2Ef12ysn1v6QphAz) and as a result of using it enough times for me to need to know how exactly flex-box properties 'justify-content' and 'align-items' differ, I executed this [Google search](https://www.google.com/search?q=justify+content+and+align+items+in+css&client=opera&hs=BjI&sca_esv=cb6d5bace73091a1&sxsrf=AE3TifPpRX28buX4-0_7sPrflEl-dS9mBQ%3A1755339162219&ei=mlmgaIGPDbibkdUPz-fUsQ0&oq=justify+content+and+al&gs_lp=Egxnd3Mtd2l6LXNlcnAiFmp1c3RpZnkgY29udGVudCBhbmQgYWwqAggBMgUQABiABDILEAAYgAQYkQIYigUyCxAAGIAEGJECGIoFMgUQABiABDIFEAAYgAQyBhAAGBYYHjIGEAAYFhgeMgYQABgWGB4yCBAAGBYYChgeMgYQABgWGB5IiyxQ4RVYthxwAXgBkAEAmAHNA6ABmhOqAQUzLTIuNLgBA8gBAPgBAZgCB6ACnRTCAgoQABiwAxjWBBhHwgINEAAYgAQYsAMYQxiKBcICChAAGIAEGBQYhwKYAwCIBgGQBgqSBwcxLjMtMi40oAeOJrIHBTMtMi40uAeBFMIHBTMtNS4yyAd2&sclient=gws-wiz-serp), read the AI overview, highlighted it and, proceeded with refactor of Futtech armed with a clearer understanding of what each of them do.
-	6. Exposure to [this video](https://www.youtube.com/watch?v=7J3_NAq7fz0&list=TLPQMTYwODIwMjVrRWZ5hykNWg&index=1) titled "S3 Object Storage Simply Explained | Linode Object Storage" by Akamai Developers on YouTube, opened my mind to the pathway leading to storing and serving of video content on Futtech.
+	1. .
+	2. .
+	3. .
+	4. .
+	5. .
+	6. .
 
 - **Job hunting**
 	- No Jobs applied - No milestones delivered
@@ -60,8 +60,8 @@ Created: {{ 2025-05-31 }}
 ---
 
 ## 📅 <b>Coming Up Next Week</b> - 18th August 2025 to 24th August 2025
+- [ ] Average 3 hours per day working on Futtech's transition to a Django backend.
 - [ ] Spend the last hour everyday practicing my playing of the piano (11 PM  — Midnight).
-- [ ] Average 2 hours per day working on Futtech's video on-demand capabilities.
 - [ ] Engage in 4 transformative football sessions.
 
 ---
