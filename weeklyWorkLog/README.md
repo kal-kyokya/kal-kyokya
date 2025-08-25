@@ -41,26 +41,26 @@ Created: {{ 2025-05-31 }}
 	9. Come saturday, my focus had shifted to setting up Redis as cache and everything kicked off with these two blog posts on Medium; One detailing in-depth how ['Caching in Django with Redis'](https://medium.com/django-unleashed/caching-in-django-with-redis-a-step-by-step-guide-40e116cb4540) can be done, and the other offering a visual representation of ['Django with Redis as Cache Backend and Session Storage'](https://adiramadhan17.medium.com/django-with-redis-as-cache-backend-and-session-storage-7a53de82ecf2).
 	10. Once Redis configured, I found myself ensuring that my understanding of Django models was adequate, and through mental dissection of this [Beginner Friendly Youtube-video Guide on Django Models](https://www.youtube.com/watch?app=desktop&v=2ETt-duHQ2I) spent slightly over an hour ensuring it.
 	11. Although [the beginner friendly video](https://www.youtube.com/watch?app=desktop&v=2ETt-duHQ2I&) is all about Django models, I was able to extract from it the steps involved in the creation of a Django super user and created one for the Futtech Django Backend immediately.
-	12. I need to have this Youtube video by Akamai Developpers titled ['180Commands That Will Change The Way You Use Linus Forever'](https://www.youtube.com/watch?v=AVXYq8aL47Q). I saw OG using 'F11' to make his terminal full-screen, tried it myself and knew, right there and then, that my life, my programming life, computer interaction life was never going to be same again.
+	12. I need to have this Youtube video by Akamai Developpers titled ['18 Commands That Will Change The Way You Use Linus Forever'](https://www.youtube.com/watch?v=AVXYq8aL47Q). I saw OG using 'F11' to make his terminal full-screen, tried it myself and knew, right there and then, that my life, my programming life, computer interaction life was never going to be same again.
 
 - **Job hunting**
 	- No Jobs applied - No milestones delivered
 
 ### 🏆 <b>3 Wins and/or Achievements</b>
-1. In an interesting turn of events, I have earned a certificate of completion from ALX for the Backend Web Pro Development program, which I thought I was not going to get.
-2. Getting started with transition of Futtech from a MERN backend App to a Django = Postgres/Redis is a win.
-3. I have remained consistent in my pursuit of growth as a Stoic footballer, an Impactful Software engineer, and above all else, alignment of Pathos, Ethos and Logos.
+1. In an interesting turn of events, I have earned the ```certificate of completion from ALX``` for the Backend Web Pro Development program, which I thought I was not going to get.
+2. Getting started with ```transition of Futtech``` from a MERN backend App to a Django + Postgres/Redis is a win.
+3. I have remained ```consistent``` in my pursuit of growth as a Stoic footballer, an Impactful Software engineer, and above all else, alignment of Pathos, Ethos and Logos.
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
-1. **Failure:** Micro transgression! The little things like not being in bed by midnight, not exactly exactly executing the food plan, delays due to dream analysis.<br />
+1. **Failure:** ```Micro transgression```! The little things like not being in bed by midnight, not exactly exactly executing the food plan, delays due to dream analysis.<br />
 **Lesson:** My missing the target stems from the moments under my influenced where I fail to exert my right to choose.
-2. **Failure:** I did give into Pathos as I watched Morocco's game against Tanzania and wished to see them knocked-out the competition.<br />
+2. **Failure:** I did ```give into Pathos``` as I watched Morocco's game against Tanzania and wished to see them knocked-out the competition.<br />
 **Lesson:** AlhamduliAllah, half-time, the break, a pause was used by me for Isha and through it I was able to see myself having been moved off the center and recalibrated immediately. Beware of old, unsconscious pattern of behavior regulating your emotions.
-3. **Failure:** Guarging the heart, by controlling the gaze and ensuring Pathos-Ethos-Logos are in alignment.<br />
-**Lesson:** This is an artform I am new to and desires to refine so as to better know how to move from points A to points B.
+3. **Failure:** Guarging the heart, by ```controlling the gaze``` and ensuring Pathos-Ethos-Logos are in alignment.<br />
+**Lesson:** This is an art form I am new to and desires to refine so as to better know how to move from points A to points B.
 
 ### 🌟 <b>Highlights of the Week</b>
-- <b>Memorable moment / breakthrough / proud event</b>: A breakthrough it is; embodiment of DLHI has seen 'The Dem' see people see him.
+- <b>Memorable moment / breakthrough / proud event</b>: A breakthrough it is; ```embodiment``` of DLHI has seen 'The Dem' see people see him.
 - <b>Quote, inspiration, or personal reflection</b>: "Meaning colored by thoughts and perceptions." This was brought about by dream analysis; the idea one should add this to the toolkit and sometimes seek to find the meaning beneath the thought, feeling, intuition or sensation.
 
 ---
