@@ -41,6 +41,7 @@ Created: {{ 2025-05-31 }}
 	9. Come saturday, my focus had shifted to setting up Redis as cache and everything kicked off with these two blog posts on Medium; One detailing in-depth how ['Caching in Django with Redis'](https://medium.com/django-unleashed/caching-in-django-with-redis-a-step-by-step-guide-40e116cb4540) can be done, and the other offering a visual representation of ['Django with Redis as Cache Backend and Session Storage'](https://adiramadhan17.medium.com/django-with-redis-as-cache-backend-and-session-storage-7a53de82ecf2).
 	10. Once Redis configured, I found myself ensuring that my understanding of Django models was adequate, and through mental dissection of this [Beginner Friendly Youtube-video Guide on Django Models](https://www.youtube.com/watch?app=desktop&v=2ETt-duHQ2I) spent slightly over an hour ensuring it.
 	11. Although [the beginner friendly video](https://www.youtube.com/watch?app=desktop&v=2ETt-duHQ2I&) is all about Django models, I was able to extract from it the steps involved in the creation of a Django super user and created one for the Futtech Django Backend immediately.
+	12. I need to have this Youtube video by Akamai Developpers titled ['180Commands That Will Change The Way You Use Linus Forever'](https://www.youtube.com/watch?v=AVXYq8aL47Q). I saw OG using 'F11' to make his terminal full-screen, tried it myself and knew, right there and then, that my life, my programming life, computer interaction life was never going to be same again.
 
 - **Job hunting**
 	- No Jobs applied - No milestones delivered
@@ -74,11 +75,11 @@ Created: {{ 2025-05-31 }}
 ## 📈 <b>Meta</b>
 | Metric | This Week |
 | ------ | --------- |
-| GitHub Commits | 35 |
-| Study Hours | 14 |
+| GitHub Commits | 27 |
+| Study Hours | 16 |
 | Sleep Avg (hrs) | 7 |
 | Training Sessions (Football) | 4 |
-| Total Coding Time (hrs) | 4 |
+| Total Coding Time (hrs) | 3 |
 
 ---
 
