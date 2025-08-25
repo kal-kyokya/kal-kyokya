@@ -51,12 +51,12 @@ Created: {{ 2025-05-31 }}
 3. I have remained consistent in my pursuit of growth as a Stoic footballer, an Impactful Software engineer, and above all else, alignment of Pathos, Ethos and Logos.
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
-1. **Failure:** I failed to do a near-perfect job fixing the leaking bathroom sink after purchasing the required pipe and [PTFE thread seal tape](https://www.google.com/search?client=opera&q=ptfe+thread+seal+tape&sourceid=opera&ie=UTF-8&oe=UTF-8).<br />
-**Lesson:** I was a fool, I didn't know better, otherwise I would have done better. It was an interesting experience. The day before my attempt saw a plumber come in and assess the situation. Through observation of what he did, I got a general idea of what needed to be done and simply attempted to do so the next day.
-2. **Failure:** After refusal to answer to 'whistle calls' from security agents by ignoring them, I was engage in a small exchange that had me warm up to them. Guilty of acting like I didn't hear their attempts to get my attention earlier, I gave into the temptation to lie about what on my phone captivated me enough to not hear people seated 2-3 meters away from me.<br />
-**Lesson:** The thought that I generated after reflecting on that interaction was "Telling the truth doesn't come naturally". It is a habit, a skill, a lifestyle. For what it's worth, I did catch myself immediately after the 'white lie' and corrected myself. But yeah, gotta ```practice``` telling the truth.
-3. **Failure:** My average for 'working on Futtech' seems to be slightly below 2 hours a day.<br />
-**Lesson:** Gotta be ```precise``` in establishing a plan that guarantees hitting the target.
+1. **Failure:** Micro transgression! The little things like not being in bed by midnight, not exactly exactly executing the food plan, delays due to dream analysis.<br />
+**Lesson:** My missing the target stems from the moments under my influenced where I fail to exert my right to choose.
+2. **Failure:** I did give into Pathos as I watched Morocco's game against Tanzania and wished to see them knocked-out the competition.<br />
+**Lesson:** AlhamduliAllah, half-time, the break, a pause was used by me for Isha and through it I was able to see myself having been moved off the center and recalibrated immediately. Beware of old, unsconscious pattern of behavior regulating your emotions.
+3. **Failure:** Guarging the heart, by controlling the gaze and ensuring Pathos-Ethos-Logos are in alignment.<br />
+**Lesson:** This is an artform I am new to and desires to refine so as to better know how to move from points A to points B.
 
 ### 🌟 <b>Highlights of the Week</b>
 - <b>Memorable moment / breakthrough / proud event</b>: Seeing the Congolese team handle both success and failure in the span of 3 days is an experience that sticks with me and fuels my grind this coming week.
