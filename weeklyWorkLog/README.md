@@ -59,8 +59,8 @@ Created: {{ 2025-05-31 }}
 **Lesson:** This is an artform I am new to and desires to refine so as to better know how to move from points A to points B.
 
 ### 🌟 <b>Highlights of the Week</b>
-- <b>Memorable moment / breakthrough / proud event</b>: Seeing the Congolese team handle both success and failure in the span of 3 days is an experience that sticks with me and fuels my grind this coming week.
-- <b>Quote, inspiration, or personal reflection</b>: "Do not do things that you hate. Which, I think, is a variant of telling the truth. Because you have to act out the truth, as well as telling it." — Jordan B. Peterson. Is a quote I embodied twice this week and through which I reinforced my commitment to what seems to be true to me.
+- <b>Memorable moment / breakthrough / proud event</b>: A breakthrough it is; embodiment of DLHI has seen 'The Dem' see people see him.
+- <b>Quote, inspiration, or personal reflection</b>: "Meaning colored by thoughts and perceptions." This was brought about by dream analysis; the idea one should add this to the toolkit and sometimes seek to find the meaning beneath the thought, feeling, intuition or sensation.
 
 ---
 
