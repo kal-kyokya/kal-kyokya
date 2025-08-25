@@ -30,12 +30,17 @@ Created: {{ 2025-05-31 }}
 	1. **Futtech Django Backend Transition**: Initiated backend transition of [Futtech](https://futtech.kalkyokya.tech/about), from a Node and MongoDB App to a Django and PostgreSQL/Redis one.
 
 - **Learning & Growth**
-	1. .
-	2. .
-	3. .
-	4. .
-	5. .
-	6. .
+	1. Started the week intended on going through the entire Akamai Linode's documentation for [Object Storage](https://techdocs.akamai.com/cloud-computing/docs/object-storage) and did so in more or less 3 hours.
+	2. Wednesday, 20th August 2025, after subscribing to the one-month [Google One Plan](https://one.google.com/explore-plan/gemini-advanced?utm_source=gemini&utm_medium=web&utm_campaign=mode_switcher) enabling access to 'Gemini Advanced', I embarked on the Futtech Django Backend Transition project that I agreed on after exposure to Django development through the ALX Backend Pro-Dev program.
+	3. On wednesday still, I investigated this ["'batteries-included' philosophy"](https://www.google.com/search?client=opera&q=%22batteries-included%22+philosophy&sourceid=opera&ie=UTF-8&oe=UTF-8) associated with Django as a Framework and acquired a new phrasing for projects whose aim is to encompass as much as they can of features and properties a concept possesses.
+	4. Thursday was marked by the acquisition of an image containing the definition of 'Cost Of Good Sold', [here](https://www.investopedia.com/thmb/FhZC57c6KXc6Yty1AdxujO5QkAQ=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Cost-of-Goods-Sold-COGS-60d335925dd14754a278392cae907b92.png), from this article by [Investopedia](https://www.investopedia.com/terms/c/cogs.asp). COGS revealed itself to me as a concept I need to familiarize myself as I journey towards establishment of the Futtech startup.
+	5. Friday started off with creation of the [Futtech Django Repository](https://github.com/kal-kyokya/Futtech-Django).
+	6. It was followed by the exploration of [this article](https://clouddevs.com/django/video-streaming/) by CloudDevs detailing 'Why Django is Perfect for Your Video Streaming Needs'. Article through which I assessed the degree to which I am knowledgeable on topic of Django development.
+	7. By Friday, I had already created the ['Futtech Backend Project'](https://github.com/kal-kyokya/Futtech-Django) and was setting it up to use PostgreSQL and Redis as Database and Cache, respectively.
+	8. As per [this 'tweet' on X](https://x.com/neer_Y1/status/1948787484759888168), I learned to change PostgreSQL's port so as to not use its default port (5432), and, through articles by PhoenixNap practiced ['Creating a Postgres User'](https://phoenixnap.com/kb/postgres-create-user) and ['Connecting to Postgres on Linux'](https://phoenixnap.com/kb/how-to-connect-postgresql-database-command-line).
+	9. Come saturday, my focus had shifted to setting up Redis as cache and everything kicked off with these two blog posts on Medium; One detailing in-depth how ['Caching in Django with Redis'](https://medium.com/django-unleashed/caching-in-django-with-redis-a-step-by-step-guide-40e116cb4540) can be done, and the other offering a visual representation of ['Django with Redis as Cache Backend and Session Storage'](https://adiramadhan17.medium.com/django-with-redis-as-cache-backend-and-session-storage-7a53de82ecf2).
+	10. Once Redis configured, I found myself ensuring that my understanding of Django models was adequate, and through mental dissection of this [Beginner Friendly Youtube-video Guide on Django Models](https://www.youtube.com/watch?app=desktop&v=2ETt-duHQ2I) spent slightly over an hour ensuring it.
+	11. Although [the beginner friendly video](https://www.youtube.com/watch?app=desktop&v=2ETt-duHQ2I&) is all about Django models, I was able to extract from it the steps involved in the creation of a Django super user and created one for the Futtech Django Backend immediately.
 
 - **Job hunting**
 	- No Jobs applied - No milestones delivered
