@@ -65,10 +65,10 @@ Created: {{ 2025-05-31 }}
 
 ---
 
-## 📅 <b>Coming Up Next Week</b> - 18th August 2025 to 24th August 2025
-- [ ] Average 3 hours per day working on Futtech's transition to a Django backend.
+## 📅 <b>Coming Up Next Week</b> - 1st to 7th September 2025
+- [ ] Engage in 4 transformative football sessions: Home, twice USIU, the gym.
+- [ ] Average 4 hours per day working on Futtech's transition to a Django backend.
 - [ ] Spend the last hour everyday practicing my playing of the piano (11 PM  — Midnight).
-- [ ] Engage in 4 transformative football sessions.
 
 ---
 
@@ -132,7 +132,7 @@ Created: {{ 2025-05-31 }}
 
 ---
 
-## 📅 <b>Coming Up Next Week</b> - 18th August 2025 to 24th August 2025
+## 📅 <b>Coming Up Next Week</b> - 25th to 31st August 2025
 - [ ] Average 3 hours per day working on Futtech's transition to a Django backend.
 - [ ] Spend the last hour everyday practicing my playing of the piano (11 PM  — Midnight).
 - [ ] Engage in 4 transformative football sessions.
@@ -193,7 +193,7 @@ Created: {{ 2025-05-31 }}
 
 ---
 
-## 📅 <b>Coming Up Next Week</b> - 18th August 2025 to 24th August 2025
+## 📅 <b>Coming Up Next Week</b> - 18th to 24th August 2025
 - [ ] Spend the last hour everyday practicing my playing of the piano (11 PM  — Midnight).
 - [ ] Average 2 hours per day working on Futtech's video on-demand capabilities.
 - [ ] Engage in 4 transformative football sessions.
@@ -261,7 +261,7 @@ Created: {{ 2025-05-31 }}
 
 ---
 
-## 📅 <b>Coming Up Next Week</b> - 11th August 2025 to 17th August 2025
+## 📅 <b>Coming Up Next Week</b> - 11th to 17th August 2025
 - [ ] See what reveals itself to be the thing that can occupy the time I allocated to ALX until now.
 - [ ] Engage in 4 transformative sessions.
 - [ ] Average 2 hours per day making Futtech Mobile-friendly
@@ -324,7 +324,7 @@ Created: {{ 2025-05-31 }}
 
 ---
 
-## 📅 <b>Coming Up Next Week</b> - 4th August 2025 to 10th August 2025
+## 📅 <b>Coming Up Next Week</b> - 4th to 10th August 2025
 - [ ] Finish strong with ALX Backend Web Pro-Development; The movie recommendation algorithm for Project nexus.
 - [ ] Engage in 4 transformative sessions.
 - [ ] Average an hour per day making Futtech Mobile-friendly
@@ -448,7 +448,7 @@ Created: {{ 2025-05-31 }}
 
 ---
 
-## 📅 <b>Coming Up Next Week</b> - 7th to 13th July 2025
+## 📅 <b>Coming Up Next Week</b> - 21st to 27th July 2025
 - [ ] Apply for 3 jobs.
 - [ ] Attend every training sessions.
 - [ ] Average an hour per day making Futtech Mobile-friendly
