@@ -83,7 +83,7 @@ Created: {{ 2025-05-31 }}
 
 ---
 
-> _“Si Jeunesse Savait, Si Vieillesse Pouvait” — Frédéric Soulié._
+> _“The fool is the precursor to the savior” — Carl G. Jung._
 
 <!-- Let's update the log every Sunday. Let's Go! -->
 
