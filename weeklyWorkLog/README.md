@@ -22,6 +22,73 @@ Created: {{ 2025-05-31 }}
 
 ---
 
+## Week 14 — Sunday, 31st August 2025
+
+### 🌱 **What Was Worked On**
+
+- **Projects**
+	1. **Futtech Django Backend Transition**: Configured the 'video_management' Django App in relation to the ```project's admin``` and began integration of ```Mux as the VPaaS```.
+
+- **Learning & Growth**
+	1. Started the week intended on going through the entire Akamai Linode's documentation for [Object Storage](https://techdocs.akamai.com/cloud-computing/docs/object-storage) and did so in more or less 3 hours.
+	2. Wednesday, 20th August 2025, after subscribing to the one-month [Google One Plan](https://one.google.com/explore-plan/gemini-advanced?utm_source=gemini&utm_medium=web&utm_campaign=mode_switcher) enabling access to 'Gemini Advanced', I embarked on the Futtech Django Backend Transition project that I agreed on after exposure to Django development through the ALX Backend Pro-Dev program.
+	3. On wednesday still, I investigated this ["'batteries-included' philosophy"](https://www.google.com/search?client=opera&q=%22batteries-included%22+philosophy&sourceid=opera&ie=UTF-8&oe=UTF-8) associated with Django as a Framework and acquired a new phrasing for projects whose aim is to encompass as much as they can of features and properties a concept possesses.
+	4. Thursday was marked by the acquisition of an image containing the definition of 'Cost Of Good Sold', [here](https://www.investopedia.com/thmb/FhZC57c6KXc6Yty1AdxujO5QkAQ=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Cost-of-Goods-Sold-COGS-60d335925dd14754a278392cae907b92.png), from this article by [Investopedia](https://www.investopedia.com/terms/c/cogs.asp). COGS revealed itself to me as a concept I need to familiarize myself as I journey towards establishment of the Futtech startup.
+	5. Friday started off with creation of the [Futtech Django Repository](https://github.com/kal-kyokya/Futtech-Django).
+	6. It was followed by the exploration of [this article](https://clouddevs.com/django/video-streaming/) by CloudDevs detailing 'Why Django is Perfect for Your Video Streaming Needs'. Article through which I assessed the degree to which I am knowledgeable on topic of Django development.
+	7. By Friday, I had already created the ['Futtech Backend Project'](https://github.com/kal-kyokya/Futtech-Django) and was setting it up to use PostgreSQL and Redis as Database and Cache, respectively.
+	8. As per [this 'tweet' on X](https://x.com/neer_Y1/status/1948787484759888168), I learned to change PostgreSQL's port so as to not use its default port (5432), and, through articles by PhoenixNap practiced ['Creating a Postgres User'](https://phoenixnap.com/kb/postgres-create-user) and ['Connecting to Postgres on Linux'](https://phoenixnap.com/kb/how-to-connect-postgresql-database-command-line).
+	9. Come saturday, my focus had shifted to setting up Redis as cache and everything kicked off with these two blog posts on Medium; One detailing in-depth how ['Caching in Django with Redis'](https://medium.com/django-unleashed/caching-in-django-with-redis-a-step-by-step-guide-40e116cb4540) can be done, and the other offering a visual representation of ['Django with Redis as Cache Backend and Session Storage'](https://adiramadhan17.medium.com/django-with-redis-as-cache-backend-and-session-storage-7a53de82ecf2).
+	10. Once Redis configured, I found myself ensuring that my understanding of Django models was adequate, and through mental dissection of this [Beginner Friendly Youtube-video Guide on Django Models](https://www.youtube.com/watch?app=desktop&v=2ETt-duHQ2I) spent slightly over an hour ensuring it.
+	11. Although [the beginner friendly video](https://www.youtube.com/watch?app=desktop&v=2ETt-duHQ2I&) is all about Django models, I was able to extract from it the steps involved in the creation of a Django super user and created one for the Futtech Django Backend immediately.
+	12. I need to have this Youtube video by Akamai Developpers titled ['18 Commands That Will Change The Way You Use Linus Forever'](https://www.youtube.com/watch?v=AVXYq8aL47Q). I saw OG using 'F11' to make his terminal full-screen, tried it myself and knew, right there and then, that my life, my programming life, computer interaction life was never going to be same again.
+
+- **Job hunting**
+	- No Jobs applied - No milestones delivered
+
+### 🏆 <b>3 Wins and/or Achievements</b>
+1. In an interesting turn of events, I have earned the ```certificate of completion from ALX``` for the Backend Web Pro Development program, which I thought I was not going to get.
+2. Getting started with ```transition of Futtech``` from a MERN backend App to a Django + Postgres/Redis is a win.
+3. I have remained ```consistent``` in my pursuit of growth as a Stoic footballer, an Impactful Software engineer, and above all else, alignment of Pathos, Ethos and Logos.
+
+### 🔭 <b>3 Fails & Lessons Learned</b>
+1. **Failure:** ```Micro transgression```! The little things like not being in bed by midnight, not exactly exactly executing the food plan, delays due to dream analysis.<br />
+**Lesson:** My missing the target stems from the moments under my influenced where I fail to exert my right to choose.
+2. **Failure:** I did ```give into Pathos``` as I watched Morocco's game against Tanzania and wished to see them knocked-out the competition.<br />
+**Lesson:** AlhamduliAllah, half-time, the break, a pause was used by me for Isha and through it I was able to see myself having been moved off the center and recalibrated immediately. Beware of old, unsconscious pattern of behavior regulating your emotions.
+3. **Failure:** Guarging the heart, by ```controlling the gaze``` and ensuring Pathos-Ethos-Logos are in alignment.<br />
+**Lesson:** This is an art form I am new to and desires to refine so as to better know how to move from points A to points B.
+
+### 🌟 <b>Highlights of the Week</b>
+- <b>Memorable moment / breakthrough / proud event</b>: A breakthrough it is; ```embodiment``` of DLHI has seen 'The Dem' see people see him.
+- <b>Quote, inspiration, or personal reflection</b>: "```Meaning``` colored by thoughts and perceptions." This was brought about by dream analysis; the idea one should add this to the toolkit and sometimes seek to find the meaning beneath the thought, feeling, intuition or sensation.
+
+---
+
+## 📅 <b>Coming Up Next Week</b> - 18th August 2025 to 24th August 2025
+- [ ] Average 3 hours per day working on Futtech's transition to a Django backend.
+- [ ] Spend the last hour everyday practicing my playing of the piano (11 PM  — Midnight).
+- [ ] Engage in 4 transformative football sessions.
+
+---
+
+## 📈 <b>Meta</b>
+| Metric | This Week |
+| ------ | --------- |
+| GitHub Commits | 27 |
+| Study Hours | 16 |
+| Sleep Avg (hrs) | 7 |
+| Training Sessions (Football) | 4 |
+| Total Coding Time (hrs) | 3 |
+
+---
+
+> _“Si Jeunesse Savait, Si Vieillesse Pouvait” — Frédéric Soulié._
+
+<!-- Let's update the log every Sunday. Let's Go! -->
+
+---
+
 ## Week 13 — Sunday, 24th August 2025
 
 ### 🌱 **What Was Worked On**
@@ -61,7 +128,7 @@ Created: {{ 2025-05-31 }}
 
 ### 🌟 <b>Highlights of the Week</b>
 - <b>Memorable moment / breakthrough / proud event</b>: A breakthrough it is; ```embodiment``` of DLHI has seen 'The Dem' see people see him.
-- <b>Quote, inspiration, or personal reflection</b>: "Meaning colored by thoughts and perceptions." This was brought about by dream analysis; the idea one should add this to the toolkit and sometimes seek to find the meaning beneath the thought, feeling, intuition or sensation.
+- <b>Quote, inspiration, or personal reflection</b>: "```Meaning``` colored by thoughts and perceptions." This was brought about by dream analysis; the idea one should add this to the toolkit and sometimes seek to find the meaning beneath the thought, feeling, intuition or sensation.
 
 ---
 
