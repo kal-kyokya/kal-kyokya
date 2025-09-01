@@ -83,7 +83,7 @@ Created: {{ 2025-05-31 }}
 
 ---
 
-> _“The fool is the precursor to the savior” — Carl G. Jung._
+> _“It's one thing to be tempted. It's another thing, entirely, to give into temptation.” — Jean-Paul De Marie KYOKYA Kalulu._
 
 <!-- Let's update the log every Sunday. Let's Go! -->
 
