@@ -60,8 +60,8 @@ Created: {{ 2025-05-31 }}
 **Lesson:** I came to realization that the rationale to that approach is the erection of a 'firewall' blocking malicious API consumption attempts. A reductionist description would be: It starts off as 'deny-all' and, after what is the demanding part; i.e. preprocessing of requests, considers an API response.
 
 ### 🌟 <b>Highlights of the Week</b>
-- <b>Memorable moment / breakthrough / proud event</b>: A breakthrough it is; ```embodiment``` of DLHI has seen 'The Dem' see people see him.
-- <b>Quote, inspiration, or personal reflection</b>: "```Meaning``` colored by thoughts and perceptions." This was brought about by dream analysis; the idea one should add this to the toolkit and sometimes seek to find the meaning beneath the thought, feeling, intuition or sensation.
+- <b>Memorable moment / breakthrough / proud event</b>: The interaction with my mom this week left me proud of the woman who birthed me as well as the man she was able to speak with. Those two made me proud.
+- <b>Quote, inspiration, or personal reflection</b>: "Attitude, Aim, Action" my synthesis from Jordan B. Peterson's late 2024 discussion with Andrew Huberman where he analyses the Sermon on the Mount and the structure of what can be called a Prayer. "Salam, Islam, Imani." Possession by the spirit of truth and peace, submission to the voice of calling and conscience, carried by action.
 
 ---
 
@@ -128,7 +128,7 @@ Created: {{ 2025-05-31 }}
 
 ### 🌟 <b>Highlights of the Week</b>
 - <b>Memorable moment / breakthrough / proud event</b>: A breakthrough it is; ```embodiment``` of DLHI has seen 'The Dem' see people see him.
-- <b>Quote, inspiration, or personal reflection</b>: "```Meaning``` colored by thoughts and perceptions." This was brought about by dream analysis; the idea one should add this to the toolkit and sometimes seek to find the meaning beneath the thought, feeling, intuition or sensation.
+- <b>Quote, inspiration, or personal reflection</b>: "```Meaning``` colored by thoughts and perceptions." This was brought about by dream analysis; the idea that one should add this to the toolkit and sometimes seek to find the meaning beneath the thought, feeling, intuition or sensation.
 
 ---
 
