@@ -47,21 +47,21 @@ Created: {{ 2025-05-31 }}
 	- No Jobs applied - No milestones delivered
 
 ### 🏆 <b>3 Wins and/or Achievements</b>
-1. This was week 2 of transitioning Futtech from a MERN App to a Django-backend project. I value the persistence.
-2. Although this technically is attached to the Sunday of week 13, completion of the YouTube series by Jordan B. Peterson: ```The Psychological Significance of the Biblical Stories```, as a result of my watching one lecture every Sundays is proof to myself of what I allow myself to be 'called by', the calls to which I choose to respond.
+1. This was week two of ```transitioning Futtech``` from a MERN App to a Django-backend project. I value the persistence.
+2. Although this technically is attached to the sunday of week 13, completion of the YouTube series by Jordan B. Peterson: ```The Psychological Significance of the Biblical Stories```, as a result of my watching one lecture every Sundays is proof to myself of what I allow 'me' to be 'called by', the calls to which I choose to respond.
 3. We're still working out, working hard and continuously questioning the validity of the selected approach to becoming a Stoic, a Stoic footballer and an Impactful Software Engineer.
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
-1. **Failure:** Overexertion of a virtue when the times don't necessarily allow for it.<br />
-**Lesson:** I need to increase my level of sophistication with regards to the embodiment of my self-defined principles and values. 'The passing of time' will help. Experience is needed.
-2. **Failure:** I gave into my 'average player fixation', failed to notice my discontent as well as frustration and didn't use my Ethos to approach the pathos.<br />
-**Lesson:** Football still moves me off the center. I need to practice awareness and regulation of my thoughts and feelings during my 'Tactical analysis' sessions.
+1. **Failure:** ```Overexertion of a virtue``` when the times don't necessarily allow for it.<br />
+**Lesson:** I need to increase my level of sophistication with regards to the embodiment of my self-defined principles and values. 'The passing of time' will help. ```Experience``` is needed.
+2. **Failure:** I gave into my 'average player fixation', ```failed to notice``` my discontent as well as frustration and didn't use my Ethos to approach the pathos.<br />
+**Lesson:** Football still moves me off the center. I need to practice ```awareness``` and ```regulation``` of my thoughts and feelings during my 'Tactical analysis' sessions.
 3. **Failure:** Second week running: guarding the heart, by ```controlling the gaze``` and ensuring Pathos-Ethos-Logos are in alignment.<br />
-**Lesson:** I came to realization that the rationale to that approach is the erection of a 'firewall' blocking malicious API consumption attempts. A reductionist description would be: It starts off as 'deny-all' and, after what is the demanding part; i.e. preprocessing of requests, considers an API response.
+**Lesson:** I came to realization that the rationale to that approach is the erection of a ```'firewall' blocking bad-actors```, malicious API consumption attempts. A reductionist explanation of this would be: It starts off as 'deny-all' and, after what is the demanding part; i.e. preprocessing of requests, considers an API response.
 
 ### 🌟 <b>Highlights of the Week</b>
-- <b>Memorable moment / breakthrough / proud event</b>: The interaction with my mom this week left me proud of the woman who birthed me as well as the man she was able to speak with. Those two made me proud.
-- <b>Quote, inspiration, or personal reflection</b>: "Attitude, Aim, Action" my synthesis from Jordan B. Peterson's late 2024 discussion with Andrew Huberman where he analyses the Sermon on the Mount and the structure of what can be called a Prayer. "Salam, Islam, Imani." Possession by the spirit of truth and peace, submission to the voice of calling and conscience, carried by action.
+- <b>Memorable moment / breakthrough / proud event</b>: This week's interaction with mom left me proud of ```the woman who birthed me``` as well as the man she got to speak with. Those two made me proud.
+- <b>Quote, inspiration, or personal reflection</b>: ```"Attitude, Aim, Action"``` my synthesis from Jordan B. Peterson's late 2024 discussion with Andrew Huberman where he analyses the Sermon on the Mount and the structure of what can be called a Prayer. ```"Ihsan, Islam, Iman."``` 'Possession' by the spirit of the truth, submission to the voice of conscience & calling, embedded in every action.
 
 ---
 
