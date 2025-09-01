@@ -47,9 +47,9 @@ Created: {{ 2025-05-31 }}
 	- No Jobs applied - No milestones delivered
 
 ### 🏆 <b>3 Wins and/or Achievements</b>
-1. In an interesting turn of events, I have earned the ```certificate of completion from ALX``` for the Backend Web Pro Development program, which I thought I was not going to get.
-2. Getting started with ```transition of Futtech``` from a MERN backend App to a Django + Postgres/Redis is a win.
-3. I have remained ```consistent``` in my pursuit of growth as a Stoic footballer, an Impactful Software engineer, and above all else, alignment of Pathos, Ethos and Logos.
+1. This was week 2 of transitioning Futtech from a MERN App to a Django-backend project. I value the persistence.
+2. Although this technically is attached to the Sunday of week 13, completion of the YouTube series by Jordan B. Peterson: ```The Psychological Significance of the Biblical Stories```, as a result of my watching one lecture every Sundays is proof to myself of what I allow myself to be 'called by', the calls to which I choose to respond.
+3. We're still working out, working hard and continuously questioning the validity of the selected approach to becoming a Stoic, a Stoic footballer and an Impactful Software Engineer.
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
 1. **Failure:** ```Micro transgression```! The little things like not being in bed by midnight, not exactly exactly executing the food plan, delays due to dream analysis.<br />
