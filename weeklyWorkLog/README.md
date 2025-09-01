@@ -52,12 +52,12 @@ Created: {{ 2025-05-31 }}
 3. We're still working out, working hard and continuously questioning the validity of the selected approach to becoming a Stoic, a Stoic footballer and an Impactful Software Engineer.
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
-1. **Failure:** ```Micro transgression```! The little things like not being in bed by midnight, not exactly exactly executing the food plan, delays due to dream analysis.<br />
-**Lesson:** My missing the target stems from the moments under my influenced where I fail to exert my right to choose.
-2. **Failure:** I did ```give into Pathos``` as I watched Morocco's game against Tanzania and wished to see them knocked-out the competition.<br />
-**Lesson:** AlhamduliAllah, half-time, the break, a pause was used by me for Isha and through it I was able to see myself having been moved off the center and recalibrated immediately. Beware of old, unsconscious pattern of behavior regulating your emotions.
-3. **Failure:** Guarging the heart, by ```controlling the gaze``` and ensuring Pathos-Ethos-Logos are in alignment.<br />
-**Lesson:** This is an art form I am new to and desires to refine so as to better know how to move from points A to points B.
+1. **Failure:** Overexertion of a virtue when the times don't necessarily allow for it.<br />
+**Lesson:** I need to increase my level of sophistication with regards to the embodiment of my self-defined principles and values. 'The passing of time' will help. Experience is needed.
+2. **Failure:** I gave into my 'average player fixation', failed to notice my discontent as well as frustration and didn't use my Ethos to approach the pathos.<br />
+**Lesson:** Football still moves me off the center. I need to practice awareness and regulation of my thoughts and feelings during my 'Tactical analysis' sessions.
+3. **Failure:** Second week running: guarding the heart, by ```controlling the gaze``` and ensuring Pathos-Ethos-Logos are in alignment.<br />
+**Lesson:** I came to realization that the rationale to that approach is the erection of a 'firewall' blocking malicious API consumption attempts. A reductionist description would be: It starts off as 'deny-all' and, after what is the demanding part; i.e. preprocessing of requests, considers an API response.
 
 ### 🌟 <b>Highlights of the Week</b>
 - <b>Memorable moment / breakthrough / proud event</b>: A breakthrough it is; ```embodiment``` of DLHI has seen 'The Dem' see people see him.
@@ -123,7 +123,7 @@ Created: {{ 2025-05-31 }}
 **Lesson:** My missing the target stems from the moments under my influenced where I fail to exert my right to choose.
 2. **Failure:** I did ```give into Pathos``` as I watched Morocco's game against Tanzania and wished to see them knocked-out the competition.<br />
 **Lesson:** AlhamduliAllah, half-time, the break, a pause was used by me for Isha and through it I was able to see myself having been moved off the center and recalibrated immediately. Beware of old, unsconscious pattern of behavior regulating your emotions.
-3. **Failure:** Guarging the heart, by ```controlling the gaze``` and ensuring Pathos-Ethos-Logos are in alignment.<br />
+3. **Failure:** Guarding the heart, by ```controlling the gaze``` and ensuring Pathos-Ethos-Logos are in alignment.<br />
 **Lesson:** This is an art form I am new to and desires to refine so as to better know how to move from points A to points B.
 
 ### 🌟 <b>Highlights of the Week</b>
