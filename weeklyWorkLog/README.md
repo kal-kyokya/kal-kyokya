@@ -65,9 +65,9 @@ Created: {{ 2025-05-31 }}
 
 ---
 
-## 📅 <b>Coming Up Next Week</b> - 1st to 7th September 2025
-- [ ] Engage in 4 transformative football sessions: Home, twice USIU, the gym.
+## 📅 <b>Coming Up Next Week</b> - 8th to 15th September 2025
 - [ ] Average 4 hours per day working on Futtech's transition to a Django backend.
+- [ ] Engage in 4 transformative football sessions.
 - [ ] Spend the last hour everyday practicing my playing of the piano (11 PM  — Midnight).
 
 ---
