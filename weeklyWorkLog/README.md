@@ -83,7 +83,7 @@ Created: {{ 2025-05-31 }}
 
 ---
 
-> _“It's one thing to be tempted. It's another thing, entirely, to give into temptation.” — Jean-Paul De Marie KYOKYA Kalulu._
+> _“Still got work to do. Let's go.” — Jean-Paul De Marie KYOKYA Kalulu._
 
 <!-- Let's update the log every Sunday. Let's Go! -->
 
