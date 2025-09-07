@@ -52,12 +52,12 @@ Created: {{ 2025-05-31 }}
 3. Completion of 3 physical football sessions and potential for a tactical analysis, InshaAllah.
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
-1. **Failure:** ```Overexertion of a virtue``` when the times don't necessarily allow for it.<br />
-**Lesson:** I need to increase my level of sophistication with regards to the embodiment of my self-defined principles and values. 'The passing of time' will help. ```Experience``` is needed.
-2. **Failure:** I gave into my 'average player fixation', ```failed to notice``` my discontent as well as frustration and didn't use my Ethos to approach the pathos.<br />
-**Lesson:** Football still moves me off the center. I need to practice ```awareness``` and ```regulation``` of my thoughts and feelings during my 'Tactical analysis' sessions.
-3. **Failure:** Second week running: guarding the heart, by ```controlling the gaze``` and ensuring Pathos-Ethos-Logos are in alignment.<br />
-**Lesson:** I came to realization that the rationale to that approach is the erection of a ```'firewall' blocking bad-actors```, malicious API consumption attempts. A reductionist explanation of this would be: It starts off as 'deny-all' and, after what is the demanding part; i.e. preprocessing of requests, considers an API response.
+1. **Failure:** Lies and deceptions.<br />
+**Lesson:** Staying quiet, a form of 'tell the truth, or at least don't lie', led to tell a fib. Gotta investigate my desires to keep 'ways of doing things' secret.
+2. **Failure:** Doing as 'coming up next week' said.<br />
+**Lesson:** Most on the topic of having sessions in USIU. Understandably, plans change, one needs to be flexible. I didn't think things through as thoroughly as was needed for me to realize that USIU is not an option until I'm done with the Futtech backend transition.
+3. **Failure:** Third week of: guarding the heart, via ```gaze control``` and ensuring no Pathos, right Ethos, attitude Logos.<br />
+**Lesson:** The importance of adopting the right Attitude and Aim every moment of ones life, so as to engage in gaze control detach from pathos.
 
 ### 🌟 <b>Highlights of the Week</b>
 - <b>Memorable moment / breakthrough / proud event</b>: This week's interaction with mom left me proud of ```the woman who birthed me``` as well as the man she got to speak with. Those two made me proud.
@@ -121,7 +121,7 @@ Created: {{ 2025-05-31 }}
 ### 🔭 <b>3 Fails & Lessons Learned</b>
 1. **Failure:** ```Overexertion of a virtue``` when the times don't necessarily allow for it.<br />
 **Lesson:** I need to increase my level of sophistication with regards to the embodiment of my self-defined principles and values. 'The passing of time' will help. ```Experience``` is needed.
-2. **Failure:** I gave into my 'average player fixation', ```failed to notice``` my discontent as well as frustration and didn't use my Ethos to approach the pathos.<br />
+2. **Failure:** I gave into my 'average player fixation', ```failed to notice``` my discontent as well as frustration and didn't use my Ethos to manage the pathos.<br />
 **Lesson:** Football still moves me off the center. I need to practice ```awareness``` and ```regulation``` of my thoughts and feelings during my 'Tactical analysis' sessions.
 3. **Failure:** Second week running: guarding the heart, by ```controlling the gaze``` and ensuring Pathos-Ethos-Logos are in alignment.<br />
 **Lesson:** I came to realization that the rationale to that approach is the erection of a ```'firewall' blocking bad-actors```, malicious API consumption attempts. A reductionist explanation of this would be: It starts off as 'deny-all' and, after what is the demanding part; i.e. preprocessing of requests, considers an API response.
