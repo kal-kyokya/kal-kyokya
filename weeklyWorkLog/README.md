@@ -22,6 +22,73 @@ Created: {{ 2025-05-31 }}
 
 ---
 
+## Week 15 — Sunday, 7th September 2025
+
+### 🌱 **What Was Worked On**
+
+- **Projects**
+	1. **Futtech Django-Backend Transition**: Completed phase 1 through implementation of the backend and frontend logics enabling video upload as well as playback.
+
+- **Learning & Growth**
+	1. Started the week strong, monday already saw me investigate the Python concept of [Pickling](https://stackoverflow.com/questions/7501947/understanding-pickling-in-python) via a thread on Stackoverflow and Google's AI overview.
+	2. The investigation was caused by my debugging of the Django admin app after I wrongly configured the project's settings to both use pickle as serializer during redis I/O ans simultaneously specified that all responses should be decoded. [This thread](https://stackoverflow.com/questions/55685987/dont-serialize-and-unserialize-pickle-and-unpickle-the-data-while-reading-and) on Stackoverflow, [this forum discussion](https://forum.djangoproject.com/t/connecting-redis-to-django-rest-framework/32862) on the official site and [the django-redis documentation] enlightened me.
+	3. Tuesday began with my adding the 'video_management' App to admin, which I realized I wasn't necessarily fully aware of the [procedure involved](https://www.google.com/search?q=django+add+app+to+admin). Combining Google's AI overview and [this beginner friendly guide on Django models], I was able to do as I wanted.
+	4. Wednesday held a first-time experience, a potential paradigm shift, a new approach to how I seek information when working on projects that use 'third-party' APIs. Through the [Mux Dashboard](https://dashboard.mux.com/) I find out about this [GitHub Repository](https://github.com/vercel/next.js/tree/canary/examples/with-mux-video) documenting with examples how to configure your Mux-dependent App. Here are two of those examples: [with vercel](https://with-mux-video.vercel.app/) and [stream.new](https://stream.new/).
+	5. On wednesday still, I went through the Mux official documentation on [How to make API requests](https://www.mux.com/docs/core/make-api-requests), which preceded to my finding the [Mux Python GitHub repository](https://github.com/muxinc/mux-python) and guided my Django development.
+	6. Later that day, in need of a reminder on ['Linux: moving to the previously visited directory'](https://www.google.com/search?q=linux+go+back+to+previous+directory), I made a google search that inspired my going through [the CLI Tmux manual](https://github.com/tmux/tmux/wiki) and learned how to 'move to the previously selected window'. ('Linux': 'cd -', 'Tmux':  'Ctrl-b + l').
+	7. Thursday morning, was all about satisfying the need to learn how to process [Mux webhooks](https://www.mux.com/docs/core/listen-for-webhooks) and implement that feature as a service for the 'video_management' App.
+	8. Thursday's early evening was used to 'visualze', via 4 youtube videos, what a Mux API integration actually looks like when achieved effectively. By the official Mux YouTube channel: [Safeguarding video content using DRM](https://www.youtube.com/watch?v=p-vOFAn6eDM), [Mux Player: Quick start guide](https://www.youtube.com/watch?v=Tk5bqlb5F4M), [What is Digital Rights Management](https://www.youtube.com/watch?v=HrVQWnyzzoE), [How to implemted Mux Data](https://www.youtube.com/watch?v=gy_pZsUc-1w).
+	9. Friday's focus, while still being on Mux webhooks management, saw me: experiment with [python's datetime.timedelta function](https://www.google.com/search?q=python+timedelta) to measure durations, investigate the meaning of [Epoch in computing/computer programming](https://www.google.com/search?q=the+epoch+programming) and have a better sense of how to manipulate its value when returned by ```time.time()```.
+	10. Although I rewatch the set of 4 YouTube video on Friday night, the last bit of active learning I took part in was associated with the Google AI overviews generated for both: ['Base64Url-encoded'](https://www.google.com/search?q=Base64Url-encoded) and ['Base64Url-encoded JSON object'](https://www.google.com/search?q=Base64Url-encoded+JSON+object).
+	11. Saturday early morning was used to build on the exposure I got to JSON object and how to use them as tokens. Through read of [the official PyJWT documentation](https://pyjwt.readthedocs.io/en/stable/), I acquired a better conceptualization of JWT and how stateless server-side authentication and authorization could be achieved.
+	12. Important to note that this is the week where I reinforced the habit of looking up modules from which I execute ```imports of classes or objects```. This practice leaves me feeling more informed as to what is the tool in hand is made of. Moving me from the unknow of 'working to black boxes' to 'working with knowns'.
+
+- **Job hunting**
+	- No Jobs applied - No milestones delivered
+
+### 🏆 <b>3 Wins and/or Achievements</b>
+1. This was week two of ```transitioning Futtech``` from a MERN App to a Django-backend project. I value the persistence.
+2. Although this technically is attached to the sunday of week 13, completion of the YouTube series by Jordan B. Peterson: ```The Psychological Significance of the Biblical Stories```, as a result of my watching one lecture every Sundays is proof to myself of what I allow 'me' to be 'called by', the calls to which I choose to respond.
+3. We're still working out, working hard and continuously questioning the validity of the selected approach to becoming a Stoic, a Stoic footballer and an Impactful Software Engineer.
+
+### 🔭 <b>3 Fails & Lessons Learned</b>
+1. **Failure:** ```Overexertion of a virtue``` when the times don't necessarily allow for it.<br />
+**Lesson:** I need to increase my level of sophistication with regards to the embodiment of my self-defined principles and values. 'The passing of time' will help. ```Experience``` is needed.
+2. **Failure:** I gave into my 'average player fixation', ```failed to notice``` my discontent as well as frustration and didn't use my Ethos to approach the pathos.<br />
+**Lesson:** Football still moves me off the center. I need to practice ```awareness``` and ```regulation``` of my thoughts and feelings during my 'Tactical analysis' sessions.
+3. **Failure:** Second week running: guarding the heart, by ```controlling the gaze``` and ensuring Pathos-Ethos-Logos are in alignment.<br />
+**Lesson:** I came to realization that the rationale to that approach is the erection of a ```'firewall' blocking bad-actors```, malicious API consumption attempts. A reductionist explanation of this would be: It starts off as 'deny-all' and, after what is the demanding part; i.e. preprocessing of requests, considers an API response.
+
+### 🌟 <b>Highlights of the Week</b>
+- <b>Memorable moment / breakthrough / proud event</b>: This week's interaction with mom left me proud of ```the woman who birthed me``` as well as the man she got to speak with. Those two made me proud.
+- <b>Quote, inspiration, or personal reflection</b>: ```"Attitude, Aim, Action"``` my synthesis from Jordan B. Peterson's late 2024 discussion with Andrew Huberman where he analyses the Sermon on the Mount and the structure of what can be called a Prayer. ```"Ihsan, Islam, Iman."``` 'Possession' by the spirit of the truth, submission to the voice of conscience & calling, embedded in every action.
+
+---
+
+## 📅 <b>Coming Up Next Week</b> - 1st to 7th September 2025
+- [ ] Engage in 4 transformative football sessions: Home, twice USIU, the gym.
+- [ ] Average 4 hours per day working on Futtech's transition to a Django backend.
+- [ ] Spend the last hour everyday practicing my playing of the piano (11 PM  — Midnight).
+
+---
+
+## 📈 <b>Meta</b>
+| Metric | This Week |
+| ------ | --------- |
+| GitHub Commits | 33 |
+| Study Hours | 20 |
+| Sleep Avg (hrs) | 7 |
+| Training Sessions (Football) | 4 |
+| Total Coding Time (hrs) | 4 |
+
+---
+
+> _“It's one thing to be tempted. It's another thing, entirely, to give into temptation.” — Jean-Paul De Marie KYOKYA Kalulu._
+
+<!-- Let's update the log every Sunday. Let's Go! -->
+
+---
+
 ## Week 14 — Sunday, 31st August 2025
 
 ### 🌱 **What Was Worked On**
