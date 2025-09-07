@@ -27,7 +27,7 @@ Created: {{ 2025-05-31 }}
 ### 🌱 **What Was Worked On**
 
 - **Projects**
-	1. **Futtech Django-Backend Transition**: Completed phase 1 through implementation of the backend and frontend logics enabling video upload as well as playback.
+	1. **Futtech Django-Backend Transition**: ```Completed phase 1``` through implementation of the backend and frontend logics enabling video upload as well as playback.
 
 - **Learning & Growth**
 	1. Monday was used to set up the week for success through monitoring of my cloud accounts and capped off with a google search of [the meaning of 'distal'](https://www.google.com/search?q=distal+meaning) with ```proximal``` as its opposite in mind.
@@ -47,21 +47,21 @@ Created: {{ 2025-05-31 }}
 	- No Jobs applied - No milestones delivered
 
 ### 🏆 <b>3 Wins and/or Achievements</b>
-1. Let's begin by pointing out that this was week 3 of making Futtech a React frontend, Django backend Web App. Consistent effort is always appreciated.
-2. The self-imposed fast that started at Friday at 1AM and is scheduled to end 60 hours later, i.e. today, Sunday 1PM (PS: It's 6:07AM).
-3. Completion of 3 physical football sessions and potential for a tactical analysis, InshaAllah.
+1. Let's begin by pointing out that this was week 3 of making Futtech a React frontend, Django backend Web App. ```Consistent effort``` is always appreciated.
+2. The self-imposed fast that started at Friday at 1AM and is scheduled to end ```60 hours``` later, i.e. today, Sunday 1PM (PS: It's 6:07AM).
+3. Completion of 3 physical football sessions and potential for a tactical analysis, ```InshaAllah```.
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
 1. **Failure:** Lies and deceptions.<br />
-**Lesson:** Staying quiet, a form of 'tell the truth, or at least don't lie', led to tell a fib. Gotta investigate my desires to keep 'ways of doing things' secret.
-2. **Failure:** Doing as 'coming up next week' said.<br />
-**Lesson:** Most on the topic of having sessions in USIU. Understandably, plans change, one needs to be flexible. I didn't think things through as thoroughly as was needed for me to realize that USIU is not an option until I'm done with the Futtech backend transition.
+**Lesson:** Staying quiet, a form of 'tell the truth, or at least don't lie', led to tell a fib. Gotta investigate my desires to ```keep``` 'ways of doing things' ```secret```.
+2. **Failure:** Not doing as 'coming up next week' said.<br />
+**Lesson:** Mostly on the topic of having sessions in USIU. Understandably, plans change, one needs to be flexible. Still, I didn't ```think things through as thoroughly``` as was needed for me to realize that USIU is not an option until I'm done with the Futtech backend transition.
 3. **Failure:** Third week of: guarding the heart, via ```gaze control``` and ensuring no Pathos, right Ethos, attitude Logos.<br />
 **Lesson:** The importance of adopting the right Attitude and Aim every moment of ones life, so as to engage in gaze control detach from pathos.
 
 ### 🌟 <b>Highlights of the Week</b>
-- <b>Memorable moment / breakthrough / proud event</b>: For a man who near-never calls anyone to find himself multiple times on his phone discussing ideas and putting his sense of humor to goof use, I'm proud of my capacity to not coward from phone calls no more.
-- <b>Quote, inspiration, or personal reflection</b>: ```As long as I'm alive, I'm still in my 'live autopsy'```, David Goggings, The disrupters podcast, 2018. The idea of a live autopsy greatly helps during those times when order turns into chaos, ```'the quitting mind'``` says it is tired and questions the rationale behind our discomfort. Looking forward to my live autopsies, InshaAllah.
+- <b>Memorable moment / breakthrough / proud event</b>: For a man who near-never calls anyone to find himself multiple times on his phone discussing ideas and putting his sense of humor to goof use, I'm proud of my ```capacity to not coward``` from receiving phone calls no more.
+- <b>Quote, inspiration, or personal reflection</b>: ```"As long as I'm alive, I'm still in my 'live autopsy'"```, David Goggings, The disrupters podcast, 2018. The idea of a live autopsy greatly helps during those times when order turns into chaos, ```'the quitting mind'``` says it is tired and questions the rationale behind our discomfort. Looking forward to my live autopsies, InshaAllah.
 
 ---
 
@@ -75,7 +75,7 @@ Created: {{ 2025-05-31 }}
 ## 📈 <b>Meta</b>
 | Metric | This Week |
 | ------ | --------- |
-| GitHub Commits | 45 |
+| GitHub Commits | 47 |
 | Study Hours | 28 |
 | Sleep Avg (hrs) | 7 |
 | Training Sessions (Football) | 4 |
