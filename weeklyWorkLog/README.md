@@ -60,8 +60,8 @@ Created: {{ 2025-05-31 }}
 **Lesson:** The importance of adopting the right Attitude and Aim every moment of ones life, so as to engage in gaze control detach from pathos.
 
 ### 🌟 <b>Highlights of the Week</b>
-- <b>Memorable moment / breakthrough / proud event</b>: This week's interaction with mom left me proud of ```the woman who birthed me``` as well as the man she got to speak with. Those two made me proud.
-- <b>Quote, inspiration, or personal reflection</b>: ```"Attitude, Aim, Action"``` my synthesis from Jordan B. Peterson's late 2024 discussion with Andrew Huberman where he analyses the Sermon on the Mount and the structure of what can be called a Prayer. ```"Ihsan, Islam, Iman."``` 'Possession' by the spirit of the truth, submission to the voice of conscience & calling, embedded in every action.
+- <b>Memorable moment / breakthrough / proud event</b>: For a man who near-never calls anyone to find himself multiple times on his phone discussing ideas and putting his sense of humor to goof use, I'm proud of my capacity to not coward from phone calls no more.
+- <b>Quote, inspiration, or personal reflection</b>: ```As long as I'm alive, I'm still in my 'live autopsy'```, David Goggings, The disrupters podcast, 2018. The idea of a live autopsy greatly helps during those times when order turns into chaos, ```'the quitting mind'``` says it is tired and questions the rationale behind our discomfort. Looking forward to my live autopsies, InshaAllah.
 
 ---
 
