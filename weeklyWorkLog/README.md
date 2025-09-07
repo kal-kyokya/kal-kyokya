@@ -47,9 +47,9 @@ Created: {{ 2025-05-31 }}
 	- No Jobs applied - No milestones delivered
 
 ### 🏆 <b>3 Wins and/or Achievements</b>
-1. This was week two of ```transitioning Futtech``` from a MERN App to a Django-backend project. I value the persistence.
-2. Although this technically is attached to the sunday of week 13, completion of the YouTube series by Jordan B. Peterson: ```The Psychological Significance of the Biblical Stories```, as a result of my watching one lecture every Sundays is proof to myself of what I allow 'me' to be 'called by', the calls to which I choose to respond.
-3. We're still working out, working hard and continuously questioning the validity of the selected approach to becoming a Stoic, a Stoic footballer and an Impactful Software Engineer.
+1. Let's begin by pointing out that this was week 3 of making Futtech a React frontend, Django backend Web App. Consistent effort is always appreciated.
+2. The self-imposed fast that started at Friday at 1AM and is scheduled to end 60 hours later, i.e. today, Sunday 1PM (PS: It's 6:07AM).
+3. Completion of 3 physical football sessions and potential for a tactical analysis, InshaAllah.
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
 1. **Failure:** ```Overexertion of a virtue``` when the times don't necessarily allow for it.<br />
