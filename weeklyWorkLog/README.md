@@ -54,9 +54,9 @@ Created: {{ 2025-05-31 }}
 	- No Jobs applied - No milestones delivered
 
 ### 🏆 <b>3 Wins and/or Achievements</b>
-1. The depth to which I have gone in this week's learning sessions and the newfound willingness to seek long-format detailed explanations of concepts I need to be aware of as a Software Engineer as well as a lover of wisdom.
-2. Better execution of the food plan as well as ease of engagement in the 45-hour monthly fast.
-3. Remembrance to publicly say AlhamduliAllah and courage to do so.
+1. The ```depth``` to which I have gone in this week's learning sessions and the newfound ```willingness to seek``` long-format detailed explanations of concepts I need to be aware of as a Software Engineer as well as a lover of wisdom.
+2. ```Better execution``` of the food plan as well as ease of engagement in the 45-hour monthly fast.
+3. Remembrance to publicly say ```AlhamduliAllah``` and courage to do so.
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
 1. **Failure:** Lies and deceptions.<br />
@@ -67,8 +67,8 @@ Created: {{ 2025-05-31 }}
 **Lesson:** The fine line between Order & Chaos. How much effort should one put in greetings familiar faces? Gotta trial-and-error my way into figuring this out.
 
 ### 🌟 <b>Highlights of the Week</b>
-- <b>Memorable moment / breakthrough / proud event</b>: Synchronous events as I step out to get me some food. Seeing myself, more and more, embodying DLHI from the looks, through the deeds, to the being.
-- <b>Quote, inspiration, or personal reflection</b>: ```Every great man is an actor of his own ideal``` - Jordan B. Peterson paraphrasing Friedrich Mietzsche. This in alignment with breakthrough segment serves a indication of the present of meaning on the path being trailblazed.
+- <b>Memorable moment / breakthrough / proud event</b>: Synchronous events as I step out to get me some food. Seeing myself, more and more, ```embodying DLHI``` from the looks, through the deeds, to the being.
+- <b>Quote, inspiration, or personal reflection</b>: ```"Every great man is an actor of his own ideal"``` - Jordan B. Peterson paraphrasing Friedrich Mietzsche. This in alignment with breakthrough segment serves a indication of the present of meaning on the path being trailblazed.
 
 ---
 
