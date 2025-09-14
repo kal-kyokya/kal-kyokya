@@ -22,6 +22,73 @@ Created: {{ 2025-05-31 }}
 
 ---
 
+## Week 16 — Sunday, 14th September 2025
+
+### 🌱 **What Was Worked On**
+
+- **Projects**
+	1. **Futtech Django-Backend Transition**: Began phase 2 of the 3 phase transition implementation consisting on the integration of subscription tiers and price definitions.
+
+- **Learning & Growth**
+	1. Monday was used to set up the week for success through monitoring of my cloud accounts and capped off with a google search of [the meaning of 'distal'](https://www.google.com/search?q=distal+meaning) with ```proximal``` as its opposite in mind.
+	2. Tuesday was all about a deep investigation of how to [play videos with Mux](https://www.mux.com/docs/guides/play-your-videos) using their documentation. Investigation that exposed me to this perceptive-changing site named [howvideo.works](https://howvideo.works/) that details and demonstrates 'How video uploads and playback work'.
+	3. Wednesday began with my tinkering with Futtech's video playback page and unsuccessful attempt to pass the Mux asset and playback IDs as [React environment variables](https://stackoverflow.com/questions/53237293/react-evironment-variables-env-return-undefined).
+	4. Later in the evening, understanding of Axios Interceptors revealed itself as relevant for effective refactor of the video playback to match the Django backend: This [blog post](https://blog.jobins.jp/axios-interceptors-with-practical-examples) and [its Medium article version](https://sandip-shrestha.medium.com/axios-interceptors-with-practical-examples-e3e957b3653f) guided my learning.
+	5. Thursday's 3 hours before 'gym time' were used to have the foundation for refactor of the video upload page laid. Much was learned and one single google search was made: [textarea in html](https://www.google.com/search?q=textarea+in+html) (In relation to the video description field/attribute).
+	6. Friday began, as a result of my visiting Futtech's video details page, with expansion of the Django Video model with additional fields and, primarily through [this page by Bundesliga - Germany](https://www.bundesliga.com/en/faq/all-you-need-to-know-about-soccer/soccer-positions-explained-names-numbers-and-what-they-do-10569), made the need to know the [names of player positions in Football](https://www.google.com/search?q=position+names+in+football) relevant.
+	7. While ingesting information from [Bundesliga](https://www.bundesliga.com/en/faq/all-you-need-to-know-about-soccer/soccer-positions-explained-names-numbers-and-what-they-do-10569), an investigation of one of the embedded video files brought about a need to refresh and inforce memory of the [difference between HSL and DASH](https://www.google.com/search?q=hls+vs+dash) using a google search that led back to a [Mux Documentation manual on the topic](https://www.mux.com/articles/hls-vs-dash-what-s-the-difference-between-the-video-streaming-protocols).
+	8. Potentially a piece of trivia, but it appears to be that a differenciation can be made by simply calling one [Association Football (Soccer)](https://en.wikipedia.org/wiki/Association_football_positions) and the other American Football (gridiron).
+	9. For a second time, I believe, I had to execute a Google query for the [longest city name in the world](https://www.google.com/search?q=longest+city+name+in+the+world): A 168 character-long city in Bangkok, Thailand. All this so as to define the 'max_length' value of the location 'models.CharField'.
+	10. Friday was capped off by a run of YouTube videos explaining the Java programming language on one side and Rust on the other. This sudden research was prompted by a friend and led to [this particular video](https://www.youtube.com/watch?v=meEXag1XCFw) whose content I found formative and informative.
+	11. Saturday's focus was with complete refactor of the video playback page was marked by extended periods of reading Mux's well written documentation, starting with [How to Integrate Mux Player in a Web App](https://www.mux.com/docs/guides/player-integrate-in-your-webapp).
+	12. The last bit of official learning for this week was done through the 30-minute video embedded in this documentation manual by Mux serving as [Guide to Secured Video Playback](https://www.mux.com/docs/guides/secure-video-playback).
+
+- **Job hunting**
+	- No Jobs applied - No milestones delivered
+
+### 🏆 <b>3 Wins and/or Achievements</b>
+1. Let's begin by pointing out that this was week 3 of making Futtech a React frontend, Django backend Web App. ```Consistent effort``` is always appreciated.
+2. The self-imposed fast that started at Friday at 1AM and is scheduled to end ```60 hours``` later, i.e. today, Sunday 1PM (PS: It's 6:07AM).
+3. Completion of 3 physical football sessions and potential for a tactical analysis, ```InshaAllah```.
+
+### 🔭 <b>3 Fails & Lessons Learned</b>
+1. **Failure:** Lies and deceptions.<br />
+**Lesson:** Staying quiet, a form of 'tell the truth, or at least don't lie', led to tell a fib. Gotta investigate my desires to ```keep``` 'ways of doing things' ```secret```.
+2. **Failure:** Not doing as 'coming up next week' said.<br />
+**Lesson:** Mostly on the topic of having sessions in USIU. Understandably, plans change, one needs to be flexible. Still, I didn't ```think things through as thoroughly``` as was needed for me to realize that USIU is not an option until I'm done with the Futtech backend transition.
+3. **Failure:** Third week of: guarding the heart, via ```gaze control``` and ensuring no Pathos, right Ethos, attitude Logos.<br />
+**Lesson:** The importance of adopting the right Attitude and Aim every moment of ones life, so as to engage in gaze control detach from pathos.
+
+### 🌟 <b>Highlights of the Week</b>
+- <b>Memorable moment / breakthrough / proud event</b>: For a man who near-never calls anyone to find himself multiple times on his phone discussing ideas and putting his sense of humor to goof use, I'm proud of my ```capacity to not coward``` from receiving phone calls no more.
+- <b>Quote, inspiration, or personal reflection</b>: ```"As long as I'm alive, I'm still in my 'live autopsy'"```, David Goggings, The disrupters podcast, 2018. The idea of a live autopsy greatly helps during those times when order turns into chaos, ```'the quitting mind'``` says it is tired and questions the rationale behind our discomfort. Looking forward to my live autopsies, InshaAllah.
+
+---
+
+## 📅 <b>Coming Up Next Week</b> - 8th to 15th September 2025
+- [ ] Average 4 hours per day working on Futtech's transition to a Django backend.
+- [ ] Engage in 4 transformative football sessions.
+- [ ] Spend the last hour everyday practicing my playing of the piano (11 PM  — Midnight).
+
+---
+
+## 📈 <b>Meta</b>
+| Metric | This Week |
+| ------ | --------- |
+| GitHub Commits | 47 |
+| Study Hours | 28 |
+| Sleep Avg (hrs) | 7 |
+| Training Sessions (Football) | 4 |
+| Total Coding Time (hrs) | 6 |
+
+---
+
+> _“Still got work to do. Let's go.” — Jean-Paul De Marie KYOKYA Kalulu._
+
+<!-- Let's update the log every Sunday. Let's Go! -->
+
+---
+
 ## Week 15 — Sunday, 7th September 2025
 
 ### 🌱 **What Was Worked On**
