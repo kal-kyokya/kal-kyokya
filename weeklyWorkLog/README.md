@@ -54,9 +54,9 @@ Created: {{ 2025-05-31 }}
 	- No Jobs applied - No milestones delivered
 
 ### 🏆 <b>3 Wins and/or Achievements</b>
-1. Let's begin by pointing out that this was week 3 of making Futtech a React frontend, Django backend Web App. ```Consistent effort``` is always appreciated.
-2. The self-imposed fast that started at Friday at 1AM and is scheduled to end ```60 hours``` later, i.e. today, Sunday 1PM (PS: It's 6:07AM).
-3. Completion of 3 physical football sessions and potential for a tactical analysis, ```InshaAllah```.
+1. The depth to which I have gone in this week's learning sessions and the newfound willingness to seek long-format detailed explanations of concepts I need to be aware of as a Software Engineer as well as a lover of wisdom.
+2. Better execution of the food plan as well as ease of engagement in the 45-hour monthly fast.
+3. Remembrance to publicly say AlhamduliAllah and courage to do so.
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
 1. **Failure:** Lies and deceptions.<br />
