@@ -72,10 +72,10 @@ Created: {{ 2025-05-31 }}
 
 ---
 
-## 📅 <b>Coming Up Next Week</b> - 8th to 15th September 2025
-- [ ] Average 4 hours per day working on Futtech's transition to a Django backend.
+## 📅 <b>Coming Up Next Week</b> - 15th to 21st September 2025
+- [ ] Complete transition of Futtech's backend from MERN to Django while averaging 4 hours per day working on it.
 - [ ] Engage in 4 transformative football sessions.
-- [ ] Spend the last hour everyday practicing my playing of the piano (11 PM  — Midnight).
+- [ ] Spend the last 30 minutes everyday practicing my playing of the piano (11:30 PM  — Midnight).
 
 ---
 
@@ -139,7 +139,7 @@ Created: {{ 2025-05-31 }}
 
 ---
 
-## 📅 <b>Coming Up Next Week</b> - 8th to 15th September 2025
+## 📅 <b>Coming Up Next Week</b> - 8th to 14th September 2025
 - [ ] Average 4 hours per day working on Futtech's transition to a Django backend.
 - [ ] Engage in 4 transformative football sessions.
 - [ ] Spend the last hour everyday practicing my playing of the piano (11 PM  — Midnight).
