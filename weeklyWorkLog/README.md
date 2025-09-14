@@ -67,8 +67,8 @@ Created: {{ 2025-05-31 }}
 **Lesson:** The fine line between Order & Chaos. How much effort should one put in greetings familiar faces? Gotta trial-and-error my way into figuring this out.
 
 ### 🌟 <b>Highlights of the Week</b>
-- <b>Memorable moment / breakthrough / proud event</b>: For a man who near-never calls anyone to find himself multiple times on his phone discussing ideas and putting his sense of humor to goof use, I'm proud of my ```capacity to not coward``` from receiving phone calls no more.
-- <b>Quote, inspiration, or personal reflection</b>: ```"As long as I'm alive, I'm still in my 'live autopsy'"```, David Goggings, The disrupters podcast, 2018. The idea of a live autopsy greatly helps during those times when order turns into chaos, ```'the quitting mind'``` says it is tired and questions the rationale behind our discomfort. Looking forward to my live autopsies, InshaAllah.
+- <b>Memorable moment / breakthrough / proud event</b>: Synchronous events as I step out to get me some food. Seeing myself, more and more, embodying DLHI from the looks, through the deeds, to the being.
+- <b>Quote, inspiration, or personal reflection</b>: ```Every great man is an actor of his own ideal``` - Jordan B. Peterson paraphrasing Friedrich Mietzsche. This in alignment with breakthrough segment serves a indication of the present of meaning on the path being trailblazed.
 
 ---
 
@@ -134,7 +134,7 @@ Created: {{ 2025-05-31 }}
 **Lesson:** The importance of adopting the right Attitude and Aim every moment of ones life, so as to engage in gaze control detached from pathos.
 
 ### 🌟 <b>Highlights of the Week</b>
-- <b>Memorable moment / breakthrough / proud event</b>: For a man who near-never calls anyone to find himself multiple times on his phone discussing ideas and putting his sense of humor to goof use, I'm proud of my ```capacity to not coward``` from receiving phone calls no more.
+- <b>Memorable moment / breakthrough / proud event</b>: For a man who near-never calls anyone to find himself multiple times on his phone discussing ideas and putting his sense of humor to good use, I'm proud of my ```capacity to not coward``` from receiving phone calls no more.
 - <b>Quote, inspiration, or personal reflection</b>: ```"As long as I'm alive, I'm still in my 'live autopsy'"```, David Goggings, The disrupters podcast, 2018. The idea of a live autopsy greatly helps during those times when order turns into chaos, ```'the quitting mind'``` says it is tired and questions the rationale behind our discomfort. Looking forward to my live autopsies, InshaAllah.
 
 ---
