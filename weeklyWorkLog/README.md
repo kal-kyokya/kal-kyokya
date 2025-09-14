@@ -90,7 +90,7 @@ Created: {{ 2025-05-31 }}
 
 ---
 
-> _“Still got work to do. Let's go.” — Jean-Paul De Marie KYOKYA Kalulu._
+> _“Out of every one hundred men, ten shouldn't even be there, eighty are just targets, nine are the real fighters, and we are lucky to have them, for they make battle. Ah, but the one, one is a warrior, and he will bring the others back.” — Heraclitus._
 
 <!-- Let's update the log every Sunday. Let's Go! -->
 
