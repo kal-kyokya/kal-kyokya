@@ -64,7 +64,7 @@ Created: {{ 2025-05-31 }}
 2. **Failure:** Poor communication, no foresight.<br />
 **Lesson:** I failed to inform the property manager of a delayed payment this month and was tempted to be resentful when I got a 'reminder'.
 3. **Failure:** "Salimiya watu" == "Say 'Hi' to people".<br />
-**Lesson:** .
+**Lesson:** The fine line between Order & Chaos. How much effort should one put in greetings familiar faces? Gotta trial-and-error my way into figuring this out.
 
 ### 🌟 <b>Highlights of the Week</b>
 - <b>Memorable moment / breakthrough / proud event</b>: For a man who near-never calls anyone to find himself multiple times on his phone discussing ideas and putting his sense of humor to goof use, I'm proud of my ```capacity to not coward``` from receiving phone calls no more.
