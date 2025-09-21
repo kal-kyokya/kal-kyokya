@@ -50,9 +50,9 @@ Created: {{ 2025-05-31 }}
 	- No Jobs applied - No milestones delivered
 
 ### 🏆 <b>3 Wins and/or Achievements</b>
-1. The ```depth``` to which I have gone in this week's learning sessions and the newfound ```willingness to seek``` long-format detailed explanations of concepts I need to be aware of as a Software Engineer as well as a lover of wisdom.
-2. ```Better execution``` of the food plan as well as ease of engagement in the 45-hour monthly fast.
-3. Remembrance to publicly say ```AlhamduliAllah``` and courage to do so.
+1. Completion of the registration workflow for the Django-backend version of Futtech.
+2. The felt-sense of depth in the relation I have established with ball, whether be off the wall or off my feet, knee, sole/ankle and chest.
+3. Thusfar satisfaction in the quality of the low quantity network connection I am maintaining in a minimalistic fashion.
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
 1. **Failure:** Lies and deceptions.<br />
