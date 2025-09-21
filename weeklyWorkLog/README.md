@@ -55,12 +55,12 @@ Created: {{ 2025-05-31 }}
 3. Thusfar satisfaction in the quality of the low quantity network connection I am maintaining in a minimalistic fashion.
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
-1. **Failure:** Lies and deceptions.<br />
-**Lesson:** Ran into an acquaintance from the past and mindlessly mentioned 2027 as my graduation year.
-2. **Failure:** Poor communication, no foresight.<br />
-**Lesson:** I failed to inform the property manager of a delayed payment this month and was tempted to be resentful when I got a 'reminder'.
-3. **Failure:** "Salimiya watu" == "Say 'Hi' to people".<br />
-**Lesson:** The fine line between Order & Chaos. How much effort should one put in greetings familiar faces? Gotta trial-and-error my way into figuring this out.
+1. **Failure:** 'Les yeux plus gros que son ventre'.<br />
+**Lesson:** Overestimated my appetite and caused the subsequent night and day to not be as comfortable as I need to make them be.
+2. **Failure:** Imposter-syndrome-induced fear and cowardice.<br />
+**Lesson:** I was scheduled for a meeting on saturday to discuss Futtech, and although I did a good job providing a detailed text, and 9-minute long video I avail, I caved and made up excuses as to why we should delay the meeting by a day.
+3. **Failure:** Still working on "Salimiya watu" == "Say 'Hi' to people".<br />
+**Lesson:** The fine line between Order & Chaos. How much effort should one put in greetings familiar faces? Still gotta trial-and-error my way into figuring this out.
 
 ### 🌟 <b>Highlights of the Week</b>
 - <b>Memorable moment / breakthrough / proud event</b>: The synchronicities experienced as I step out to get me some food. Seeing myself, more and more, ```embodying DLHI``` from the looks, through the deeds, to the being.
