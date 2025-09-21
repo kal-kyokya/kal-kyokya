@@ -86,7 +86,7 @@ Created: {{ 2025-05-31 }}
 
 ---
 
-> _“Out of every one hundred men, ten shouldn't even be there, eighty are just targets, nine are the real fighters, and we are lucky to have them, for they make battle. Ah, but the one, one is a warrior, and he will bring the others back.” — Heraclitus._
+> _“The Truth is a process... The Truth is the thing that emerges in the course of the search for the Truth... True Truth is to be found in the search for the truth.” — Jordan B. Peterson, How to Build Self-Respect, Chris Williamson YouTube Channel._
 
 <!-- Let's update the log every Sunday. Let's Go! -->
 
