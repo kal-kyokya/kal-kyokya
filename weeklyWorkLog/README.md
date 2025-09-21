@@ -68,8 +68,8 @@ Created: {{ 2025-05-31 }}
 
 ---
 
-## 📅 <b>Coming Up Next Week</b> - 15th to 21st September 2025
-- [ ] Complete transition of Futtech's backend from MERN to Django while averaging 4 hours per day working on it.
+## 📅 <b>Coming Up Next Week</b> - 22nd to 28th September 2025
+- [ ] Debug the Futtech-Django architecture in anticipation of a deployment while averaging 4 hours per day working on it.
 - [ ] Engage in 4 transformative football sessions.
 - [ ] Spend the last 30 minutes everyday practicing my playing of the piano (11:30 PM  — Midnight).
 
