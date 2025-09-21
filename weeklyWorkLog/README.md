@@ -63,8 +63,8 @@ Created: {{ 2025-05-31 }}
 **Lesson:** The fine line between Order & Chaos. How much effort should one put in greetings familiar faces? Still gotta trial-and-error my way into figuring this out.
 
 ### 🌟 <b>Highlights of the Week</b>
-- <b>Memorable moment / breakthrough / proud event</b>: The synchronicities experienced as I step out to get me some food. Seeing myself, more and more, ```embodying DLHI``` from the looks, through the deeds, to the being.
-- <b>Quote, inspiration, or personal reflection</b>: ```"Every great man is an actor of his own ideal"``` - Jordan B. Peterson paraphrasing Friedrich Mietzsche. This in alignment with breakthrough segment serves a indication of the present of meaning on the path being trailblazed.
+- <b>Memorable moment / breakthrough / proud event</b>: Reconnection with my past, through linking present-event observations with moments from my 'childhood' that I now hold dear. Memories of me and my mom, my grandma, my sisters, my dad, my uncles, my aunt. Family, Friends, people in general, you know.
+- <b>Quote, inspiration, or personal reflection</b>: ```'My dear boy: Either increase your sacrifice or reduce desire. It's simple. Yours sincerely, Grandpa.'```.
 
 ---
 
@@ -138,7 +138,7 @@ Created: {{ 2025-05-31 }}
 
 ### 🌟 <b>Highlights of the Week</b>
 - <b>Memorable moment / breakthrough / proud event</b>: The synchronicities experienced as I step out to get me some food. Seeing myself, more and more, ```embodying DLHI``` from the looks, through the deeds, to the being.
-- <b>Quote, inspiration, or personal reflection</b>: ```"Every great man is an actor of his own ideal"``` - Jordan B. Peterson paraphrasing Friedrich Mietzsche. This in alignment with breakthrough segment serves a indication of the present of meaning on the path being trailblazed.
+- <b>Quote, inspiration, or personal reflection</b>: ```"Every great man is an actor of his own ideal"``` - Jordan B. Peterson paraphrasing Friedrich Nietzsche. This is in alignment with the above 'breakthrough segment' and serves as proof indicating of the present of meaning on this path trailblazed by Dem.
 
 ---
 
