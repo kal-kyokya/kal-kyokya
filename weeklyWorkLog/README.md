@@ -22,6 +22,80 @@ Created: {{ 2025-05-31 }}
 
 ---
 
+## Week 17 — Sunday, 21st September 2025
+
+### 🌱 **What Was Worked On**
+
+- **Projects**
+	1. **Futtech Django-Backend Transition**: Concluded integration of Stripe for subscription payment and began implementation of a 'register-and-login' flow using [Django REST Framework](https://www.django-rest-framework.org/api-guide/authentication/) with access andd refresh tokens.
+
+- **Learning & Growth**
+	1. Started the week with some non-work-related debugging as I realized that my laptop's Webcam wasn't working. This online tool named [Webcam test](https://webcamtests.com/) help me get confirmation of my obvious suspicion.
+	2. I didn't dwell much on the fact that my laptop was now 'blind', as I was intent on starting integration of payment to Futtech's Django backend as swiftly as possible. I therefore went ahead and made sure to [create a Stripe account](https://dashboard.stripe.com/register).
+	3. There was this quote I longed to know the author of that led to my googling this: ['Out of a hundred men quote'](https://www.google.com/search?q=out+of+a+hundred+men+quote). A quote that is often attributed to the [Greek philosopher Heraclitus](https://www.google.com/search?q=greek+philosopher+heraclitus+quotes).
+	4. I wrote no code, as I dedicated all efforts towards meticulous read of the [this detailed guide](https://www.saaspegasus.com/guides/django-stripe-integrate/) on ```How to Create a Subscription SaaS Application with Django and Stripe``` by [Saaspegasus.com](https://www.saaspegasus.com/).
+	5. Initial read of the Saaspegasus guide introduced me to the business concepts of ['Lifetime value of a customer'](https://www.google.com/search?q=life+time+value+of+a+customer), as well as ['Subscription and Non-subscription Business Models for SaaS'](https://www.google.com/search?q=subscription+and+non-subscription+models+for+business+selling+software+as+a+service).
+	6. Tuesday, early morning, saw my attention turned towards Crunchyroll, a video on-demand platform for [Anime](https://www.google.com/search?q=anime+meaning) (A style if Japanese film and television animation). My interest was with their frontend implementation of ['Premium Free Trial Offer'](https://www.crunchyroll.com/premium), to guide my thinking of what Futtech could, and maybe should, be like.
+	7. Early afternoon, in an attempt to consolidate the learning I did while watching a Jordan B. Peterson Psychology YouTube lecture discussing brain areas and their functions, I googled: 'Brain Lobes' and found [this image by Shirley Ryan Ability Lab](https://www.sralab.org/sites/default/files/inline-images/Brain%20Blog%20_%20Lobes.png), among other images, to do a detailed job segmenting it.
+	8. While still extracting knowledge from the guide by Saaspegasus, it hit me that I needed to revision my understanding of the difference between [Class-based and Function-based Views in Django](https://www.google.com/search?q=class+based+vs+function+based+views+django).
+	9. Later that day, I encountered [this YouTube video](https://www.youtube.com/watch?v=bSdqV-byfGI) by a team called Githurai All-Stars aka GAS, which left me feeling encouraged to implement Futtech not only for my growth as a Hobbyist-footballer and Software Engineer, but most importantly to positively impact the Football world.
+	10. Come Wednesday, I was getting my hands dirty (with code), and created Stripe Products and Prices in order to [build a subscriptions integration](https://docs.stripe.com/billing/subscriptions/build-subscriptions), with [recurring pricing models](https://docs.stripe.com/products-prices/pricing-models).
+	11. The decision I made for both the Stripe Products and Prices were heavily influenced by the [Netflix Subscription plans](https://www.google.com/search?q=netflix+subscription+plans) and [Apple's iCloud Subscription prices](https://www.google.com/q=apple+icloud+subscription+prices).
+	12. The guide by Saaspegasus introduced me to [dj-stripe](https://github.com/dj-stripe/dj-stripe): A python package that automatically syncs Stripe Data to one's local database. A game changer, and an opportunity to use the 'Don't reinvent the wheel' programming principle.
+	13. I opened the [documentation of dj-stripe](https://dj-stripe.dev/) that same Wednesday and tried to gain a general view of what using it will imply.
+	14. Thursday's focus was directed toward creation and frontend integration of a [Stripe embeddable pricing table for subscriptions](https://docs.stripe.com/payments/checkout/pricing-table) which influenced the subsequent internal questions I raised throughout my working hours.
+	15. Some of those questions leading to my learning how to handle ["Django migration errors"](https://www.google.com/search?q=django=can%27t+make+migration+for+datetimefield+without+default), ["The difference between 'to provision' and 'to provide'"](https://www.google.com/search?q=to+provision+vs+to+provide), ["The meaning of priming someone"](https://www.google.com/search?q=to+provision+vs+to+provide), ["Using 'get_user_model() in Django "](https://www.google.com/search?q=django+get_user_model), as well as ["The 'reverse()' function from Django URLS"](https://www.google.com/search?q=django.urls+reverse).
+	16. Friday afternoon saw me investigate [Stripe's API keys](https://docs.stripe.com/keys) and the [Stripe Checkout workflow](https://docs.stripe.com/payments/checkout) as I needed to better grasp how exactly the user went from requiring a subscription link to being granted access to the tier they paid for.
+	17. [This YouTube video](https://www.youtube.com/watch?v=sp3mMwo3PO0) titled ```How Your Code Really Controls Hardware``` reminded me of my interest in Embedded systems/software Engineering and had me brushing off my knowledge of C programming with [Stack vs Heap differentiation](https://www.google.com/search?q=stack+vs+heap+c+programming).
+	18. I followed a light investigation of Embedded Engineering with an appreciation for a US based enterprise named [Coptershotz](https://coptershotz.com/drone-photography-video-services/#photo-gallery) that specializes in usage of drones for Photography and Videos services. A business similar to Futtech.
+	19. The week ended on Saturday with the installation of [the Stripe CLI tool](https://docs.stripe.com/stripe-cli/install?install-method=linux) on my Ubuntu VPS, in order to implement Stripe Webhooks using dj-stripe.
+
+- **Job hunting**
+	- No Jobs applied - No milestones delivered
+
+### 🏆 <b>3 Wins and/or Achievements</b>
+1. The ```depth``` to which I have gone in this week's learning sessions and the newfound ```willingness to seek``` long-format detailed explanations of concepts I need to be aware of as a Software Engineer as well as a lover of wisdom.
+2. ```Better execution``` of the food plan as well as ease of engagement in the 45-hour monthly fast.
+3. Remembrance to publicly say ```AlhamduliAllah``` and courage to do so.
+
+### 🔭 <b>3 Fails & Lessons Learned</b>
+1. **Failure:** Lies and deceptions.<br />
+**Lesson:** Ran into an acquaintance from the past and mindlessly mentioned 2027 as my graduation year.
+2. **Failure:** Poor communication, no foresight.<br />
+**Lesson:** I failed to inform the property manager of a delayed payment this month and was tempted to be resentful when I got a 'reminder'.
+3. **Failure:** "Salimiya watu" == "Say 'Hi' to people".<br />
+**Lesson:** The fine line between Order & Chaos. How much effort should one put in greetings familiar faces? Gotta trial-and-error my way into figuring this out.
+
+### 🌟 <b>Highlights of the Week</b>
+- <b>Memorable moment / breakthrough / proud event</b>: The synchronicities experienced as I step out to get me some food. Seeing myself, more and more, ```embodying DLHI``` from the looks, through the deeds, to the being.
+- <b>Quote, inspiration, or personal reflection</b>: ```"Every great man is an actor of his own ideal"``` - Jordan B. Peterson paraphrasing Friedrich Mietzsche. This in alignment with breakthrough segment serves a indication of the present of meaning on the path being trailblazed.
+
+---
+
+## 📅 <b>Coming Up Next Week</b> - 15th to 21st September 2025
+- [ ] Complete transition of Futtech's backend from MERN to Django while averaging 4 hours per day working on it.
+- [ ] Engage in 4 transformative football sessions.
+- [ ] Spend the last 30 minutes everyday practicing my playing of the piano (11:30 PM  — Midnight).
+
+---
+
+## 📈 <b>Meta</b>
+| Metric | This Week |
+| ------ | --------- |
+| GitHub Commits | 34 |
+| Study Hours | 30 |
+| Sleep Avg (hrs) | 7 |
+| Training Sessions (Football) | 3 |
+| Total Coding Time (hrs) | 6 |
+
+---
+
+> _“Out of every one hundred men, ten shouldn't even be there, eighty are just targets, nine are the real fighters, and we are lucky to have them, for they make battle. Ah, but the one, one is a warrior, and he will bring the others back.” — Heraclitus._
+
+<!-- Let's update the log every Sunday. Let's Go! -->
+
+---
+
 ## Week 16 — Sunday, 14th September 2025
 
 ### 🌱 **What Was Worked On**
@@ -46,9 +120,9 @@ Created: {{ 2025-05-31 }}
 	14. Thursday's focus was directed toward creation and frontend integration of a [Stripe embeddable pricing table for subscriptions](https://docs.stripe.com/payments/checkout/pricing-table) which influenced the subsequent internal questions I raised throughout my working hours.
 	15. Some of those questions leading to my learning how to handle ["Django migration errors"](https://www.google.com/search?q=django=can%27t+make+migration+for+datetimefield+without+default), ["The difference between 'to provision' and 'to provide'"](https://www.google.com/search?q=to+provision+vs+to+provide), ["The meaning of priming someone"](https://www.google.com/search?q=to+provision+vs+to+provide), ["Using 'get_user_model() in Django "](https://www.google.com/search?q=django+get_user_model), as well as ["The 'reverse()' function from Django URLS"](https://www.google.com/search?q=django.urls+reverse).
 	16. Friday afternoon saw me investigate [Stripe's API keys](https://docs.stripe.com/keys) and the [Stripe Checkout workflow](https://docs.stripe.com/payments/checkout) as I needed to better grasp how exactly the user went from requiring a subscription link to being granted access to the tier they paid for.
-	16. [This YouTube video](https://www.youtube.com/watch?v=sp3mMwo3PO0) titled ```How Your Code Really Controls Hardware``` reminded me of my interest in Embedded systems/software Engineering and had me brushing off my knowledge of C programming with [Stack vs Heap differentiation](https://www.google.com/search?q=stack+vs+heap+c+programming).
-	17. I followed a light investigation of Embedded Engineering with an appreciation for a US based enterprise named [Coptershotz](https://coptershotz.com/drone-photography-video-services/#photo-gallery) that specializes in usage of drones for Photography and Videos services. A business similar to Futtech.
-	18. The week ended on Saturday with the installation of [the Stripe CLI tool](https://docs.stripe.com/stripe-cli/install?install-method=linux) on my Ubuntu VPS, in order to implement Stripe Webhooks using dj-stripe.
+	17. [This YouTube video](https://www.youtube.com/watch?v=sp3mMwo3PO0) titled ```How Your Code Really Controls Hardware``` reminded me of my interest in Embedded systems/software Engineering and had me brushing off my knowledge of C programming with [Stack vs Heap differentiation](https://www.google.com/search?q=stack+vs+heap+c+programming).
+	18. I followed a light investigation of Embedded Engineering with an appreciation for a US based enterprise named [Coptershotz](https://coptershotz.com/drone-photography-video-services/#photo-gallery) that specializes in usage of drones for Photography and Videos services. A business similar to Futtech.
+	19. The week ended on Saturday with the installation of [the Stripe CLI tool](https://docs.stripe.com/stripe-cli/install?install-method=linux) on my Ubuntu VPS, in order to implement Stripe Webhooks using dj-stripe.
 
 - **Job hunting**
 	- No Jobs applied - No milestones delivered
@@ -67,7 +141,7 @@ Created: {{ 2025-05-31 }}
 **Lesson:** The fine line between Order & Chaos. How much effort should one put in greetings familiar faces? Gotta trial-and-error my way into figuring this out.
 
 ### 🌟 <b>Highlights of the Week</b>
-- <b>Memorable moment / breakthrough / proud event</b>: Synchronous events as I step out to get me some food. Seeing myself, more and more, ```embodying DLHI``` from the looks, through the deeds, to the being.
+- <b>Memorable moment / breakthrough / proud event</b>: The synchronicities experienced as I step out to get me some food. Seeing myself, more and more, ```embodying DLHI``` from the looks, through the deeds, to the being.
 - <b>Quote, inspiration, or personal reflection</b>: ```"Every great man is an actor of his own ideal"``` - Jordan B. Peterson paraphrasing Friedrich Mietzsche. This in alignment with breakthrough segment serves a indication of the present of meaning on the path being trailblazed.
 
 ---
