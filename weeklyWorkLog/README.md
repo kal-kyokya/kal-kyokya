@@ -63,8 +63,8 @@ Created: {{ 2025-05-31 }}
 **Lesson:** I didn't know a lot about drones until this Monday, the regulation in Kenya as well as the cost of acquisition of one. I have a better footing, but would benefit greatly from integration of drone data in the Futtech Powepoint.
 
 ### 🌟 <b>Highlights of the Week</b>
-- <b>Memorable moment / breakthrough / proud event</b>: Reconnection with my past, through linking present-event observations with moments from my 'childhood' that I now hold dear. Memories of me and my mom, my grandma, my sisters, my dad, my uncles, my aunt. Family, Friends, people in general, you know.
-- <b>Quote, inspiration, or personal reflection</b>: ```'My dear boy: Either increase your sacrifice or reduce desire. It's simple. Yours sincerely, Grandpa.'```.
+- <b>Memorable moment / breakthrough / proud event</b>: A breakthrough it is: As a result of the Futtech discussion I had on Monday with a relative living abrod, I have decided to go for the DJI Mini 3 Pro and will seek funds to have the paperwork in check to comply with Kenya's drone regulations.
+- <b>Quote, inspiration, or personal reflection</b>: ```"One must sacrifice everything for their gift. Only then can they capture the divine."``` Orpheus, Blood of Zeus, S3E5, Netflix.
 
 ---
 
@@ -133,7 +133,7 @@ Created: {{ 2025-05-31 }}
 **Lesson:** The fine line between Order & Chaos. How much effort should one put in greetings familiar faces? Still gotta trial-and-error my way into figuring this out.
 
 ### 🌟 <b>Highlights of the Week</b>
-- <b>Memorable moment / breakthrough / proud event</b>: Reconnection with my past, through linking present-event observations with moments from my 'childhood' that I now hold dear. Memories of me and my mom, my grandma, my sisters, my dad, my uncles, my aunt. Family, Friends, people in general, you know.
+- <b>Memorable moment / breakthrough / proud event</b>: Reconnection with my past, through linking present-event observations with moments from my 'childhood' that I now hold dear. Memories of me, my mom, grand-mama, sisters, dad, uncles, aunts. Family, Friends, people in general, you know.
 - <b>Quote, inspiration, or personal reflection</b>: ```'My dear boy: Either increase your sacrifice or reduce desire. It's simple. Yours sincerely, Grandpa.'```.
 
 ---
