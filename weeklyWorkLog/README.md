@@ -50,9 +50,9 @@ Created: {{ 2025-05-31 }}
 	- No Jobs applied - No milestones delivered
 
 ### 🏆 <b>3 Wins and/or Achievements</b>
-1. Completion of the registration workflow for the Django-backend version of Futtech.
-2. The felt-sense of depth in the relation I have established with ball, whether be off the wall or off my feet, knee, sole/ankle and chest.
-3. Thusfar satisfaction in the quality of the low quantity network connection I am maintaining in a minimalistic fashion.
+1. Successful migration of changes made to the Django-backend structure designed for Futtech.
+2. Sharing the Futtech vision with two different people, in-depth.
+3. Answering calls to DLHI.
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
 1. **Failure:** 'Les yeux plus gros que son ventre'.<br />
@@ -121,7 +121,7 @@ Created: {{ 2025-05-31 }}
 
 ### 🏆 <b>3 Wins and/or Achievements</b>
 1. Completion of the registration workflow for the Django-backend version of Futtech.
-2. The felt-sense of depth in the relation I have established with ball, whether be off the wall or off my feet, knee, sole/ankle and chest.
+2. The felt-sense of depth in the relation I have established with the ball, whether be off the wall or off my feet, knee, sole/ankle and chest.
 3. Thusfar satisfaction in the quality of the low quantity network connection I am maintaining in a minimalistic fashion.
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
