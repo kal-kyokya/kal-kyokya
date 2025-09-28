@@ -22,6 +22,76 @@ Created: {{ 2025-05-31 }}
 
 ---
 
+## Week 18 — Sunday, 28th September 2025
+
+### 🌱 **What Was Worked On**
+
+- **Projects**
+	1. **Futtech Django-Backend Transition**: Completed implementation of the 'user_auth' Django app handling the registration-login flow and reviewed all the request-response cycles attached to the newly created backend structure.
+
+- **Learning & Growth**
+	1. Started the week off with an investigation of the bug encountered while attempting to [level up the subscription workflow using Stripe CLI](https://www.youtube.com/watch?v=iFwBGI-kqeE).
+	2. With the unresolved Stripe workflow error in mind, I set on completing the Django backend structure by create an [App that handles user authentication and authorization](https://github.com/kal-kyokya/Futtech-Django/tree/main/futtech_backend/user_auth).
+	3. The very first query that revealed itself as a result of planning how authentication will be implemented was: ['Why use Django REST Framework'](https://www.google.com/search?q=why+use+django+rest+framework).
+	4. Having add a general idea on why DRF was a sophisticated choice, it next appeared to be important that I deepened my understanding of the idea of [serialization](https://www.google.com/search?q=serialization), particularly in Django despite its general usage in Python programming.
+	5. Tuesday's first order of business was an other investigation of the Stripe workflow error obstruing [webhook communication](https://www.google.com/search?q=stripe+local+webhook+testing) between the Stripe server and my VPS.
+	6. This was followed by the implementation of a Django signal handler aimed at [notifying the admin via email](https://docs.djangoproject.com/en/5.2/topics/email/) of the occurence of a targeted event.
+	7. With the implementation of the 'register-login' flow in mind, the need for a clear differentiation between [application and web servers](https://www.google.com/search?q=application+server+vs+web+server) emerged and satisfied.
+	8. Wednesday followed with an exploration of the idea of using a 'application server' with Django via [The Django documentation on Gunicorn integration](https://docs.djangoproject.com/en/5.2/howto/deployment/wsgi/gunicorn/), as well as, this video by Akamai developers on [Deploying a scalable Django App using Nginx and Gunicorn in Production](https://www.youtube.com/watch?v=_iUi8Sy6Muw).
+	9. The interest in 'web vs app servers' comparison led to an investigation of what constitute a [three-tier web application infrastructure](https://www.google.com/search?q=three-tier+web+application+architecture).
+	10. My vocabulary grew by an inch thanks to my learning of the word ['somatic'](https://www.google.com/search?q=somatic+meaning) and recall of what ['solicitude'](https://www.google.com/search?q=solicitude+meaning) means.
+	11. Thursday was a good day. Though, I only committed 3 hours to reading, as invested time in the gym instead, exposure to the concept of ['Technical debt'](https://www.google.com/search?q=technical+debt) opened my mind to the need to remain of integrity, to have technical integrity.
+	12. The second concept of paramount importance I explored in depth was that of [an 'API Contract'](https://www.google.com/search?q=API+Contract). This [detailed blog post by GeeksforGeeks](https://www.geeksforgeeks.org/system-design/api-contracts-system-design/) is a much recommended read. These two other resources, one by [Adobe](https://www.adobe.com/acrobat/business/hub/what-s-included-in-an-api-contract.html) and the other a [blog post on Medium](https://medium.com/@harutyunabgaryann/the-api-contract-bridging-the-gap-between-backend-and-frontend-development-3074effc642b) provide a different formulation of the defintion of the same concept. A much needed variance in definition.
+	13. Friday, during implementation of the user-auth logic, the need to understand [the meta class in Serializers](https://www.google.com/search?q=django+rest+framework+serializer+meta+class) led a crucial learning: [The distinction between a Serializer and Model Field]()https://www.google.com/search?q=difference+between+serializer+field+and+model+field.
+	14. Saturdau was marked by the construction of a React component dependent on ['React Hook Form'](https://www.npmjs.com/package/react-hook-form) whose purpose is to enable a user to input his credentials for effective user registration.
+	15. Important to note that I realized that 'npm run dev' would not work in the Futtech-Django repository and had to google ['npm install package.json'](https://www.google.com/search?q=npm+install+package.json) to understand that the directory was not properly configured.
+
+- **Job hunting**
+	- No Jobs applied - No milestones delivered
+
+### 🏆 <b>3 Wins and/or Achievements</b>
+1. Completion of the registration workflow for the Django-backend version of Futtech.
+2. The felt-sense of depth in the relation I have established with ball, whether be off the wall or off my feet, knee, sole/ankle and chest.
+3. Thusfar satisfaction in the quality of the low quantity network connection I am maintaining in a minimalistic fashion.
+
+### 🔭 <b>3 Fails & Lessons Learned</b>
+1. **Failure:** 'Les yeux plus gros que son ventre'.<br />
+**Lesson:** Overestimated my appetite and caused the subsequent night and day to not be as comfortable as I need to make them be.
+2. **Failure:** Imposter-syndrome-induced fear and cowardice.<br />
+**Lesson:** I was scheduled for a meeting on saturday to discuss Futtech, and although I did a good job providing a detailed text, and 9-minute long video I avail, I caved and made up excuses as to why we should delay the meeting by a day.
+3. **Failure:** Still working on "Salimiya watu" == "Say 'Hi' to people".<br />
+**Lesson:** The fine line between Order & Chaos. How much effort should one put in greetings familiar faces? Still gotta trial-and-error my way into figuring this out.
+
+### 🌟 <b>Highlights of the Week</b>
+- <b>Memorable moment / breakthrough / proud event</b>: Reconnection with my past, through linking present-event observations with moments from my 'childhood' that I now hold dear. Memories of me and my mom, my grandma, my sisters, my dad, my uncles, my aunt. Family, Friends, people in general, you know.
+- <b>Quote, inspiration, or personal reflection</b>: ```'My dear boy: Either increase your sacrifice or reduce desire. It's simple. Yours sincerely, Grandpa.'```.
+
+---
+
+## 📅 <b>Coming Up Next Week</b> - 22nd to 28th September 2025
+- [ ] Debug the Futtech-Django architecture in anticipation of a deployment while averaging 4 hours per day working on it.
+- [ ] Engage in 4 transformative football sessions.
+- [ ] Spend the last 30 minutes everyday practicing my playing of the piano (11:30 PM  — Midnight).
+
+---
+
+## 📈 <b>Meta</b>
+| Metric | This Week |
+| ------ | --------- |
+| GitHub Commits | 52 |
+| Study Hours | 24 |
+| Sleep Avg (hrs) | 7 |
+| Training Sessions (Football) | 3 |
+| Total Coding Time (hrs) | 5 |
+
+---
+
+> _“The Truth is a process... The Truth is the thing that emerges in the course of the search for the Truth... True Truth is to be found in the search for the truth.” — Jordan B. Peterson, How to Build Self-Respect, Chris Williamson YouTube Channel._
+
+<!-- Let's update the log every Sunday. Let's Go! -->
+
+---
+
 ## Week 17 — Sunday, 21st September 2025
 
 ### 🌱 **What Was Worked On**
