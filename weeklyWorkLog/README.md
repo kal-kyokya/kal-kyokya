@@ -68,8 +68,8 @@ Created: {{ 2025-05-31 }}
 
 ---
 
-## 📅 <b>Coming Up Next Week</b> - 22nd to 28th September 2025
-- [ ] Debug the Futtech-Django architecture in anticipation of a deployment while averaging 4 hours per day working on it.
+## 📅 <b>Coming Up Next Week</b> - 29th September to 5th October 2025
+- [ ] Average 4 hours per day finalizing Futtech.
 - [ ] Engage in 4 transformative football sessions.
 - [ ] Spend the last 30 minutes everyday practicing my playing of the piano (11:30 PM  — Midnight).
 
@@ -86,7 +86,7 @@ Created: {{ 2025-05-31 }}
 
 ---
 
-> _“The Truth is a process... The Truth is the thing that emerges in the course of the search for the Truth... True Truth is to be found in the search for the truth.” — Jordan B. Peterson, How to Build Self-Respect, Chris Williamson YouTube Channel._
+> _“Virtue is its Own Reward” — Stoicism, Ancient greek Philosophy._
 
 <!-- Let's update the log every Sunday. Let's Go! -->
 
