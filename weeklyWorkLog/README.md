@@ -55,12 +55,12 @@ Created: {{ 2025-05-31 }}
 3. Answering calls to DLHI.
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
-1. **Failure:** 'Les yeux plus gros que son ventre'.<br />
-**Lesson:** Overestimated my appetite and caused the subsequent night and day to not be as comfortable as I need to make them be.
-2. **Failure:** Imposter-syndrome-induced fear and cowardice.<br />
-**Lesson:** I was scheduled for a meeting on saturday to discuss Futtech, and although I did a good job providing a detailed text, and 9-minute long video I avail, I caved and made up excuses as to why we should delay the meeting by a day.
-3. **Failure:** Still working on "Salimiya watu" == "Say 'Hi' to people".<br />
-**Lesson:** The fine line between Order & Chaos. How much effort should one put in greetings familiar faces? Still gotta trial-and-error my way into figuring this out.
+1. **Failure:** Lack of decisiveness.<br />
+**Lesson:** Although not taking action turned out to be a decision, a judicious one at that, not having decided has me questioning my character.
+2. **Failure:** The work on "Salimiya watu" == "Say 'Hi' to people".<br />
+**Lesson:** That fine line between Order & Chaos. How much effort should one put in greeting familiar faces? Gotta trial-and-error my way into figuring this one out.
+3. **Failure:** Potentially securing funds for Futtech.<br />
+**Lesson:** I didn't know a lot about drones until this Monday, the regulation in Kenya as well as the cost of acquisition of one. I have a better footing, but would benefit greatly from integration of drone data in the Futtech Powepoint.
 
 ### 🌟 <b>Highlights of the Week</b>
 - <b>Memorable moment / breakthrough / proud event</b>: Reconnection with my past, through linking present-event observations with moments from my 'childhood' that I now hold dear. Memories of me and my mom, my grandma, my sisters, my dad, my uncles, my aunt. Family, Friends, people in general, you know.
