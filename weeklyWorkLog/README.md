@@ -22,6 +22,77 @@ Created: {{ 2025-05-31 }}
 
 ---
 
+## Week 19 — Sunday, 5th October 2025
+
+### 🌱 **What Was Worked On**
+
+- **Projects**
+	1. **Futtech React-Frontend Refactor**: Created a 4 JavaScript modules constituting the 'services directory' that handles API Client initializations, User Authentications, JSON Web Token manipulations and the Application's content fetch and distribution.
+	2. **Futtech Django-Backend Transition**: Implemeted the backend logic handling the frontend's services like setting refresh tokens as HTTPOnly cookies or, user requests for own details and video ones, as well as effective pagination of playlists.
+
+- **Learning & Growth**
+	1. Started the week off with what was among the themes of the week: A ddeeper understanding of parent classes used for Django initializations. Here the focus was on [DRF's APIView vs GenericView](https://www.google.com/search?q=django+rest+framework+apiview+vs+genericapiview).
+	2. I had a meeting schedule with a relative residing in Poland, and was expected to discuss Futtech's vision, mission and implementation. I began the preparation for that meeting with the ['Drone price in Kenya'](https://www.google.com/search?client=opera&q=drone+price+in+kenya) and through the exchange better calibrated the pathway forward for Futtech.
+	3. Tuesday saw me wake up earlier than usual, way earlier, and had me further investigate drone prices. I learned about [utm sources](https://www.google.com/search?client=opera&q=utm+source+meaning) and how they are attached to queries as indicators of platforms from which traffic is emerging for analytics.
+	4. As I inspected request-response cycles and made necessary adjustements, the need to refresh memory on [Django models' Q objects](https://www.google.com/search?client=opera&q=django+q+objects) revealed itself as relevant.
+	5. Although having self-explanatory names, [DRF 'authentication and permission classes'](https://www.google.com/search?q=django+authentication_classes+vs+permission_classes) were tools I didn't completely understand and made sure to read on.
+	6. In an attempt to enhance management of webhooks, I got introduced to the idea of ['MUX Webhooks Signatures'](https://www.google.com/search?q=mux+python+webhook+signature) and how they are passed as [Django Request Header](https://www.google.com/search?q=django+request+headers) to verify legitimacy of the webhook.
+	7. Wednesday saw me begin my day with a repeated investigation of drone prices, with my focus on [the DJI Mini 3 Pro](https://www.google.com/search?q=dji+mini+3+pro) as the drone of choice.
+	8. As far as Software Engineering is concerned, I deepened my understanding of Django and Modern Web Development as a result of differentiating [The Django ModelSerializer and Serializer classes](https://www.google.com/search?q=modelserializer+vs+serializer), using the linked Google search and [this stackoverflow thread](https://stackoverflow.com/questions/61237790/what-is-the-difference-between-serializer-and-modelserializer).
+	9. Wednesday still, late at night, I discovered Reddit to be a resourceful platform for polling of people's views, opinions and advices. I consolidated the learning acquired via reading the [Kenya's Drone Regulations by KCAA - Kenya Civil Aviation Authority](https://www.kcaa.or.ke/safety-security-oversight/unmanned-aircraft-systems/), by [searching for 'Drones' in Kenya's subreddit](https://www.reddit.com/r/Kenya/comments/1he9czy/drones/).
+	10. Thursday was marked the discovery of [Stripe's API reference](https://docs.stripe.com/api/) and the ease with which it becomes to understand code when one sees what data the API serves. The importance of a properly documented product.
+	11. Before I knew it, it was Friday, I had covered a good portion of the request-response cycle and while refactoring the endpoint serving MUX playback IDs got the chance to extensively play around with datetime python objects as I wanted to tackle [validating expiration time in Python](https://www.google.com/search?q=validating+expiration+time+python).
+	12. Handling expiration time attributes made me raise the question of ['timedelta' object conversion to 'datetime' objects](https://www.google.com/search?q=convert+timedelta+to+datetime) from which I learned to better use 'timedelta' for time durations.
+	13. While building the logic ensuring users have active subscription for premium videos, the concept of [N+1 queries](https://www.google.com/search?q=n+%2B+1+query) emerged and had me recalling what I knew of it and fillinf knowledge gaps.
+	14. Saturday saw me put the finishing touches on traversal of the project's URL map and made me more aware of the relevance of [URL reversals in Django](https://www.google.com/search?q=django+urls+reverse), as well as [HTTP redirects](https://www.google.com/search?q=django+http+httpresponseredirect).
+	15. I finished the week by running the 'makemigrations' command and paying the technical debt accumulated by resolving bugs such as [poor configuration of DRF's ModelViewSet's as_view() function](https://www.google.com/search?q=modelviewset+django+rest+framework+as_view+error).
+
+- **Job hunting**
+	- No Jobs applied - No milestones delivered
+
+### 🏆 <b>3 Wins and/or Achievements</b>
+1. Successful migration of changes made to the Django-backend structure designed for Futtech.
+2. Sharing the Futtech vision with two different people, in-depth.
+3. Answering calls to DLHI.
+
+### 🔭 <b>3 Fails & Lessons Learned</b>
+1. **Failure:** Lack of decisiveness.<br />
+**Lesson:** Although not taking action turned out to be a decision, a judicious one at that, not having decided has me questioning my character.
+2. **Failure:** The work on "Salimiya watu" == "Say 'Hi' to people".<br />
+**Lesson:** That fine line between Order & Chaos. How much effort should one put in greeting familiar faces? Gotta trial-and-error my way into figuring this one out.
+3. **Failure:** Potentially securing funds for Futtech.<br />
+**Lesson:** I didn't know a lot about drones until this Monday, the regulation in Kenya as well as the cost of acquisition of one. I have a better footing, but would benefit greatly from integration of drone data in the Futtech Powepoint.
+
+### 🌟 <b>Highlights of the Week</b>
+- <b>Memorable moment / breakthrough / proud event</b>: A breakthrough it is: As a result of the Futtech discussion I had on Monday with a relative living abrod, I have decided to go for the DJI Mini 3 Pro and will seek funds to have the paperwork in check to comply with Kenya's drone regulations.
+- <b>Quote, inspiration, or personal reflection</b>: ```"One must sacrifice everything for their gift. Only then can they capture the divine."``` Orpheus, Blood of Zeus, S3E5, Netflix.
+
+---
+
+## 📅 <b>Coming Up Next Week</b> - 29th September to 5th October 2025
+- [ ] Average 4 hours per day finalizing Futtech.
+- [ ] Engage in 4 transformative football sessions.
+- [ ] Spend the last 30 minutes everyday practicing my playing of the piano (11:30 PM  — Midnight).
+
+---
+
+## 📈 <b>Meta</b>
+| Metric | This Week |
+| ------ | --------- |
+| GitHub Commits | 62 |
+| Study Hours | 31 |
+| Sleep Avg (hrs) | 7 |
+| Training Sessions (Football) | 3 |
+| Total Coding Time (hrs) | 9 |
+
+---
+
+> _“Virtue is its Own Reward” — Stoicism, Ancient greek Philosophy._
+
+<!-- Let's update the log every Sunday. Let's Go! -->
+
+---
+
 ## Week 18 — Sunday, 28th September 2025
 
 ### 🌱 **What Was Worked On**
