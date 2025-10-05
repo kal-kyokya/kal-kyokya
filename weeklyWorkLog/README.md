@@ -70,10 +70,10 @@ Created: {{ 2025-05-31 }}
 
 ---
 
-## 📅 <b>Coming Up Next Week</b> - 29th September to 5th October 2025
+## 📅 <b>Coming Up Next Week</b> - 6th to 12th October 2025
+- [ ] Average 1 Job application per day on Upwork, LinkedIn, Reddit and AI recommendations.
 - [ ] Average 4 hours per day finalizing Futtech.
 - [ ] Engage in 4 transformative football sessions.
-- [ ] Spend the last 30 minutes everyday practicing my playing of the piano (11:30 PM  — Midnight).
 
 ---
 
