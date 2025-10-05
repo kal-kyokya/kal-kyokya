@@ -52,9 +52,9 @@ Created: {{ 2025-05-31 }}
 	- Upwork, LinkedIn, reddit, ChatGPT recommendations all saw me average at minimum 1 Job application sent.
 
 ### 🏆 <b>3 Wins and/or Achievements</b>
-1. Successful migration of changes made to the Django-backend structure designed for Futtech.
-2. Sharing the Futtech vision with two different people, in-depth.
-3. Answering calls to DLHI.
+1. Aggresive job hunting using as many resources as I could think I have in hand.
+2. Responsiveness noticed from truthful mentions of the Futtech vision and the promises for success, provided that I stay locked-In and Get the Job Done.
+3. Felt sense of Logos-Ethos-Pathos alignment throughout the week, on a moment-to-moment basis.
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
 1. **Failure:** Lack of decisiveness.<br />
