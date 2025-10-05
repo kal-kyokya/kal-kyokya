@@ -88,7 +88,7 @@ Created: {{ 2025-05-31 }}
 
 ---
 
-> _“Virtue is its Own Reward” — Stoicism, Ancient greek Philosophy._
+> _“Rent is Due” — Jean-Paul De Marie KYOKYA Kalulu, reminder to Focus._
 
 <!-- Let's update the log every Sunday. Let's Go! -->
 
