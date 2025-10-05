@@ -57,12 +57,12 @@ Created: {{ 2025-05-31 }}
 3. Felt sense of Logos-Ethos-Pathos alignment throughout the week, on a moment-to-moment basis.
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
-1. **Failure:** Lack of decisiveness.<br />
-**Lesson:** Although not taking action turned out to be a decision, a judicious one at that, not having decided has me questioning my character.
-2. **Failure:** The work on "Salimiya watu" == "Say 'Hi' to people".<br />
-**Lesson:** That fine line between Order & Chaos. How much effort should one put in greeting familiar faces? Gotta trial-and-error my way into figuring this one out.
-3. **Failure:** Potentially securing funds for Futtech.<br />
-**Lesson:** I didn't know a lot about drones until this Monday, the regulation in Kenya as well as the cost of acquisition of one. I have a better footing, but would benefit greatly from integration of drone data in the Futtech Powepoint.
+1. **Failure:** Overeating.<br />
+**Lesson:** I have reached a point where the food plan doesn't necessarily define what will happen but more like gives me the title of the meal while I decided about the details of how exactly that meal will be garnished. Sweet potatoes are quite heavy and required less combination on their days.
+2. **Failure:** Giving into the tempation to further lies and deception.<br />
+**Lesson:** Although I was 'Man Enough' to catch myself in the act and hear my conscience tell me to come clean. The fact that my first heartbeat thought and action were to continue with the lie has me aware of what happens when I am not intentional with my words.
+3. **Failure:** 300 bob socks.<br />
+**Lesson:** Having seen an income this month, I gave into the temptation to spend lavishly on a pair of black socks. Not an unreasonable thing to spend money on, just too easy an expense made because of the 'I can afford' temptation. Gotta keep that in check.
 
 ### 🌟 <b>Highlights of the Week</b>
 - <b>Memorable moment / breakthrough / proud event</b>: A breakthrough it is: As a result of the Futtech discussion I had on Monday with a relative living abrod, I have decided to go for the DJI Mini 3 Pro and will seek funds to have the paperwork in check to comply with Kenya's drone regulations.
