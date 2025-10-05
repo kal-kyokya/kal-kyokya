@@ -65,8 +65,8 @@ Created: {{ 2025-05-31 }}
 **Lesson:** Having seen an income this month, I gave into the temptation to spend lavishly on a pair of black socks. Not an unreasonable thing to spend money on, just too easy an expense made because of the 'I can afford' temptation. Gotta keep that in check.
 
 ### 🌟 <b>Highlights of the Week</b>
-- <b>Memorable moment / breakthrough / proud event</b>: A breakthrough it is: As a result of the Futtech discussion I had on Monday with a relative living abrod, I have decided to go for the DJI Mini 3 Pro and will seek funds to have the paperwork in check to comply with Kenya's drone regulations.
-- <b>Quote, inspiration, or personal reflection</b>: ```"One must sacrifice everything for their gift. Only then can they capture the divine."``` Orpheus, Blood of Zeus, S3E5, Netflix.
+- <b>Memorable moment / breakthrough / proud event</b>: Another breakthrough it is: There are possibilities on the Job market provided that one has done his homework and truly has with him 'an offer that anyone will feel stupid saying no to'.
+- <b>Quote, inspiration, or personal reflection</b>: ```"Strength in this life, Happiness in the next."``` Heron, Blood of Zeus, S3 Finale, Netflix.
 
 ---
 
