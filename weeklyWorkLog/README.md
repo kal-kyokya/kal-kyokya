@@ -48,7 +48,8 @@ Created: {{ 2025-05-31 }}
 	15. Saturday's contribution was in the completion of the 'ContentService' that handles fetching and prefetching of paginated playlists from the Django-backend. Once completed, proper configuration of Django URLs was all that was left and was handled using [Django ViewSets URL parameters](https://www.google.com/search?q=django+viewset+url+parameters).
 
 - **Job hunting**
-	- No Jobs applied - No milestones delivered
+	- Target reached for a daily average greater than a measly 1 Job application sent.
+	- Upwork, LinkedIn, reddit, ChatGPT recommendations all saw me average at minimum 1 Job application sent.
 
 ### 🏆 <b>3 Wins and/or Achievements</b>
 1. Successful migration of changes made to the Django-backend structure designed for Futtech.
