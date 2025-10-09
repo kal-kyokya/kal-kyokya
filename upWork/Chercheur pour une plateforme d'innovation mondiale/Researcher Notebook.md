@@ -41,4 +41,14 @@ Created: {{ 2025-10-07 }}
 🔹 **Knowledge extraction, possible adaptation / experiment:**<br />
    This right here lets me know that Everything-IoT is worthwhile, it is a project I should dedicate my time, thoughts and efforts. I did well, choosing it together with Futtech as my life projects.
 
+### Idea 3
+
+🔹 **Concept name and link:**<br />
+   [Viva Innovation - Détection AI de polypes](https://www.ces2025-ifez.com/vivainnovation), [YouTube demonstration](https://www.youtube.com/watch?v=GFApCo6FsPI)<br />
+🔹 **Why it matters to Futtech:**<br />
+   The use of of an Artificial Intelligent model in order to notice elements that even a trained eye might overlook sounds a lot like what Futtech aims at providing to the each player and/or teams.<br />
+🔹 **Knowledge extraction, possible adaptation / experiment:**<br />
+   The YouTube demonstration got me thinking about the AI model to be engineered for Futtech called Ndoto.<br />
+   A rectangle that highlights an area of the recording one would benefit from paying attention to.
+
 ---
