@@ -46,9 +46,29 @@ Created: {{ 2025-10-07 }}
 🔹 **Concept name and link:**<br />
    [Viva Innovation - Détection AI de polypes](https://www.ces2025-ifez.com/vivainnovation), [YouTube demonstration](https://www.youtube.com/watch?v=GFApCo6FsPI)<br />
 🔹 **Why it matters to Futtech:**<br />
-   The use of of an Artificial Intelligent model in order to notice elements that even a trained eye might overlook sounds a lot like what Futtech aims at providing to the each player and/or teams.<br />
+   The use of of an Artificial Intelligent model in order to notice elements that even a trained eye might overlook (```subtle``` details), sounds a lot like what Futtech aims at providing to the each player and/or teams.<br />
 🔹 **Knowledge extraction, possible adaptation / experiment:**<br />
    The YouTube demonstration got me thinking about the AI model to be engineered for Futtech called Ndoto.<br />
    A rectangle that highlights an area of the recording one would benefit from paying attention to.
+
+### Idea 4
+
+🔹 **Concept name and link:**<br />
+   [BDApp by emCT - Service incendie à distance](https://www.ces2025-ifez.com/emct), [Consumer Technology Association - CES 2025](https://www.ces.tech/ces-innovation-awards/2025/bdapp-fire-safe-zone-mobile-facility-monitoring-service)<br />
+🔹 **Why it matters to Everything-IoT:**<br />
+   The combination of an Internet of Things system with an AI model hints at a combination of the knowledge acquired through Futtech (During engineering of the Ndoto AI model) with the IoT side of Eviot.<br />
+🔹 **Knowledge extraction, possible adaptation / experiment:**<br />
+   What happens in VA 308 when I install a small scale IoT system that controls 3 sets of light bulbs? How much data that system generates? How can I receive the data and what do I do with it?.<br />
+   The exploration of a this idea of integrating an IoT chip to an existing mechanical system, so as to extract data from it and build Applications that monitor, Remotely Control or Automate processes is something I am interested in.
+
+### Idea 5
+
+🔹 **Concept name and link:**<br />
+   [Nano-Stream by ROMS - Système d'entrepôt automatisé](https://roms.inc/en/product/ec-logistics/nano-stream), [YouTube Demonstration](https://youtu.be/-Q3_RZixILE)<br />
+🔹 **Why it matters to Everything-IoT:**<br />
+   The presence of Automated Guided Vehicles (AGV) fits Eviot's Tech Ecosystem quite nicely ('MARC' - Monitor Automate Remote Control).<br />
+🔹 **Knowledge extraction, possible adaptation / experiment:**<br />
+   I have learned about [AGVs](https://www.google.com/search?q=what+are+agv+robots) thanks to the Nano-Stream project and am fascinate by the idea of build one myself.<br />
+   Creating an automated path to be traversed to and from by a robot, an AVG Robot, and have it perform carries point A, B, C, D to Z, sounds like soul taking activity, I want that.
 
 ---
