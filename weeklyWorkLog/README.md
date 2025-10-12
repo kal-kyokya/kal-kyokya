@@ -57,7 +57,7 @@ Created: {{ 2025-05-31 }}
 
 ### 🌟 <b>Highlights of the Week</b>
 - <b>Memorable moment / breakthrough / proud event</b>: Well, I guess I proposed an offer anyone who feel stupid saying no to and got me a weekly contract that I honored and used to the full in order to fuel Futtech with both knowledge but also money.
-- <b>Quote, inspiration, or personal reflection</b>: People seek to 'BEK GES' (Build-Express-Knowledge Grow-Enjoy-Share).
+- <b>Quote, inspiration, or personal reflection</b>: People seek to 'BEK GES' (Build-Express-Knowledge Grow-Enjoy-Share). Testosterone says Productivity, Oestrogene says Connectivity. Life is interesting.
 
 ---
 
