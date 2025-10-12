@@ -43,9 +43,9 @@ Created: {{ 2025-05-31 }}
 	- Learned that once one secures a job, especially one that picks his interest and demands time, effort and careful attention, he stops hunting.
 
 ### 🏆 <b>3 Wins and/or Achievements</b>
-1. Aggresive job hunting using as many resources as I could think I have in hand.
-2. Responsiveness noticed from truthful mentions of the Futtech vision and the promises for success, provided that I stay locked-In and Get the Job Done.
-3. Felt sense of Logos-Ethos-Pathos alignment throughout the week, on a moment-to-moment basis.
+1. Secured a one week contract through which I got to practice my Ethos, and reinforced the Logos-Ethos-Pathos mental model.
+2. Took souls using the truthful redeeming word and put myself in alignment in the process.
+3. Got out of bed slightly faster than usual, mostly due to the demands of the working day, but also because I looked forward to showing up and getting the job done.
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
 1. **Failure:** Overeating.<br />
