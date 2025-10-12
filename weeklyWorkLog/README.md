@@ -40,8 +40,7 @@ Created: {{ 2025-05-31 }}
 	7. Fast forward Saturday afternoon, I encountered an innovation that scales down usage of [Automated Guided Vehicles aka AGV Robots](https://www.google.com/search?q=what+are+agv+robots) by SMEs. I watched a series of [YouTube Videos](https://www.youtube.com/results?search_query=automated+guided+vehicle) and found that to have been a fascinating, meaningful and pleasing discovery.
 
 - **Job hunting**
-	- Target reached for a daily average greater than a measly 1 Job application sent.
-	- Upwork, LinkedIn, reddit, ChatGPT recommendations all saw me average at minimum 1 Job application sent.
+	- Learned that once one secures a job, especially one that picks his interest and demands time, effort and careful attention, he stops hunting.
 
 ### 🏆 <b>3 Wins and/or Achievements</b>
 1. Aggresive job hunting using as many resources as I could think I have in hand.
