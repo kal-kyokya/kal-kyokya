@@ -61,10 +61,10 @@ Created: {{ 2025-05-31 }}
 
 ---
 
-## 📅 <b>Coming Up Next Week</b> - 6th to 12th October 2025
-- [ ] Average 1 Job application per day on Upwork, LinkedIn, Reddit and AI recommendations.
-- [ ] Average 4 hours per day finalizing Futtech.
+## 📅 <b>Coming Up Next Week</b> - 13th to 19th October 2025
+- [ ] Hit the weekly goal of 100 innovation research entries.
 - [ ] Engage in 4 transformative football sessions.
+- [ ] Ensure to spend 30 minutes every night rehearsing the piano.
 
 ---
 
