@@ -79,7 +79,7 @@ Created: {{ 2025-05-31 }}
 
 ---
 
-> _“Rent is Due” — Jean-Paul De Marie KYOKYA Kalulu, reminder to Focus._
+> _“Rest at the end, not in the middle. Have a dream, sacrifice for it, and never, ever, rest in the middle.” — Kobe Bryant._
 
 <!-- Let's update the log every Sunday. Let's Go! -->
 
