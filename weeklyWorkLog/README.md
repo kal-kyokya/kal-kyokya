@@ -48,12 +48,12 @@ Created: {{ 2025-05-31 }}
 3. Got out of bed slightly faster than usual, mostly due to the demands of the working day, but also because I looked forward to showing up and getting the job done.
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
-1. **Failure:** Overeating.<br />
-**Lesson:** I have reached a point where the food plan doesn't necessarily define what will happen but more like gives me the title of the meal while I decided about the details of how exactly that meal will be garnished. Sweet potatoes are quite heavy and required less combination on their days.
-2. **Failure:** Giving into the tempation to further lies and deception.<br />
-**Lesson:** Although I was 'Man Enough' to catch myself in the act and hear my conscience tell me to come clean. The fact that my first heartbeat thought and action were to continue with the lie has me aware of what happens when I am not intentional with my words.
-3. **Failure:** 300 bob socks.<br />
-**Lesson:** Having seen an income this month, I gave into the temptation to spend lavishly on a pair of black socks. Not an unreasonable thing to spend money on, just too easy an expense made because of the 'I can afford' temptation. Gotta keep that in check.
+1. **Failure:** Going to bed full.<br />
+**Lesson:** I need to think of what is best for me to do if I unexpected events delay my breaking the fast and result in my eating 3-4 hours later.
+2. **Failure:** Raising my voice upon indulgement in Pathos.<br />
+**Lesson:** I need to do a better job staying constant in my non-Pathos Ethos.
+3. **Failure:** Foggy night routine.<br />
+**Lesson:** Yeah, between Anime and Piano sessions, I have not been precise in my stating what exactly should be done and how exactly. 30 minutes piano is a must-have.
 
 ### 🌟 <b>Highlights of the Week</b>
 - <b>Memorable moment / breakthrough / proud event</b>: Another breakthrough it is: There are possibilities on the Job market provided that one has done his homework and truly has with him 'an offer that anyone will feel stupid saying no to'.
