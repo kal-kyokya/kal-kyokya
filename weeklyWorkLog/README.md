@@ -71,10 +71,10 @@ Created: {{ 2025-05-31 }}
 ## 📈 <b>Meta</b>
 | Metric | This Week |
 | ------ | --------- |
-| Study Hours | 29 |
-| GitHub Commits | 57 |
+| Study Hours | N/A |
+| GitHub Commits | 18 |
 | Sleep Avg (hrs) | 7 |
-| Total Coding Time (hrs) | 11 |
+| Total Coding Time (hrs) | Null |
 | Training Sessions (Football) | 3 |
 
 ---
