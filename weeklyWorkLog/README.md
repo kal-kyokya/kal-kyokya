@@ -22,6 +22,78 @@ Created: {{ 2025-05-31 }}
 
 ---
 
+## Week 20 — Sunday, 12th October 2025
+
+### 🌱 **What Was Worked On**
+
+- **Projects**
+	1. **Recherche pour une plateforme d'innovation mondiale**: In order to earn what would cover Futtech's costs of operation, I signed a 30$ contract for a week where I was tasked with researching worldwide innovations having emerged over the last 12 months.
+	2. **Researcher's Notebook**: With the prospect of generating 100 entries in a week for the above contract and my generating 39 entries total, I started the [Research Notebook](https://github.com/kal-kyokya/kal-kyokya/blob/main/upWork/Chercheur%20pour%20une%20plateforme%20d'innovation%20mondiale/Researcher%20Notebook.md), a side-project through which I can extract knowledge from the exposure I get to the ingenuity of people over the last 12 months.
+
+- **Learning & Growth**
+	1. Started the week putting finishing touches to the frontend's implementation of the request-login workflow and ensure that backend-directed input such as [password were React-compliant](https://www.google.com/search?q=reactjs+password+input).
+	2. Later on that day I heard for the second time in a matter of hours about [Chimeras](https://www.google.com/search?q=chimera+meaning): 'Searching for a ghost and a chimera' (JBP - Psychology lecture on Openess/Intelligence). The second time was in a [French song by Luidji called Système](https://www.youtube.com/watch?v=b8wH_keA0k0), which led to my googling ['chimère'](https://www.google.com/search?q=chim%C3%A8re+def) (French for Chimera).
+	3. Tuesday gave way to my need for a comprehensive explanation of [JWT Authentication With React JS and Django](https://medium.com/@ronakchitlangya1997/jwt-authentication-with-react-js-and-django-c034aae1e60d).
+	4. Investigation of JWT in a React-Django context led to [my downloading of Postman](https://www.google.com/search?q=postman+download) (Finally decided to give up my desire to act like a skilled developer who needs no GUI to use cUrl).
+	5. While seeking to solidify my understanding of the basic of JWT in a React-Django context, I had to face debates surrounding XSS and CSRF attacks (Cross Site Scripting and Cross Site Reference Forgery attacks) in the form of this question: ['Is it safe to store a JWT in localStorage with React-JS.'](https://stackoverflow.com/questions/44133536/is-it-safe-to-store-a-jwt-in-localstorage-with-reactjs).
+	6. That one stackOverflow forum discussion introduced me to a crushing wave of new concepts that I surfed skillfully. I disconnected from that topic a bit and directed my focus towards [understanding how Netflix uses Prefetching to deliver seamless streaming](https://medium.com/@nvineet02/how-netflix-uses-prefetching-to-deliver-seamless-streaming-behind-the-scenes-of-buffer-free-f8bb85b52e78).
+	7. Tuesday 30th saw me engage with another first-time experience in my [using Claude AI](https://claude.ai/).
+	8. After using Reddit to learn about Drone regulations in Kenya, I instinctively thought about looking up ["the people's appreciation of Claude AI in comparision to other models"](https://www.reddit.com/search/?q=claude+code) and was sued into giving it a shot. Which I didn't regret, for the code I saw it generate was some of the most beautiful, emphasis on beautiful, I had seen in a long while.
+	9. Wedneday started with my differentiating [storing data in memory vs web storage](https://www.google.com/search?q=storing+data+in+memory+vs+web+storage) after I had learned to store JWT access tokens in RAM and not localStorage.
+	10. In my attempt to ensure that I wrote clean and well documented code on both side of the stack, I had to find how [documenting a JavaScript Class](https://www.google.com/search?q=documenting+a+javascript+class) must be done.
+	11. With my anticipated completion of the Futtech version that uses React and Fueled by Django, I went ahead and [resized my Linode VPS](https://techdocs.akamai.com/cloud-computing/docs/resize-a-compute-instance) for the month of october to be safe from any processing power-related limiting factor.
+	12. Later on in the evening, I heard of the word [Telos](https://www.google.com/search?q=telos+meaning) from a query I made to ChatGPT and integrated it immediately in my Logos-Ethos-Pathos mental model.
+	13. Thursday saw me get introduced to the idea of an [HTTPOnly Cookie](https://www.google.com/search?q=httponly+cookie) and gained insightful ideas from [this comment on Reddit](https://www.reddit.com/r/webdev/comments/11dwpci/what_is_the_point_of_an_httponly_cookie/), as well as [A search query on YouTube](https://www.youtube.com/results?search_query=httponly+cookie+jwt).
+	14. Friday was all about completing the frontend's 'AuthService' module and ensuring the Django-backend was capable of serving the data associated with [the 'auth/me' endpoint]()https://www.google.com/search?q=django+%27auth/me%27+endpoint.
+	15. Saturday's contribution was in the completion of the 'ContentService' that handles fetching and prefetching of paginated playlists from the Django-backend. Once completed, proper configuration of Django URLs was all that was left and was handled using [Django ViewSets URL parameters](https://www.google.com/search?q=django+viewset+url+parameters).
+
+- **Job hunting**
+	- Target reached for a daily average greater than a measly 1 Job application sent.
+	- Upwork, LinkedIn, reddit, ChatGPT recommendations all saw me average at minimum 1 Job application sent.
+
+### 🏆 <b>3 Wins and/or Achievements</b>
+1. Aggresive job hunting using as many resources as I could think I have in hand.
+2. Responsiveness noticed from truthful mentions of the Futtech vision and the promises for success, provided that I stay locked-In and Get the Job Done.
+3. Felt sense of Logos-Ethos-Pathos alignment throughout the week, on a moment-to-moment basis.
+
+### 🔭 <b>3 Fails & Lessons Learned</b>
+1. **Failure:** Overeating.<br />
+**Lesson:** I have reached a point where the food plan doesn't necessarily define what will happen but more like gives me the title of the meal while I decided about the details of how exactly that meal will be garnished. Sweet potatoes are quite heavy and required less combination on their days.
+2. **Failure:** Giving into the tempation to further lies and deception.<br />
+**Lesson:** Although I was 'Man Enough' to catch myself in the act and hear my conscience tell me to come clean. The fact that my first heartbeat thought and action were to continue with the lie has me aware of what happens when I am not intentional with my words.
+3. **Failure:** 300 bob socks.<br />
+**Lesson:** Having seen an income this month, I gave into the temptation to spend lavishly on a pair of black socks. Not an unreasonable thing to spend money on, just too easy an expense made because of the 'I can afford' temptation. Gotta keep that in check.
+
+### 🌟 <b>Highlights of the Week</b>
+- <b>Memorable moment / breakthrough / proud event</b>: Another breakthrough it is: There are possibilities on the Job market provided that one has done his homework and truly has with him 'an offer that anyone will feel stupid saying no to'.
+- <b>Quote, inspiration, or personal reflection</b>: ```"Strength in this life, Happiness in the next."``` Heron, Blood of Zeus, S3 Finale, Netflix.
+
+---
+
+## 📅 <b>Coming Up Next Week</b> - 6th to 12th October 2025
+- [ ] Average 1 Job application per day on Upwork, LinkedIn, Reddit and AI recommendations.
+- [ ] Average 4 hours per day finalizing Futtech.
+- [ ] Engage in 4 transformative football sessions.
+
+---
+
+## 📈 <b>Meta</b>
+| Metric | This Week |
+| ------ | --------- |
+| Study Hours | 29 |
+| GitHub Commits | 57 |
+| Sleep Avg (hrs) | 7 |
+| Total Coding Time (hrs) | 11 |
+| Training Sessions (Football) | 3 |
+
+---
+
+> _“Rent is Due” — Jean-Paul De Marie KYOKYA Kalulu, reminder to Focus._
+
+<!-- Let's update the log every Sunday. Let's Go! -->
+
+---
+
 ## Week 19 — Sunday, 5th October 2025
 
 ### 🌱 **What Was Worked On**
