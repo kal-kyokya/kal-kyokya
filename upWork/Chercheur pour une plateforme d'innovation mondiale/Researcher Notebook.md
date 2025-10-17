@@ -93,4 +93,16 @@ Created: {{ 2025-10-07 }}
    "Drone Edge-AI" operates in a surveillance, security and ```prospection```[(definition)](https://www.google.com/search?q=prospection+psychology) context for construction sites and has me visualizing ANGEL-J25 hovering over a football pitch and capturing images of players doing their thing.<br />
    ```Prospection``` has just slapped me with the type of meaning that must be slapped back with a ```AlhamduliAllah```. Numinous. A numinous word it is.
 
+### Idea 7
+
+🔹 **Concept names and links:**<br />
+   [May Mobility : navettes autonomes en service “turn-key”](https://maymobility.com/our-solutions/), [Autonomous Vehicles](https://www.google.com/search?q=autonomous+vehicles)<br />
+
+🔹 **Why it matters to Futtech:**<br />
+   Drone technology being a constituant element of Futtech's Trinity, these drone-dependent innovations bring to mind ideas I didn't necessarily knew could be implemented.<br />
+
+🔹 **Knowledge extraction, possible adaptation / experiment:**<br />
+   "Drone Edge-AI" operates in a surveillance, security and ```prospection```[(definition)](https://www.google.com/search?q=prospection+psychology) context for construction sites and has me visualizing ANGEL-J25 hovering over a football pitch and capturing images of players doing their thing.<br />
+   ```Prospection``` has just slapped me with the type of meaning that must be slapped back with a ```AlhamduliAllah```. Numinous. A numinous word it is.
+
 ---
