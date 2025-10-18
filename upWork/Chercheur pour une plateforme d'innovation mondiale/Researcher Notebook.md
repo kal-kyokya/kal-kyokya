@@ -12,7 +12,7 @@ Created: {{ 2025-10-07 }}
 
 ## What Is Included Daily
 
-* *Concept essence* (≤ 3 lines):<br />
+* **Concept essence** (≤ 3 lines):<br />
    🔹 *Concept name and link*.<br />
    🔹 *Why it matters to Futtech*.<br />
    🔹 *Possible adaptation / experiment*.<br />
@@ -94,18 +94,6 @@ Created: {{ 2025-10-07 }}
 ## Idea 7
 
 🔹 **Concept names and links:**
-   [May Mobility : navettes autonomes en service “turn-key”](https://maymobility.com/our-solutions/), [Autonomous Vehicles](https://www.google.com/search?q=autonomous+vehicles)<br />
-
-🔹 **Why it matters to Futtech:** 
-   Drone technology being a constituant element of Futtech's Trinity, these drone-dependent innovations bring to mind ideas I didn't necessarily knew could be implemented.<br />
-
-🔹 **Knowledge extraction, possible adaptation / experiment:** 
-   "Drone Edge-AI" operates in a surveillance, security and ```prospection```[(definition)](https://www.google.com/search?q=prospection+psychology) context for construction sites and has me visualizing ANGEL-J25 hovering over a football pitch and capturing images of players doing their thing.<br />
-   ```Prospection``` has just slapped me with the type of meaning that must be slapped back with a ```AlhamduliAllah```. Numinous. A numinous word it is.
-
-## Idea 8
-
-🔹 **Concept names and links:** 
    [May Mobility : navettes autonomes en service “turn-key”](https://maymobility.com/our-solutions/), [Autonomous Vehicles](https://www.google.com/search?q=autonomous+vehicles)<br />
 
 🔹 **Why it matters to Futtech:** 
