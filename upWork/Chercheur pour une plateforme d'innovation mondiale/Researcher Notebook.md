@@ -97,10 +97,10 @@ Created: {{ 2025-10-07 }}
    [May Mobility : navettes autonomes en service “turn-key”](https://maymobility.com/our-solutions/), [Autonomous Vehicles](https://www.google.com/search?q=autonomous+vehicles)<br />
 
 🔹 **Why it matters to Futtech:** 
-   Drone technology being a constituant element of Futtech's Trinity, these drone-dependent innovations bring to mind ideas I didn't necessarily knew could be implemented.<br />
+   After investigating the [difference between UAV and Drones](https://www.google.com/search?q=uav+vs+drone) (Unmanned Aerial Vehicle), the exposure to the idea of a Vehicle that guides itself from point A to point B sounds in alignment with the idea of ANGEL-j25.<br />
 
 🔹 **Knowledge extraction, possible adaptation / experiment:** 
-   "Drone Edge-AI" operates in a surveillance, security and ```prospection```[(definition)](https://www.google.com/search?q=prospection+psychology) context for construction sites and has me visualizing ANGEL-J25 hovering over a football pitch and capturing images of players doing their thing.<br />
-   ```Prospection``` has just slapped me with the type of meaning that must be slapped back with a ```AlhamduliAllah```. Numinous. A numinous word it is.
+   [Autonomous vehicles (AVs), or self-driving cars](www.google.com/search?q=autonomous+vehicles) A combination of hardware and software in order to enabling your everyday vehicle to 'act of its own accord', so to speak. That's beautiful. I am interested in engaging with the technology powering them.<br />
+   The involvement of AI algorithms processing the sensor data has me thinking about the Ndoto AI model to be engineered for Futtech and the learning done there that will help my accessing to project that embed AI in AVs.
 
 ---
