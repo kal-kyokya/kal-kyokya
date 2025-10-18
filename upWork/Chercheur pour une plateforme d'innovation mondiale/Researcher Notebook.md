@@ -12,7 +12,7 @@ Created: {{ 2025-10-07 }}
 
 ## What Is Included Daily
 
-* *Concept essence* (≤ 3 lines)<br />
+* *Concept essence* (≤ 3 lines):<br />
    🔹 *Concept name and link*.<br />
    🔹 *Why it matters to Futtech*.<br />
    🔹 *Possible adaptation / experiment*.<br />
@@ -25,7 +25,7 @@ Created: {{ 2025-10-07 }}
    [BoldJet by FlowBeams](https://www.ces.tech/ces-innovation-awards/2025/boldjet-by-flowbeams/)<br />
 
 🔹 **Why it matters to Futtech:** 
-   There is this line that matters in its description: "BoldJet's ```streamlined``` application process ```reduces``` operational costs and ```minimizes``` waste, requiring ```only``` ```basic medical training```."<br />
+   There is this line that matters in its description ; "BoldJet's ```streamlined``` application process ```reduces``` operational costs and ```minimizes``` waste, requiring ```only``` ```basic medical training```."<br />
 
 🔹 **Knowledge extraction, possible adaptation / experiment:** 
    [Alex Homorzi's Value Equation](https://www.google.com/search?q=alex+hormozi%27s+value+equation) is what comes to mind when I see the words highlighted in the above line. A promise of increased efficiency with minimal initial investment.<br />
@@ -37,7 +37,7 @@ Created: {{ 2025-10-07 }}
    [A New Era for Wearable Tech: Wireless Textile Energy Grids](https://www.sciencedirect.com/science/article/pii/S1369702124002323?via%3Dihub), [summary](https://science.leap-forward.ca/#/news/a-new-era-for-wearable-tech-wireless-textile-energy-grids/2933ca02ce95b30577e02b249634811ceadd9f6d)<br />
 
 🔹 **Why it matters to Everything-IoT:** 
-   Here is the line that slapped me:<br />
+   Here is the line that slapped me ; 
    "As the Internet of Things (IoT) expands, electronics will take on new form factors. With the ubiquity of textiles in our daily lives, integrating functionality into them is a promising proposition. Realizing a future with textile-based electronics (e-textiles) will require on-textile power supplies".<br />
 
 🔹 **Knowledge extraction, possible adaptation / experiment:** 
@@ -103,15 +103,15 @@ Created: {{ 2025-10-07 }}
    "Drone Edge-AI" operates in a surveillance, security and ```prospection```[(definition)](https://www.google.com/search?q=prospection+psychology) context for construction sites and has me visualizing ANGEL-J25 hovering over a football pitch and capturing images of players doing their thing.<br />
    ```Prospection``` has just slapped me with the type of meaning that must be slapped back with a ```AlhamduliAllah```. Numinous. A numinous word it is.
 
-### Idea 7
+## Idea 8
 
-🔹 **Concept names and links:**<br />
+🔹 **Concept names and links:** 
    [May Mobility : navettes autonomes en service “turn-key”](https://maymobility.com/our-solutions/), [Autonomous Vehicles](https://www.google.com/search?q=autonomous+vehicles)<br />
 
-🔹 **Why it matters to Futtech:**<br />
+🔹 **Why it matters to Futtech:** 
    Drone technology being a constituant element of Futtech's Trinity, these drone-dependent innovations bring to mind ideas I didn't necessarily knew could be implemented.<br />
 
-🔹 **Knowledge extraction, possible adaptation / experiment:**<br />
+🔹 **Knowledge extraction, possible adaptation / experiment:** 
    "Drone Edge-AI" operates in a surveillance, security and ```prospection```[(definition)](https://www.google.com/search?q=prospection+psychology) context for construction sites and has me visualizing ANGEL-J25 hovering over a football pitch and capturing images of players doing their thing.<br />
    ```Prospection``` has just slapped me with the type of meaning that must be slapped back with a ```AlhamduliAllah```. Numinous. A numinous word it is.
 
