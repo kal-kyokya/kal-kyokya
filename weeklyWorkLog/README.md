@@ -22,6 +22,69 @@ Created: {{ 2025-05-31 }}
 
 ---
 
+## Week 21 — Sunday, 19th October 2025
+
+### 🌱 **What Was Worked On**
+
+- **Projects**
+	1. **Recherche pour une plateforme d'innovation mondiale**: For the second week running ; In order to earn what would cover Futtech's costs of operation, I signed a 25$ contract for a week where I was tasked with researching worldwide, monetizable, novel ideas having emerged over the last 12 months.
+	2. **Researcher's Notebook**: Having noticed the amount of exposure I get via the research assistant role I play in the previously mentioned job, I ensured to fuel my [Research Notebook](https://github.com/kal-kyokya/kal-kyokya/blob/main/upWork/Chercheur%20pour%20une%20plateforme%20d'innovation%20mondiale/Researcher%20Notebook.md), a side-project through which I can extract knowledge from the ingenuity of people.
+
+- **Learning & Growth**
+	1. Monday began with an investigation of the parameters to be passed in the ['as_view()'](https://www.google.com/search?q=django+viewset+as_view+parameters) methods associated with Django Viewset class instances.
+	2. This investigation was immediately followed by an exploration of therole that [Text Fragments](https://developer.mozilla.org/en-US/docs/Web/URI/Reference/Fragment/Text_fragments#:~:text=directly%20to%20a%20specific%20portion%20of%20text) play in website redirects targeting sets of words.
+	3. Through text fragments, I was exposed to the idea of a ['User agent' and the User-agent header](https://www.google.com/search?q=User-agent) sent with each HTTP request made to a server. I never knew one could know what is attached to the User-agent header by [googling 'my user agent'](https://www.google.com/search?q=my+user+agent).
+	4. On tuesday, With the worldwide innovations contract secured, I was exposed to the idea of [Funding rounds](https://www.google.com/search?q=funding+round+meaning), as well as [equity financing](https://www.google.com/search?q=equity+financing+meaning+in+business) in relation to startups.
+	5. This was followed by a google search on [Technology Readiness Levels aka TRL Scales](https://www.google.com/search?q=trl+meaning).
+	6. Researching Innovations and exploring their business side led me to [Alex Hormozi's Value Equation](https://www.google.com/search?q=alex+hormozi%27s+value+equation).
+	7. Fast forward Saturday afternoon, I encountered an innovation that scales down usage of [Automated Guided Vehicles aka AGV Robots](https://www.google.com/search?q=what+are+agv+robots) by SMEs. I watched a series of [YouTube Videos](https://www.youtube.com/results?search_query=automated+guided+vehicle) and found that to have been a fascinating, meaningful and pleasing discovery.
+
+- **Job hunting**
+	- Learned that once one secures a job, especially one that picks his interest and demands time, effort and careful attention, he stops hunting.
+
+### 🏆 <b>3 Wins and/or Achievements</b>
+1. Secured a one week contract through which I got to practice my Ethos, and reinforced the Logos-Ethos-Pathos mental model.
+2. Took souls using the truthful redeeming word and put myself in alignment in the process.
+3. Got out of bed slightly faster than usual, mostly due to the demands of the working day, but also because I looked forward to showing up and getting the job done.
+
+### 🔭 <b>3 Fails & Lessons Learned</b>
+1. **Failure:** Going to bed full.<br />
+**Lesson:** I need to think of what is best for me to do if I unexpected events delay my breaking the fast and result in my eating 3-4 hours later.
+2. **Failure:** Raising my voice upon indulgement in Pathos.<br />
+**Lesson:** I need to do a better job staying constant in my non-Pathos Ethos.
+3. **Failure:** Foggy night routine.<br />
+**Lesson:** Yeah, between Anime and Piano sessions, I have not been precise in my stating what exactly should be done and how exactly. 30 minutes piano is a must-have.
+
+### 🌟 <b>Highlights of the Week</b>
+- <b>Memorable moment / breakthrough / proud event</b>: Well, I guess I proposed an offer anyone who feel stupid saying no to and got me a weekly contract that I honored and used to the full in order to fuel Futtech with both knowledge but also money.
+- <b>Quote, inspiration, or personal reflection</b>: People seek to 'BEK GES' (Build-Express-Knowledge Grow-Enjoy-Share). Testosterone says Productivity, Oestrogene says Connectivity. Life is interesting.
+
+---
+
+## 📅 <b>Coming Up Next Week</b> - 13th to 19th October 2025
+- [ ] Hit the weekly goal of 100 innovation research entries.
+- [ ] Engage in 4 transformative football sessions.
+- [ ] Ensure to spend 30 minutes every night rehearsing the piano.
+
+---
+
+## 📈 <b>Meta</b>
+| Metric | This Week |
+| ------ | --------- |
+| Study Hours | N/A |
+| GitHub Commits | 18 |
+| Sleep Avg (hrs) | 7 |
+| Total Coding Time (hrs) | Null |
+| Training Sessions (Football) | 3 |
+
+---
+
+> _“Rest at the end, not in the middle. Have a dream, sacrifice for it, and never, ever, rest in the middle.” — Kobe Bryant._
+
+<!-- Let's update the log every Sunday. Let's Go! -->
+
+---
+
 ## Week 20 — Sunday, 12th October 2025
 
 ### 🌱 **What Was Worked On**
