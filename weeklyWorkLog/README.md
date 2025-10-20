@@ -78,7 +78,7 @@ Created: {{ 2025-05-31 }}
 
 ---
 
-> _“Rest at the end, not in the middle. Have a dream, sacrifice for it, and never, ever, rest in the middle.” — Kobe Bryant._
+> _“It's all about rythm. Find yours and stick to it.” — Jean-Paul De Marie KYOKYA Kalulu, Thoughts and Resolutions._
 
 <!-- Let's update the log every Sunday. Let's Go! -->
 
