@@ -42,9 +42,9 @@ Created: {{ 2025-05-31 }}
 	- Still on that ; Learned that once one secures a job, especially one that picks his interest and demands time, effort and careful attention, he stops hunting.
 
 ### 🏆 <b>3 Wins and/or Achievements</b>
-1. Secured a one week contract through which I got to practice my Ethos, and reinforced the Logos-Ethos-Pathos mental model.
-2. Took souls using the truthful redeeming word and put myself in alignment in the process.
-3. Got out of bed slightly faster than usual, mostly due to the demands of the working day, but also because I looked forward to showing up and getting the job done.
+1. Took my own soul on Friday, ate a half marathon in less than 3 hours and lived up to the expectation of anyone seeking to have the great David Goggins as his role model.
+2. Practice my model of the Stoic virtous living with special mention of Wisdom (Jordan B. Peterson) in my engaging in a lenghtly, deeply meaningful exchange of ideas with 2 soeurs.
+3. Worked on 2.4M and earned a solid 25$ for the week's showing up and getting the job done.
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
 1. **Failure:** Going to bed full.<br />
