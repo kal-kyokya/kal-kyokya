@@ -47,12 +47,12 @@ Created: {{ 2025-05-31 }}
 3. Worked on 2.4M and earned a solid 25$ for the week's showing up and getting the job done.
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
-1. **Failure:** Going to bed full.<br />
-**Lesson:** I need to think of what is best for me to do if I unexpected events delay my breaking the fast and result in my eating 3-4 hours later.
-2. **Failure:** Raising my voice upon indulgement in Pathos.<br />
-**Lesson:** I need to do a better job staying constant in my non-Pathos Ethos.
-3. **Failure:** Foggy night routine.<br />
-**Lesson:** Yeah, between Anime and Piano sessions, I have not been precise in my stating what exactly should be done and how exactly. 30 minutes piano is a must-have.
+1. **Failure:** Fear of losing a trusted friend.<br />
+**Lesson:** Does trust negates fear of losing someone? I guess I understand why the more neurotic individuals will immediately go the extra mile so as not to risk someone they care about. I was able to not be moved to far and for too long, but there's no denying that there was an emotional shift that informs me of the level of care I have for that one individual.
+2. **Failure:** Resentment.<br />
+**Lesson:** I noticed my thoughts hating on a brother. Turns out understanding the kind of person someone is does not mean you all of a sudden like them. Maybe it makes it easier to tolerate them, or more accurately, it makes one aware of the ways in which that individual can elicit Pathos in oneself and require intentional focus and control.
+3. **Failure:** Did not log work for week 21 on Sunday.<br />
+**Lesson:** I gave into the "I've arrived" mentality and justify my letting the rope go with the fact that I was grinding hard just before. 'Never rest in the middle'.
 
 ### 🌟 <b>Highlights of the Week</b>
 - <b>Memorable moment / breakthrough / proud event</b>: Well, I guess I proposed an offer anyone who feel stupid saying no to and got me a weekly contract that I honored and used to the full in order to fuel Futtech with both knowledge but also money.
