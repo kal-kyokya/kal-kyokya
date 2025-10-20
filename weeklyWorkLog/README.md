@@ -42,7 +42,7 @@ Created: {{ 2025-05-31 }}
 	- Still on that ; Learned that once one secures a job, especially one that picks his interest and demands time, effort and careful attention, he stops hunting.
 
 ### 🏆 <b>3 Wins and/or Achievements</b>
-1. Took my own soul on Friday, ate a half marathon in less than 3 hours and lived up to the expectation of anyone seeking to have the great David Goggins as his role model.
+1. Took my own soul on Friday, 21 Kilometers, 13 miles, ate a half marathon in less than 3 hours and lived up to the expectation of anyone seeking to have the great David Goggins as his role model.
 2. Practice my model of the Stoic virtous living with special mention of Wisdom (Jordan B. Peterson) in my engaging in a lenghtly, deeply meaningful exchange of ideas with 2 soeurs.
 3. Worked on 2.4M and earned a solid 25$ for the week's showing up and getting the job done.
 
@@ -55,8 +55,8 @@ Created: {{ 2025-05-31 }}
 **Lesson:** I gave into the "I've arrived" mentality and justify my letting the rope go with the fact that I was grinding hard just before. 'Never rest in the middle'.
 
 ### 🌟 <b>Highlights of the Week</b>
-- <b>Memorable moment / breakthrough / proud event</b>: Well, I guess I proposed an offer anyone who feel stupid saying no to and got me a weekly contract that I honored and used to the full in order to fuel Futtech with both knowledge but also money.
-- <b>Quote, inspiration, or personal reflection</b>: People seek to 'BEK GES' (Build-Express-Knowledge Grow-Enjoy-Share). Testosterone says Productivity, Oestrogene says Connectivity. Life is interesting.
+- <b>Memorable moment / breakthrough / proud event</b>: Met up with a friend I had not seen in a minute and decided to jog my way from Kahawa to Kilimani where he was, covered 21 KM in less than 3 hours, looked good, did good, was good.
+- <b>Quote, inspiration, or personal reflection</b>: The OCEAN (Openess-Conscientiousness-Extraversion-Agreeableness-Neuroticism) model is a powerful tool to possess. Use it, share it, refine it, engage it, play with it, explore it.
 
 ---
 
@@ -118,7 +118,7 @@ Created: {{ 2025-05-31 }}
 **Lesson:** Yeah, between Anime and Piano sessions, I have not been precise in my stating what exactly should be done and how exactly. 30 minutes piano is a must-have.
 
 ### 🌟 <b>Highlights of the Week</b>
-- <b>Memorable moment / breakthrough / proud event</b>: Well, I guess I proposed an offer anyone who feel stupid saying no to and got me a weekly contract that I honored and used to the full in order to fuel Futtech with both knowledge but also money.
+- <b>Memorable moment / breakthrough / proud event</b>: Well, I guess I proposed an offer anyone would feel stupid saying no to and got me a weekly contract that I honored and used to the full in order to fuel Futtech with both knowledge but also money.
 - <b>Quote, inspiration, or personal reflection</b>: People seek to 'BEK GES' (Build-Express-Knowledge Grow-Enjoy-Share). Testosterone says Productivity, Oestrogene says Connectivity. Life is interesting.
 
 ---
