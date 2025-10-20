@@ -39,7 +39,7 @@ Created: {{ 2025-05-31 }}
 	6. Friday afternoon was marked by my discovery of the potential that [Autonomous Vehicles aka AVs](https://www.google.com/search?q=autonomous+vehicles) have in relation to Futtech and Eviot. I dreamt of being a passenger in such a vehicle. I will work towards securing that dream as reality.
 
 - **Job hunting**
-	- Learned that once one secures a job, especially one that picks his interest and demands time, effort and careful attention, he stops hunting.
+	- Still on that ; Learned that once one secures a job, especially one that picks his interest and demands time, effort and careful attention, he stops hunting.
 
 ### 🏆 <b>3 Wins and/or Achievements</b>
 1. Secured a one week contract through which I got to practice my Ethos, and reinforced the Logos-Ethos-Pathos mental model.
@@ -102,7 +102,7 @@ Created: {{ 2025-05-31 }}
 	7. Fast forward Saturday afternoon, I encountered an innovation that scales down usage of [Automated Guided Vehicles aka AGV Robots](https://www.google.com/search?q=what+are+agv+robots) by SMEs. I watched a series of [YouTube Videos](https://www.youtube.com/results?search_query=automated+guided+vehicle) and found that to have been a fascinating, meaningful and pleasing discovery.
 
 - **Job hunting**
-	- Learned that once one secures a job, especially one that picks his interest and demands time, effort and careful attention, he stops hunting.
+	- Learned that once one secures a job, especially one that picks his interest, demands time, effort and careful attention, he stops hunting.
 
 ### 🏆 <b>3 Wins and/or Achievements</b>
 1. Secured a one week contract through which I got to practice my Ethos, and reinforced the Logos-Ethos-Pathos mental model.
