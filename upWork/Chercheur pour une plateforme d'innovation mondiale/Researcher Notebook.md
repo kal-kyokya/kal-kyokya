@@ -103,4 +103,16 @@ Created: {{ 2025-10-07 }}
    [Autonomous vehicles (AVs), or self-driving cars](www.google.com/search?q=autonomous+vehicles) A combination of hardware and software in order to enabling your everyday vehicle to 'act of its own accord', so to speak. That's beautiful. I am interested in engaging with the technology powering them.<br />
    The involvement of AI algorithms processing the sensor data has me thinking about the Ndoto AI model to be engineered for Futtech and the learning done there that will help my accessing to project that embed AI in AVs.
 
+## Idea 8
+
+🔹 **Concept names and links:**
+   [DJI Dock 3 + Matrice 4D/4TD — Station « drone-in-a-box » pour inspections industrielles & suivi de chantier](enterprise.dji.com/dock-3), [Video Introduction](https://enterprise.dji.com/dock-3/video)<br />
+
+🔹 **Why it matters to Futtech:** 
+   After investigating the [difference between UAV and Drones](https://www.google.com/search?q=uav+vs+drone) (Unmanned Aerial Vehicle), the exposure to the idea of a Vehicle that guides itself from point A to point B sounds in alignment with the idea of ANGEL-j25.<br />
+
+🔹 **Knowledge extraction, possible adaptation / experiment:** 
+   [Autonomous vehicles (AVs), or self-driving cars](www.google.com/search?q=autonomous+vehicles) A combination of hardware and software in order to enabling your everyday vehicle to 'act of its own accord', so to speak. That's beautiful. I am interested in engaging with the technology powering them.<br />
+   The involvement of AI algorithms processing the sensor data has me thinking about the Ndoto AI model to be engineered for Futtech and the learning done there that will help my accessing to project that embed AI in AVs.
+
 ---
