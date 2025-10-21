@@ -112,7 +112,7 @@ Created: {{ 2025-10-07 }}
    The use of a drone in order to MARC (Monitor-Automate-Remote-Control) is an idea that I didn't know was explorable. Automating the flight according to a defined program in order to monitor events.<br />
 
 🔹 **Knowledge extraction, possible adaptation / experiment:** 
-   [Autonomous vehicles (AVs), or self-driving cars](www.google.com/search?q=autonomous+vehicles) A combination of hardware and software in order to enabling your everyday vehicle to 'act of its own accord', so to speak. That's beautiful. I am interested in engaging with the technology powering them.<br />
-   The involvement of AI algorithms processing the sensor data has me thinking about the Ndoto AI model to be engineered for Futtech and the learning done there that will help my accessing to project that embed AI in AVs.
+   There is potential for collaborations between the Futtech and Eviot Teams in order to create an ecosystem where ANGEL-j25 and co are restructured to automatically execute task like monitor the state of a football pitch every Tuesday for 5 minutes.<br />
+   Bringing the drone side of Futtech and Eviot together is a major breakthrough.
 
 ---
