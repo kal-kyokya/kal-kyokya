@@ -115,4 +115,16 @@ Created: {{ 2025-10-07 }}
    There is potential for collaborations between the Futtech and Eviot Teams in order to create an ecosystem where ANGEL-j25 and co are restructured to automatically execute task like monitor the state of a football pitch every Tuesday for 5 minutes.<br />
    Bringing the drone side of Futtech and Eviot together is a major breakthrough.
 
+## Idea 9
+
+🔹 **Concept names and links:**
+   Secteur Alimentation & Restauration: [PUDU BellaBot – robot de service pour restaurants](https://www.pudurobotics.com/en), as well as, [Monnit ALTA – Pack IoT pour chambres froides & cuisines](https://www.monnit.com/applications/food-service-monitoring/?srsltid=AfmBOop1Bd-CeOHCG5KC3Q7L6m-KZRRv85-q-5E33UtIehomm2d9iiQJ)<br />
+
+🔹 **Why it matters to Futtech and Eviot:** 
+   The use of a drone in order to MARC (Monitor-Automate-Remote-Control) is an idea that I didn't know was explorable. Automating the flight according to a defined program in order to monitor events.<br />
+
+🔹 **Knowledge extraction, possible adaptation / experiment:** 
+   There is potential for collaborations between the Futtech and Eviot Teams in order to create an ecosystem where ANGEL-j25 and co are restructured to automatically execute task like monitor the state of a football pitch every Tuesday for 5 minutes.<br />
+   Bringing the drone side of Futtech and Eviot together is a major breakthrough.
+
 ---
