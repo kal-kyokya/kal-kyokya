@@ -112,7 +112,7 @@ Created: {{ 2025-10-07 }}
    The use of a drone in order to MARC (Monitor-Automate-Remote-Control) is an idea that I didn't know was explorable. Automating the flight according to a defined program in order to monitor events.<br />
 
 🔹 **Knowledge extraction, possible adaptation / experiment:** 
-   There is potential for collaborations between the Futtech and Eviot Teams in order to create an ecosystem where ANGEL-j25 and co are restructured to automatically execute task like monitor the state of a football pitch every Tuesday for 5 minutes.<br />
+   There is potential for collaborations between the Futtech and Eviot Teams in order to create an ecosystem where ANGEL-j25 and co are restructured to automatically execute tasks like monitoring the state of a football pitch every Tuesday for 5 minutes.<br />
    Bringing the drone side of Futtech and Eviot together is a major breakthrough.
 
 ## Idea 9
@@ -124,7 +124,7 @@ Created: {{ 2025-10-07 }}
    One is something of an autonomous vehicle, while the other monitors the temperature of a system using sensors ; Futtech has an aerial vehicle and Eviot handles monitoring.<br />
 
 🔹 **Knowledge extraction, possible adaptation / experiment:** 
-   There is potential for collaborations between the Futtech and Eviot Teams in order to create an ecosystem where ANGEL-j25 and co are restructured to automatically execute task like monitor the state of a football pitch every Tuesday for 5 minutes.<br />
-   Bringing the drone side of Futtech and Eviot together is a major breakthrough.
+   UAVs, AV, Self-driving cars, etc. tend to be associated by my mind to Futtech simply due to the fact that a drone is a central piece of the Futtech idea. But if it so happens that I start producing a little bit of all of them, I find it more fitting to assign the job to Eviot because Futtech is all about Football and its related technologies.<br />
+   'Everything-IoT' ; Everything. Eviot has a name that permits exploration in my building of different hardware and software systems
 
 ---
