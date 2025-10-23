@@ -125,7 +125,7 @@ Created: {{ 2025-10-07 }}
 
 🔹 **Knowledge extraction, possible adaptation / experiment:** 
    UAVs, AV, Self-driving cars, etc. tend to be associated by my mind to Futtech simply due to the fact that a drone is a central piece of the Futtech idea. But if it so happens that I start producing a little bit of all of them, I find it more fitting to assign the job to Eviot because Futtech is all about Football and its related technologies.<br />
-   'Everything-IoT' ; Everything. Eviot has a name that permits exploration in my building of different hardware and software systems
+   'Everything-IoT' ; Everything. Eviot has a name that permits exploration in my building of different hardware and software systems.
 
 
 ## Idea 10
@@ -137,7 +137,7 @@ Created: {{ 2025-10-07 }}
    Hardware that is controlled via an App connected to the internet, that right is in Eviot's playbook. But also, and maybe most importantly, I have 'Remote Cont. Lock' as number on the list of project I would love to work on for fun.<br />
 
 🔹 **Knowledge extraction, possible adaptation / experiment:** 
-   UAVs, AV, Self-driving cars, etc. tend to be associated by my mind to Futtech simply due to the fact that a drone is a central piece of the Futtech idea. But if it so happens that I start producing a little bit of all of them, I find it more fitting to assign the job to Eviot because Futtech is all about Football and its related technologies.<br />
-   'Everything-IoT' ; Everything. Eviot has a name that permits exploration in my building of different hardware and software systems
+   Watching the long format YouTube Demo of this instance of a remote controlled lock got me graetful for the Software Engineering journey I am on. Creating web apps might be a good start in considering creation of such auto-lock/unlock systems.<br />
+   Smart homes are collections of smart systems each potentially controlled from a central application. Eviot could very well be the central processing unit orchestrating monitoring, automation and remote control of components of the smart house's system.
 
 ---
