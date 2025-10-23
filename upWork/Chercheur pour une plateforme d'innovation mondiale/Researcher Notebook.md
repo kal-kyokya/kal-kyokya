@@ -133,8 +133,8 @@ Created: {{ 2025-10-07 }}
 🔹 **Concept names and links:**
    [Yale Linus Smart Lock L2](www.yalehome.com/it/en/products/smart-security-ecosystem/smart-locks/linus-smart-lock-l2), [YouTube Demonstration](https://www.youtube.com/watch?v=27ieagBr8kY)<br />
 
-🔹 **Why it matters to Futtech and Eviot:** 
-   One is something of an autonomous vehicle, while the other monitors the temperature of a system using sensors ; Futtech has an aerial vehicle and Eviot handles monitoring.<br />
+🔹 **Why it matters to Eviot:** 
+   Hardware that is controlled via an App connected to the internet, that right is in Eviot's playbook. But also, and maybe most importantly, I have 'Remote Cont. Lock' as number on the list of project I would love to work on for fun.<br />
 
 🔹 **Knowledge extraction, possible adaptation / experiment:** 
    UAVs, AV, Self-driving cars, etc. tend to be associated by my mind to Futtech simply due to the fact that a drone is a central piece of the Futtech idea. But if it so happens that I start producing a little bit of all of them, I find it more fitting to assign the job to Eviot because Futtech is all about Football and its related technologies.<br />
