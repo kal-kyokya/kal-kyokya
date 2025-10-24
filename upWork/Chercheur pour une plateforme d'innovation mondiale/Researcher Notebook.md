@@ -133,10 +133,10 @@ Created: {{ 2025-10-07 }}
    [Yale Linus Smart Lock L2](www.yalehome.com/it/en/products/smart-security-ecosystem/smart-locks/linus-smart-lock-l2), [YouTube Demonstration](https://www.youtube.com/watch?v=27ieagBr8kY)<br />
 
 🔹 **Why it matters to Eviot:** 
-   Hardware that is controlled via an App connected to the internet, that right is in Eviot's playbook. But also, and maybe most importantly, I have 'Remote Cont. Lock' as number on the list of project I would love to work on for fun.<br />
+   Hardware that is controlled via an App connected to the internet, that right is in Eviot's playbook. But also, and maybe most importantly, I have 'Remote Cont. Lock' as number 4 on the list of project I would love to work on for fun.<br />
 
 🔹 **Knowledge extraction, possible adaptation / experiment:** 
-   Watching the long format YouTube Demo of this instance of a remote controlled lock got me graetful for the Software Engineering journey I am on. Creating web apps might be a good start in considering creation of such auto-lock/unlock systems.<br />
+   Watching the long format YouTube Demo of this instance of a remote controlled lock got me grateful for the Software Engineering journey I am on. Creating web apps might be a good start in considering creation of such auto-lock/unlock systems.<br />
    Smart homes are collections of smart systems each potentially controlled from a central application. Eviot could very well be the central processing unit orchestrating monitoring, automation and remote control of components of the smart house's system.
 
 ## Idea 11
@@ -144,11 +144,9 @@ Created: {{ 2025-10-07 }}
 🔹 **Concept names and links:**
    [Flutterwave Store – créez une boutique en 5 min avec paiements locaux](https://flutterwave.com/us/blog/category/case-studies), [Official website](https://flutterwave.com/eu/store)<br />
 
-🔹 **Why it matters to Eviot:** 
-   Hardware that is controlled via an App connected to the internet, that right is in Eviot's playbook. But also, and maybe most importantly, I have 'Remote Cont. Lock' as number on the list of project I would love to work on for fun.<br />
+🔹 **Why it matters to Futtech and Eviot:** 
+   Thus far, Futtech has been built to use Stripe for payment processing. Flutterwave Store and its seamless integration in Kenya is an option that would make the app easier to use in my current location, Nairobi.<br />
 
 🔹 **Knowledge extraction, possible adaptation / experiment:** 
-   Watching the long format YouTube Demo of this instance of a remote controlled lock got me graetful for the Software Engineering journey I am on. Creating web apps might be a good start in considering creation of such auto-lock/unlock systems.<br />
-   Smart homes are collections of smart systems each potentially controlled from a central application. Eviot could very well be the central processing unit orchestrating monitoring, automation and remote control of components of the smart house's system.
 
 ---
