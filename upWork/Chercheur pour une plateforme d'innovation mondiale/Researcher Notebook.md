@@ -148,5 +148,7 @@ Created: {{ 2025-10-07 }}
    Thus far, Futtech has been built to use Stripe for payment processing. Flutterwave Store and its seamless integration in Kenya is an option that would make the app easier to use in my current location, Nairobi.<br />
 
 🔹 **Knowledge extraction, possible adaptation / experiment:** 
+   Having first built Futtech as a MERN App, before transitioning it to a Django-backend and React-frontend Stack App that integratres Stripe for payment processing, today's research on 'Business, Services and Commerce/e-Commerce' opens my mind/eyes up to the possibility of restting the counters and rebuilding Futtech using a entirely different Tech Stack, just so as to ensure it is seamlessly integrated in the Africa/Kenyan context (Payments) or its efficiently delivers videos on-demand.<br />
+   Eviot is the lil bro that will benefit greatly from having a elder/older brother who has had the opportunity to trial-and-error his way into knowledge and wisdom. Integration of payment and selection of the appropriate Tech Stack should be easier, InshaAllah.
 
 ---
