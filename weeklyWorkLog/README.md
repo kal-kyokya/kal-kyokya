@@ -132,6 +132,7 @@ Created: {{ 2025-05-31 }}
 ## 📈 <b>Meta</b>
 | Metric | This Week |
 | ------ | --------- |
+| Submissions | 37 |
 | Study Hours | N/A |
 | GitHub Commits | 17 |
 | Sleep Avg (hrs) | 7 |
