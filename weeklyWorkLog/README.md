@@ -62,7 +62,7 @@ Created: {{ 2025-05-31 }}
 
 ## 📅 <b>Coming Up Next Week</b> - 27th October to 2nd November 2025
 - [ ] Hit the weekly goal of 100 innovation research entries.
-- [ ] Ensure to spend 30 minutes every night rehearsing the piano.
+- [ ] Ensure to spend 30 minutes [every night](https://www.youtube.com/shorts/mQcTJdyTFtA) rehearsing the piano.
 - [ ] Engage in 4 transformative football sessions.
 
 ---
@@ -79,7 +79,7 @@ Created: {{ 2025-05-31 }}
 
 ---
 
-> _“It's all about rythm. Find yours and stick to it.” — Jean-Paul De Marie KYOKYA Kalulu, Thoughts and Resolutions._
+> _“Don't have a F*cking quitting mind, Repetition Every Day.” — David Goggings._
 
 <!-- Let's update the log every Sunday. Let's Go! -->
 
