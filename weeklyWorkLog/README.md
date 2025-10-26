@@ -47,12 +47,12 @@ Created: {{ 2025-05-31 }}
 3. 2.4M, we got the job done and earned more, for Futtech, for ourself to see that we can be rewareded for our effort.
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
-1. **Failure:** Fear of losing a trusted friend.<br />
-**Lesson:** Does trust negates fear of losing someone? I guess I understand why the more neurotic individuals will immediately go the extra mile so as not to risk someone they care about. I was able to not be moved to far and for too long, but there's no denying that there was an emotional shift that informs me of the level of care I have for that one individual.
-2. **Failure:** Resentment.<br />
-**Lesson:** I noticed my thoughts hating on a brother. Turns out understanding the kind of person someone is does not mean you all of a sudden like them. Maybe it makes it easier to tolerate them, or more accurately, it makes one aware of the ways in which that individual can elicit Pathos in oneself and require intentional focus and control.
-3. **Failure:** Did not log work for week 21 on Sunday.<br />
-**Lesson:** I gave into the "I've arrived" mentality and justify my letting the rope go with the fact that I was grinding hard just before. 'Never rest in the middle'.
+1. **Failure:** Food plan.<br />
+**Lesson:** My appetite has grown enough for me to down large meals and not fill so stuffed that my guilty conscience will call me out. I can't help but take that as an indication of the intensity of my weekly workouts and my metabolism's newfound ability to burn through the meals. Though that might just be me rationalizing my failure.
+2. **Failure:** Midnight Bedtime.<br />
+**Lesson:** I have seen myself awake and, although sometimes practicing the piano, passed midnight, which isn't what I said I should be doing.
+3. **Failure:** No Snooze.<br />
+**Lesson:** I have a 3 step wake up system consisting of a couple alarms, one hour apart, and a single 25 minutes snooze during which I supposedly engage in dream Analysis.
 
 ### 🌟 <b>Highlights of the Week</b>
 - <b>Memorable moment / breakthrough / proud event</b>: Met up with a friend I had not seen in a minute and decided to jog my way from Kahawa to Kilimani where he was, covered 21 KM in less than 3 hours, looked good, did good, was good.
@@ -111,11 +111,11 @@ Created: {{ 2025-05-31 }}
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
 1. **Failure:** Fear of losing a trusted friend.<br />
-**Lesson:** Does trust negates fear of losing someone? I guess I understand why the more neurotic individuals will immediately go the extra mile so as not to risk someone they care about. I was able to not be moved to far and for too long, but there's no denying that there was an emotional shift that informs me of the level of care I have for that one individual.
+**Lesson:** Does trust negates fear of losing someone? I guess I understand why the more neurotic individuals will immediately go the extra mile so as not to risk someone they care about. I was able to not be moved too far and for too long, but there's no denying that there was an emotional shift that informs me of the level of care I have for that one individual.
 2. **Failure:** Resentment.<br />
-**Lesson:** I noticed my thoughts hating on a brother. Turns out understanding the kind of person someone is does not mean you all of a sudden like them. Maybe it makes it easier to tolerate them, or more accurately, it makes one aware of the ways in which that individual can elicit Pathos in oneself and require intentional focus and control.
+**Lesson:** I noticed my thoughts hating on a brother. Turns out understanding the kind of person someone is does not mean you all of a sudden like them. Maybe it makes it easier to tolerate them, or more accurately, it makes one aware of the ways in which that individual can elicit Pathos in oneself and requires intentional focus and control.
 3. **Failure:** Did not log work for week 21 on Sunday.<br />
-**Lesson:** I gave into the "I've arrived" mentality and justify my letting the rope go with the fact that I was grinding hard just before. 'Never rest in the middle'.
+**Lesson:** I gave into the "I've arrived" mentality and justified my letting the rope go with the fact that I was grinding hard just before. 'Never rest in the middle'.
 
 ### 🌟 <b>Highlights of the Week</b>
 - <b>Memorable moment / breakthrough / proud event</b>: Met up with a friend I had not seen in a minute and decided to jog my way from Kahawa to Kilimani where he was, covered 21 KM in less than 3 hours, looked good, did good, was good.
