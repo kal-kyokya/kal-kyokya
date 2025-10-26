@@ -84,6 +84,68 @@ Created: {{ 2025-05-31 }}
 
 ---
 
+## Week 21 — Sunday, 19th October 2025
+
+### 🌱 **What Was Worked On**
+
+- **Projects**
+	1. **Recherche pour une plateforme d'innovation mondiale**: For the second week running ; In order to earn what would cover Futtech's costs of operation, I signed a 25$ contract for a week where I was tasked with researching worldwide, monetizable, novel ideas having emerged over the last 12 months.
+	2. **Researcher's Notebook**: Having noticed the amount of exposure I get via the research assistant role I play in the previously mentioned job, I ensured to fuel my [Research Notebook](https://github.com/kal-kyokya/kal-kyokya/blob/main/upWork/Chercheur%20pour%20une%20plateforme%20d'innovation%20mondiale/Researcher%20Notebook.md), a side-project through which I can extract knowledge from the ingenuity of people.
+
+- **Learning & Growth**
+	1. Spent the whole week iterating the research formula used to discover recent, at most 12 months old, worldwide, monetizable, novel ideas. This process taught me the value of regular, detailed feedback in facilitating research projects.
+	2. Having to research 100 such ideas, and squeeze as much information as possible for each on a single page for a word document sharpened my research skills and left me better informed on where to find information, how to do it efficiently and why Microsoft Word is a powerful document editor.
+	3. Wednesday, was when I had a major breakthrough as a research assistant, the iteration I made got me a step closer to delivering more of what is expected of me.
+	4. On that same wednesday, I learned about [Collaborative Robots aka Cobots](https://www.google.com/search?q=cobots+meaning). I was fascinated by both the concept and the concrete example of how they [Cobots differentiate from Robots](https://www.scapetechnologies.com/sites/default/files/styles/full/public/2024-01/Robots%20vs%20Cobots.png?itok=Exf7rrhj).
+	5. Friday morning, it came to mind that using [Alex Homorzi's Value equation](https://www.google.com/search?q=alex+hormozi%27s+value+equation) in my research and generate the 'business opportunity for users' section of the pages I was compiling, which I did.
+	6. Friday afternoon was marked by my discovery of the potential that [Autonomous Vehicles aka AVs](https://www.google.com/search?q=autonomous+vehicles) have in relation to Futtech and Eviot. I dreamt of being a passenger in such a vehicle. I will work towards securing that dream as reality.
+
+- **Job hunting**
+	- Still on that ; Learned that once one secures a job, especially one that picks his interest and demands time, effort and careful attention, he stops hunting.
+
+### 🏆 <b>3 Wins and/or Achievements</b>
+1. Took my own soul on Friday, 21 Kilometers, 13 miles, ate a half marathon in less than 3 hours and lived up to the expectation of anyone seeking to have the great David Goggins as his role model.
+2. Practice my model of the Stoic virtous living with special mention of Wisdom (Jordan B. Peterson) in my engaging in a lenghtly, deeply meaningful exchange of ideas with 2 soeurs.
+3. Worked on 2.4M and earned a solid 25$ for the week's showing up and getting the job done.
+
+### 🔭 <b>3 Fails & Lessons Learned</b>
+1. **Failure:** Fear of losing a trusted friend.<br />
+**Lesson:** Does trust negates fear of losing someone? I guess I understand why the more neurotic individuals will immediately go the extra mile so as not to risk someone they care about. I was able to not be moved to far and for too long, but there's no denying that there was an emotional shift that informs me of the level of care I have for that one individual.
+2. **Failure:** Resentment.<br />
+**Lesson:** I noticed my thoughts hating on a brother. Turns out understanding the kind of person someone is does not mean you all of a sudden like them. Maybe it makes it easier to tolerate them, or more accurately, it makes one aware of the ways in which that individual can elicit Pathos in oneself and require intentional focus and control.
+3. **Failure:** Did not log work for week 21 on Sunday.<br />
+**Lesson:** I gave into the "I've arrived" mentality and justify my letting the rope go with the fact that I was grinding hard just before. 'Never rest in the middle'.
+
+### 🌟 <b>Highlights of the Week</b>
+- <b>Memorable moment / breakthrough / proud event</b>: Met up with a friend I had not seen in a minute and decided to jog my way from Kahawa to Kilimani where he was, covered 21 KM in less than 3 hours, looked good, did good, was good.
+- <b>Quote, inspiration, or personal reflection</b>: The OCEAN (Openess-Conscientiousness-Extraversion-Agreeableness-Neuroticism) model is a powerful tool to possess. Use it, share it, refine it, engage it, play with it, explore it.
+
+---
+
+## 📅 <b>Coming Up Next Week</b> - 20th to 26th October 2025
+- [ ] Hit the weekly goal of 100 innovation research entries.
+- [ ] Ensure to spend 30 minutes every night rehearsing the piano.
+- [ ] Engage in 4 transformative football sessions.
+
+---
+
+## 📈 <b>Meta</b>
+| Metric | This Week |
+| ------ | --------- |
+| Study Hours | N/A |
+| GitHub Commits | 17 |
+| Sleep Avg (hrs) | 7 |
+| Total Coding Time (hrs) | Null |
+| Training Sessions (Football) | 3 |
+
+---
+
+> _“It's all about rythm. Find yours and stick to it.” — Jean-Paul De Marie KYOKYA Kalulu, Thoughts and Resolutions._
+
+<!-- Let's update the log every Sunday. Let's Go! -->
+
+---
+
 ## Week 20 — Sunday, 12th October 2025
 
 ### 🌱 **What Was Worked On**
@@ -133,6 +195,7 @@ Created: {{ 2025-05-31 }}
 ## 📈 <b>Meta</b>
 | Metric | This Week |
 | ------ | --------- |
+| Submissions | 40 |
 | Study Hours | N/A |
 | GitHub Commits | 18 |
 | Sleep Avg (hrs) | 7 |
