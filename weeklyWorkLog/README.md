@@ -31,12 +31,12 @@ Created: {{ 2025-05-31 }}
 	2. **Researcher's Notebook**: Having noticed the amount of exposure I get, via my research assistant role of the previously mentioned job, I ensured to fuel my [Researcher's Notebook](https://github.com/kal-kyokya/kal-kyokya/blob/main/upWork/Chercheur%20pour%20une%20plateforme%20d'innovation%20mondiale/Researcher%20Notebook.md), a side-project through which I extract knowledge from the world's ingenuity.
 
 - **Learning & Growth**
-	1. .
-	2. .
-	3. .
-	4. .
-	5. .
-	6. .
+	1. Tuesay afternoon, while researching innovative solutions in the construction sector, I encountered a DJI product; The [DJI Dock 3 – Inspections industrielles & suivi de chantier](https://www.google.com/search?q=DJI+Dock+3+–+Inspections+industrielles+%26+suivi+de+chantier). I was moved by the quality of the [video presentation of the product](https://enterprise.dji.com/dock-3) and agreed to generate the same type of quality content with [Futtech](https://futtech.kalkyokya.tech/about).
+	2. Wednesday afternoon, I learned to [change the casing of a set of strings](https://www.google.com/search?q=make+text+lowercase+word) in Microsoft word (Use; SHIFT + F3), 'and life has never been the same, since'.
+	2. Thursday, right before I headed to the gym, I saw the word ```soumission``` in my research and felt compelled to [google its meaning](https://www.google.com/search?q=soumission) so as to uncover what I felt was hidden beneath the first shallow look and feel of the word. I was pleased to see the google AI overview bring forth 3 distinct levels of analysis, namely; give in anticipation of assessment/evaluation, yield control/power to an authoritative figure and tap out under in a wrestling contest.
+	3. Later on that day, early evening, this [29 minute YouTube video review of a remotely controllable lock](https://www.youtube.com/watch?v=27ieagBr8kY) exposed me to the in-life implementation of an IoT product I have planned to worked on, InshaAllah, and left me feeling grateful for the opportunity I have had to [learn and, simultaneously, earn](https://www.youtube.com/watch?v=kBIN2h16Rc4) via my current freelance gig.
+	4. Friday morning, after googling ['Les TPE et PME'](https://www.google.com/search?q=les+tpe+et+pme), I agreed to refer to Futtech as a 'Très Petite Entreprises' given that it indeed is a company with less than 10 employees.
+	5. Still on Friday, getting to discover the acronyms grouping continents into regions; ['EMEA, LATAM, NA, APAC'](https://www.google.com/search?q=emea+latam+na+apac), introduced me to the idea of simplify ones view of large entities into words/labels that facilitate manipulation of abstraction. A sophisticated way of improving one own's thinking capabilities.
 
 - **Job hunting**
 	- Still on that ; Learned that once one secures a job, especially one that picks his interest and demands time, effort and careful attention, he stops hunting.
