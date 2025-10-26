@@ -22,21 +22,21 @@ Created: {{ 2025-05-31 }}
 
 ---
 
-## Week 21 — Sunday, 19th October 2025
+## Week 22 — Sunday, 26th October 2025
 
 ### 🌱 **What Was Worked On**
 
 - **Projects**
-	1. **Recherche pour une plateforme d'innovation mondiale**: For the second week running ; In order to earn what would cover Futtech's costs of operation, I signed a 25$ contract for a week where I was tasked with researching worldwide, monetizable, novel ideas having emerged over the last 12 months.
-	2. **Researcher's Notebook**: Having noticed the amount of exposure I get via the research assistant role I play in the previously mentioned job, I ensured to fuel my [Research Notebook](https://github.com/kal-kyokya/kal-kyokya/blob/main/upWork/Chercheur%20pour%20une%20plateforme%20d'innovation%20mondiale/Researcher%20Notebook.md), a side-project through which I can extract knowledge from the ingenuity of people.
+	1. **Recherche pour une plateforme d'innovation mondiale**: 'For the third week running' ; In order to earn what would cover Futtech's costs of operation, I submitted 60 entries (worldwide, monetizable, novel ideas having emerged over the last 12 months).
+	2. **Researcher's Notebook**: Having noticed the amount of exposure I get, via my research assistant role of the previously mentioned job, I ensured to fuel my [Researcher's Notebook](https://github.com/kal-kyokya/kal-kyokya/blob/main/upWork/Chercheur%20pour%20une%20plateforme%20d'innovation%20mondiale/Researcher%20Notebook.md), a side-project through which I extract knowledge from the world's ingenuity.
 
 - **Learning & Growth**
-	1. Spent the whole week iterating the research formula used to discover recent, at most 12 months old, worldwide, monetizable, novel ideas. This process taught me the value of regular, detailed feedback in facilitating research projects.
-	2. Having to research 100 such ideas, and squeeze as much information as possible for each on a single page for a word document sharpened my research skills and left me better informed on where to find information, how to do it efficiently and why Microsoft Word is a powerful document editor.
-	3. Wednesday, was when I had a major breakthrough as a research assistant, the iteration I made got me a step closer to delivering more of what is expected of me.
-	4. On that same wednesday, I learned about [Collaborative Robots aka Cobots](https://www.google.com/search?q=cobots+meaning). I was fascinated by both the concept and the concrete example of how they [Cobots differentiate from Robots](https://www.scapetechnologies.com/sites/default/files/styles/full/public/2024-01/Robots%20vs%20Cobots.png?itok=Exf7rrhj).
-	5. Friday morning, it came to mind that using [Alex Homorzi's Value equation](https://www.google.com/search?q=alex+hormozi%27s+value+equation) in my research and generate the 'business opportunity for users' section of the pages I was compiling, which I did.
-	6. Friday afternoon was marked by my discovery of the potential that [Autonomous Vehicles aka AVs](https://www.google.com/search?q=autonomous+vehicles) have in relation to Futtech and Eviot. I dreamt of being a passenger in such a vehicle. I will work towards securing that dream as reality.
+	1. .
+	2. .
+	3. .
+	4. .
+	5. .
+	6. .
 
 - **Job hunting**
 	- Still on that ; Learned that once one secures a job, especially one that picks his interest and demands time, effort and careful attention, he stops hunting.
@@ -70,6 +70,7 @@ Created: {{ 2025-05-31 }}
 ## 📈 <b>Meta</b>
 | Metric | This Week |
 | ------ | --------- |
+| Submissions | 60 |
 | Study Hours | N/A |
 | GitHub Commits | 17 |
 | Sleep Avg (hrs) | 7 |
