@@ -55,8 +55,8 @@ Created: {{ 2025-05-31 }}
 **Lesson:** I have a 3 step wake up system consisting of a couple alarms, one hour apart, and a single 25 minutes snooze during which I supposedly engage in dream Analysis.
 
 ### 🌟 <b>Highlights of the Week</b>
-- <b>Memorable moment / breakthrough / proud event</b>: Met up with a friend I had not seen in a minute and decided to jog my way from Kahawa to Kilimani where he was, covered 21 KM in less than 3 hours, looked good, did good, was good.
-- <b>Quote, inspiration, or personal reflection</b>: The OCEAN (Openess-Conscientiousness-Extraversion-Agreeableness-Neuroticism) model is a powerful tool to possess. Use it, share it, refine it, engage it, play with it, explore it.
+- <b>Memorable moment / breakthrough / proud event</b>: The spread across the week realization that the game is kinda easier now than it has ever been. Something of a positive reinforcement and proof that a brother has thus far made some decent moves and owes it to himself to keep going and get the job done. Validation of the current routine.
+- <b>Quote, inspiration, or personal reflection</b>: ```"The moment you are disturbed by insult or pleased by praise. You are still a slave."``` - The Stoics Meditations. Kept this quote in mind while I listened to the new album by 'Dave Santan'; The Boy Who Played The Harp, with no Pathos whatsover, during the first listen and came to the realization that RAIN is enough, ```no need to indulge in Pathos to prove ones appreciation for beauty```.
 
 ---
 
