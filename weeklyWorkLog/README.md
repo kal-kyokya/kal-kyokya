@@ -72,7 +72,7 @@ Created: {{ 2025-05-31 }}
 | ------ | --------- |
 | Submissions | 60 |
 | Study Hours | N/A |
-| GitHub Commits | 17 |
+| GitHub Commits | 30 |
 | Sleep Avg (hrs) | 7 |
 | Total Coding Time (hrs) | Null |
 | Training Sessions (Football) | 3 |
