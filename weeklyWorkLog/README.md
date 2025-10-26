@@ -33,18 +33,18 @@ Created: {{ 2025-05-31 }}
 - **Learning & Growth**
 	1. Tuesay afternoon, while researching innovative solutions in the construction sector, I encountered a DJI product; The [DJI Dock 3 – Inspections industrielles & suivi de chantier](https://www.google.com/search?q=DJI+Dock+3+–+Inspections+industrielles+%26+suivi+de+chantier). I was moved by the quality of the [video presentation of the product](https://enterprise.dji.com/dock-3) and agreed to generate the same type of quality content with [Futtech](https://futtech.kalkyokya.tech/about).
 	2. Wednesday afternoon, I learned to [change the casing of a set of strings](https://www.google.com/search?q=make+text+lowercase+word) in Microsoft word (Use; SHIFT + F3), 'and life has never been the same, since'.
-	2. Thursday, right before I headed to the gym, I saw the word ```soumission``` in my research and felt compelled to [google its meaning](https://www.google.com/search?q=soumission) so as to uncover what I felt was hidden beneath the first shallow look and feel of the word. I was pleased to see the google AI overview bring forth 3 distinct levels of analysis, namely; give in anticipation of assessment/evaluation, yield control/power to an authoritative figure and tap out under in a wrestling contest.
-	3. Later on that day, early evening, this [29 minute YouTube video review of a remotely controllable lock](https://www.youtube.com/watch?v=27ieagBr8kY) exposed me to the in-life implementation of an IoT product I have planned to worked on, InshaAllah, and left me feeling grateful for the opportunity I have had to [learn and, simultaneously, earn](https://www.youtube.com/watch?v=kBIN2h16Rc4) via my current freelance gig.
-	4. Friday morning, after googling ['Les TPE et PME'](https://www.google.com/search?q=les+tpe+et+pme), I agreed to refer to Futtech as a 'Très Petite Entreprises' given that it indeed is a company with less than 10 employees.
-	5. Still on Friday, getting to discover the acronyms grouping continents into regions; ['EMEA, LATAM, NA, APAC'](https://www.google.com/search?q=emea+latam+na+apac), introduced me to the idea of simplify ones view of large entities into words/labels that facilitate manipulation of abstraction. A sophisticated way of improving one own's thinking capabilities.
+	3. Thursday, right before I headed to the gym, I saw the word ```soumission``` in my research and felt compelled to [google its meaning](https://www.google.com/search?q=soumission) so as to uncover what I felt was hidden beneath the first shallow look and feel of the word. I was pleased to see the google AI overview bring forth 3 distinct levels of analysis, namely; give in anticipation of assessment/evaluation, yield control/power to an authoritative figure and tap out under in a wrestling contest.
+	4. Later on that day, early evening, this [29 minute YouTube video review of a remotely controllable lock](https://www.youtube.com/watch?v=27ieagBr8kY) exposed me to the in-life implementation of an IoT product I have planned to worked on, InshaAllah, and left me feeling grateful for the opportunity I have had to [learn and, simultaneously, earn](https://www.youtube.com/watch?v=kBIN2h16Rc4) via my current freelance gig.
+	5. Friday morning, after googling ['Les TPE et PME'](https://www.google.com/search?q=les+tpe+et+pme), I agreed to refer to Futtech as a 'Très Petite Entreprises' given that it indeed is a company with less than 10 employees.
+	6. Still on Friday, getting to discover the acronyms grouping continents into regions; ['EMEA, LATAM, NA, APAC'](https://www.google.com/search?q=emea+latam+na+apac), introduced me to the idea of simplify ones view of large entities into words/labels that facilitate manipulation of abstraction. A sophisticated way of improving one own's thinking capabilities.
 
 - **Job hunting**
 	- Still on that ; Learned that once one secures a job, especially one that picks his interest and demands time, effort and careful attention, he stops hunting.
 
 ### 🏆 <b>3 Wins and/or Achievements</b>
-1. Took my own soul on Friday, 21 Kilometers, 13 miles, ate a half marathon in less than 3 hours and lived up to the expectation of anyone seeking to have the great David Goggins as his role model.
-2. Practice my model of the Stoic virtous living with special mention of Wisdom (Jordan B. Peterson) in my engaging in a lenghtly, deeply meaningful exchange of ideas with 2 soeurs.
-3. Worked on 2.4M and earned a solid 25$ for the week's showing up and getting the job done.
+1. Got my most productive week yet in terms of submissions, with 60 entries total.
+2. 'Raw d*gged' the cardio section of my weekly gym workout; no music, no podcast, no interview, no motivational video, nothing. Just straight up thoughts and observation(s).
+3. 2.4M, we got the job done and earned more, for Futtech, for ourself to see that we can be rewareded for our effort.
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
 1. **Failure:** Fear of losing a trusted friend.<br />
@@ -106,7 +106,7 @@ Created: {{ 2025-05-31 }}
 
 ### 🏆 <b>3 Wins and/or Achievements</b>
 1. Took my own soul on Friday, 21 Kilometers, 13 miles, ate a half marathon in less than 3 hours and lived up to the expectation of anyone seeking to have the great David Goggins as his role model.
-2. Practice my model of the Stoic virtous living with special mention of Wisdom (Jordan B. Peterson) in my engaging in a lenghtly, deeply meaningful exchange of ideas with 2 soeurs.
+2. Practiced my model of the Stoic virtous living with special mention of Wisdom (Jordan B. Peterson) in my engaging in a lenghtly, deeply meaningful exchange of ideas with 2 soeurs.
 3. Worked on 2.4M and earned a solid 25$ for the week's showing up and getting the job done.
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
