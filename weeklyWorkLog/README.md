@@ -60,7 +60,7 @@ Created: {{ 2025-05-31 }}
 
 ---
 
-## 📅 <b>Coming Up Next Week</b> - 20th to 26th October 2025
+## 📅 <b>Coming Up Next Week</b> - 27th October to 2nd November 2025
 - [ ] Hit the weekly goal of 100 innovation research entries.
 - [ ] Ensure to spend 30 minutes every night rehearsing the piano.
 - [ ] Engage in 4 transformative football sessions.
