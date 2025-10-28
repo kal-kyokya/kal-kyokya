@@ -148,8 +148,8 @@ Created: {{ 2025-10-07 }}
    Thus far, Futtech has been built to use Stripe for payment processing. Flutterwave Store and its seamless integration in Kenya is an option that would make the app easier to use in my current location, Nairobi.<br />
 
 🔹 **Knowledge extraction, possible adaptation / experiment:** 
-   Having first built Futtech as a MERN App, before transitioning it to a Django-backend and React-frontend Stack App that integratres Stripe for payment processing, today's research on 'Business, Services and Commerce/e-Commerce' opens my mind/eyes up to the possibility of restting the counters and rebuilding Futtech using a entirely different Tech Stack, just so as to ensure it is seamlessly integrated in the Africa/Kenyan context (Payments) or its efficiently delivers videos on-demand.<br />
-   Eviot is the lil bro that will benefit greatly from having a elder/older brother who has had the opportunity to trial-and-error his way into knowledge and wisdom. Integration of payment and selection of the appropriate Tech Stack should be easier, InshaAllah.
+   Having first built Futtech as a MERN App, before transitioning it to a Django-backend and React-frontend Stack App that integratres Stripe for payment processing, today's research on 'Business, Services and Commerce/e-Commerce' opens my mind/eyes up to the possibility of resetting the counters and rebuilding Futtech using an entirely different Tech Stack, so as to ensure it is seamlessly integrated in the Africa/Kenyan context (Payments) and efficiently delivers videos on-demand.<br />
+   Eviot is the lil bro that will benefit greatly from having an older brother who has had the opportunity to trial-and-error his way into knowledge and wisdom. Integration of payment and selection of the appropriate Tech Stack should be easier, InshaAllah.
 
 ## Idea 12
 
@@ -160,7 +160,7 @@ Created: {{ 2025-10-07 }}
    The hourglass Drone journey will narrow down into Futtech before expanding into the multiplicity attached to Drones/UAV. Futtech where drones are only used to record Football training session and games to Drones handling a multitude of use cases.<br />
 
 🔹 **Knowledge extraction, possible adaptation / experiment:** 
-   Having first built Futtech as a MERN App, before transitioning it to a Django-backend and React-frontend Stack App that integratres Stripe for payment processing, today's research on 'Business, Services and Commerce/e-Commerce' opens my mind/eyes up to the possibility of restting the counters and rebuilding Futtech using a entirely different Tech Stack, just so as to ensure it is seamlessly integrated in the Africa/Kenyan context (Payments) or its efficiently delivers videos on-demand.<br />
-   Eviot is the lil bro that will benefit greatly from having a elder/older brother who has had the opportunity to trial-and-error his way into knowledge and wisdom. Integration of payment and selection of the appropriate Tech Stack should be easier, InshaAllah.
+   Straight up here, what picked my interest was the idea of handling plastic water pollution using AVs (Boats equipped with conveyer belt-like mechanisms that collect waste). Followed by the description of how drones can be used to pick up waste in high altitude (Mount Everest case study), but also used to capture video-footage of regions affected by natural disasters (Floods, Fire, Earthquake).<br />
+   That article right there had me thinking of the potential that drone-tech has in providing novel ways of solving problems and had me wondering how I can facilitate access of drone technology to congo, facilitate drone technology to AFrica.
 
 ---
