@@ -163,4 +163,16 @@ Created: {{ 2025-10-07 }}
    Straight up here, what picked my interest was the idea of handling plastic water pollution using AVs (Boats equipped with conveyer belt-like mechanisms that collect waste). Followed by the description of how drones can be used to pick up waste in high altitude (Mount Everest case study), but also used to capture video-footage of regions affected by natural disasters (Floods, Fire, Earthquake).<br />
    That article right there had me thinking of the potential that drone-tech has in providing novel ways of solving problems and had me wondering how I can facilitate access of drone technology to congo, facilitate drone technology to AFrica.
 
+## Idea 13
+
+🔹 **Concept names and links:**
+   [Emesent — LiDAR autonome pour inspection d’ouvrages (drone/à pied/véhicule)](https://emesent.com), [Video demonstration](https://youtu.be/bPBHQKEwj5U?si=H8wt-aKMbnBehAos)<br />
+
+🔹 **Why it matters to Futtech:** 
+   The hourglass Drone journey will narrow down into Futtech before expanding into the multiplicity attached to Drones/UAV. Futtech where drones are only used to record Football training session and games to Drones handling a multitude of use cases.<br />
+
+🔹 **Knowledge extraction, possible adaptation / experiment:** 
+   Straight up here, what picked my interest was the idea of handling plastic water pollution using AVs (Boats equipped with conveyer belt-like mechanisms that collect waste). Followed by the description of how drones can be used to pick up waste in high altitude (Mount Everest case study), but also used to capture video-footage of regions affected by natural disasters (Floods, Fire, Earthquake).<br />
+   That article right there had me thinking of the potential that drone-tech has in providing novel ways of solving problems and had me wondering how I can facilitate access of drone technology to congo, facilitate drone technology to AFrica.
+
 ---
