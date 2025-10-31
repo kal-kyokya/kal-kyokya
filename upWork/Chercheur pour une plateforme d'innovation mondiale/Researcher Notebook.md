@@ -157,7 +157,7 @@ Created: {{ 2025-10-07 }}
    [Clearbot – navire électrique autonome de dépollution de surface (déchets/hydrocarbures/végétaux)](https://www.clearbot.org/class-3), [Drones vs Waste](https://www.flyeye.io/drones-vs-waste-drones-tackling-waste/)<br />
 
 🔹 **Why it matters to Futtech:** 
-   The hourglass Drone journey will narrow down into Futtech before expanding into the multiplicity attached to Drones/UAV. Futtech where drones are only used to record Football training session and games to Drones handling a multitude of use cases.<br />
+   The hourglass Drone journey will narrow down into Futtech before expanding into the multiplicity attached to Drones/UAV. From Futtech, where drones are only used to record Football training sessions & games, to Drones handling a multitude of use cases.<br />
 
 🔹 **Knowledge extraction, possible adaptation / experiment:** 
    Straight up here, what picked my interest was the idea of handling plastic water pollution using AVs (Boats equipped with conveyer belt-like mechanisms that collect waste). Followed by the description of how drones can be used to pick up waste in high altitude (Mount Everest case study), but also used to capture video-footage of regions affected by natural disasters (Floods, Fire, Earthquake).<br />
@@ -169,7 +169,7 @@ Created: {{ 2025-10-07 }}
    [Emesent — LiDAR autonome pour inspection d’ouvrages (drone/à pied/véhicule)](https://emesent.com), [Video demonstration](https://youtu.be/bPBHQKEwj5U?si=H8wt-aKMbnBehAos)<br />
 
 🔹 **Why it matters to Futtech:** 
-   The hourglass Drone journey will narrow down into Futtech before expanding into the multiplicity attached to Drones/UAV. Futtech where drones are only used to record Football training session and games to Drones handling a multitude of use cases.<br />
+   Drone Technology is much more than a fun tool to use for video recording, it is a door through which the drone pilot opens himself up to a unverse of possibilities. Futtech's birth is also the birth of a worldview that opens my mind to many different use cases across various sectors. Futtech using drone is the beginning of a journey.<br />
 
 🔹 **Knowledge extraction, possible adaptation / experiment:** 
    Straight up here, what picked my interest was the idea of handling plastic water pollution using AVs (Boats equipped with conveyer belt-like mechanisms that collect waste). Followed by the description of how drones can be used to pick up waste in high altitude (Mount Everest case study), but also used to capture video-footage of regions affected by natural disasters (Floods, Fire, Earthquake).<br />
