@@ -161,7 +161,7 @@ Created: {{ 2025-10-07 }}
 
 🔹 **Knowledge extraction, possible adaptation / experiment:** 
    Straight up here, what picked my interest was the idea of handling plastic water pollution using AVs (Boats equipped with conveyer belt-like mechanisms that collect waste). Followed by the description of how drones can be used to pick up waste in high altitude (Mount Everest case study), but also used to capture video-footage of regions affected by natural disasters (Floods, Fire, Earthquake).<br />
-   That article right there had me thinking of the potential that drone-tech has in providing novel ways of solving problems and had me wondering how I can facilitate access of drone technology to congo, facilitate drone technology to AFrica.
+   That article right there had me thinking of the potential that drone-tech has in providing novel ways of solving problems and had me wondering how I can facilitate access of drone technology to Congo, facilitate drone technology to Africa.
 
 ## Idea 13
 
@@ -172,7 +172,7 @@ Created: {{ 2025-10-07 }}
    Drone Technology is much more than a fun tool to use for video recording, it is a door through which the drone pilot opens himself up to a unverse of possibilities. Futtech's birth is also the birth of a worldview that opens my mind to many different use cases across various sectors. Futtech using drone is the beginning of a journey.<br />
 
 🔹 **Knowledge extraction, possible adaptation / experiment:** 
-   Straight up here, what picked my interest was the idea of handling plastic water pollution using AVs (Boats equipped with conveyer belt-like mechanisms that collect waste). Followed by the description of how drones can be used to pick up waste in high altitude (Mount Everest case study), but also used to capture video-footage of regions affected by natural disasters (Floods, Fire, Earthquake).<br />
-   That article right there had me thinking of the potential that drone-tech has in providing novel ways of solving problems and had me wondering how I can facilitate access of drone technology to congo, facilitate drone technology to AFrica.
+   This idea revealed itself to me due to my interest in drone technology, that's a given. In thThis particular instance makes use of a LiDAR sensor in order to generate a 3D map of the surrounding environment, which had me thinking of an image I saved on PC about 'How Automated Vehicles Work'. Finding these technologies to not be as foreign is an indication of growth.<br />
+   Eviot could find a way to sneek in here via [this LiDAR-attached remote controlled car](https://emesent.com/2025/06/13/hovermap-deployed-via-remote-controlled-vehicle-offers-safer-quicker-mapping-of-underground-pipes-tunnels/) mapping underground tunnels. There is potential, just gotta put in the hours.
 
 ---
