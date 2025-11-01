@@ -172,8 +172,9 @@ Created: {{ 2025-10-07 }}
    Drone Technology is much more than a fun tool to use for video recording, it is a door through which the drone pilot opens himself up to a universe of possibilities. Futtech's birth is also the birth of a worldview that opens my mind to many different use cases across various sectors. Futtech using drone is the beginning of a journey.<br />
 
 🔹 **Knowledge extraction, possible adaptation / experiment:** 
-   This idea revealed itself to me due to my interest in drone technology, that's a given. In thThis particular instance makes use of a LiDAR sensor in order to generate a 3D map of the surrounding environment, which had me thinking of an image I saved on PC about 'How Automated Vehicles Work'. Finding these technologies to not be as foreign is an indication of growth.<br />
-   Eviot could find a way to sneek in here via [this LiDAR-attached remote controlled car](https://emesent.com/2025/06/13/hovermap-deployed-via-remote-controlled-vehicle-offers-safer-quicker-mapping-of-underground-pipes-tunnels/) mapping underground tunnels. There is potential, just gotta put in the hours.
+   This idea revealed itself to me due to my interest in drone technology, that's a given.<br />
+   This particular instance uses a LiDAR sensor to generate a 3D map of the surrounding environment, which had me thinking of an image I saved on my PC about 'How Automated Vehicles Work'. Regularly encountering these technologies and not sense myself thinking of them as foreign and extremely fascinating is an indication of engineering growth.<br />
+   Eviot could find a way to sneek in here via [this, LiDAR-attached, remote controlled car](https://emesent.com/2025/06/13/hovermap-deployed-via-remote-controlled-vehicle-offers-safer-quicker-mapping-of-underground-pipes-tunnels/) mapping underground tunnels. There is potential, just gotta put in the hours.
 
 ## Idea 14
 
@@ -184,7 +185,7 @@ Created: {{ 2025-10-07 }}
    The robots displayed in the video demonstration fit nicely into the MARC model associated to Everything-IoT.<br />
 
 🔹 **Knowledge extraction, possible adaptation / experiment:** 
-   This idea revealed itself to me due to my interest in drone technology, that's a given. In thThis particular instance makes use of a LiDAR sensor in order to generate a 3D map of the surrounding environment, which had me thinking of an image I saved on PC about 'How Automated Vehicles Work'. Finding these technologies to not be as foreign is an indication of growth.<br />
-   Eviot could find a way to sneek in here via [this LiDAR-attached remote controlled car](https://emesent.com/2025/06/13/hovermap-deployed-via-remote-controlled-vehicle-offers-safer-quicker-mapping-of-underground-pipes-tunnels/) mapping underground tunnels. There is potential, just gotta put in the hours.
+   I will benefit greatly from a project that extensively implement the principles regulating Autonomous vehicles.<br />
+   This innovative idea is an instance of the AV Class that scaffolds the structure with Waiter and Butler task capabilities. A "Tool vs Principle" analysis guides my thinking and leads to the recognition of the need to work on a project dependent on these principles.
 
 ---
