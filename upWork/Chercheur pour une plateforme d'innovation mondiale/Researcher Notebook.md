@@ -169,7 +169,7 @@ Created: {{ 2025-10-07 }}
    [Emesent — LiDAR autonome pour inspection d’ouvrages (drone/à pied/véhicule)](https://emesent.com), [Video demonstration](https://youtu.be/bPBHQKEwj5U?si=H8wt-aKMbnBehAos)<br />
 
 🔹 **Why it matters to Futtech:** 
-   Drone Technology is much more than a fun tool to use for video recording, it is a door through which the drone pilot opens himself up to a unverse of possibilities. Futtech's birth is also the birth of a worldview that opens my mind to many different use cases across various sectors. Futtech using drone is the beginning of a journey.<br />
+   Drone Technology is much more than a fun tool to use for video recording, it is a door through which the drone pilot opens himself up to a universe of possibilities. Futtech's birth is also the birth of a worldview that opens my mind to many different use cases across various sectors. Futtech using drone is the beginning of a journey.<br />
 
 🔹 **Knowledge extraction, possible adaptation / experiment:** 
    This idea revealed itself to me due to my interest in drone technology, that's a given. In thThis particular instance makes use of a LiDAR sensor in order to generate a 3D map of the surrounding environment, which had me thinking of an image I saved on PC about 'How Automated Vehicles Work'. Finding these technologies to not be as foreign is an indication of growth.<br />
@@ -180,8 +180,8 @@ Created: {{ 2025-10-07 }}
 🔹 **Concept names and links:**
    [KEENON DINERBOT T8 – robot de livraison en salle](https://www.keenon.com/en), [Video demonstration](https://www.linkedin.com/posts/%E6%96%8C-%E6%9D%9C-1083a4299_hotel-project-goes-live-in-italy-expanding-activity-7358421016244613120-RbOc)<br />
 
-🔹 **Why it matters to Futtech:** 
-   Drone Technology is much more than a fun tool to use for video recording, it is a door through which the drone pilot opens himself up to a unverse of possibilities. Futtech's birth is also the birth of a worldview that opens my mind to many different use cases across various sectors. Futtech using drone is the beginning of a journey.<br />
+🔹 **Why it matters to Eviot:** 
+   The robots displayed in the video demonstration fit nicely into the MARC model associated to Everything-IoT.<br />
 
 🔹 **Knowledge extraction, possible adaptation / experiment:** 
    This idea revealed itself to me due to my interest in drone technology, that's a given. In thThis particular instance makes use of a LiDAR sensor in order to generate a 3D map of the surrounding environment, which had me thinking of an image I saved on PC about 'How Automated Vehicles Work'. Finding these technologies to not be as foreign is an indication of growth.<br />
