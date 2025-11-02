@@ -22,6 +22,69 @@ Created: {{ 2025-05-31 }}
 
 ---
 
+## Week 23 — Sunday, 2nd November 2025
+
+### 🌱 **What Was Worked On**
+
+- **Projects**
+	1. **Recherche pour une plateforme d'innovation mondiale**: 'For the fourth week running' ; In order to earn what would cover Futtech's costs of operation, I submitted 51 entries (worldwide, monetizable, novel ideas having emerged over the last 12 months).
+	2. **Researcher's Notebook**: Having noticed the amount of exposure I get, via my research assistant role of the previously mentioned job, I ensured to fuel my [Researcher's Notebook](https://github.com/kal-kyokya/kal-kyokya/blob/main/upWork/Chercheur%20pour%20une%20plateforme%20d'innovation%20mondiale/Researcher%20Notebook.md), a side-project through which I extract knowledge from the world's ingenuity.
+
+- **Learning & Growth**
+	1. Tuesay afternoon, while researching innovative solutions in the construction sector, I encountered a DJI product; The [DJI Dock 3 – Inspections industrielles & suivi de chantier](https://www.google.com/search?q=DJI+Dock+3+–+Inspections+industrielles+%26+suivi+de+chantier). I was moved by the quality of the [video presentation of the product](https://enterprise.dji.com/dock-3) and agreed to generate the same type of quality content with [Futtech](https://futtech.kalkyokya.tech/about).
+	2. Wednesday afternoon, I learned to [change the casing of a set of strings](https://www.google.com/search?q=make+text+lowercase+word) in Microsoft word (Use; SHIFT + F3), 'and life has never been the same, since'.
+	3. Thursday, right before I headed to the gym, I saw the word ```soumission``` in my research and felt compelled to [google its meaning](https://www.google.com/search?q=soumission) so as to uncover what I felt was hidden beneath the first shallow look and feel of the word. I was pleased to see the google AI overview bring forth 3 distinct levels of analysis, namely; give in anticipation of assessment/evaluation, yield control/power to an authoritative figure and tap out under in a wrestling contest.
+	4. Later on that day, early evening, this [29 minute YouTube video review of a remotely controllable lock](https://www.youtube.com/watch?v=27ieagBr8kY) exposed me to the in-life implementation of an IoT product I have planned to worked on, InshaAllah, and left me feeling grateful for the opportunity I have had to [learn and, simultaneously, earn](https://www.youtube.com/watch?v=kBIN2h16Rc4) via my current freelance gig.
+	5. Friday morning, after googling ['Les TPE et PME'](https://www.google.com/search?q=les+tpe+et+pme), I agreed to refer to Futtech as a 'Très Petite Entreprises' given that it indeed is a company with less than 10 employees.
+	6. Still on Friday, getting to discover the acronyms grouping continents into regions; ['EMEA, LATAM, NA, APAC'](https://www.google.com/search?q=emea+latam+na+apac), introduced me to the idea of simplify ones view of large entities into words/labels that facilitate manipulation of abstraction. A sophisticated way of improving one own's thinking capabilities.
+
+- **Job hunting**
+	- Still on that ; Learned that once one secures a job, especially one that picks his interest and demands time, effort and careful attention, he stops hunting.
+
+### 🏆 <b>3 Wins and/or Achievements</b>
+1. Got my most productive week yet in terms of submissions, with 60 entries total.
+2. 'Raw d*gged' the cardio section of my weekly gym workout; no music, no podcast, no interview, no motivational video, nothing. Just straight up thoughts and observation(s).
+3. 2.4M, we got the job done and earned more, for Futtech, for ourself to see that we can be rewareded for our effort.
+
+### 🔭 <b>3 Fails & Lessons Learned</b>
+1. **Failure:** Food plan.<br />
+**Lesson:** My appetite has grown enough for me to down large meals and not fill so stuffed that my guilty conscience will call me out. I can't help but take that as an indication of the intensity of my weekly workouts and my metabolism's newfound ability to burn through the meals. Though that might just be me rationalizing my failure.
+2. **Failure:** Midnight Bedtime.<br />
+**Lesson:** I have seen myself awake and, although sometimes practicing the piano, passed midnight, which isn't what I said I should be doing.
+3. **Failure:** No Snooze.<br />
+**Lesson:** I have a 3 step wake up system consisting of a couple alarms, one hour apart, and a single 25 minutes snooze during which I supposedly engage in dream Analysis.
+
+### 🌟 <b>Highlights of the Week</b>
+- <b>Memorable moment / breakthrough / proud event</b>: The spread across the week realization that the game is kinda easier now than it has ever been. Something of a positive reinforcement and proof that a brother has thus far made some decent moves and owes it to himself to keep going and get the job done. Validation of the current routine.
+- <b>Quote, inspiration, or personal reflection</b>: ```"The moment you are disturbed by insult or pleased by praise. You are still a slave."``` - The Stoics Meditations. Kept this quote in mind while I listened to the new album by 'Dave Santan'; The Boy Who Played The Harp, with no Pathos whatsover, during the first listen and came to the realization that RAIN is enough, ```no need to indulge in Pathos to prove ones appreciation for beauty```.
+
+---
+
+## 📅 <b>Coming Up Next Week</b> - 27th October to 2nd November 2025
+- [ ] Hit the weekly goal of 100 innovation research entries.
+- [ ] Ensure to spend 30 minutes [every night](https://www.youtube.com/shorts/mQcTJdyTFtA) rehearsing the piano.
+- [ ] Engage in 4 transformative football sessions.
+
+---
+
+## 📈 <b>Meta</b>
+| Metric | This Week |
+| ------ | --------- |
+| Submissions | 60 |
+| Study Hours | N/A |
+| GitHub Commits | 30 |
+| Sleep Avg (hrs) | 7 |
+| Total Coding Time (hrs) | Null |
+| Training Sessions (Football) | 3 |
+
+---
+
+> _“Don't have a F*cking quitting mind, Repetition Every Day.” — David Goggings._
+
+<!-- Let's update the log every Sunday. Let's Go! -->
+
+---
+
 ## Week 22 — Sunday, 26th October 2025
 
 ### 🌱 **What Was Worked On**
