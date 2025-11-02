@@ -42,9 +42,9 @@ Created: {{ 2025-05-31 }}
 	- Still on that ; Learned that once one secures a job, especially one that picks his interest and demands time, effort and careful attention, he stops hunting.
 
 ### 🏆 <b>3 Wins and/or Achievements</b>
-1. Got my most productive week yet in terms of submissions, with 60 entries total.
-2. 'Raw d*gged' the cardio section of my weekly gym workout; no music, no podcast, no interview, no motivational video, nothing. Just straight up thoughts and observation(s).
-3. 2.4M, we got the job done and earned more, for Futtech, for ourself to see that we can be rewareded for our effort.
+1. On the back of the week with the highest number of submissions; this week's retained-submitted ratio was the highest ever from 33/51 for 62.7%.
+2. Realization of the consolidation of the 'Slower and more controlled movements' and 'Minimum amount of interaction maximum impact' Attitudes.
+3. Highest submission accepted implies, highest pay yet. AlhamduliAllah.
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
 1. **Failure:** Food plan.<br />
