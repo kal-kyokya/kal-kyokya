@@ -55,8 +55,8 @@ Created: {{ 2025-05-31 }}
 **Lesson:** I have a 3 step wake up system consisting of a couple alarms, one hour apart, and a single 25 minutes snooze during which I supposedly engage in dream Analysis.
 
 ### 🌟 <b>Highlights of the Week</b>
-- <b>Memorable moment / breakthrough / proud event</b>: The spread across the week realization that the game is kinda easier now than it has ever been. Something of a positive reinforcement and proof that a brother has thus far made some decent moves and owes it to himself to keep going and get the job done. Validation of the current routine.
-- <b>Quote, inspiration, or personal reflection</b>: ```"The moment you are disturbed by insult or pleased by praise. You are still a slave."``` - The Stoics Meditations. Kept this quote in mind while I listened to the new album by 'Dave Santan'; The Boy Who Played The Harp, with no Pathos whatsover, during the first listen and came to the realization that RAIN is enough, ```no need to indulge in Pathos to prove ones appreciation for beauty```.
+- <b>Memorable moment / breakthrough / proud event</b>: Using an infographic I found on X (Twitter) to improvise hour-long reads of GPT-research on Robert Greene's 48 Laws of Power. Customizing my exposure to the book's content has had me put together JBP, David Goggins, Stoicism, Taoism, Minimalism,and Islam, in new enlightening ways and provided me with wn opportunity to 'put myself together'.
+- <b>Quote, inspiration, or personal reflection</b>: Personal reflection; Show up, detached, attached to none, emboding DLHI's ethos, seek not to compete, dominate or threaten, observe keenly the flow of events, let no one lead you astray and be at all times ready to take over and use your response-ability, take responsibility of the sequencing of event and serve Logos.
 
 ---
 
@@ -118,7 +118,7 @@ Created: {{ 2025-05-31 }}
 **Lesson:** I have a 3 step wake up system consisting of a couple alarms, one hour apart, and a single 25 minutes snooze during which I supposedly engage in dream Analysis.
 
 ### 🌟 <b>Highlights of the Week</b>
-- <b>Memorable moment / breakthrough / proud event</b>: The spread across the week realization that the game is kinda easier now than it has ever been. Something of a positive reinforcement and proof that a brother has thus far made some decent moves and owes it to himself to keep going and get the job done. Validation of the current routine.
+- <b>Memorable moment / breakthrough / proud event</b>: The spreaded-across-the-week realization that the game is kinda easier now than it has ever been. Something of a positive reinforcement and proof that a brother has thus far made some decent moves and owes it to himself to keep going and get the job done. Validation of the current routine.
 - <b>Quote, inspiration, or personal reflection</b>: ```"The moment you are disturbed by insult or pleased by praise. You are still a slave."``` - The Stoics Meditations. Kept this quote in mind while I listened to the new album by 'Dave Santan'; The Boy Who Played The Harp, with no Pathos whatsover, during the first listen and came to the realization that RAIN is enough, ```no need to indulge in Pathos to prove ones appreciation for beauty```.
 
 ---
