@@ -194,8 +194,8 @@ Created: {{ 2025-10-07 }}
 🔹 **Concept names and links:**
    [ReGo Sensor Insoles - laboratoire de mouvement dans la chaussure](https://moticon.com/rego/sensor-insoles), [Video demonstration](https://www.youtube.com/watch?v=j8YZPi49mhs)<br />
 
-🔹 **Why it matters to Eviot:** 
-   The robots displayed in the video demonstration fit nicely into the MARC model associated to Everything-IoT.<br />
+🔹 **Why it matters to Futtech:** 
+   The visual in the video demonstration brought to mind the training sessions where I engage in plyometric exercises, and the music in the background does a good job selling what already is a ingenious idea.<br />
 
 🔹 **Knowledge extraction, possible adaptation / experiment:** 
    I will benefit greatly from a project that extensively implement the principles regulating Autonomous vehicles.<br />
