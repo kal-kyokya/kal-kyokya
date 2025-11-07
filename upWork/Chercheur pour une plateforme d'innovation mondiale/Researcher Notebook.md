@@ -185,7 +185,7 @@ Created: {{ 2025-10-07 }}
    The robots displayed in the video demonstration fit nicely into the MARC model associated to Everything-IoT.<br />
 
 🔹 **Knowledge extraction, possible adaptation / experiment:** 
-   I will benefit greatly from a project that extensively implement the principles regulating Autonomous vehicles.<br />
+   I will benefit greatly from a project that extensively implements the principles regulating Autonomous vehicles.<br />
    This innovative idea is an instance of the AV Class that scaffolds the structure with Waiter and Butler task capabilities. A "Tool vs Principle" analysis guides my thinking and leads to the recognition of the need to work on a project dependent on these principles.
 
 
@@ -198,7 +198,7 @@ Created: {{ 2025-10-07 }}
    The visual in the video demonstration brought to mind the training sessions where I engage in plyometric exercises, and the music in the background does a good job selling what already is a ingenious idea.<br />
 
 🔹 **Knowledge extraction, possible adaptation / experiment:** 
-   I will benefit greatly from a project that extensively implement the principles regulating Autonomous vehicles.<br />
-   This innovative idea is an instance of the AV Class that scaffolds the structure with Waiter and Butler task capabilities. A "Tool vs Principle" analysis guides my thinking and leads to the recognition of the need to work on a project dependent on these principles.
+   An engaging song in the background can make it possible for me to generate a video promoting Futtech where my speech is displayed on screen instead of it being read by yours truly. That's an option we can consider.<br />
+   Collecting data on how a player moves (jumps, sprints, change of direction) from the weight distribution captured via the sole, simply is something I couldn't easily think of. I have been exposed to a new way of conceptualizing data acquisition.
 
 ---
