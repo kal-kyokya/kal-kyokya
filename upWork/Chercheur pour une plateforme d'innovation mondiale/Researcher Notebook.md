@@ -188,4 +188,17 @@ Created: {{ 2025-10-07 }}
    I will benefit greatly from a project that extensively implement the principles regulating Autonomous vehicles.<br />
    This innovative idea is an instance of the AV Class that scaffolds the structure with Waiter and Butler task capabilities. A "Tool vs Principle" analysis guides my thinking and leads to the recognition of the need to work on a project dependent on these principles.
 
+
+## Idea 15 - Nov 7, 2025
+
+🔹 **Concept names and links:**
+   [ReGo Sensor Insoles - laboratoire de mouvement dans la chaussure](https://moticon.com/rego/sensor-insoles), [Video demonstration](https://www.youtube.com/watch?v=j8YZPi49mhs)<br />
+
+🔹 **Why it matters to Eviot:** 
+   The robots displayed in the video demonstration fit nicely into the MARC model associated to Everything-IoT.<br />
+
+🔹 **Knowledge extraction, possible adaptation / experiment:** 
+   I will benefit greatly from a project that extensively implement the principles regulating Autonomous vehicles.<br />
+   This innovative idea is an instance of the AV Class that scaffolds the structure with Waiter and Butler task capabilities. A "Tool vs Principle" analysis guides my thinking and leads to the recognition of the need to work on a project dependent on these principles.
+
 ---
