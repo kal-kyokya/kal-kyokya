@@ -205,8 +205,8 @@ Created: {{ 2025-10-07 }}
 🔹 **Concept names and links:**
    [Cleverciti - Système de guidage parking par caméras et panneaux LED](https://www.cleverciti.com)<br />
 
-🔹 **Why it matters to Futtech:** 
-   The visual in the video demonstration brought to mind the training sessions where I engage in plyometric exercises, and the music in the background does a good job selling what already is a ingenious idea.<br />
+🔹 **Why it matters to Eviot:** 
+   Everything-IoT is my ticket into the world of smart cities, this right here is a potential door through which I enter.<br />
 
 🔹 **Knowledge extraction, possible adaptation / experiment:** 
    An engaging song in the background can make it possible for me to generate a video promoting Futtech where my speech is displayed on screen instead of it being read by yours truly. That's an option we can consider.<br />
