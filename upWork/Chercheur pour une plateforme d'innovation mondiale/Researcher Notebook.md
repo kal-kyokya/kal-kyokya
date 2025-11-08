@@ -188,11 +188,22 @@ Created: {{ 2025-10-07 }}
    I will benefit greatly from a project that extensively implements the principles regulating Autonomous vehicles.<br />
    This innovative idea is an instance of the AV Class that scaffolds the structure with Waiter and Butler task capabilities. A "Tool vs Principle" analysis guides my thinking and leads to the recognition of the need to work on a project dependent on these principles.
 
-
 ## Idea 15 - Nov 7, 2025
 
 🔹 **Concept names and links:**
    [ReGo Sensor Insoles - laboratoire de mouvement dans la chaussure](https://moticon.com/rego/sensor-insoles), [Video demonstration](https://www.youtube.com/watch?v=j8YZPi49mhs)<br />
+
+🔹 **Why it matters to Futtech:** 
+   The visual in the video demonstration brought to mind the training sessions where I engage in plyometric exercises, and the music in the background does a good job selling what already is a ingenious idea.<br />
+
+🔹 **Knowledge extraction, possible adaptation / experiment:** 
+   An engaging song in the background can make it possible for me to generate a video promoting Futtech where my speech is displayed on screen instead of it being read by yours truly. That's an option we can consider.<br />
+   Collecting data on how a player moves (jumps, sprints, change of direction) from the weight distribution captured via the sole, simply is something I couldn't easily think of. I have been exposed to a new way of conceptualizing data acquisition.
+
+## Idea 16 - Nov 8, 2025
+
+🔹 **Concept names and links:**
+   [Cleverciti - Système de guidage parking par caméras et panneaux LED](https://www.cleverciti.com)<br />
 
 🔹 **Why it matters to Futtech:** 
    The visual in the video demonstration brought to mind the training sessions where I engage in plyometric exercises, and the music in the background does a good job selling what already is a ingenious idea.<br />
