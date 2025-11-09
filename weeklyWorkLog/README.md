@@ -41,7 +41,7 @@ Created: {{ 2025-05-31 }}
 	7. Writing tests for the backend helped me realize that the one skill I truly am grateful I acquired via the 2 years I committed to [ALX Africa](https://www.alxafrica.com) is ```Learning how to learn anything```.
 
 - **Job hunting**
-	- Still on that ; Learned that once one secures a job, especially one that picks his interest and demands time, effort and careful attention, he stops hunting.
+	- Still on that ; Learned that once one secures a job, especially one that picks his interest and demands time, effort and careful attention, he stops hunting. ```Just realized this also applies to romance```, lol.
 
 ### 🏆 <b>3 Wins and/or Achievements</b>
 1. On the back of the week with the highest number of submissions; this week's retained-submitted ratio was the highest ever from 33/51 for 62.7%.
