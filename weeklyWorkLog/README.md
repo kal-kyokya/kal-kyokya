@@ -57,8 +57,8 @@ Created: {{ 2025-05-31 }}
 **Lesson:** Waiting to be sleepy or seeking to ensure I either read or play the piano due to the way I utilized the time I had earlier during the day or the evening, is no good. Gotta be out by midnight.
 
 ### 🌟 <b>Highlights of the Week</b>
-- <b>Memorable moment / breakthrough / proud event</b>: Using an infographic I found on X (Twitter) to improvise hour-long reads of GPT-research on Robert Greene's 48 Laws of Power. Customizing my exposure to the book's content has had me put together JBP, David Goggins, Stoicism, Taoism, Minimalism,and Islam, in new enlightening ways and provided me with wn opportunity to 'put myself together'.
-- <b>Quote, inspiration, or personal reflection</b>: Personal reflection; Show up, detached, attached to none, emboding DLHI's ethos, seek not to compete, dominate or threaten, observe keenly the flow of events, let no one lead you astray and be at all times ready to take over and use your response-ability, take responsibility of the sequencing of event and serve Logos.
+- <b>Memorable moment / breakthrough / proud event</b>: Having to conduct myself honorably during a period of uncertainty as to the active maintenance of a network connection with an individual with whom I have a significant amount of memories (A friend, as some might call him). The kind of monstrosity required to stay the course in the face of the end of certain cycles is an aim for which I am committed to.
+- <b>Quote, inspiration, or personal reflection</b>: Personal reflection; Just like a man who starts as a 2 year-old and, InshaAllah, reaches 72 years of life. I everyday embody a 2 year-old when my alarm rings, in the sense that I give into Pathos, I have no control of the self, I procrastinate, I delay, I indulge in comfort, I shy away from my response-ability. But as time passes and I grow older, I get better, do better, live better, move better. All of that leading to nightime, where I embody a wise man, a 72 year-old OG, informed by the day he has lived, the decision made and receiving bedtime as an opportunity to disconnect from the world and connect with something refreshing, reinvigorating, straight up renewing.
 
 ---
 
@@ -120,7 +120,7 @@ Created: {{ 2025-05-31 }}
 **Lesson:** I have a 3 step wake up system consisting of a couple alarms, one hour apart, and a single 25 minutes snooze during which I supposedly engage in dream Analysis.
 
 ### 🌟 <b>Highlights of the Week</b>
-- <b>Memorable moment / breakthrough / proud event</b>: Using an infographic I found on X (Twitter) to improvise hour-long reads of GPT-research on Robert Greene's 48 Laws of Power. Customizing my exposure to the book's content has had me put together JBP, David Goggins, Stoicism, Taoism, Minimalism,and Islam, in new enlightening ways and provided me with wn opportunity to 'put myself together'.
+- <b>Memorable moment / breakthrough / proud event</b>: Using an infographic I found on X (Twitter) to improvise hour-long reads of GPT-research on Robert Greene's 48 Laws of Power. Customizing my exposure to the book's content has had me put together JBP, David Goggins, Stoicism, Taoism, Minimalism,and Islam, in new enlightening ways and provided me with n opportunity to 'put myself together'.
 - <b>Quote, inspiration, or personal reflection</b>: Personal reflection; Show up, detached, attached to none, emboding DLHI's ethos, seek not to compete, dominate or threaten, observe keenly the flow of events, let no one lead you astray and be at all times ready to take over and use your response-ability, take responsibility of the sequencing of event and serve Logos.
 
 ---
