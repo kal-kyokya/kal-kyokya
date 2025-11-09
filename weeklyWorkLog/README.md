@@ -44,9 +44,9 @@ Created: {{ 2025-05-31 }}
 	- Still on that ; Learned that once one secures a job, especially one that picks his interest and demands time, effort and careful attention, he stops hunting. ```Just realized this also applies to romance```, lol.
 
 ### 🏆 <b>3 Wins and/or Achievements</b>
-1. On the back of the week with the highest number of submissions; this week's retained-submitted ratio was the highest ever from 33/51 for 62.7%.
-2. Realization of the consolidation of the 'Slower and more controlled movements' and 'Minimum amount of interaction maximum impact' Attitudes.
-3. Highest submission accepted implies, highest pay yet. AlhamduliAllah.
+1. I have completed watching the 2017 Personality Lecture by Jordan B. Peterson on YouTube and over the 22 weeks or so it took me to do it, have undergone a meaning process of transformation. A uself process of transformation.
+2. Being back to working on Futtech, truly felt right in the moment. I am grateful for that.
+3. Logos, Logos, Logos. The ease with which self-expression was handle on a number of occasions this week informs me of the increased level of self-mastery and the need for a deeper commitment to Ethos and detachment from Pathos.
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
 1. **Failure:** Second week running now; Food plan.<br />
