@@ -81,7 +81,7 @@ Created: {{ 2025-05-31 }}
 
 ---
 
-> _“Embracing small struggles voluntarily makes you stronger for the big struggles.” — Jean-Paul De Marie KYOKYA Kalulu, customized 48 Laws of Power GPT-Research._
+> _“If it looks like I'm Ice Cold, or not nervous, it's because I have done it thousands of times before. So what's one more time?” — Kobe Bryant, Repetition, 'I did, therefore I am'._
 
 <!-- Let's update the log every Sunday. Let's Go! -->
 
