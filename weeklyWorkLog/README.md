@@ -49,12 +49,12 @@ Created: {{ 2025-05-31 }}
 3. Logos, Logos, Logos. The ease with which self-expression was handle on a number of occasions this week informs me of the increased level of self-mastery and the need for a deeper commitment to Ethos and detachment from Pathos.
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
-1. **Failure:** Second week running now; Food plan.<br />
-**Lesson:** My appetite has grown enough for me to down large meals and not fill so stuffed that my guilty conscience will call me out. I find myself taking that as an indication of the intensity of my weekly workouts and my metabolism's newfound ability to burn through the meals. Though that might just be; me rationalizing my failure.
-2. **Failure:** Second week running; Midnight Bedtime.<br />
-**Lesson:** Straight up; I'm not sleepy come midnight. Why might that be? My waking an hour after my morning alarms is a good place to start. I need to hijeck my tiredness levels by ensuring I start the day earlier and therefore make it longer.
-3. **Failure:** Well, this is interesting, 2nd week running: No Snooze.<br />
-**Lesson:** I have a 3 step wake up system consisting of a couple alarms, one hour apart, and a single 25 minutes snooze during which I supposedly engage in dream Analysis.
+1. **Failure:** Third week running; Midnight Bedtime.<br />
+**Lesson:** An attempt was made in only having one single alarm set for 8 AM. On average, I am up and engaging with my morning routine come 10 AM, after Dream Analysis. This is a fight I need to strategize for and break down into smaller and smaller component because of the ease with which I fall into this trap.
+2. **Failure:** Inconsistent Piano sessions.<br />
+**Lesson:** I need to allocate 2 hours to my book reads and 30 minutes for piano sessions. Given that the goal is to be in bed by midnight, this implies, closing shop at 10:30 PM and getting into my action.
+3. **Failure:** Not being in bed by midnight.<br />
+**Lesson:** Waiting to be sleepy or seeking to ensure I either read or play the piano due to the way I utilized the time I had earlier during the day or the evening, is no good. Gotta be out by midnight.
 
 ### 🌟 <b>Highlights of the Week</b>
 - <b>Memorable moment / breakthrough / proud event</b>: Using an infographic I found on X (Twitter) to improvise hour-long reads of GPT-research on Robert Greene's 48 Laws of Power. Customizing my exposure to the book's content has had me put together JBP, David Goggins, Stoicism, Taoism, Minimalism,and Islam, in new enlightening ways and provided me with wn opportunity to 'put myself together'.
@@ -115,7 +115,7 @@ Created: {{ 2025-05-31 }}
 1. **Failure:** Second week running now; Food plan.<br />
 **Lesson:** My appetite has grown enough for me to down large meals and not fill so stuffed that my guilty conscience will call me out. I find myself taking that as an indication of the intensity of my weekly workouts and my metabolism's newfound ability to burn through the meals. Though that might just be; me rationalizing my failure.
 2. **Failure:** Second week running; Midnight Bedtime.<br />
-**Lesson:** Straight up; I'm not sleepy come midnight. Why might that be? My waking an hour after my morning alarms is a good place to start. I need to hijeck my tiredness levels by ensuring I start the day earlier and therefore make it longer.
+**Lesson:** Straight up; I'm not sleepy come midnight. Why might that be? My waking an hour after my morning alarms is a good place to start. I need to hijack my tiredness levels by ensuring I start the day earlier and therefore make it longer.
 3. **Failure:** Well, this is interesting, 2nd week running: No Snooze.<br />
 **Lesson:** I have a 3 step wake up system consisting of a couple alarms, one hour apart, and a single 25 minutes snooze during which I supposedly engage in dream Analysis.
 
