@@ -32,12 +32,13 @@ Created: {{ 2025-05-31 }}
 	3. **Researcher's Notebook**: Having noticed the amount of exposure I get, via my research assistant role of the previously mentioned job, I ensured to fuel my [Researcher's Notebook](https://github.com/kal-kyokya/kal-kyokya/blob/main/upWork/Chercheur%20pour%20une%20plateforme%20d'innovation%20mondiale/Researcher%20Notebook.md), a side-project through which I extract knowledge from the world's ingenuity.
 
 - **Learning & Growth**
-	1. .
-	2. .
-	3. .
-	4. .
-	5. .
-	6. .
+	1. I started the week with an investigation of an idea that I was exposed to while engaging with a podcast episode by the Huberman Lab having Jocko Willink, the difference between ```Caloric and Neural Energy```.
+	2. Somewhere around 2:30 PM, I went ahead and plugged Codex onto the [Futtech-Django](https://github.com/kal-kyokya/Futtech-Django/tree/main) repository on GitHub, in anticipation of the finishing touches required to deployed the webapp this month.
+	3. Googling [Why is the Linux command called 'touch'](https://www.google.com/search?q=why+is+the+linux+command+called+touch) provided me with a moment of philosophical engagement with programming given the nature of what 'touching a file' means.
+	4. Tuesday began with my writing code intent on rewriting Futtech from scratch, which introduced me to the idea of setttig one's Django backend settings in a ```base/dev/prod``` structure. An idea that pleased me due to the level of orderliness it imposes on the project.
+	5. By 1:30 PM that day, I felt overwhelm by the realization that rewriting everything from scratch was prone to me being interested in many new ways of doing what I had already mostly done in previous attempts. That's when I drop the rewrite idea and used Codex to debug the [Futtech-Django](https://github.com/kal-kyokya/Futtech-Django/tree/main) repository, an idea for which I have nothing other than AlhamduliAllah.
+	6. Wednesday during my clean up of Futtech-Django, after having been patient long enough, I sought a solution to my 'jittery touchpad' and was pleased to learn that one can [disable a laptop's touchpad](https://www.computerhope.com/issues/ch001699.htm#:~:text=Or%2C%20press%20Windows%20key%20%2B%20I,switch%20to%20the%20Off%20position.), which I did as I used the bluetooth mouse I own.
+	7. Writing tests for the backend helped me realize that the one skill I truly am grateful I acquired via the 2 years I committed to [ALX Africa](https://www.alxafrica.com) is ```Learning how to learn anything```.
 
 - **Job hunting**
 	- Still on that ; Learned that once one secures a job, especially one that picks his interest and demands time, effort and careful attention, he stops hunting.
