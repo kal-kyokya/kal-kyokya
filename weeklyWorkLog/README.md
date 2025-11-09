@@ -22,6 +22,70 @@ Created: {{ 2025-05-31 }}
 
 ---
 
+## Week 24 — Sunday, 9th November 2025
+
+### 🌱 **What Was Worked On**
+
+- **Projects**
+	1. **Recherche pour une plateforme d'innovation mondiale**: 'For the fifth week running' ; In order to earn what would cover Futtech's costs of operation, I submitted 41 entries (worldwide, monetizable, novel ideas having emerged over the last 12 months).
+	2. **Make Futtech Deploy-ready**: After having been away from writing any lines of code helping Futtech's website be up and running, I, exactly 1 month since the last commit (4th Oct to 4th November) was back working on [Futtech-Django](https://github.com/kal-kyokya/Futtech-Django/tree/main) and using OpenAi's Codex was able to see the codebase I have earned over the past 6 months in an entirely new light.
+	3. **Researcher's Notebook**: Having noticed the amount of exposure I get, via my research assistant role of the previously mentioned job, I ensured to fuel my [Researcher's Notebook](https://github.com/kal-kyokya/kal-kyokya/blob/main/upWork/Chercheur%20pour%20une%20plateforme%20d'innovation%20mondiale/Researcher%20Notebook.md), a side-project through which I extract knowledge from the world's ingenuity.
+
+- **Learning & Growth**
+	1. .
+	2. .
+	3. .
+	4. .
+	5. .
+	6. .
+
+- **Job hunting**
+	- Still on that ; Learned that once one secures a job, especially one that picks his interest and demands time, effort and careful attention, he stops hunting.
+
+### 🏆 <b>3 Wins and/or Achievements</b>
+1. On the back of the week with the highest number of submissions; this week's retained-submitted ratio was the highest ever from 33/51 for 62.7%.
+2. Realization of the consolidation of the 'Slower and more controlled movements' and 'Minimum amount of interaction maximum impact' Attitudes.
+3. Highest submission accepted implies, highest pay yet. AlhamduliAllah.
+
+### 🔭 <b>3 Fails & Lessons Learned</b>
+1. **Failure:** Second week running now; Food plan.<br />
+**Lesson:** My appetite has grown enough for me to down large meals and not fill so stuffed that my guilty conscience will call me out. I find myself taking that as an indication of the intensity of my weekly workouts and my metabolism's newfound ability to burn through the meals. Though that might just be; me rationalizing my failure.
+2. **Failure:** Second week running; Midnight Bedtime.<br />
+**Lesson:** Straight up; I'm not sleepy come midnight. Why might that be? My waking an hour after my morning alarms is a good place to start. I need to hijeck my tiredness levels by ensuring I start the day earlier and therefore make it longer.
+3. **Failure:** Well, this is interesting, 2nd week running: No Snooze.<br />
+**Lesson:** I have a 3 step wake up system consisting of a couple alarms, one hour apart, and a single 25 minutes snooze during which I supposedly engage in dream Analysis.
+
+### 🌟 <b>Highlights of the Week</b>
+- <b>Memorable moment / breakthrough / proud event</b>: Using an infographic I found on X (Twitter) to improvise hour-long reads of GPT-research on Robert Greene's 48 Laws of Power. Customizing my exposure to the book's content has had me put together JBP, David Goggins, Stoicism, Taoism, Minimalism,and Islam, in new enlightening ways and provided me with wn opportunity to 'put myself together'.
+- <b>Quote, inspiration, or personal reflection</b>: Personal reflection; Show up, detached, attached to none, emboding DLHI's ethos, seek not to compete, dominate or threaten, observe keenly the flow of events, let no one lead you astray and be at all times ready to take over and use your response-ability, take responsibility of the sequencing of event and serve Logos.
+
+---
+
+## 📅 <b>Coming Up Next Week</b> - 3rd to 9th November 2025
+- [ ] Hit the, proposed, weekly goal of 50 innovation research entries.
+- [ ] Ensure to spend 30 minutes [every night](https://www.youtube.com/shorts/mQcTJdyTFtA) rehearsing the piano.
+- [ ] Be done with dream analysis come 9AM.
+
+---
+
+## 📈 <b>Meta</b>
+| Metric | This Week |
+| ------ | --------- |
+| Submissions | 51 |
+| Study Hours | N/A |
+| GitHub Commits | 18|
+| Sleep Avg (hrs) | 7 |
+| Total Coding Time (hrs) | Null |
+| Training Sessions (Football) | 3 |
+
+---
+
+> _“Embracing small struggles voluntarily makes you stronger for the big struggles.” — Jean-Paul De Marie KYOKYA Kalulu, customized 48 Laws of Power GPT-Research._
+
+<!-- Let's update the log every Sunday. Let's Go! -->
+
+---
+
 ## Week 23 — Sunday, 2nd November 2025
 
 ### 🌱 **What Was Worked On**
