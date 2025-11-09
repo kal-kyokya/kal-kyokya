@@ -72,16 +72,16 @@ Created: {{ 2025-05-31 }}
 ## 📈 <b>Meta</b>
 | Metric | This Week |
 | ------ | --------- |
-| Submissions | 51 |
-| Study Hours | N/A |
-| GitHub Commits | 18|
+| Submissions | 41 |
+| Study Hours | 12 |
+| GitHub Commits | 70 |
 | Sleep Avg (hrs) | 7 |
-| Total Coding Time (hrs) | Null |
+| Total Coding Time (hrs) | 9 |
 | Training Sessions (Football) | 3 |
 
 ---
 
-> _“If it looks like I'm Ice Cold, or not nervous, it's because I have done it thousands of times before. So what's one more time?” — Kobe Bryant, Repetition, 'I did, therefore I am'._
+> _“If it looks like I'm Ice Cold, or not nervous, it's because I have done it thousands of times before. So what's one more time?” — Kobe Bryant, Repetition, 'I did that, therefore, I am'._
 
 <!-- Let's update the log every Sunday. Let's Go! -->
 
@@ -137,7 +137,7 @@ Created: {{ 2025-05-31 }}
 | ------ | --------- |
 | Submissions | 51 |
 | Study Hours | N/A |
-| GitHub Commits | 18|
+| GitHub Commits | 18 |
 | Sleep Avg (hrs) | 7 |
 | Total Coding Time (hrs) | Null |
 | Training Sessions (Football) | 3 |
