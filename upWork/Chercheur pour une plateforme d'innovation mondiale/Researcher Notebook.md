@@ -219,7 +219,7 @@ Created: {{ 2025-10-07 }}
    [Bike Lane Sweeper – remorque balayeuse motorisée pour pistes cyclables](https://bikelanesweeper.com), [Video Demonstration](https://youtu.be/obM4oEY6cn0)<br />
 
 🔹 **Why it matters to Eviot:** 
-   Everything-IoT is my ticket into the world of smart cities, this right here is a potential door through which I enter.<br />
+   I initially was intrigued by the idea of a ['VAE'](https://youtu.be/HnDLBMqAPqA) -> Vélo assistance électrique, then watched the above 'video demonstration' displaying a mechanical system tracked and connected to the cloud that performs sweeping tasks on the streets. Eviot ingests this and thinks of bicycle-dependent ideas to work on.<br />
 
 🔹 **Knowledge extraction, possible adaptation / experiment:** 
    I thought to myself saying;<br />
