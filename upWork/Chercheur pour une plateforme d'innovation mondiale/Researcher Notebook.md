@@ -211,7 +211,7 @@ Created: {{ 2025-10-07 }}
 🔹 **Knowledge extraction, possible adaptation / experiment:** 
    I thought to myself saying;<br />
    "What if I was part of the team that builds a smart city in Congo. What would I need to spend the next couple years working on, in order to have proof for my claim of being a qualified individual for the role?".<br />
-   Work, work, work. A brother knows he needs to work. Just gotta figure out what exactly needs to be worked on. Anyway, the idea of having a set of eyes spread across the city, each of them tracking the status of parking slots and reporting to central system that in turns display directions that guide drivers (and potenitally self-driving cars? Why would a self-driven car need to park? To wait for a client?),... That's an interesting idea. It has had me thinking of Smart Cities.
+   Work, work, work. A brother knows he needs to work. Just gotta figure out what exactly needs to be worked on. Anyway, the idea of having a set of eyes spread across the city, each of them tracking the status of parking slots and reporting to a central system that in turn displays directions guiding drivers (and potenitally self-driving cars? Why would a self-driven car need to park? To wait for a client?),... That's an interesting idea. It has had me thinking of Smart Cities.
 
 ## Idea 17 - Nov 10, 2025
 
@@ -222,8 +222,7 @@ Created: {{ 2025-10-07 }}
    I initially was intrigued by the idea of a ['VAE'](https://youtu.be/HnDLBMqAPqA) -> Vélo assistance électrique, then watched the above 'video demonstration' displaying a mechanical system tracked and connected to the cloud that performs sweeping tasks on the streets. Eviot ingests this and thinks of bicycle-dependent ideas to work on.<br />
 
 🔹 **Knowledge extraction, possible adaptation / experiment:** 
-   I thought to myself saying;<br />
-   "What if I was part of the team that builds a smart city in Congo. What would I need to spend the next couple years working on, in order to have proof for my claim of being a qualified individual for the role?".<br />
-   Work, work, work. A brother knows he needs to work. Just gotta figure out what exactly needs to be worked on. Anyway, the idea of having a set of eyes spread across the city, each of them tracking the status of parking slots and reporting to central system that in turns display directions that guide drivers (and potenitally self-driving cars? Why would a self-driven car need to park? To wait for a client?),... That's an interesting idea. It has had me thinking of Smart Cities.
+   VAEs hint at; usage of electrical components in order to smoothen manipulation of systems requiring a certain level of human effort (physical or neural energy).<br />
+   The bike-towed trailer with an electrical brush integrated had me thinking of the individuals I have seen on Thika Road, Nairobi, Kenya, sweeping the dust and loading them in a truck after hours of working. This is a potential immediate replacement.
 
 ---
