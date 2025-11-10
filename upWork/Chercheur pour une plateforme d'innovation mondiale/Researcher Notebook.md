@@ -213,4 +213,17 @@ Created: {{ 2025-10-07 }}
    "What if I was part of the team that builds a smart city in Congo. What would I need to spend the next couple years working on, in order to have proof for my claim of being a qualified individual for the role?".<br />
    Work, work, work. A brother knows he needs to work. Just gotta figure out what exactly needs to be worked on. Anyway, the idea of having a set of eyes spread across the city, each of them tracking the status of parking slots and reporting to central system that in turns display directions that guide drivers (and potenitally self-driving cars? Why would a self-driven car need to park? To wait for a client?),... That's an interesting idea. It has had me thinking of Smart Cities.
 
+## Idea 17 - Nov 10, 2025
+
+🔹 **Concept names and links:**
+   [Bike Lane Sweeper – remorque balayeuse motorisée pour pistes cyclables](https://bikelanesweeper.com), [Video Demonstration](https://youtu.be/obM4oEY6cn0)<br />
+
+🔹 **Why it matters to Eviot:** 
+   Everything-IoT is my ticket into the world of smart cities, this right here is a potential door through which I enter.<br />
+
+🔹 **Knowledge extraction, possible adaptation / experiment:** 
+   I thought to myself saying;<br />
+   "What if I was part of the team that builds a smart city in Congo. What would I need to spend the next couple years working on, in order to have proof for my claim of being a qualified individual for the role?".<br />
+   Work, work, work. A brother knows he needs to work. Just gotta figure out what exactly needs to be worked on. Anyway, the idea of having a set of eyes spread across the city, each of them tracking the status of parking slots and reporting to central system that in turns display directions that guide drivers (and potenitally self-driving cars? Why would a self-driven car need to park? To wait for a client?),... That's an interesting idea. It has had me thinking of Smart Cities.
+
 ---
