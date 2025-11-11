@@ -230,8 +230,10 @@ Created: {{ 2025-10-07 }}
 🔹 **Concept names and links:**
    [Floorium – sol interactif en réalité augmentée (UTS / Interactive Floor)](https://utsplay.com/en/product/interactive-floor), [Video Demonstration](https://youtu.be/3hjD_z9xgXM)<br />
 
-🔹 **Why it matters to Eviot:** 
-   I initially was intrigued by the idea of a ['VAE'](https://youtu.be/HnDLBMqAPqA) -> Vélo assistance électrique, then watched the above 'video demonstration' displaying a mechanical system tracked and connected to the cloud that performs sweeping tasks on the streets. Eviot ingests this and thinks of bicycle-dependent ideas to work on.<br />
+🔹 **Why it matters to Futtech and Eviot:** 
+   A line from the "Culture & Divertissement" reports I submit today says:<br />
+   "Les jeux vidéo classiques cantonnent le public à l’écran, sans valeur sportive ou sociale forte.".<br />
+   Futtech and Eviot must ensure they design product with the insiduous nature of unregulated time away from the physical and social.<br />
 
 🔹 **Knowledge extraction, possible adaptation / experiment:** 
    VAEs hint at; usage of electrical components in order to smoothen manipulation of systems requiring a certain level of human effort (physical or neural energy).<br />
