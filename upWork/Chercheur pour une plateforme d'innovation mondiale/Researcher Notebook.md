@@ -225,4 +225,16 @@ Created: {{ 2025-10-07 }}
    VAEs hint at; usage of electrical components in order to smoothen manipulation of systems requiring a certain level of human effort (physical or neural energy).<br />
    The bike-towed trailer with an electrical brush integrated had me thinking of the individuals I have seen on Thika Road, Nairobi, Kenya, sweeping the dust and loading them in a truck after hours of working. This is a potential immediate replacement.
 
+## Idea 18 - Nov 11, 2025
+
+🔹 **Concept names and links:**
+   [Floorium – sol interactif en réalité augmentée (UTS / Interactive Floor)](https://utsplay.com/en/product/interactive-floor), [Video Demonstration](https://youtu.be/3hjD_z9xgXM)<br />
+
+🔹 **Why it matters to Eviot:** 
+   I initially was intrigued by the idea of a ['VAE'](https://youtu.be/HnDLBMqAPqA) -> Vélo assistance électrique, then watched the above 'video demonstration' displaying a mechanical system tracked and connected to the cloud that performs sweeping tasks on the streets. Eviot ingests this and thinks of bicycle-dependent ideas to work on.<br />
+
+🔹 **Knowledge extraction, possible adaptation / experiment:** 
+   VAEs hint at; usage of electrical components in order to smoothen manipulation of systems requiring a certain level of human effort (physical or neural energy).<br />
+   The bike-towed trailer with an electrical brush integrated had me thinking of the individuals I have seen on Thika Road, Nairobi, Kenya, sweeping the dust and loading them in a truck after hours of working. This is a potential immediate replacement.
+
 ---
