@@ -236,7 +236,7 @@ Created: {{ 2025-10-07 }}
    Futtech and Eviot must ensure they design product with the insiduous nature of unregulated time away from the physical and social.<br />
 
 🔹 **Knowledge extraction, possible adaptation / experiment:** 
-   VAEs hint at; usage of electrical components in order to smoothen manipulation of systems requiring a certain level of human effort (physical or neural energy).<br />
-   The bike-towed trailer with an electrical brush integrated had me thinking of the individuals I have seen on Thika Road, Nairobi, Kenya, sweeping the dust and loading them in a truck after hours of working. This is a potential immediate replacement.
+   I had already been introduced to the concept of gamification of products in order to boost engagement, here, it is an actual game that gets integrated inside a relative formal physical place. This has me thinking about engineering actual games. Kid game somehow picks my interest.<br />
+   How can Futtech and Eviot evolve into games? How can they integrate gaming to their respective plateforms? Hold on, Netflix has integrated games, right? Okay, something is going on here.
 
 ---
