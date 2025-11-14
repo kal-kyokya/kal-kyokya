@@ -231,9 +231,9 @@ Created: {{ 2025-10-07 }}
    [Floorium – sol interactif en réalité augmentée (UTS / Interactive Floor)](https://utsplay.com/en/product/interactive-floor), [Video Demonstration](https://youtu.be/3hjD_z9xgXM)<br />
 
 🔹 **Why it matters to Futtech and Eviot:** 
-   A line from the "Culture & Divertissement" reports I submit today says:<br />
+   A line from the "Culture & Divertissement" reports I submitted today says:<br />
    "Les jeux vidéo classiques cantonnent le public à l’écran, sans valeur sportive ou sociale forte.".<br />
-   Futtech and Eviot must ensure they design product with the insiduous nature of unregulated time away from the physical and social.<br />
+   Futtech and Eviot must ensure mindful design of products, keeping in mind the insiduous nature of unregulated time away from the physical and social.<br />
 
 🔹 **Knowledge extraction, possible adaptation / experiment:** 
    I had already been introduced to the concept of gamification of products in order to boost engagement, here, it is an actual game that gets integrated inside a relative formal physical place. This has me thinking about engineering actual games. Kid game somehow picks my interest.<br />
@@ -244,10 +244,9 @@ Created: {{ 2025-10-07 }}
 🔹 **Concept names and links:**
    [LiXiA – Capteurs IoT de niveau d’eau pour crues soudaines](https://lixia.com.au/flood-disaster-monitoring.html), [Video Demonstration](http://www.youtube.com/watch?v=IR9mcv9iot8)<br />
 
-🔹 **Why it matters to Futtech and Eviot:** 
-   A line from the "Culture & Divertissement" reports I submit today says:<br />
-   "Les jeux vidéo classiques cantonnent le public à l’écran, sans valeur sportive ou sociale forte.".<br />
-   Futtech and Eviot must ensure they design product with the insiduous nature of unregulated time away from the physical and social.<br />
+🔹 **Why it matters to Eviot:** 
+   Monitoring of social infrastructures is the core of this idea.<br />
+   Eviot's "MARC" model sees itself being called here, for the 'M' in it.<br />
 
 🔹 **Knowledge extraction, possible adaptation / experiment:** 
    I had already been introduced to the concept of gamification of products in order to boost engagement, here, it is an actual game that gets integrated inside a relative formal physical place. This has me thinking about engineering actual games. Kid game somehow picks my interest.<br />
