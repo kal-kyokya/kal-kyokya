@@ -262,7 +262,7 @@ Created: {{ 2025-10-07 }}
    A "less is more" approach to solving a particular problem.<br />
 
 🔹 **Knowledge extraction, possible adaptation / experiment:** 
-   Once again, Eviot is a gateway to a universe in tech that has many interesting adventures I can indulge in.<br />
-   The video demonstration, up there, provided me with a moment of comparative reflection through which I could see Eviot creating systems that make it possible for people to be saved time and effort required to regularly monitor systems such as water dams, in anticipation for floods during raining seasons (both lietrally and philosophically). "Have a pair of eyes in location X, and receive updates no matter where you are".
+   Gotta start with the video demonstration. I was captivated by the demonstration and explanation of the functioning of system. I found meaning in it.<br />
+   Input/Output, request/Response, Ying/Yan, Order/Chaos, Polluted water into filtered water ; the idea of taking element A and passing it through a pipeline design carefully into order to generate a purerer version of A, still. Now that's a vision I appreciated being exposed to.
 
 ---
