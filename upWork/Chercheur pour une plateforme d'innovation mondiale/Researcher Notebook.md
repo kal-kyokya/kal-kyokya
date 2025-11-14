@@ -236,8 +236,8 @@ Created: {{ 2025-10-07 }}
    Futtech and Eviot must ensure mindful design of products, keeping in mind the insiduous nature of unregulated time away from the physical and social.<br />
 
 🔹 **Knowledge extraction, possible adaptation / experiment:** 
-   I had already been introduced to the concept of gamification of products in order to boost engagement, here, it is an actual game that gets integrated inside a relative formal physical place. This has me thinking about engineering actual games. Kid game somehow picks my interest.<br />
-   How can Futtech and Eviot evolve into games? How can they integrate gaming to their respective plateforms? Hold on, Netflix has integrated games, right? Okay, something is going on here.
+   I had already been introduced to the concept of gamification of products in order to boost engagement, here, it's an actual game that gets integrated inside a relatively formal context. This has me thinking about engineering actual games. Kid games somehow pick my interest.<br />
+   How can Futtech and Eviot evolve into games? Or more accurately, how can they integrate gaming to their respective plateforms? Hold on, Netflix has integrated games, right? Okay, something is going on here.
 
 ## Idea 19 - Nov 14, 2025
 
@@ -249,7 +249,7 @@ Created: {{ 2025-10-07 }}
    Eviot's "MARC" model sees itself being called here, for the 'M' in it.<br />
 
 🔹 **Knowledge extraction, possible adaptation / experiment:** 
-   I had already been introduced to the concept of gamification of products in order to boost engagement, here, it is an actual game that gets integrated inside a relative formal physical place. This has me thinking about engineering actual games. Kid game somehow picks my interest.<br />
-   How can Futtech and Eviot evolve into games? How can they integrate gaming to their respective plateforms? Hold on, Netflix has integrated games, right? Okay, something is going on here.
+   Once again, Eviot is a gateway to a universe in tech that has many interesting adventures I can indulge in.<br />
+   The video demonstration, up there, provided me with a moment of comparative reflection through which I could see Eviot creating systems that make it possible for people to be saved time and effort required to regularly monitor systems such as water dams, in anticipation for floods during raining seasons (both lietrally and philosophically). "Have a pair of eyes in location X, and receive updates no matter where you are".
 
 ---
