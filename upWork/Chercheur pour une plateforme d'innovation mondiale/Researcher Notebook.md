@@ -242,7 +242,20 @@ Created: {{ 2025-10-07 }}
 ## Idea 19 - Nov 14, 2025
 
 🔹 **Concept names and links:**
-   [LiXiA – Capteurs IoT de niveau d’eau pour crues soudaines](https://lixia.com.au/flood-disaster-monitoring.html), [Video Demonstration](http://www.youtube.com/watch?v=IR9mcv9iot8)<br />
+   [LiXiA – Capteurs IoT de niveau d’eau pour crues soudaines](https://lixia.com.au/flood-disaster-monitoring.html), [Video Demonstration](https://www.youtube.com/watch?v=IR9mcv9iot8)<br />
+
+🔹 **Why it matters to Eviot:** 
+   Monitoring of social infrastructures is the core of this idea.<br />
+   Eviot's "MARC" model sees itself being called here, for the 'M' in it.<br />
+
+🔹 **Knowledge extraction, possible adaptation / experiment:** 
+   Once again, Eviot is a gateway to a universe in tech that has many interesting adventures I can indulge in.<br />
+   The video demonstration, up there, provided me with a moment of comparative reflection through which I could see Eviot creating systems that make it possible for people to be saved time and effort required to regularly monitor systems such as water dams, in anticipation for floods during raining seasons (both lietrally and philosophically). "Have a pair of eyes in location X, and receive updates no matter where you are".
+
+## Idea 20 - Nov 14, 2025
+
+🔹 **Concept names and links:**
+   [Klargester Reed Beds – Système modulaire de lits de roseaux pour traitement tertiaire](https://www.tanks-direct.co.uk/klargester-reed-beds-for-6-or-12-person-usage/p39574), [Video Demonstration](https://youtu.be/arVtT-RCc7k)<br />
 
 🔹 **Why it matters to Eviot:** 
    Monitoring of social infrastructures is the core of this idea.<br />
