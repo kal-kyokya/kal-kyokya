@@ -257,9 +257,9 @@ Created: {{ 2025-10-07 }}
 🔹 **Concept names and links:**
    [Klargester Reed Beds – Système modulaire de lits de roseaux pour traitement tertiaire](https://www.tanks-direct.co.uk/klargester-reed-beds-for-6-or-12-person-usage/p39574), [Video Demonstration](https://youtu.be/arVtT-RCc7k)<br />
 
-🔹 **Why it matters to Eviot:** 
-   Monitoring of social infrastructures is the core of this idea.<br />
-   Eviot's "MARC" model sees itself being called here, for the 'M' in it.<br />
+🔹 **Why it matters to Futtech & Eviot:** 
+   The subtle nature of the process through which water is filtered.<br />
+   A "less is more" approach to solving a particular problem.<br />
 
 🔹 **Knowledge extraction, possible adaptation / experiment:** 
    Once again, Eviot is a gateway to a universe in tech that has many interesting adventures I can indulge in.<br />
