@@ -239,4 +239,18 @@ Created: {{ 2025-10-07 }}
    I had already been introduced to the concept of gamification of products in order to boost engagement, here, it is an actual game that gets integrated inside a relative formal physical place. This has me thinking about engineering actual games. Kid game somehow picks my interest.<br />
    How can Futtech and Eviot evolve into games? How can they integrate gaming to their respective plateforms? Hold on, Netflix has integrated games, right? Okay, something is going on here.
 
+## Idea 19 - Nov 14, 2025
+
+🔹 **Concept names and links:**
+   [LiXiA – Capteurs IoT de niveau d’eau pour crues soudaines](https://lixia.com.au/flood-disaster-monitoring.html), [Video Demonstration](http://www.youtube.com/watch?v=IR9mcv9iot8)<br />
+
+🔹 **Why it matters to Futtech and Eviot:** 
+   A line from the "Culture & Divertissement" reports I submit today says:<br />
+   "Les jeux vidéo classiques cantonnent le public à l’écran, sans valeur sportive ou sociale forte.".<br />
+   Futtech and Eviot must ensure they design product with the insiduous nature of unregulated time away from the physical and social.<br />
+
+🔹 **Knowledge extraction, possible adaptation / experiment:** 
+   I had already been introduced to the concept of gamification of products in order to boost engagement, here, it is an actual game that gets integrated inside a relative formal physical place. This has me thinking about engineering actual games. Kid game somehow picks my interest.<br />
+   How can Futtech and Eviot evolve into games? How can they integrate gaming to their respective plateforms? Hold on, Netflix has integrated games, right? Okay, something is going on here.
+
 ---
