@@ -78,7 +78,7 @@ Created: {{ 2025-05-31 }}
 
 ---
 
-> _“If it looks like I'm Ice Cold, or not nervous, it's because I have done it thousands of times before. So what's one more time?” — Kobe Bryant, Repetition, 'I did that, therefore, I am'._
+> _“A habit missed once is a mistake. A habit missed twice is the start of a new habit. Never miss two days in a row.” — James Clear, author of Atomic Habits._
 
 <!-- Let's update the log every Sunday. Let's Go! -->
 
