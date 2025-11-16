@@ -41,7 +41,7 @@ Created: {{ 2025-05-31 }}
 	- Still on that ; Learned that once one secures a job, especially one that picks his interest and demands time, effort and careful attention, he stops hunting. ```Just realized this also applies to romance```, lol.
 
 ### 🏆 <b>3 Wins and/or Achievements</b>
-1. Not only did I eat up 21 Kms in less than 2hrs 30min, but I actually r*aw dogged that 22.07 Km half marathon. No music, no podcast, no motivational video, just straight up observation and internal dialogue.
+1. Not only did I eat up 21 km in less than 2hrs 30min, but I actually r*w dogged that 22.07 km half marathon. No music, no podcast, no motivational video, just straight up observation and internal dialogue.
 2. Completed debugging of Futtech and can now proceed with deployment efforts.
 3. 'Slower and more controlled movements', I practiced sensing, feeling, noticing what was my rythm, no matter what I was doing and where I was. I am a little bit more attuned to my pace in life.
 
@@ -54,8 +54,8 @@ Created: {{ 2025-05-31 }}
 **Lesson:** Waiting to be sleepy or seeking to ensure I either read or play the piano due to the way I utilized the time I had earlier during the day or the evening, is no good. Gotta be out by midnight.
 
 ### 🌟 <b>Highlights of the Week</b>
-- <b>Memorable moment / breakthrough / proud event</b>: Having to conduct myself honorably during a period of uncertainty as to the active maintenance of a network connection with an individual with whom I have a significant amount of memories (A friend, as some might call him). The kind of monstrosity required to stay the course in the face of the end of certain cycles is an aim for which I am committed to.
-- <b>Quote, inspiration, or personal reflection</b>: Personal reflection; Just like a man who starts as a 2 year-old and, InshaAllah, reaches 72 years of life. I everyday embody a 2 year-old when my alarm rings, in the sense that I give into Pathos, I have no control of the self, I procrastinate, I delay, I indulge in comfort, I shy away from my response-ability. But as time passes and I grow older, I get better, do better, live better, move better. All of that leading to nightime, where I embody a wise man, a 72 year-old OG, informed by the day he has lived, the decision made and receiving bedtime as an opportunity to disconnect from the world and connect with something refreshing, reinvigorating, straight up renewing.
+- <b>Memorable moment / breakthrough / proud event</b>: The run up Kenyatta University, through Membley and round The Prisons Training College covering 22.07 km fuels me for the foreseeable future.
+- <b>Quote, inspiration, or personal reflection</b>: I was subject to a certain pull this week, had to stay the course and not allow Pathos to do more than guide 'me reasoning', then a synchronicity lead me to the realization that I need to keep close to my heart the fact that ```It's Not About You``` ;  detachment and non-attachment, always.
 
 ---
 
@@ -120,7 +120,7 @@ Created: {{ 2025-05-31 }}
 
 ### 🌟 <b>Highlights of the Week</b>
 - <b>Memorable moment / breakthrough / proud event</b>: Having to conduct myself honorably during a period of uncertainty as to the active maintenance of a network connection with an individual with whom I have a significant amount of memories (A friend, as some might call him). The kind of monstrosity required to stay the course in the face of the end of certain cycles is an aim for which I am committed to.
-- <b>Quote, inspiration, or personal reflection</b>: Personal reflection; Just like a man who starts as a 2 year-old and, InshaAllah, reaches 72 years of life. I everyday embody a 2 year-old when my alarm rings, in the sense that I give into Pathos, I have no control of the self, I procrastinate, I delay, I indulge in comfort, I shy away from my response-ability. But as time passes and I grow older, I get better, do better, live better, move better. All of that leading to nightime, where I embody a wise man, a 72 year-old OG, informed by the day he has lived, the decision made and receiving bedtime as an opportunity to disconnect from the world and connect with something refreshing, reinvigorating, straight up renewing.
+- <b>Quote, inspiration, or personal reflection</b>: Personal reflection; Just like a man who starts as a 2 year-old and, InshaAllah, reaches 72 years of life. I everyday embody a 2 year-old when my alarm rings, in the sense that I give into Pathos, I have no control of the self, I procrastinate, I delay, I indulge in comfort, I shy away from my response-ability. But as time passes and I grow older, I get better, do better, live better, move better. All of that leading to nightime, where I embody a wise man, a 72 year-old OG, informed by the day he has lived, the decisions made and receiving bedtime as an opportunity to disconnect from the world and connect with something refreshing, reinvigorating, straight up renewing.
 
 ---
 
@@ -308,7 +308,7 @@ Created: {{ 2025-05-31 }}
 **Lesson:** I gave into the "I've arrived" mentality and justified my letting the rope go with the fact that I was grinding hard just before. 'Never rest in the middle'.
 
 ### 🌟 <b>Highlights of the Week</b>
-- <b>Memorable moment / breakthrough / proud event</b>: Met up with a friend I had not seen in a minute and decided to jog my way from Kahawa to Kilimani where he was, covered 21 KM in less than 3 hours, looked good, did good, was good.
+- <b>Memorable moment / breakthrough / proud event</b>: Met up with a friend I had not seen in a minute and decided to jog my way from Kahawa to Kilimani where he was, covered 21 km in less than 3 hours, looked good, did good, was good.
 - <b>Quote, inspiration, or personal reflection</b>: The OCEAN (Openess-Conscientiousness-Extraversion-Agreeableness-Neuroticism) model is a powerful tool to possess. Use it, share it, refine it, engage it, play with it, explore it.
 
 ---
