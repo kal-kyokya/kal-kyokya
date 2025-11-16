@@ -46,11 +46,11 @@ Created: {{ 2025-05-31 }}
 3. 'Slower and more controlled movements', I practiced sensing, feeling, noticing what was my rythm, no matter what I was doing and where I was. I am a little bit more attuned to my pace in life.
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
-1. **Failure:** Third week running; Midnight Bedtime.<br />
-**Lesson:** An attempt was made in only having one single alarm set for 8 AM. On average, I am up and engaging with my morning routine come 10 AM, after Dream Analysis. This is a fight I need to strategize for and break down into smaller and smaller component because of the ease with which I fall into this trap.
+1. **Failure:** Midnight Bedtime.<br />
+**Lesson:** I did better than last week but one, we are on the ascend and InshaAllah, next week, will ascertain the new norm.
 2. **Failure:** Inconsistent Piano sessions.<br />
-**Lesson:** I need to allocate 2 hours to my book reads and 30 minutes for piano sessions. Given that the goal is to be in bed by midnight, this implies, closing shop at 10:30 PM and getting into my action.
-3. **Failure:** Not being in bed by midnight.<br />
+**Lesson:** I gotta want it a little bit more. Given that I am closing in on mastery of the song I have been invested in over the past weeks, I am giving into the 'quitting mind' and getting satisfied with less than 100% success rate.
+3. **Failure:** Once again ; Not being in bed by midnight.<br />
 **Lesson:** Waiting to be sleepy or seeking to ensure I either read or play the piano due to the way I utilized the time I had earlier during the day or the evening, is no good. Gotta be out by midnight.
 
 ### 🌟 <b>Highlights of the Week</b>
