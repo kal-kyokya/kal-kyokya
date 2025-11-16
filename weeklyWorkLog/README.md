@@ -22,6 +22,71 @@ Created: {{ 2025-05-31 }}
 
 ---
 
+## Week 25 — Sunday, 16th November 2025
+
+### 🌱 **What Was Worked On**
+
+- **Projects**
+	1. **Recherche pour une plateforme d'innovation mondiale**: 'For the sith week running' ; In order to earn what would cover Futtech's costs of operation, I submitted 37 entries (worldwide, monetizable, novel ideas having emerged over the last 12 months).
+	2. **Make Futtech Deploy-ready**: Having debugged [Futtech-Django](https://github.com/kal-kyokya/Futtech-Django/tree/main) and rewrtitten its 'README.md' file, the week ended with the repository ready to go and requiring Ngin configuration to enable web access of the FUttech App.
+	3. **Researcher's Notebook**: Having noticed the amount of exposure I get, via my research assistant role in the previously mentioned job, I ensured to fuel my [Researcher's Notebook](https://github.com/kal-kyokya/kal-kyokya/blob/main/upWork/Chercheur%20pour%20une%20plateforme%20d'innovation%20mondiale/Researcher%20Notebook.md), a side-project through which I extract knowledge from the world's ingenuity.
+
+- **Learning & Growth**
+	1. I started the week with an investigation of an idea that I was exposed to while engaging with a podcast episode by the Huberman Lab having Jocko Willink, the difference between ```Caloric and Neural Energy```.
+	2. Somewhere around 2:30 PM, I went ahead and plugged Codex onto the [Futtech-Django](https://github.com/kal-kyokya/Futtech-Django/tree/main) repository on GitHub, in anticipation of the finishing touches required to deployed the webapp this month.
+	3. Googling [Why is the Linux command called 'touch'](https://www.google.com/search?q=why+is+the+linux+command+called+touch) provided me with a moment of philosophical engagement with programming given the nature of what 'touching a file' means.
+	4. Tuesday began with my writing code intent on rewriting Futtech from scratch, which introduced me to the idea of setttig one's Django backend settings in a ```base/dev/prod``` structure. An idea that pleased me due to the level of orderliness it imposes on the project.
+	5. By 1:30 PM that day, I felt overwhelm by the realization that rewriting everything from scratch was prone to me being interested in many new ways of doing what I had already mostly done in previous attempts. That's when I drop the rewrite idea and used Codex to debug the [Futtech-Django](https://github.com/kal-kyokya/Futtech-Django/tree/main) repository, an idea for which I have nothing other than AlhamduliAllah.
+	6. Wednesday during my clean up of Futtech-Django, after having been patient long enough, I sought a solution to my 'jittery touchpad' and was pleased to learn that one can [disable a laptop's touchpad](https://www.computerhope.com/issues/ch001699.htm#:~:text=Or%2C%20press%20Windows%20key%20%2B%20I,switch%20to%20the%20Off%20position.), which I did as I used the bluetooth mouse I own.
+	7. Writing tests for the backend helped me realize that the one skill I truly am grateful I acquired via the 2 years I committed to [ALX Africa](https://www.alxafrica.com) is ```Learning how to learn anything```.
+
+- **Job hunting**
+	- Still on that ; Learned that once one secures a job, especially one that picks his interest and demands time, effort and careful attention, he stops hunting. ```Just realized this also applies to romance```, lol.
+
+### 🏆 <b>3 Wins and/or Achievements</b>
+1. I have completed watching the 2017 Personality Lecture by Jordan B. Peterson on YouTube and over the 22 weeks or so it took me to do it, have undergone a meaning process of transformation. A uself process of transformation.
+2. Being back to working on Futtech, truly felt right in the moment. I am grateful for that.
+3. Logos, Logos, Logos. The ease with which self-expression was handle on a number of occasions this week informs me of the increased level of self-mastery and the need for a deeper commitment to Ethos and detachment from Pathos.
+
+### 🔭 <b>3 Fails & Lessons Learned</b>
+1. **Failure:** Third week running; Midnight Bedtime.<br />
+**Lesson:** An attempt was made in only having one single alarm set for 8 AM. On average, I am up and engaging with my morning routine come 10 AM, after Dream Analysis. This is a fight I need to strategize for and break down into smaller and smaller component because of the ease with which I fall into this trap.
+2. **Failure:** Inconsistent Piano sessions.<br />
+**Lesson:** I need to allocate 2 hours to my book reads and 30 minutes for piano sessions. Given that the goal is to be in bed by midnight, this implies, closing shop at 10:30 PM and getting into my action.
+3. **Failure:** Not being in bed by midnight.<br />
+**Lesson:** Waiting to be sleepy or seeking to ensure I either read or play the piano due to the way I utilized the time I had earlier during the day or the evening, is no good. Gotta be out by midnight.
+
+### 🌟 <b>Highlights of the Week</b>
+- <b>Memorable moment / breakthrough / proud event</b>: Having to conduct myself honorably during a period of uncertainty as to the active maintenance of a network connection with an individual with whom I have a significant amount of memories (A friend, as some might call him). The kind of monstrosity required to stay the course in the face of the end of certain cycles is an aim for which I am committed to.
+- <b>Quote, inspiration, or personal reflection</b>: Personal reflection; Just like a man who starts as a 2 year-old and, InshaAllah, reaches 72 years of life. I everyday embody a 2 year-old when my alarm rings, in the sense that I give into Pathos, I have no control of the self, I procrastinate, I delay, I indulge in comfort, I shy away from my response-ability. But as time passes and I grow older, I get better, do better, live better, move better. All of that leading to nightime, where I embody a wise man, a 72 year-old OG, informed by the day he has lived, the decision made and receiving bedtime as an opportunity to disconnect from the world and connect with something refreshing, reinvigorating, straight up renewing.
+
+---
+
+## 📅 <b>Coming Up Next Week</b> - 10th to 16th November 2025
+- [ ] Hit the, proposed, weekly goal of 50 innovation research entries.
+- [ ] Ensure to spend 30 minutes, before midnight, [every night](https://www.youtube.com/shorts/mQcTJdyTFtA) rehearsing the piano.
+- [ ] Be done with dream analysis come 9AM.
+
+---
+
+## 📈 <b>Meta</b>
+| Metric | This Week |
+| ------ | --------- |
+| Submissions | 41 |
+| Study Hours | 12 |
+| GitHub Commits | 70 |
+| Sleep Avg (hrs) | 7 |
+| Total Coding Time (hrs) | 9 |
+| Training Sessions (Football) | 3 |
+
+---
+
+> _“If it looks like I'm Ice Cold, or not nervous, it's because I have done it thousands of times before. So what's one more time?” — Kobe Bryant, Repetition, 'I did that, therefore, I am'._
+
+<!-- Let's update the log every Sunday. Let's Go! -->
+
+---
+
 ## Week 24 — Sunday, 9th November 2025
 
 ### 🌱 **What Was Worked On**
@@ -29,7 +94,7 @@ Created: {{ 2025-05-31 }}
 - **Projects**
 	1. **Recherche pour une plateforme d'innovation mondiale**: 'For the fifth week running' ; In order to earn what would cover Futtech's costs of operation, I submitted 41 entries (worldwide, monetizable, novel ideas having emerged over the last 12 months).
 	2. **Make Futtech Deploy-ready**: After having been away from writing any lines of code helping Futtech's website be up and running, I, exactly 1 month since the last commit (4th Oct to 4th November) was back working on [Futtech-Django](https://github.com/kal-kyokya/Futtech-Django/tree/main) and using OpenAi's Codex was able to see the codebase I have earned over the past 6 months in an entirely new light.
-	3. **Researcher's Notebook**: Having noticed the amount of exposure I get, via my research assistant role of the previously mentioned job, I ensured to fuel my [Researcher's Notebook](https://github.com/kal-kyokya/kal-kyokya/blob/main/upWork/Chercheur%20pour%20une%20plateforme%20d'innovation%20mondiale/Researcher%20Notebook.md), a side-project through which I extract knowledge from the world's ingenuity.
+	3. **Researcher's Notebook**: Having noticed the amount of exposure I get, via my research assistant role in the previously mentioned job, I ensured to fuel my [Researcher's Notebook](https://github.com/kal-kyokya/kal-kyokya/blob/main/upWork/Chercheur%20pour%20une%20plateforme%20d'innovation%20mondiale/Researcher%20Notebook.md), a side-project through which I extract knowledge from the world's ingenuity.
 
 - **Learning & Growth**
 	1. I started the week with an investigation of an idea that I was exposed to while engaging with a podcast episode by the Huberman Lab having Jocko Willink, the difference between ```Caloric and Neural Energy```.
@@ -93,7 +158,7 @@ Created: {{ 2025-05-31 }}
 
 - **Projects**
 	1. **Recherche pour une plateforme d'innovation mondiale**: 'For the fourth week running' ; In order to earn what would cover Futtech's costs of operation, I submitted 51 entries (worldwide, monetizable, novel ideas having emerged over the last 12 months).
-	2. **Researcher's Notebook**: Having noticed the amount of exposure I get, via my research assistant role of the previously mentioned job, I ensured to fuel my [Researcher's Notebook](https://github.com/kal-kyokya/kal-kyokya/blob/main/upWork/Chercheur%20pour%20une%20plateforme%20d'innovation%20mondiale/Researcher%20Notebook.md), a side-project through which I extract knowledge from the world's ingenuity.
+	2. **Researcher's Notebook**: Having noticed the amount of exposure I get, via my research assistant role in the previously mentioned job, I ensured to fuel my [Researcher's Notebook](https://github.com/kal-kyokya/kal-kyokya/blob/main/upWork/Chercheur%20pour%20une%20plateforme%20d'innovation%20mondiale/Researcher%20Notebook.md), a side-project through which I extract knowledge from the world's ingenuity.
 
 - **Learning & Growth**
 	1. As a result of having seen it been multiple times across many files, on Tuesday, I decided to investigate the [OpEx vs CapEx](https://www.google.com/search?q=opex+vs+capex). The idea of 'long term investments' and 'daily fuel' is a simplification that facilitates my thinking of 'startups as systems'.
@@ -156,7 +221,7 @@ Created: {{ 2025-05-31 }}
 
 - **Projects**
 	1. **Recherche pour une plateforme d'innovation mondiale**: 'For the third week running' ; In order to earn what would cover Futtech's costs of operation, I submitted 60 entries (worldwide, monetizable, novel ideas having emerged over the last 12 months).
-	2. **Researcher's Notebook**: Having noticed the amount of exposure I get, via my research assistant role of the previously mentioned job, I ensured to fuel my [Researcher's Notebook](https://github.com/kal-kyokya/kal-kyokya/blob/main/upWork/Chercheur%20pour%20une%20plateforme%20d'innovation%20mondiale/Researcher%20Notebook.md), a side-project through which I extract knowledge from the world's ingenuity.
+	2. **Researcher's Notebook**: Having noticed the amount of exposure I get, via my research assistant role in the previously mentioned job, I ensured to fuel my [Researcher's Notebook](https://github.com/kal-kyokya/kal-kyokya/blob/main/upWork/Chercheur%20pour%20une%20plateforme%20d'innovation%20mondiale/Researcher%20Notebook.md), a side-project through which I extract knowledge from the world's ingenuity.
 
 - **Learning & Growth**
 	1. Tuesay afternoon, while researching innovative solutions in the construction sector, I encountered a DJI product; The [DJI Dock 3 – Inspections industrielles & suivi de chantier](https://www.google.com/search?q=DJI+Dock+3+–+Inspections+industrielles+%26+suivi+de+chantier). I was moved by the quality of the [video presentation of the product](https://enterprise.dji.com/dock-3) and agreed to generate the same type of quality content with [Futtech](https://futtech.kalkyokya.tech/about).
