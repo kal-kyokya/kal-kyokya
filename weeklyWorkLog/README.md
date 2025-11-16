@@ -41,9 +41,9 @@ Created: {{ 2025-05-31 }}
 	- Still on that ; Learned that once one secures a job, especially one that picks his interest and demands time, effort and careful attention, he stops hunting. ```Just realized this also applies to romance```, lol.
 
 ### 🏆 <b>3 Wins and/or Achievements</b>
-1. I have completed watching the 2017 Personality Lecture by Jordan B. Peterson on YouTube and over the 22 weeks or so it took me to do it, have undergone a meaning process of transformation. A uself process of transformation.
-2. Being back to working on Futtech, truly felt right in the moment. I am grateful for that.
-3. Logos, Logos, Logos. The ease with which self-expression was handle on a number of occasions this week informs me of the increased level of self-mastery and the need for a deeper commitment to Ethos and detachment from Pathos.
+1. Not only did I eat up 21 Kms in less than 2hrs 30min, but I actually r*aw dogged that 22.07 Km half marathon. No music, no podcast, no motivational video, just straight up observation and internal dialogue.
+2. Completed debugging of Futtech and can now proceed with deployment efforts.
+3. 'Slower and more controlled movements', I practiced sensing, feeling, noticing what was my rythm, no matter what I was doing and where I was. I am a little bit more attuned to my pace in life.
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
 1. **Failure:** Third week running; Midnight Bedtime.<br />
@@ -106,9 +106,9 @@ Created: {{ 2025-05-31 }}
 	- Still on that ; Learned that once one secures a job, especially one that picks his interest and demands time, effort and careful attention, he stops hunting. ```Just realized this also applies to romance```, lol.
 
 ### 🏆 <b>3 Wins and/or Achievements</b>
-1. I have completed watching the 2017 Personality Lecture by Jordan B. Peterson on YouTube and over the 22 weeks or so it took me to do it, have undergone a meaning process of transformation. A uself process of transformation.
-2. Being back to working on Futtech, truly felt right in the moment. I am grateful for that.
-3. Logos, Logos, Logos. The ease with which self-expression was handle on a number of occasions this week informs me of the increased level of self-mastery and the need for a deeper commitment to Ethos and detachment from Pathos.
+1. I have watched the 2017 Personality Lecture series by Jordan B. Peterson on YouTube and over the 22 weeks or so it took me to do it, have undergone a meaningful process of transformation. A uself process of transformation.
+2. Being back to working on Futtech, truly felt 'right'. I'm grateful for that.
+3. Logos, Logos, Logos. The ease with which self-expression was handled on a number of occasions this week informs me of the increased level of self-mastery and the need for a deeper commitment to Ethos and detachment from Pathos.
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
 1. **Failure:** Third week running; Midnight Bedtime.<br />
