@@ -275,7 +275,7 @@ Created: {{ 2025-10-07 }}
    The design of the website shines forth.<br />
 
 🔹 **Knowledge extraction, possible adaptation / experiment:** 
-   Gotta start with the video demonstration. I was captivated by the demonstration and explanation of the functioning of system. I found meaning in it.<br />
-   Input/Output, request/Response, Ying/Yan, Order/Chaos, Polluted water into filtered water ; the idea of taking element A and passing it through a pipeline design carefully into order to generate a purerer version of A, still. Now that's a vision I appreciated being exposed to.
+   The animation while, I believe the website is loading makes the waiting time less obvious, more subtle, easier to endure, pass, tolerate. Imma need me a nice animation for when data is loading on Futtech.<br />
+   I'm thinking something to do with the logo; the drone and the line I have been ruminating lately "Watch yourself ball". That sounds interesting.
 
 ---
