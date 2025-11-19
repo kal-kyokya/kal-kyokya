@@ -271,9 +271,8 @@ Created: {{ 2025-10-07 }}
 🔹 **Concept names and links:**
    [The Recreus Lab – Micro-usine de recyclage plastique et panneaux 100 % recyclés](https://www.recreuslab.com/)<br />
 
-🔹 **Why it matters to Futtech & Eviot:** 
-   The subtle nature of the process through which water is filtered.<br />
-   A "less is more" approach to solving a particular problem.<br />
+🔹 **Why it matters to Futtech:** 
+   The design of the website shines forth.<br />
 
 🔹 **Knowledge extraction, possible adaptation / experiment:** 
    Gotta start with the video demonstration. I was captivated by the demonstration and explanation of the functioning of system. I found meaning in it.<br />
