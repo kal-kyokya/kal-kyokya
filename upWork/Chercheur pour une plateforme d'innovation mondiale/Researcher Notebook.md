@@ -19,7 +19,7 @@ Created: {{ 2025-10-07 }}
 
 ---
 
-## Idea 1 - Oct 8, 2025
+## Idea 1 - Oct. 8, 2025
 
 🔹 **Concept name and link:** 
    [BoldJet by FlowBeams](https://www.ces.tech/ces-innovation-awards/2025/boldjet-by-flowbeams/)<br />
@@ -31,7 +31,7 @@ Created: {{ 2025-10-07 }}
    [Alex Homorzi's Value Equation](https://www.google.com/search?q=alex+hormozi%27s+value+equation) is what comes to mind when I see the words highlighted in the above line. A promise of increased efficiency with minimal initial investment.<br />
    I also noted the mention of ```operational costs```, a term that captivated my attention last week on thursday and has since revealed itself to me as relevant in my thinking about Futtech and Upwork Freelancing.<br />
 
-## Idea 2 - Oct 8, 2025
+## Idea 2 - Oct. 8, 2025
 
 🔹 **Concept name and link:** 
    [A New Era for Wearable Tech: Wireless Textile Energy Grids](https://www.sciencedirect.com/science/article/pii/S1369702124002323?via%3Dihub), [summary](https://science.leap-forward.ca/#/news/a-new-era-for-wearable-tech-wireless-textile-energy-grids/2933ca02ce95b30577e02b249634811ceadd9f6d)<br />
@@ -43,7 +43,7 @@ Created: {{ 2025-10-07 }}
 🔹 **Knowledge extraction, possible adaptation / experiment:** 
    This right here lets me know that Everything-IoT is worthwhile, it is a project I should dedicate my time, thoughts and efforts. I did well, choosing it together with Futtech as my life projects.
 
-## Idea 3 - Oct 9, 2025
+## Idea 3 - Oct. 9, 2025
 
 🔹 **Concept name and link:** 
    [Viva Innovation - Détection AI de polypes](https://www.ces2025-ifez.com/vivainnovation), [YouTube demonstration](https://www.youtube.com/watch?v=GFApCo6FsPI)<br />
@@ -55,7 +55,7 @@ Created: {{ 2025-10-07 }}
    The YouTube demonstration got me thinking about the AI model to be engineered for Futtech called Ndoto.<br />
    A rectangle that highlights an area of the recording one would benefit from paying attention to.
 
-## Idea 4 - Oct 11, 2025
+## Idea 4 - Oct. 11, 2025
 
 🔹 **Concept name and link:** 
    [BDApp by emCT - Service incendie à distance](https://www.ces2025-ifez.com/emct), [Consumer Technology Association - CES 2025](https://www.ces.tech/ces-innovation-awards/2025/bdapp-fire-safe-zone-mobile-facility-monitoring-service)<br />
@@ -67,7 +67,7 @@ Created: {{ 2025-10-07 }}
    What happens in VA 308 when I install a small scale IoT system that controls 3 sets of light bulbs? How much data that system generates? How can I receive the data and what do I do with it?.<br />
    The exploration of a this idea of integrating an IoT chip to an existing mechanical system, so as to extract data from it and build Applications that monitor, Remotely Control or Automate processes is something I am interested in.
 
-## Idea 5 - Oct 11, 2025
+## Idea 5 - Oct. 11, 2025
 
 🔹 **Concept name and link:** 
    [Nano-Stream by ROMS - Système d'entrepôt automatisé](https://roms.inc/en/product/ec-logistics/nano-stream), [YouTube Demonstration](https://youtu.be/-Q3_RZixILE)<br />
@@ -79,7 +79,7 @@ Created: {{ 2025-10-07 }}
    I have learned about [AGVs](https://www.google.com/search?q=what+are+agv+robots) thanks to the Nano-Stream project and am fascinate by the idea of building one myself.<br />
    Creating an automated path to be traversed to and from by a robot, an AVG Robot, and have it perform carries point A, B, C, D to Z, sounds like soul taking activity, I want that.
 
-## Idea 6 - Oct 14, 2025
+## Idea 6 - Oct. 14, 2025
 
 🔹 **Concept names and links:**
    [Fabrication aérienne additive pilotée par LLM (LLM-Drone)](https://arxiv.org/abs/2503.17566), [Drone Edge-AI pour une surveillance de chantier](https://arxiv.org/abs/2505.09837)<br />
@@ -91,7 +91,7 @@ Created: {{ 2025-10-07 }}
    "Drone Edge-AI" operates in a surveillance, security and ```prospection```[(definition)](https://www.google.com/search?q=prospection+psychology) context for construction sites and has me visualizing ANGEL-J25 hovering over a football pitch and capturing images of players doing their thing.<br />
    ```Prospection``` has just slapped me with the type of meaning that must be slapped back with a ```AlhamduliAllah```. Numinous. A numinous word it is.
 
-## Idea 7 - Oct 17, 2025
+## Idea 7 - Oct. 17, 2025
 
 🔹 **Concept names and links:**
    [May Mobility : navettes autonomes en service “turn-key”](https://maymobility.com/our-solutions/), [Autonomous Vehicles](https://www.google.com/search?q=autonomous+vehicles)<br />
@@ -103,7 +103,7 @@ Created: {{ 2025-10-07 }}
    [Autonomous vehicles (AVs), or self-driving cars](www.google.com/search?q=autonomous+vehicles) A combination of hardware and software in order to enabling your everyday vehicle to 'act of its own accord', so to speak. That's beautiful. I am interested in engaging with the technology powering them.<br />
    The involvement of AI algorithms processing the sensor data has me thinking about the Ndoto AI model to be engineered for Futtech and the learning done there that will help my accessing to project that embed AI in AVs.
 
-## Idea 8 - Oct 21, 2025
+## Idea 8 - Oct. 21, 2025
 
 🔹 **Concept names and links:**
    [DJI Dock 3 + Matrice 4D/4TD — Station « drone-in-a-box » pour inspections industrielles & suivi de chantier](enterprise.dji.com/dock-3), [Video Introduction](https://enterprise.dji.com/dock-3/video)<br />
@@ -115,7 +115,7 @@ Created: {{ 2025-10-07 }}
    There is potential for collaborations between the Futtech and Eviot Teams in order to create an ecosystem where ANGEL-j25 and co are restructured to automatically execute tasks like monitoring the state of a football pitch every Tuesday for 5 minutes.<br />
    Bringing the drone side of Futtech and Eviot together is a major breakthrough.
 
-## Idea 9 - Oct 22, 2025
+## Idea 9 - Oct. 22, 2025
 
 🔹 **Concept names and links:**
    Secteur Alimentation & Restauration: [PUDU BellaBot – robot de service pour restaurants](https://www.pudurobotics.com/en), as well as, [Monnit ALTA – Pack IoT pour chambres froides & cuisines](https://www.monnit.com/applications/food-service-monitoring/?srsltid=AfmBOop1Bd-CeOHCG5KC3Q7L6m-KZRRv85-q-5E33UtIehomm2d9iiQJ)<br />
@@ -127,7 +127,7 @@ Created: {{ 2025-10-07 }}
    UAVs, AV, Self-driving cars, etc. tend to be associated by my mind to Futtech simply due to the fact that a drone is a central piece of the Futtech idea. But if it so happens that I start producing a little bit of all of them, I find it more fitting to assign the job to Eviot because Futtech is all about Football and its related technologies.<br />
    'Everything-IoT' ; Everything. Eviot has a name that permits exploration in my building of different hardware and software systems.
 
-## Idea 10 - Oct 23, 2025
+## Idea 10 - Oct. 23, 2025
 
 🔹 **Concept names and links:**
    [Yale Linus Smart Lock L2](www.yalehome.com/it/en/products/smart-security-ecosystem/smart-locks/linus-smart-lock-l2), [YouTube Demonstration](https://www.youtube.com/watch?v=27ieagBr8kY)<br />
@@ -139,7 +139,7 @@ Created: {{ 2025-10-07 }}
    Watching the long format YouTube Demo of this instance of a remote controlled lock got me grateful for the Software Engineering journey I am on. Creating web apps might be a good start in considering creation of such auto-lock/unlock systems.<br />
    Smart homes are collections of smart systems each potentially controlled from a central application. Eviot could very well be the central processing unit orchestrating monitoring, automation and remote control of components of the smart house's system.
 
-## Idea 11 - Oct 24, 2025
+## Idea 11 - Oct. 24, 2025
 
 🔹 **Concept names and links:**
    [Flutterwave Store – créez une boutique en 5 min avec paiements locaux](https://flutterwave.com/us/blog/category/case-studies), [Official website](https://flutterwave.com/eu/store)<br />
@@ -151,7 +151,7 @@ Created: {{ 2025-10-07 }}
    Having first built Futtech as a MERN App, before transitioning it to a Django-backend and React-frontend Stack App that integratres Stripe for payment processing, today's research on 'Business, Services and Commerce/e-Commerce' opens my mind/eyes up to the possibility of resetting the counters and rebuilding Futtech using an entirely different Tech Stack, so as to ensure it is seamlessly integrated in the Africa/Kenyan context (Payments) and efficiently delivers videos on-demand.<br />
    Eviot is the lil bro that will benefit greatly from having an older brother who has had the opportunity to trial-and-error his way into knowledge and wisdom. Integration of payment and selection of the appropriate Tech Stack should be easier, InshaAllah.
 
-## Idea 12 - Oct 28, 2025
+## Idea 12 - Oct. 28, 2025
 
 🔹 **Concept names and links:**
    [Clearbot – navire électrique autonome de dépollution de surface (déchets/hydrocarbures/végétaux)](https://www.clearbot.org/class-3), [Drones vs Waste](https://www.flyeye.io/drones-vs-waste-drones-tackling-waste/)<br />
@@ -163,7 +163,7 @@ Created: {{ 2025-10-07 }}
    Straight up here, what picked my interest was the idea of handling plastic water pollution using AVs (Boats equipped with conveyer belt-like mechanisms that collect waste). Followed by the description of how drones can be used to pick up waste in high altitude (Mount Everest case study), but also used to capture video-footage of regions affected by natural disasters (Floods, Fire, Earthquake).<br />
    That article right there had me thinking of the potential that drone-tech has in providing novel ways of solving problems and had me wondering how I can facilitate access of drone technology to Congo, facilitate drone technology to Africa.
 
-## Idea 13 - Oct 31, 2025
+## Idea 13 - Oct. 31, 2025
 
 🔹 **Concept names and links:**
    [Emesent — LiDAR autonome pour inspection d’ouvrages (drone/à pied/véhicule)](https://emesent.com), [Video demonstration](https://youtu.be/bPBHQKEwj5U?si=H8wt-aKMbnBehAos)<br />
@@ -176,7 +176,7 @@ Created: {{ 2025-10-07 }}
    This particular instance uses a LiDAR sensor to generate a 3D map of the surrounding environment, which had me thinking of an image I saved on my PC about 'How Automated Vehicles Work'. Regularly encountering these technologies and not sense myself thinking of them as foreign and extremely fascinating is an indication of engineering growth.<br />
    Eviot could find a way to sneek in here via [this, LiDAR-attached, remote controlled car](https://emesent.com/2025/06/13/hovermap-deployed-via-remote-controlled-vehicle-offers-safer-quicker-mapping-of-underground-pipes-tunnels/) mapping underground tunnels. There is potential, just gotta put in the hours.
 
-## Idea 14 - Nov 1, 2025
+## Idea 14 - Nov. 1, 2025
 
 🔹 **Concept names and links:**
    [KEENON DINERBOT T8 – robot de livraison en salle](https://www.keenon.com/en), [Video demonstration](https://www.linkedin.com/posts/%E6%96%8C-%E6%9D%9C-1083a4299_hotel-project-goes-live-in-italy-expanding-activity-7358421016244613120-RbOc)<br />
@@ -188,7 +188,7 @@ Created: {{ 2025-10-07 }}
    I will benefit greatly from a project that extensively implements the principles regulating Autonomous vehicles.<br />
    This innovative idea is an instance of the AV Class that scaffolds the structure with Waiter and Butler task capabilities. A "Tool vs Principle" analysis guides my thinking and leads to the recognition of the need to work on a project dependent on these principles.
 
-## Idea 15 - Nov 7, 2025
+## Idea 15 - Nov. 7, 2025
 
 🔹 **Concept names and links:**
    [ReGo Sensor Insoles - laboratoire de mouvement dans la chaussure](https://moticon.com/rego/sensor-insoles), [Video demonstration](https://www.youtube.com/watch?v=j8YZPi49mhs)<br />
@@ -200,7 +200,7 @@ Created: {{ 2025-10-07 }}
    An engaging song in the background can make it possible for me to generate a video promoting Futtech where my speech is displayed on screen instead of it being read by yours truly. That's an option we can consider.<br />
    Collecting data on how a player moves (jumps, sprints, changes of direction) from the weight distribution captured via the sole, simply is something I couldn't easily think of. I have been exposed to a new way of conceptualizing data acquisition.
 
-## Idea 16 - Nov 8, 2025
+## Idea 16 - Nov. 8, 2025
 
 🔹 **Concept names and links:**
    [Cleverciti - Système de guidage parking par caméras et panneaux LED](https://www.cleverciti.com)<br />
@@ -213,7 +213,7 @@ Created: {{ 2025-10-07 }}
    "What if I was part of the team that builds a smart city in Congo. What would I need to spend the next couple years working on, in order to have proof for my claim of being a qualified individual for the role?".<br />
    Work, work, work. A brother knows he needs to work. Just gotta figure out what exactly needs to be worked on. Anyway, the idea of having a set of eyes spread across the city, each of them tracking the status of parking slots and reporting to a central system that in turn displays directions guiding drivers (and potenitally self-driving cars? Why would a self-driven car need to park? To wait for a client?),... That's an interesting idea. It has had me thinking of Smart Cities.
 
-## Idea 17 - Nov 10, 2025
+## Idea 17 - Nov. 10, 2025
 
 🔹 **Concept names and links:**
    [Bike Lane Sweeper – remorque balayeuse motorisée pour pistes cyclables](https://bikelanesweeper.com), [Video Demonstration](https://youtu.be/obM4oEY6cn0)<br />
@@ -225,7 +225,7 @@ Created: {{ 2025-10-07 }}
    VAEs hint at; usage of electrical components in order to smoothen manipulation of systems requiring a certain level of human effort (physical or neural energy).<br />
    The bike-towed trailer with an electrical brush integrated had me thinking of the individuals I have seen on Thika Road, Nairobi, Kenya, sweeping the dust and loading them in a truck after hours of working. This is a potential immediate replacement.
 
-## Idea 18 - Nov 11, 2025
+## Idea 18 - Nov. 11, 2025
 
 🔹 **Concept names and links:**
    [Floorium – sol interactif en réalité augmentée (UTS / Interactive Floor)](https://utsplay.com/en/product/interactive-floor), [Video Demonstration](https://youtu.be/3hjD_z9xgXM)<br />
@@ -239,7 +239,7 @@ Created: {{ 2025-10-07 }}
    I had already been introduced to the concept of gamification of products in order to boost engagement, here, it's an actual game that gets integrated inside a relatively formal context. This has me thinking about engineering actual games. Kid games somehow pick my interest.<br />
    How can Futtech and Eviot evolve into games? Or more accurately, how can they integrate gaming to their respective plateforms? Hold on, Netflix has integrated games, right? Okay, something is going on here.
 
-## Idea 19 - Nov 14, 2025
+## Idea 19 - Nov. 14, 2025
 
 🔹 **Concept names and links:**
    [LiXiA – Capteurs IoT de niveau d’eau pour crues soudaines](https://lixia.com.au/flood-disaster-monitoring.html), [Video Demonstration](https://www.youtube.com/watch?v=IR9mcv9iot8)<br />
@@ -252,10 +252,24 @@ Created: {{ 2025-10-07 }}
    Once again, Eviot is a gateway to a universe in tech that has many interesting adventures I can indulge in.<br />
    The video demonstration, up there, provided me with a moment of comparative reflection through which I could see Eviot creating systems that make it possible for people to be saved time and effort required to regularly monitor systems such as water dams, in anticipation for floods during raining seasons (both lietrally and philosophically). "Have a pair of eyes in location X, and receive updates no matter where you are".
 
-## Idea 20 - Nov 14, 2025
+## Idea 20 - Nov. 14, 2025
 
 🔹 **Concept names and links:**
    [Klargester Reed Beds – Système modulaire de lits de roseaux pour traitement tertiaire](https://www.tanks-direct.co.uk/klargester-reed-beds-for-6-or-12-person-usage/p39574), [Video Demonstration](https://youtu.be/arVtT-RCc7k)<br />
+
+🔹 **Why it matters to Futtech & Eviot:** 
+   The subtle nature of the process through which water is filtered.<br />
+   A "less is more" approach to solving a particular problem.<br />
+
+🔹 **Knowledge extraction, possible adaptation / experiment:** 
+   Gotta start with the video demonstration. I was captivated by the demonstration and explanation of the functioning of system. I found meaning in it.<br />
+   Input/Output, request/Response, Ying/Yan, Order/Chaos, Polluted water into filtered water ; the idea of taking element A and passing it through a pipeline design carefully into order to generate a purerer version of A, still. Now that's a vision I appreciated being exposed to.
+
+
+## Idea 21 - Nov. 19, 2025
+
+🔹 **Concept names and links:**
+   [The Recreus Lab – Micro-usine de recyclage plastique et panneaux 100 % recyclés](https://www.recreuslab.com/)<br />
 
 🔹 **Why it matters to Futtech & Eviot:** 
    The subtle nature of the process through which water is filtered.<br />
