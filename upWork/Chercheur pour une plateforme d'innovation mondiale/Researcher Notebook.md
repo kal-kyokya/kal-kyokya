@@ -265,11 +265,22 @@ Created: {{ 2025-10-07 }}
    Gotta start with the video demonstration. I was captivated by the demonstration and explanation of the functioning of system. I found meaning in it.<br />
    Input/Output, request/Response, Ying/Yan, Order/Chaos, Polluted water into filtered water ; the idea of taking element A and passing it through a pipeline design carefully into order to generate a purerer version of A, still. Now that's a vision I appreciated being exposed to.
 
-
 ## Idea 21 - Nov. 19, 2025
 
 🔹 **Concept names and links:**
    [The Recreus Lab – Micro-usine de recyclage plastique et panneaux 100 % recyclés](https://www.recreuslab.com/)<br />
+
+🔹 **Why it matters to Futtech:** 
+   The design of the website shines forth.<br />
+
+🔹 **Knowledge extraction, possible adaptation / experiment:** 
+   The animation while, I believe the website is loading makes the waiting time less obvious, more subtle, easier to endure, pass, tolerate. Imma need me a nice animation for when data is loading on Futtech.<br />
+   I'm thinking something to do with the logo; the drone and the line I have been ruminating lately "Watch yourself ball". That sounds interesting.
+
+## Idea 22 - Nov. 22, 2025
+
+🔹 **Concept names and links:**
+   [BRINC Lemur 2 — drone d’intervention intérieure (Drones as First Responders aka DFR)](brincdrones.com/drone-as-first-responder/)<br />
 
 🔹 **Why it matters to Futtech:** 
    The design of the website shines forth.<br />
