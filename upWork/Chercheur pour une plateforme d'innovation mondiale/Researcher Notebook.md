@@ -274,7 +274,7 @@ Created: {{ 2025-10-07 }}
    The design of the website shines forth.<br />
 
 🔹 **Knowledge extraction, possible adaptation / experiment:** 
-   The animation while, I believe the website is loading makes the waiting time less obvious, more subtle, easier to endure, pass, tolerate. Imma need me a nice animation for when data is loading on Futtech.<br />
+   The animation, while I believe the website is loading, makes the waiting time less obvious, more subtle, easier to endure, pass, tolerate. Imma need me a nice animation for when data is loading on Futtech.<br />
    I'm thinking something to do with the logo; the drone and the line I have been ruminating lately "Watch yourself ball". That sounds interesting.
 
 ## Idea 22 - Nov. 22, 2025
@@ -283,10 +283,10 @@ Created: {{ 2025-10-07 }}
    [BRINC Lemur 2 — drone d’intervention intérieure (Drones as First Responders aka DFR)](brincdrones.com/drone-as-first-responder/)<br />
 
 🔹 **Why it matters to Futtech:** 
-   The design of the website shines forth.<br />
+   The video demonstration in the background of the landing page is a must-implement idea for Futtech.<br />
 
 🔹 **Knowledge extraction, possible adaptation / experiment:** 
-   The animation while, I believe the website is loading makes the waiting time less obvious, more subtle, easier to endure, pass, tolerate. Imma need me a nice animation for when data is loading on Futtech.<br />
+   The animation, while I believe the website is loading, makes the waiting time less obvious, more subtle, easier to endure, pass, tolerate. Imma need me a nice animation for when data is loading on Futtech.<br />
    I'm thinking something to do with the logo; the drone and the line I have been ruminating lately "Watch yourself ball". That sounds interesting.
 
 ---
