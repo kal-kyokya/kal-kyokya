@@ -48,12 +48,12 @@ Created: {{ 2025-05-31 }}
 3. Me and my Dad both being putting in the hours so as to provide for our people. InshaAllah, I will take over and do well when the time comes.
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
-1. **Failure:** Midnight Bedtime.<br />
-**Lesson:** I did better than last week but one, we are on the ascend and InshaAllah, next week, will ascertain the new norm.
-2. **Failure:** Inconsistent Piano sessions.<br />
-**Lesson:** I gotta want it a little bit more. Given that I am closing in on mastery of the song I have been invested in over the past weeks, I am giving into the 'quitting mind' and getting satisfied with less than 100% success rate.
-3. **Failure:** Once again ; Not being in bed by midnight.<br />
-**Lesson:** Waiting to be sleepy or seeking to ensure I either read or play the piano due to the way I utilized the time I had earlier during the day or the evening, is no good. Gotta be out by midnight.
+1. **Failure:** Being careful rescuing someone who wants to be rescued.<br />
+**Lesson:** Unintentionally giving away my phone number while using M-Pesa to assist someone in need as resulted in a number of avoidable spams in the form of phone calls and messages, gotta rethink my approach to the Truth of my Ethos.
+2. **Failure:** Midnight Bedtime.<br />
+**Lesson:** Once again; I did better than last week but one, we are on the ascend and, InshaAllah, next week will ascertain the new norm.
+3. **Failure:** Second week running; Inconsistent Piano sessions.<br />
+**Lesson:** The days are getting shorter, a priviledge to have that happen, a need for me to abide exceptionally well to my ethos and make plans so as to ensure I give to Caesar what belongs to Caesar.
 
 ### 🌟 <b>Highlights of the Week</b>
 - <b>Memorable moment / breakthrough / proud event</b>: The run up Kenyatta University, through Membley and round The Prisons Training College covering 22.07 km fuels me for the foreseeable future.
