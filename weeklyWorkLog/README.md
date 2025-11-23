@@ -43,9 +43,9 @@ Created: {{ 2025-05-31 }}
 	- Still on that ; Learned that once one secures a job, especially one that picks his interest and demands time, effort and careful attention, he stops hunting. ```Just realized this also applies to romance```, lol.
 
 ### 🏆 <b>3 Wins and/or Achievements</b>
-1. Not only did I eat up 21 km in less than 2hrs 30min, but I actually r*w dogged that 22.07 km half marathon. No music, no podcast, no motivational video, just straight up observation and internal dialogue.
-2. Completed debugging of Futtech and can now proceed with deployment efforts.
-3. 'Slower and more controlled movements', I practiced sensing, feeling, noticing what was my rythm, no matter what I was doing and where I was. I am a little bit more attuned to my pace in life.
+1. Having Futtech-Django deployed and accessible despite the required job needed to have it functional is a win from which I build towards Futtech's vision.
+2. I stood my ground many a time this week and realized just important it is to know how to say No, whether in the worlplace or social life; settings boundaries as early as one gains awareness of his obliviousness and knowing how to negociate and renegociate the terms and conditions of a given work or social contract.
+3. Me and my Dad both being putting in the hours so as to provide for our people. InshaAllah, I will take over and do well when the time comes.
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
 1. **Failure:** Midnight Bedtime.<br />
