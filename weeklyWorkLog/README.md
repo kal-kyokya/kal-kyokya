@@ -22,13 +22,75 @@ Created: {{ 2025-05-31 }}
 
 ---
 
+## Week 26 — Sunday, 23rd November 2025
+
+### 🌱 **What Was Worked On**
+
+- **Projects**
+	1. **Recherche pour une plateforme d'innovation mondiale**: 'For the seventh week running' ; In order to earn what would cover Futtech's costs of operation, I submitted 38 entries (worldwide, monetizable, novel ideas having emerged over the last 12 months).
+	2. **Deploy Futtech-Django**: Having debugged [Futtech-Django](https://github.com/kal-kyokya/Futtech-Django/tree/main) and refactored the Nginx's configuration file handling Futtech, [the website](https://www.futtech.kalkyokya.tech/), although 'up but not running', is accessible and requires some debugging to serve the landing page.
+	3. **Researcher's Notebook**: Having noticed the amount of exposure I get, via my research assistant role in the previously mentioned job, I ensured to fuel my [Researcher's Notebook](https://github.com/kal-kyokya/kal-kyokya/blob/main/upWork/Chercheur%20pour%20une%20plateforme%20d'innovation%20mondiale/Researcher%20Notebook.md), a side-project through which I extract knowledge from the world's ingenuity.
+
+- **Learning & Growth**
+	1. Started the week with an introduction to the idea of a ['VAE (vélo à assistance électrique)'](https://www.google.com/search?q=un+velo+ou+VAE) and immediately recognized an entry for my researcher's notebook.
+	2. Later on that day, I was pleased to learned about the opposite of the idea of being taciturn, in ['Loquacity'](https://www.google.com/search?client=opera&q=loquacity).
+	3. Tuesday followed, and was marked by this investigation of [Localhost, Hosts and Ports](https://stackoverflow.com/questions/1946193/whats-the-whole-point-of-localhost-hosts-and-ports-at-all) as I sought to set Futtech to be accessed over the internet and wrongly had it configured to call 'localhost:<port_number>' in a number of places.
+	4. The days went by, I practiced and earned much on each, and come Friday, while generating my first ever submission on the topic of 'Gestion de l'eau', I got a boost of confidence in the optential of Eviot as a result of watching [this video demonstration](https://www.youtube.com/watch?v=IR9mcv9iot8) of a sensor mitigating risks of floods, an ingenious idea indeed.
+
+- **Job hunting**
+	- Still on that ; Learned that once one secures a job, especially one that picks his interest and demands time, effort and careful attention, he stops hunting. ```Just realized this also applies to romance```, lol.
+
+### 🏆 <b>3 Wins and/or Achievements</b>
+1. Not only did I eat up 21 km in less than 2hrs 30min, but I actually r*w dogged that 22.07 km half marathon. No music, no podcast, no motivational video, just straight up observation and internal dialogue.
+2. Completed debugging of Futtech and can now proceed with deployment efforts.
+3. 'Slower and more controlled movements', I practiced sensing, feeling, noticing what was my rythm, no matter what I was doing and where I was. I am a little bit more attuned to my pace in life.
+
+### 🔭 <b>3 Fails & Lessons Learned</b>
+1. **Failure:** Midnight Bedtime.<br />
+**Lesson:** I did better than last week but one, we are on the ascend and InshaAllah, next week, will ascertain the new norm.
+2. **Failure:** Inconsistent Piano sessions.<br />
+**Lesson:** I gotta want it a little bit more. Given that I am closing in on mastery of the song I have been invested in over the past weeks, I am giving into the 'quitting mind' and getting satisfied with less than 100% success rate.
+3. **Failure:** Once again ; Not being in bed by midnight.<br />
+**Lesson:** Waiting to be sleepy or seeking to ensure I either read or play the piano due to the way I utilized the time I had earlier during the day or the evening, is no good. Gotta be out by midnight.
+
+### 🌟 <b>Highlights of the Week</b>
+- <b>Memorable moment / breakthrough / proud event</b>: The run up Kenyatta University, through Membley and round The Prisons Training College covering 22.07 km fuels me for the foreseeable future.
+- <b>Quote, inspiration, or personal reflection</b>: I was subject to a certain pull this week, had to stay the course and not allow Pathos to do more than guide 'me reasoning', then a synchronicity lead me to the realization that I need to keep close to my heart the fact that ```It's Not About You``` ;  detachment and non-attachment, always.
+
+---
+
+## 📅 <b>Coming Up Next Week</b> - 17th to 23rd November 2025
+- [ ] Hit the, agrred upon, weekly goal of 90 innovation research entries.
+- [ ] Ensure to spend 30 minutes, before midnight, [every night](https://www.youtube.com/shorts/mQcTJdyTFtA) rehearsing the piano.
+- [ ] Be done with dream analysis come 9AM.
+
+---
+
+## 📈 <b>Meta</b>
+| Metric | This Week |
+| ------ | --------- |
+| Submissions | 37 |
+| Study Hours | N/A |
+| GitHub Commits | 37 |
+| Sleep Avg (hrs) | 7 |
+| Total Coding Time (hrs) | 4 |
+| Training Sessions (Football) | 3 |
+
+---
+
+> _“A habit missed once is a mistake. A habit missed twice is the start of a new habit. Never miss two days in a row.” — James Clear, author of Atomic Habits._
+
+<!-- Let's update the log every Sunday. Let's Go! -->
+
+---
+
 ## Week 25 — Sunday, 16th November 2025
 
 ### 🌱 **What Was Worked On**
 
 - **Projects**
 	1. **Recherche pour une plateforme d'innovation mondiale**: 'For the sith week running' ; In order to earn what would cover Futtech's costs of operation, I submitted 37 entries (worldwide, monetizable, novel ideas having emerged over the last 12 months).
-	2. **Make Futtech Deploy-ready**: Having debugged [Futtech-Django](https://github.com/kal-kyokya/Futtech-Django/tree/main) and rewrtitten its 'README.md' file, the week ended with the repository ready to go and requiring Ngin configuration to enable web access of the FUttech App.
+	2. **Make Futtech Deploy-ready**: Having debugged [Futtech-Django](https://github.com/kal-kyokya/Futtech-Django/tree/main) and rewrtitten its 'README.md' file, the week ended with the repository ready to go and requiring Nginx configuration to enable web access of the Futtech App.
 	3. **Researcher's Notebook**: Having noticed the amount of exposure I get, via my research assistant role in the previously mentioned job, I ensured to fuel my [Researcher's Notebook](https://github.com/kal-kyokya/kal-kyokya/blob/main/upWork/Chercheur%20pour%20une%20plateforme%20d'innovation%20mondiale/Researcher%20Notebook.md), a side-project through which I extract knowledge from the world's ingenuity.
 
 - **Learning & Growth**
