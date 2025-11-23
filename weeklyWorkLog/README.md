@@ -48,7 +48,7 @@ Created: {{ 2025-05-31 }}
 3. Me and my Dad both being putting in the hours so as to provide for our people. InshaAllah, I will take over and do well when the time comes.
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
-1. **Failure:** Being careful rescuing someone who wants to be rescued.<br />
+1. **Failure:** Careful trying to rescue someone who wants to be rescued.<br />
 **Lesson:** Unintentionally giving away my phone number while using M-Pesa to assist someone in need as resulted in a number of avoidable spams in the form of phone calls and messages, gotta rethink my approach to the Truth of my Ethos.
 2. **Failure:** Midnight Bedtime.<br />
 **Lesson:** Once again; I did better than last week but one, we are on the ascend and, InshaAllah, next week will ascertain the new norm.
@@ -80,7 +80,7 @@ Created: {{ 2025-05-31 }}
 
 ---
 
-> _“A habit missed once is a mistake. A habit missed twice is the start of a new habit. Never miss two days in a row.” — James Clear, author of Atomic Habits._
+> _“Do not try to rescue someone who does not want to be rescued, and be very careful about rescuing someone who does.” — Jordan B. Peterson, Rules for Life._
 
 <!-- Let's update the log every Sunday. Let's Go! -->
 
