@@ -56,8 +56,8 @@ Created: {{ 2025-05-31 }}
 **Lesson:** The days are getting shorter, a priviledge to have that happen, a need for me to abide exceptionally well to my ethos and make plans so as to ensure I give to Caesar what belongs to Caesar.
 
 ### 🌟 <b>Highlights of the Week</b>
-- <b>Memorable moment / breakthrough / proud event</b>: The run up Kenyatta University, through Membley and round The Prisons Training College covering 22.07 km fuels me for the foreseeable future.
-- <b>Quote, inspiration, or personal reflection</b>: I was subject to a certain pull this week, had to stay the course and not allow Pathos to do more than guide 'me reasoning', then a synchronicity lead me to the realization that I need to keep close to my heart the fact that ```It's Not About You``` ;  detachment and non-attachment, always.
+- <b>Memorable moment / breakthrough / proud event</b>: A breakthrough ; The realization of the importance of recognizing as early as possible when to say No, reinforce boundaries and negociate/renegociate an contract one is bound to.
+- <b>Quote, inspiration, or personal reflection</b>: ```It's not About You```. People have lives for which I don't know all the details, lives for which I don't want to know the details. My duty and responsability is to not mislead anyone into thinking I am responsible for their happiness and ensure I cultivate the traits of an individual capable of contributing massively to people's lives without overly taking charge of their being, and risk refraining their Free will, their ability to choose.
 
 ---
 
