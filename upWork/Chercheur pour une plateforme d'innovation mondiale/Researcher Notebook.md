@@ -295,7 +295,7 @@ Created: {{ 2025-10-07 }}
    [CitySolar 120 – borne compacteuse solaire connectée](https://citysolar.fi), [Video Demonstration](https://youtu.be/ZIHine4gGt4)<br />
 
 🔹 **Why it matters to Futtech:** 
-   The video demonstration in the background of the landing page is a must-implement idea for Futtech.<br />
+   The video demonstration embedded via a YouTube Media Player on the landing page provides Futtech with an example of how to integrate its own video demo.<br />
 
 🔹 **Knowledge extraction, possible adaptation / experiment:** 
    I first thought of dividing the landing page in 2; left side having written content, right side neatly display an embedded video from either Mux or YouTube, but having encounter two websites each providing a drone-dependent service, both embedding a video looped, in the background, I can't help but be tempted to snatch that idea and have Futtech acquire an 'industry standard' for video demonstration of what the product does.<br />
