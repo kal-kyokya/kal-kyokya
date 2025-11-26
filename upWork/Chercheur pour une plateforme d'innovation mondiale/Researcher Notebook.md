@@ -286,7 +286,7 @@ Created: {{ 2025-10-07 }}
    The video demonstration in the background of the landing page is a must-implement idea for Futtech.<br />
 
 🔹 **Knowledge extraction, possible adaptation / experiment:** 
-   I first thought of dividing the landing page in 2; left side having written content, right side neatly display an embedded video from either Mux or YouTube, but having encounter two websites each providing a drone-dependent service, both embedding a video looped, in the background, I can't help but be tempted to snatch that idea and have Futtech acquire an 'industry standard' for video demonstration of what the product does.<br />
+   I first thought of dividing the landing page in 2; left side having written content, right side neatly display an embedded video from either Mux or YouTube, but having encountered two websites, each providing a drone-dependent service, both embedding a video looped, in the background, I can't help but be tempted to snatch that idea and have Futtech acquire an 'industry standard' for video demonstration of what the product does.<br />
    I might need to first of all acquire the DJI Mini 3 Pro, record videos with it and then create a 15-20 seconds edit of how Futtech brings Football, Drones and AI together to better training sessions and by extensions Football games.
 
 ## Idea 23 - Nov. 26, 2025
@@ -298,7 +298,7 @@ Created: {{ 2025-10-07 }}
    The video demonstration embedded via a YouTube Media Player on the landing page provides Futtech with an example of how to integrate its own video demo.<br />
 
 🔹 **Knowledge extraction, possible adaptation / experiment:** 
-   I first thought of dividing the landing page in 2; left side having written content, right side neatly display an embedded video from either Mux or YouTube, but having encounter two websites each providing a drone-dependent service, both embedding a video looped, in the background, I can't help but be tempted to snatch that idea and have Futtech acquire an 'industry standard' for video demonstration of what the product does.<br />
-   I might need to first of all acquire the DJI Mini 3 Pro, record videos with it and then create a 15-20 seconds edit of how Futtech brings Football, Drones and AI together to better training sessions and by extensions Football games.
+   The manner in which the YouTube player has been seamlessly integrated on the landing page of this particular website (CitySolar) has me reconsidering my previously mentioned desire have the video on loop in the background.<br />
+   CitySolar, although also having a video on repeat, has used a YouTube embed that starts off muted, 720p Quality and not full screen. The landing page been colored in a way that makes the player subtle, and the flow of the page unbroken by a third-party element.
 
 ---
