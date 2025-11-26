@@ -289,4 +289,16 @@ Created: {{ 2025-10-07 }}
    I first thought of dividing the landing page in 2; left side having written content, right side neatly display an embedded video from either Mux or YouTube, but having encounter two websites each providing a drone-dependent service, both embedding a video looped, in the background, I can't help but be tempted to snatch that idea and have Futtech acquire an 'industry standard' for video demonstration of what the product does.<br />
    I might need to first of all acquire the DJI Mini 3 Pro, record videos with it and then create a 15-20 seconds edit of how Futtech brings Football, Drones and AI together to better training sessions and by extensions Football games.
 
+## Idea 23 - Nov. 26, 2025
+
+🔹 **Concept names and links:**
+   [CitySolar 120 – borne compacteuse solaire connectée](https://citysolar.fi), [Video Demonstration](https://youtu.be/ZIHine4gGt4)<br />
+
+🔹 **Why it matters to Futtech:** 
+   The video demonstration in the background of the landing page is a must-implement idea for Futtech.<br />
+
+🔹 **Knowledge extraction, possible adaptation / experiment:** 
+   I first thought of dividing the landing page in 2; left side having written content, right side neatly display an embedded video from either Mux or YouTube, but having encounter two websites each providing a drone-dependent service, both embedding a video looped, in the background, I can't help but be tempted to snatch that idea and have Futtech acquire an 'industry standard' for video demonstration of what the product does.<br />
+   I might need to first of all acquire the DJI Mini 3 Pro, record videos with it and then create a 15-20 seconds edit of how Futtech brings Football, Drones and AI together to better training sessions and by extensions Football games.
+
 ---
