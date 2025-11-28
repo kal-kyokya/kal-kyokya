@@ -298,8 +298,8 @@ Created: {{ 2025-10-07 }}
    The video demonstration embedded via a YouTube Media Player on the landing page provides Futtech with an example of how to integrate its own video demo.<br />
 
 🔹 **Knowledge extraction, possible adaptation / experiment:** 
-   The manner in which the YouTube player has been seamlessly integrated on the landing page of this particular website (CitySolar) has me reconsidering my previously mentioned desire have the video on loop in the background.<br />
-   CitySolar, although also having a video on repeat, has used a YouTube embed that starts off muted, 720p Quality and not full screen. The landing page been colored in a way that makes the player subtle, and the flow of the page unbroken by a third-party element.
+   The manner in which the YouTube player has been seamlessly integrated on the landing page of this particular website (CitySolar) has me reconsidering my previously mentioned desire to have the video on loop in the background.<br />
+   CitySolar, although also having a video on repeat, has used a YouTube embed that starts off muted, 720p quality and not full screen. The landing page been colored in a way that seamlessly integrates the player, very subtly, and the flow of the page unbroken by a third-party element.
 
 ## Idea 24 - Nov. 28, 2025
 
@@ -310,7 +310,7 @@ Created: {{ 2025-10-07 }}
    The video demonstrations, both from YouTube via a video embed, do an amazing job putting the why, what and how of each product served as a innovative solution improving quality of life and reducing time inefficiently allocated to certain tasks such as monitoring.<br />
 
 🔹 **Knowledge extraction, possible adaptation / experiment:** 
-   The manner in which the YouTube player has been seamlessly integrated on the landing page of this particular website (CitySolar) has me reconsidering my previously mentioned desire have the video on loop in the background.<br />
-   CitySolar, although also having a video on repeat, has used a YouTube embed that starts off muted, 720p Quality and not full screen. The landing page been colored in a way that makes the player subtle, and the flow of the page unbroken by a third-party element.
+   The transition between scenes in the exosquelette video demonstration was joyful to watch, especially the scene where an avatar displays the range the motion before we see an actual human being engaging in the exact same posturing. A beautiful video demonstration can/will do wonders for Futtech.<br />
+   The Drone-in-a-box idea is all about Drone technology being packaged in a couple minutes long video demonstrating how the product provides each user with value (Financial and productivity gains, Time management, reduced effort; Cinematographic version of Alex Homorzi's value equation).
 
 ---
