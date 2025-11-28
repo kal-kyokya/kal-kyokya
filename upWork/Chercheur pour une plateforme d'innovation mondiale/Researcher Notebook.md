@@ -301,4 +301,16 @@ Created: {{ 2025-10-07 }}
    The manner in which the YouTube player has been seamlessly integrated on the landing page of this particular website (CitySolar) has me reconsidering my previously mentioned desire have the video on loop in the background.<br />
    CitySolar, although also having a video on repeat, has used a YouTube embed that starts off muted, 720p Quality and not full screen. The landing page been colored in a way that makes the player subtle, and the flow of the page unbroken by a third-party element.
 
+## Idea 24 - Nov. 28, 2025
+
+🔹 **Concept names and links:**
+   [Hyundai / Kia – X-ble Shoulder, exosquelette industriel d’épaule](https://www.hyundai.com/worldwide/en/newsroom/detail/hyundai-motor-and-kia-robotics-lab-confirms-%2527x-ble-shoulder%2527-wearable-robot-launch-plans-at-wearable-robot-tech-day-%2528summary%2529-0000000875), [Video Demonstration](https://youtu.be/kPc84djU4pQ?list=TLGG6CLUNKFnC9EyODExMjAyNQ), [Microavia Drone-in-a-Box – Inspection d’infrastructures, frontières ou ports, sans pilote dédié](https://microavia.com/), [Video Demonstration](https://youtu.be/A-Ij9Dmwo4I)<br />
+
+🔹 **Why it matters to Futtech:** 
+   The video demonstration embedded via a YouTube Media Player on the landing page provides Futtech with an example of how to integrate its own video demo.<br />
+
+🔹 **Knowledge extraction, possible adaptation / experiment:** 
+   The manner in which the YouTube player has been seamlessly integrated on the landing page of this particular website (CitySolar) has me reconsidering my previously mentioned desire have the video on loop in the background.<br />
+   CitySolar, although also having a video on repeat, has used a YouTube embed that starts off muted, 720p Quality and not full screen. The landing page been colored in a way that makes the player subtle, and the flow of the page unbroken by a third-party element.
+
 ---
