@@ -319,7 +319,7 @@ Created: {{ 2025-10-07 }}
    [MULE – Material Unit Lift Enhancer (Pose de blocs lourds)](https://www.construction-robotics.com/muleml150/), [Video Demonstration](https://youtu.be/FMUroLBE3Fw), [P900 – robot de pose de carrelage intérieur (Partner Robotics)](https://ovacen.com/en/robot-laying-tiles/), [Video Demonstration](https://youtu.be/7kZAoAueEB4)<br />
 
 🔹 **Why it matters to Futtech:** 
-   The video demonstrations, both from YouTube via a video embed, do an amazing job putting the why, what and how of each product served as a innovative solution improving quality of life and reducing time inefficiently allocated to certain tasks such as monitoring.<br />
+   I have now encountered a set of websites using YouTube embeds of their video demonstrating usage of their products and am tempted to label that approach the 'industry standard'.<br />
 
 🔹 **Knowledge extraction, possible adaptation / experiment:** 
    The transition between scenes in the exosquelette video demonstration was joyful to watch, especially the scene where an avatar displays the range the motion before we see an actual human being engaging in the exact same posturing. A beautiful video demonstration can/will do wonders for Futtech.<br />
