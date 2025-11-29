@@ -311,7 +311,7 @@ Created: {{ 2025-10-07 }}
 
 🔹 **Knowledge extraction, possible adaptation / experiment:** 
    The transition between scenes in the exosquelette video demonstration was joyful to watch, especially the scene where an avatar displays the range the motion before we see an actual human being engaging in the exact same posturing. A beautiful video demonstration can/will do wonders for Futtech.<br />
-   The Drone-in-a-box idea is all about Drone technology being packaged in a couple minutes long video demonstrating how the product provides each user with value (Financial and productivity gains, Time management, reduced effort; Cinematographic version of Alex Homorzi's value equation).
+   The Drone-in-a-box idea is all about Drone technology being packaged in a couple-minute-long video demonstrating how the product provides each user with value (Financial and productivity gains, Time management, reduced effort; Cinematographic version of Alex Homorzi's value equation).
 
 ## Idea 25 - Nov. 29, 2025
 
@@ -322,7 +322,7 @@ Created: {{ 2025-10-07 }}
    I have now encountered a set of websites using YouTube embeds of their video demonstrating usage of their products and am tempted to label that approach the 'industry standard'.<br />
 
 🔹 **Knowledge extraction, possible adaptation / experiment:** 
-   The transition between scenes in the exosquelette video demonstration was joyful to watch, especially the scene where an avatar displays the range the motion before we see an actual human being engaging in the exact same posturing. A beautiful video demonstration can/will do wonders for Futtech.<br />
-   The Drone-in-a-box idea is all about Drone technology being packaged in a couple minutes long video demonstrating how the product provides each user with value (Financial and productivity gains, Time management, reduced effort; Cinematographic version of Alex Homorzi's value equation).
+   Futtech's video demonstration will require me to have a proper mic, so as to sort the audio quality for the French and English videos I have now elected to host on YouTube and embeds on Futtech's landing page.<br />
+   Gotta buy a headset that comes with a microphone. Gotta invest in a high quality headset.
 
 ---
