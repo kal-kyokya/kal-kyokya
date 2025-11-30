@@ -60,8 +60,8 @@ Created: {{ 2025-05-31 }}
 
 ---
 
-## 📅 <b>Coming Up Next Week</b> - 24th to 30th November 2025
-- [ ] Hit the, agreed upon, weekly goal of 90 innovation research entries.
+## 📅 <b>Coming Up Next Week</b> - 1st to 7th December 2025
+- [ ] Hit a weekly goal of 75 innovation research entries.
 - [ ] Ensure to spend 30 minutes, before midnight, [every night](https://www.youtube.com/shorts/mQcTJdyTFtA) rehearsing the piano.
 - [ ] Be done with dream analysis come 9AM.
 
