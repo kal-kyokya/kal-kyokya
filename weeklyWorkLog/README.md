@@ -22,6 +22,69 @@ Created: {{ 2025-05-31 }}
 
 ---
 
+## Week 27 — Sunday, 30th November 2025
+
+### 🌱 **What Was Worked On**
+
+- **Projects**
+	1. **Recherche pour une plateforme d'innovation mondiale**: 'For the eight week running' ; In order to earn what would cover Futtech's costs of operation, I submitted 48 entries (worldwide, monetizable, novel ideas having emerged over the last 12 months).
+	2. **Researcher's Notebook**: Having noticed the amount of exposure I get, via my research assistant role in the previously mentioned job, I ensured to fuel my [Researcher's Notebook](https://github.com/kal-kyokya/kal-kyokya/blob/main/upWork/Chercheur%20pour%20une%20plateforme%20d'innovation%20mondiale/Researcher%20Notebook.md), a side-project through which I extract knowledge from the world's ingenuity.
+
+- **Learning & Growth**
+	1. Although active since Monday, the first substantial bit I choose to note down here is from Tuesday, as I was requested by my current client to design a template that packages the research I complete on a daily into a specific format including colors, word count, layouts, images and interestingly [emojis](https://emojipedia.org/memo).
+	2. Fast forward Thursday, in an attempt to ensure I don't go too long without tending to Futtech's deployment, I learned of ['DJANGO_SETTINGS_MODULE'](https://www.google.com/search?q=DJANGO_SETTINGS_MODULE) as an environment variable and its ability to set up the project's configuration necessary for execution of Python, Django code in a specific context. An interesting one, that was.
+	3. Come Friday, I had my first record of my interaction with the '--dry-run' command option, a useful feature allowing developers to execute commands for demonstration purposes before any actual need for the said command. My interaction was with [certbot renew --dry-run](https://www.google.com/search?q=cerbot+renew+dry+run) first, and followed with the 'rsrync' command over the weekend while building the React-Vite frontend.
+	4. Saturday morning, I had an exploration of my Linode Ubuntu VPS as a result of seeking to ['check my Ubuntu version'](https://www.google.com/search?q=check+ubuntu+version).
+	5. As mentioned 2 points prior, I engaged with the ['rsync command in Linux'](https://www.google.com/search?q=rsync+command+in+linux) on Saturday and through it paid more attention to the '--dry-run' command option.
+	6. Saturday, super late at night, as I added an entry to my [Researcher's Notebook](https://github.com/kal-kyokya/kal-kyokya/blob/main/upWork/Chercheur%20pour%20une%20plateforme%20d'innovation%20mondiale/Researcher%20Notebook.md), I had an opportunity to notice myself having developed a technical eye and thinking capacity as I reflected on what [Futtech](https://www.futtech.kalkyokya.tech) should have as landing page given the inspiration I got from a drone company named [Brinc that uses Drones as First Responders](https://brincdrones.com/drone-as-first-responder/) and the thought, that came to me in the weeks leading to that moment, according to which I should add a video demonstrating what Futtech is all about on the landing page.
+
+- **Job hunting**
+	- Still on that ; Learned that once one secures a job, especially one that picks his interest and demands time, effort and careful attention, he stops hunting. ```Just realized this also applies to romance```, lol.
+
+### 🏆 <b>3 Wins and/or Achievements</b>
+1. Having Futtech-Django deployed and accessible despite the required job needed to have it functional is a win from which I build towards Futtech's vision.
+2. I stood my ground many a time this week and realized just important it is to know how to say No, whether in the worlplace or social life; settings boundaries as early as one gains awareness of his obliviousness and knowing how to negociate and renegociate the terms and conditions of a given work or social contract.
+3. Me and my Dad both being putting in the hours so as to provide for our people. InshaAllah, I will take over and do well when the time comes.
+
+### 🔭 <b>3 Fails & Lessons Learned</b>
+1. **Failure:** Careful trying to rescue someone who wants to be rescued.<br />
+**Lesson:** Unintentionally giving away my phone number while using M-Pesa to assist someone in need as resulted in a number of avoidable spams in the form of phone calls and messages, gotta rethink my approach to the Truth of my Ethos.
+2. **Failure:** Midnight Bedtime.<br />
+**Lesson:** Once again; I did better than last week but one, we are on the ascend and, InshaAllah, next week will ascertain the new norm.
+3. **Failure:** Second week running; Inconsistent Piano sessions.<br />
+**Lesson:** The days are getting shorter, a priviledge to have that happen, a need for me to abide exceptionally well to my ethos and make plans so as to ensure I give to Caesar what belongs to Caesar.
+
+### 🌟 <b>Highlights of the Week</b>
+- <b>Memorable moment / breakthrough / proud event</b>: A breakthrough ; The realization of the importance of recognizing as early as possible when to say No, reinforce boundaries and negociate/renegociate an contract one is bound to.
+- <b>Quote, inspiration, or personal reflection</b>: ```It's not About You```. People have lives for which I don't know all the details, lives for which I don't want to know the details. My duty and responsability is to not mislead anyone into thinking I am responsible for their happiness and ensure I cultivate the traits of an individual capable of contributing massively to people's lives without overly taking charge of their being, and risk refraining their Free will, their ability to choose.
+
+---
+
+## 📅 <b>Coming Up Next Week</b> - 24th to 30th November 2025
+- [ ] Hit the, agreed upon, weekly goal of 90 innovation research entries.
+- [ ] Ensure to spend 30 minutes, before midnight, [every night](https://www.youtube.com/shorts/mQcTJdyTFtA) rehearsing the piano.
+- [ ] Be done with dream analysis come 9AM.
+
+---
+
+## 📈 <b>Meta</b>
+| Metric | This Week |
+| ------ | --------- |
+| Submissions | 38 |
+| Study Hours | N/A |
+| GitHub Commits | 31 |
+| Sleep Avg (hrs) | 7 |
+| Total Coding Time (hrs) | 4 |
+| Training Sessions (Football) | 3 |
+
+---
+
+> _“Do not try to rescue someone who does not want to be rescued, and be very careful about rescuing someone who does.” — Jordan B. Peterson, Rules for Life._
+
+<!-- Let's update the log every Sunday. Let's Go! -->
+
+---
+
 ## Week 26 — Sunday, 23rd November 2025
 
 ### 🌱 **What Was Worked On**
