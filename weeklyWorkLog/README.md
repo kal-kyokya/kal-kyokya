@@ -79,7 +79,7 @@ Created: {{ 2025-05-31 }}
 
 ---
 
-> _“Do not try to rescue someone who does not want to be rescued, and be very careful about rescuing someone who does.” — Jordan B. Peterson, Rules for Life._
+> _“Once you know what it is in life that you want to do, then the world basically becomes your library. Everything you view, you can view from that perspective, which makes everything a learning asset for you” — Kobe Bryant._
 
 <!-- Let's update the log every Sunday. Let's Go! -->
 
