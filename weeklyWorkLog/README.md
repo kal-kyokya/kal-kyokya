@@ -55,8 +55,8 @@ Created: {{ 2025-05-31 }}
 **Lesson:** The whole of last week, I wrote zero lines of code and justified that to myself by whispering in my head that 2.4M takes precedence and is serving Futtech in the long-run. I gotta fix that up this week and ensure 2 hours a day on average for 6 days.
 
 ### 🌟 <b>Highlights of the Week</b>
-- <b>Memorable moment / breakthrough / proud event</b>: A breakthrough ; The realization of the importance of recognizing as early as possible when to say No, reinforce boundaries and negociate/renegociate an contract one is bound to.
-- <b>Quote, inspiration, or personal reflection</b>: ```It's not About You```. People have lives for which I don't know all the details, lives for which I don't want to know the details. My duty and responsability is to not mislead anyone into thinking I am responsible for their happiness and ensure I cultivate the traits of an individual capable of contributing massively to people's lives without overly taking charge of their being, and risk refraining their Free will, their ability to choose.
+- <b>Memorable moment / breakthrough / proud event</b>: Like Kobe discussed the idea of having an Aim and having "reality" reveal itself differently to one as a result of a fully committed honest attempt at reaching it, Futtech, as my way of being a Stoic footballer and Ihsan Software Engineer, permeated the week's live autopsies and information gathering through interaction with life, AlhamduliAllah.
+- <b>Quote, inspiration, or personal reflection</b>: ```Selective Ignorance```. A brother, through the Islamic idea of "gaze control" from sinful desires (especially for men), has realized that beauty, although desirable for the eye, needs to be refrained from fully being transmitted to the mind, one needs to be content with seeing without looking, focusing one's attention on the Aim that guides the moment's investment of neural energy.
 
 ---
 
