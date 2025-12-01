@@ -47,12 +47,12 @@ Created: {{ 2025-05-31 }}
 3. I was engage in a 60 minutes+ exchange of ideas over the weekend and saw myself "listen to a brother hard enough so as to incite him to share knowledge I needed to be made aware of". Active listening, a tool in my Social skills toolkit.
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
-1. **Failure:** Careful trying to rescue someone who wants to be rescued.<br />
-**Lesson:** Unintentionally giving away my phone number while using M-Pesa to assist someone in need as resulted in a number of avoidable spams in the form of phone calls and messages, gotta rethink my approach to the Truth of my Ethos.
-2. **Failure:** Midnight Bedtime.<br />
-**Lesson:** Once again; I did better than last week but one, we are on the ascend and, InshaAllah, next week will ascertain the new norm.
-3. **Failure:** Second week running; Inconsistent Piano sessions.<br />
-**Lesson:** The days are getting shorter, a priviledge to have that happen, a need for me to abide exceptionally well to my ethos and make plans so as to ensure I give to Caesar what belongs to Caesar.
+1. **Failure:** Lies and deception.<br />
+**Lesson:** When it comes to money-making deals and opportunities, I have last week "presented reality" in a way that maximized my return while providing the other party with what they have grown used expecting of me. For a man commited to truth in all area of life, moral grey areas around trades leave me questioning myself.
+2. **Failure:** 9AM out of bed after midnight bedtime.<br />
+**Lesson:** "Complacency, is the worst trait to have" - Adele, Woman like me. I have habituated to the idea of extending dream analysis indefinetely to the point of delaying wake by 2 hours, as of now.
+3. **Failure:** Futtech, No code.<br />
+**Lesson:** The whole of last week, I wrote zero lines of code and justified that to myself by whispering in my head that 2.4M takes precedence and is serving Futtech in the long-run. I gotta fix that up this week and ensure 2 hours a day on average for 6 days.
 
 ### 🌟 <b>Highlights of the Week</b>
 - <b>Memorable moment / breakthrough / proud event</b>: A breakthrough ; The realization of the importance of recognizing as early as possible when to say No, reinforce boundaries and negociate/renegociate an contract one is bound to.
