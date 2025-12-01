@@ -42,9 +42,9 @@ Created: {{ 2025-05-31 }}
 	- Still on that ; Learned that once one secures a job, especially one that picks his interest and demands time, effort and careful attention, he stops hunting. ```Just realized this also applies to romance```, lol.
 
 ### 🏆 <b>3 Wins and/or Achievements</b>
-1. Having Futtech-Django deployed and accessible despite the required job needed to have it functional is a win from which I build towards Futtech's vision.
-2. I stood my ground many a time this week and realized just important it is to know how to say No, whether in the worlplace or social life; settings boundaries as early as one gains awareness of his obliviousness and knowing how to negociate and renegociate the terms and conditions of a given work or social contract.
-3. Me and my Dad both being putting in the hours so as to provide for our people. InshaAllah, I will take over and do well when the time comes.
+1. "Lookk good, do good, be good" ; The looking part is one I have access to, in the sense that I have seen myself dressing up for a flower-delivery gig I was assigned over the weekend and was reminded of how much planning and organizing I have invested in my appearance.
+2. 8 weeks, basically 2 months of having 2.4M handled week in and week out. I used to pray for days like this, gotta be grateful, humbled and focus-prone due for this, AlhamduliAllah.
+3. I was engage in a 60 minutes+ exchange of ideas over the weekend and saw myself "listen to a brother hard enough so as to incite him to share knowledge I needed to be made aware of". Active listening, a tool in my Social skills toolkit.
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
 1. **Failure:** Careful trying to rescue someone who wants to be rescued.<br />
@@ -107,7 +107,7 @@ Created: {{ 2025-05-31 }}
 
 ### 🏆 <b>3 Wins and/or Achievements</b>
 1. Having Futtech-Django deployed and accessible despite the required job needed to have it functional is a win from which I build towards Futtech's vision.
-2. I stood my ground many a time this week and realized just important it is to know how to say No, whether in the worlplace or social life; settings boundaries as early as one gains awareness of his obliviousness and knowing how to negociate and renegociate the terms and conditions of a given work or social contract.
+2. I stood my ground many a time this week and realized just how important it is to know how to say 'No', whether in the workplace or social life; settings boundaries as early as one gains awareness of his obliviousness and knowing how to negociate and renegociate the terms and conditions of a given work or social contract.
 3. Me and my Dad both being putting in the hours so as to provide for our people. InshaAllah, I will take over and do well when the time comes.
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
