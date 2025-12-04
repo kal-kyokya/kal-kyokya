@@ -330,11 +330,8 @@ Created: {{ 2025-10-07 }}
 🔹 **Concept names and links:**
    [SCREEDSAVER PRO PLUS – laser screed autopropulsé](https://ligchine.com/products/screedsaver-pro-plus/), [Video Demonstration](https://youtu.be/kTl6Nkh4Ljg)<br />
 
-🔹 **Why it matters to Futtech:** 
-   I have now encountered a set of websites using YouTube embeds of their video demonstrating usage of their products and am tempted to label that approach the 'industry standard'.<br />
+🔹 **Why it matters to Eviot:** 
+   Eviot is the umbrella under which 'any automatically operated machine that replaces human efforts' project I seek to work on is to be found.<br />
 
-🔹 **Knowledge extraction, possible adaptation / experiment:** 
-   Futtech's video demonstration will require me to have a proper mic, so as to sort the audio quality for the French and English videos I have now elected to host on YouTube and embeds on Futtech's landing page.<br />
-   Gotta buy a headset that comes with a microphone. Gotta invest in a high quality headset.
 
 ---
