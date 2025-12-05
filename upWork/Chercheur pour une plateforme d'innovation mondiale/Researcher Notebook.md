@@ -335,7 +335,7 @@ Created: {{ 2025-10-07 }}
 
 🔹 **Knowledge extraction, possible adaptation / experiment:** 
    The idea of building a drone for myself is moving away from Futtech and towards Eviot, given the prospected DJI Mini 3 Pro Futtech's CapEx and the description in the previous section of what Eviot is.<br />
-   There is a scene in the video demo where the ScreedSaver transitions from planted in the ground to using its wheels to move about. The engineering of parts enabling the system to engage in such mechanisms and the fact that I could clearly see the weight of the machine being moved from the lifted pillars to the wheels gripped my attention and had me desiring to work on a project that would captivate attention in such a manner. Gotta think of a project now. An autonomous vehicle one would be along the same lines.
+   There is a scene in the video demo where the ScreedSaver transitions from planted in the ground to using its wheels to move about. The engineering of parts enabling the system to engage in such mechanisms and the fact that I could clearly see the weight of the machine being moved from the lifted pillars to the wheels gripped my attention and had me desiring to work on a project that would captivate attention in such a manner. Gotta think of a project now. An autonomous vehicle one, would be along the same lines.
 
 ## Idea 27 - Dec. 5, 2025
 
@@ -346,7 +346,8 @@ Created: {{ 2025-10-07 }}
    Giving life to both porject's website is a must-have feature to integrate over time.<br />
 
 🔹 **Knowledge extraction, possible adaptation / experiment:** 
-   The idea of building a drone for myself is moving away from Futtech and towards Eviot, given the prospected DJI Mini 3 Pro Futtech's CapEx and the description in the previous section of what Eviot is.<br />
-   There is a scene in the video demo where the ScreedSaver transitions from planted in the ground to using its wheels to move about. The engineering of parts enabling the system to engage in such mechanisms and the fact that I could clearly see the weight of the machine being moved from the lifted pillars to the wheels gripped my attention and had me desiring to work on a project that would captivate attention in such a manner. Gotta think of a project now. An autonomous vehicle one would be along the same lines.
+   The way in which the mouse is animated to split itself into 3 distinct parts moving at different speeds and tracing/tracking the user's moving across the viewport did something to me. Impressed, surprised, pleased, intrigued, inspired?.<br />
+   I thought Plato's Tripartite Soul (Logos-Ethos-Pathos), Pathos leading the way, Ethos following and Logos closing the loop. The Truth comes last, though it's not the least.<br />
+   I mean, getting to philosophize in the middle of "work" truly is an effect I would love to have on people who would visit Futtech. I want my creations to have depth. The kind of depth that pierces people's soul and brings out thoughts, feelings, bodily sensations and has their intuition inform them of the beauty, meaning, value, time and effort encapsulated in my work, Ameen.
 
 ---
