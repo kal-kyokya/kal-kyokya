@@ -337,4 +337,16 @@ Created: {{ 2025-10-07 }}
    The idea of building a drone for myself is moving away from Futtech and towards Eviot, given the prospected DJI Mini 3 Pro Futtech's CapEx and the description in the previous section of what Eviot is.<br />
    There is a scene in the video demo where the ScreedSaver transitions from planted in the ground to using its wheels to move about. The engineering of parts enabling the system to engage in such mechanisms and the fact that I could clearly see the weight of the machine being moved from the lifted pillars to the wheels gripped my attention and had me desiring to work on a project that would captivate attention in such a manner. Gotta think of a project now. An autonomous vehicle one would be along the same lines.
 
+## Idea 27 - Dec. 5, 2025
+
+🔹 **Concept names and links:**
+   [ADN Group – Recyclage multi-industries de composites – seconde vie pour panneaux et éléments bâtiment](https://adngroup-solutions.com)<br />
+
+🔹 **Why it matters to Futtech & Eviot:** 
+   .<br />
+
+🔹 **Knowledge extraction, possible adaptation / experiment:** 
+   The idea of building a drone for myself is moving away from Futtech and towards Eviot, given the prospected DJI Mini 3 Pro Futtech's CapEx and the description in the previous section of what Eviot is.<br />
+   There is a scene in the video demo where the ScreedSaver transitions from planted in the ground to using its wheels to move about. The engineering of parts enabling the system to engage in such mechanisms and the fact that I could clearly see the weight of the machine being moved from the lifted pillars to the wheels gripped my attention and had me desiring to work on a project that would captivate attention in such a manner. Gotta think of a project now. An autonomous vehicle one would be along the same lines.
+
 ---
