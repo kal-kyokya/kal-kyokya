@@ -71,16 +71,16 @@ Created: {{ 2025-05-31 }}
 ## 📈 <b>Meta</b>
 | Metric | This Week |
 | ------ | --------- |
-| Submissions | 48 |
-| Study Hours | N/A |
-| GitHub Commits | 12 |
+| Submissions | 31 |
+| Study Hours | 4 |
+| GitHub Commits | 31 |
 | Sleep Avg (hrs) | 7 |
-| Total Coding Time (hrs) | N/A |
+| Total Coding Time (hrs) | 2 |
 | Training Sessions (Football) | 3 |
 
 ---
 
-> _“Once you know what it is in life that you want to do, then the world basically becomes your library. Everything you view, you can view from that perspective, which makes everything a learning asset for you” — Kobe Bryant._
+> _“” — ._
 
 <!-- Let's update the log every Sunday. Let's Go! -->
 
