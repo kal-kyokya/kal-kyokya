@@ -27,7 +27,7 @@ Created: {{ 2025-05-31 }}
 ### 🌱 **What Was Worked On**
 
 - **Projects**
-	1. **Recherche pour une plateforme d'innovation mondiale**: 'For the eight week running' ; In order to earn what would cover Futtech's costs of operation, I submitted 31 entries (worldwide, monetizable, novel ideas having emerged over the last 12 months).
+	1. **Recherche pour une plateforme d'innovation mondiale**: 'For the nineth week running' ; In order to earn what would cover Futtech's costs of operation, I submitted 31 entries (worldwide, monetizable, novel ideas having emerged over the last 12 months).
 	2. **Futtech Debugging**: Having deployed Futtech, and attempted to go through the User Journey, I have found myself recalibrating everything and resolving issues that obstruct the journey, with this week's efforts aimed at the User Login (after successfully handling User Registration).
 	3. **Researcher's Notebook**: Having noticed the amount of exposure I get, via my research assistant role in the previously mentioned job, I ensured to fuel my [Researcher's Notebook](https://github.com/kal-kyokya/kal-kyokya/blob/main/upWork/Chercheur%20pour%20une%20plateforme%20d'innovation%20mondiale/Researcher%20Notebook.md), a side-project through which I extract knowledge from the world's ingenuity.
 
@@ -43,9 +43,9 @@ Created: {{ 2025-05-31 }}
 	- Still on that ; Learned that once one secures a job, especially one that picks his interest and demands time, effort and careful attention, he stops hunting. ```Just realized this also applies to romance```, lol.
 
 ### 🏆 <b>3 Wins and/or Achievements</b>
-1. "Lookk good, do good, be good" ; The looking part is one I have access to, in the sense that I have seen myself dressing up for a flower-delivery gig I was assigned over the weekend and was reminded of how much planning and organizing I have invested in my appearance.
-2. 8 weeks, basically 2 months of having 2.4M handled week in and week out. I used to pray for days like this, gotta be grateful, humbled and focus-prone due for this, AlhamduliAllah.
-3. I was engage in a 60 minutes+ exchange of ideas over the weekend and saw myself "listen to a brother hard enough so as to incite him to share knowledge I needed to be made aware of". Active listening, a tool in my Social skills toolkit.
+1. "Self-Mastery, Observation, Communication": Observation and communication are getting easier, and I noticed that a couple times this week. Well, AlhamduliAllah, let's keep showing up and getting the job done.
+2. 9 weeks now, over 2 months of having 2.4M handled week in and week out. I used to pray for days like this, gotta be grateful, humbled and focus-prone for this, AlhamduliAllah.
+3. Book read + Piano practice was much more consistent this week, I made progress and learned a lot about my relations with knowledge acquisition as well as the character traits most desirable by the ideal, for the ideal, DLHI.
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
 1. **Failure:** Lies and deception.<br />
@@ -106,9 +106,9 @@ Created: {{ 2025-05-31 }}
 	- Still on that ; Learned that once one secures a job, especially one that picks his interest and demands time, effort and careful attention, he stops hunting. ```Just realized this also applies to romance```, lol.
 
 ### 🏆 <b>3 Wins and/or Achievements</b>
-1. "Lookk good, do good, be good" ; The looking part is one I have access to, in the sense that I have seen myself dressing up for a flower-delivery gig I was assigned over the weekend and was reminded of how much planning and organizing I have invested in my appearance.
-2. 8 weeks, basically 2 months of having 2.4M handled week in and week out. I used to pray for days like this, gotta be grateful, humbled and focus-prone due for this, AlhamduliAllah.
-3. I was engage in a 60 minutes+ exchange of ideas over the weekend and saw myself "listen to a brother hard enough so as to incite him to share knowledge I needed to be made aware of". Active listening, a tool in my Social skills toolkit.
+1. "Look good, do good, be good" ; The looking part is one I have access to, in the sense that I have seen myself dressing up for a flower-delivery gig I was assigned over the weekend and was reminded of how much planning and organizing I have invested in my appearance.
+2. 8 weeks, basically 2 months of having 2.4M handled week in and week out. I used to pray for days like this, gotta be grateful, humbled and focus-prone for this, AlhamduliAllah.
+3. I was engaged in a 60 minutes+ exchange of ideas over the weekend and saw myself "listen to a brother hard enough so as to incite him to share knowledge I needed to be made aware of". Active listening, a tool in my Social skills toolkit.
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
 1. **Failure:** Lies and deception.<br />
