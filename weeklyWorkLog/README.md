@@ -22,6 +22,70 @@ Created: {{ 2025-05-31 }}
 
 ---
 
+## Week 28 — Sunday, 7th December 2025
+
+### 🌱 **What Was Worked On**
+
+- **Projects**
+	1. **Recherche pour une plateforme d'innovation mondiale**: 'For the eight week running' ; In order to earn what would cover Futtech's costs of operation, I submitted 31 entries (worldwide, monetizable, novel ideas having emerged over the last 12 months).
+	2. **Futtech Debugging**: Having deployed Futtech, and attempted to go through the User Journey, I have found myself recalibrating everything and resolving issues that obstruct the journey, with this week's efforts aimed at the User Login (after successfully handling User Registration).
+	3. **Researcher's Notebook**: Having noticed the amount of exposure I get, via my research assistant role in the previously mentioned job, I ensured to fuel my [Researcher's Notebook](https://github.com/kal-kyokya/kal-kyokya/blob/main/upWork/Chercheur%20pour%20une%20plateforme%20d'innovation%20mondiale/Researcher%20Notebook.md), a side-project through which I extract knowledge from the world's ingenuity.
+
+- **Learning & Growth**
+	1. Monday while working, I accessed a website whose response status returned an [HTTP Error 522](https://www.google.com/search?q=http+error+522), which I further investigated and led to my exposure to the idea of errors associated with erroneous [Cloudfare DNS](https://www.google.com/search?q=cloudflare+dns) configurations and failure for computers around the world to locate your server and engage in Request-Response Cycles.
+	2. Tuesday's french word of the day was ['Diurne'](https://www.google.com/search?q=diurne), adjective describing that which is associated with daytime.
+	3. The english word of that same day was ['Unencumbered'](https://www.google.com/search?q=unencumbered+meaning), word for which I knew the meaning through its french equivalent ; the opposite of 'encombré'.
+	4. Fast forward Friday, I was once again exposed to the idea of [Value added](https://www.google.com/search?q=value+added) ventures and reminded myself of what are few examples of such business and how Futtech could be defined as a value added digital product.
+	5. Friday's vocabulary enhancing finding was that of the meaning of [Hostility](https://www.google.com/search?q=hostility+meaning), a word I have been exposed to before, but for which I had not taken the time to read the definition and gain awareness of the synonyms. It helped me understand myself better.
+	6. Saturday, late night, I got to spend 30 minutes+ on YouTube investigating ```Dji Mini Pros' Mastershots features``` and subscribed to Dji Tutorials in the process. The concepts of a mastershot could really help me get Futtech's demonstration video facilitated, here is one of the [videos watched](https://www.youtube.com/watch?v=wo7uHpjEYuE&list=TLPQMjkxMTIwMjV-iGu7SnX4Ug&index=3).
+
+- **Job hunting**
+	- Still on that ; Learned that once one secures a job, especially one that picks his interest and demands time, effort and careful attention, he stops hunting. ```Just realized this also applies to romance```, lol.
+
+### 🏆 <b>3 Wins and/or Achievements</b>
+1. "Lookk good, do good, be good" ; The looking part is one I have access to, in the sense that I have seen myself dressing up for a flower-delivery gig I was assigned over the weekend and was reminded of how much planning and organizing I have invested in my appearance.
+2. 8 weeks, basically 2 months of having 2.4M handled week in and week out. I used to pray for days like this, gotta be grateful, humbled and focus-prone due for this, AlhamduliAllah.
+3. I was engage in a 60 minutes+ exchange of ideas over the weekend and saw myself "listen to a brother hard enough so as to incite him to share knowledge I needed to be made aware of". Active listening, a tool in my Social skills toolkit.
+
+### 🔭 <b>3 Fails & Lessons Learned</b>
+1. **Failure:** Lies and deception.<br />
+**Lesson:** When it comes to money-making deals and opportunities, I have last week "presented reality" in a way that maximized my return while providing the other party with what they have grown used expecting of me. For a man commited to truth in all area of life, moral grey areas around trades leave me questioning myself.
+2. **Failure:** 9AM out of bed after midnight bedtime.<br />
+**Lesson:** "Complacency, is the worst trait to have" - Adele, Woman like me. I have habituated to the idea of extending dream analysis indefinetely to the point of delaying wake by 2 hours, as of now.
+3. **Failure:** Futtech, No code.<br />
+**Lesson:** The whole of last week, I wrote zero lines of code and justified that to myself by whispering in my head that 2.4M takes precedence and is serving Futtech in the long-run. I gotta fix that up this week and ensure 2 hours a day on average for 6 days.
+
+### 🌟 <b>Highlights of the Week</b>
+- <b>Memorable moment / breakthrough / proud event</b>: Like Kobe discussed the idea of having an Aim and having "reality" reveal itself differently to one as a result of a fully committed honest attempt at reaching it, Futtech, as my way of being a Stoic footballer and Ihsan Software Engineer, permeated the week's live autopsies and information gathering through interaction with life, AlhamduliAllah.
+- <b>Quote, inspiration, or personal reflection</b>: ```Selective Ignorance```. A brother, through the Islamic idea of "gaze control" from sinful desires (especially for men), has realized that beauty, although desirable for the eye, needs to be refrained from fully being transmitted to the mind, one needs to be content with seeing without looking, focusing one's attention on the Aim that guides the moment's investment of neural energy.
+
+---
+
+## 📅 <b>Coming Up Next Week</b> - 1st to 7th December 2025
+- [ ] Hit a weekly goal of 75 innovation research entries.
+- [ ] Ensure to spend 30 minutes, before midnight, [every night](https://www.youtube.com/shorts/mQcTJdyTFtA) rehearsing the piano.
+- [ ] Be done with dream analysis come 9AM.
+
+---
+
+## 📈 <b>Meta</b>
+| Metric | This Week |
+| ------ | --------- |
+| Submissions | 48 |
+| Study Hours | N/A |
+| GitHub Commits | 12 |
+| Sleep Avg (hrs) | 7 |
+| Total Coding Time (hrs) | N/A |
+| Training Sessions (Football) | 3 |
+
+---
+
+> _“Once you know what it is in life that you want to do, then the world basically becomes your library. Everything you view, you can view from that perspective, which makes everything a learning asset for you” — Kobe Bryant._
+
+<!-- Let's update the log every Sunday. Let's Go! -->
+
+---
+
 ## Week 27 — Sunday, 30th November 2025
 
 ### 🌱 **What Was Worked On**
