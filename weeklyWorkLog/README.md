@@ -48,12 +48,12 @@ Created: {{ 2025-05-31 }}
 3. Book read + Piano practice was much more consistent this week, I made progress and learned a lot about my relations with knowledge acquisition as well as the character traits most desirable by the ideal, for the ideal, DLHI.
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
-1. **Failure:** Lies and deception.<br />
-**Lesson:** When it comes to money-making deals and opportunities, I have last week "presented reality" in a way that maximized my return while providing the other party with what they have grown used expecting of me. For a man commited to truth in all area of life, moral grey areas around trades leave me questioning myself.
-2. **Failure:** 9AM out of bed after midnight bedtime.<br />
-**Lesson:** "Complacency, is the worst trait to have" - Adele, Woman like me. I have habituated to the idea of extending dream analysis indefinetely to the point of delaying wake by 2 hours, as of now.
-3. **Failure:** Futtech, No code.<br />
-**Lesson:** The whole of last week, I wrote zero lines of code and justified that to myself by whispering in my head that 2.4M takes precedence and is serving Futtech in the long-run. I gotta fix that up this week and ensure 2 hours a day on average for 6 days.
+1. **Failure:** Subpar training sessions.<br />
+**Lesson:** Partly due to my late wake, found myself not being in a position to have home-sessions of equal duration to what my average of 1h30'. Simply gotta get sh*t together and be up early.
+2. **Failure:** Still on that; 9AM out of bed after midnight bedtime.<br />
+**Lesson:** Gotta renegotiate with myself and if 9 AM is the alarm I will need to start at in order to be up and running by 10 AM sharp, let it be.
+3. **Failure:** Sticky Note Daily Routine.<br />
+**Lesson:** 14th April 2025, 16:54, I designed the ideal day, a day that DLHI eats up on the clock, and haven't done a good job living up to that. The plan is already there, all that is required is for me to execute.
 
 ### 🌟 <b>Highlights of the Week</b>
 - <b>Memorable moment / breakthrough / proud event</b>: Like Kobe discussed the idea of having an Aim and having "reality" reveal itself differently to one as a result of a fully committed honest attempt at reaching it, Futtech, as my way of being a Stoic footballer and Ihsan Software Engineer, permeated the week's live autopsies and information gathering through interaction with life, AlhamduliAllah.
