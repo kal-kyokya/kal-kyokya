@@ -56,8 +56,8 @@ Created: {{ 2025-05-31 }}
 **Lesson:** 14th April 2025, 16:54, I designed the ideal day, a day that DLHI eats up on the clock, and haven't done a good job living up to that. The plan is already there, all that is required is for me to execute.
 
 ### 🌟 <b>Highlights of the Week</b>
-- <b>Memorable moment / breakthrough / proud event</b>: Like Kobe discussed the idea of having an Aim and having "reality" reveal itself differently to one as a result of a fully committed honest attempt at reaching it, Futtech, as my way of being a Stoic footballer and Ihsan Software Engineer, permeated the week's live autopsies and information gathering through interaction with life, AlhamduliAllah.
-- <b>Quote, inspiration, or personal reflection</b>: ```Selective Ignorance```. A brother, through the Islamic idea of "gaze control" from sinful desires (especially for men), has realized that beauty, although desirable for the eye, needs to be refrained from fully being transmitted to the mind, one needs to be content with seeing without looking, focusing one's attention on the Aim that guides the moment's investment of neural energy.
+- <b>Memorable moment / breakthrough / proud event</b>: ACSS, Authority-Comfort-Skills-Social Skills; for one who thinks of himself introverted, the ease with which social interaction have flown this current week and the fluidity with which he has navigated each situation serve as testament to the Ethos in place, its detachment from Pathos and service to Logos.
+- <b>Quote, inspiration, or personal reflection</b>: ```The Pharisee in the Bible```; From Jordan B. Peterson's 2025 podcast with Joe Rogan - #2308, Pharisee are hypocrites, enemies of Christ, user of the name of God in vain, seeker of unearned approval, acceptance, significance, consideration, praises, reputation, honor, glory, status. Liars who would rather be seen doing the right thing than not. Dancers and not performers, we don't want that for ourself, DLHI is the opposite.
 
 ---
 
@@ -120,7 +120,7 @@ Created: {{ 2025-05-31 }}
 
 ### 🌟 <b>Highlights of the Week</b>
 - <b>Memorable moment / breakthrough / proud event</b>: Like Kobe discussed the idea of having an Aim and having "reality" reveal itself differently to one as a result of a fully committed honest attempt at reaching it, Futtech, as my way of being a Stoic footballer and Ihsan Software Engineer, permeated the week's live autopsies and information gathering through interaction with life, AlhamduliAllah.
-- <b>Quote, inspiration, or personal reflection</b>: ```Selective Ignorance```. A brother, through the Islamic idea of "gaze control" from sinful desires (especially for men), has realized that beauty, although desirable for the eye, needs to be refrained from fully being transmitted to the mind, one needs to be content with seeing without looking, focusing one's attention on the Aim that guides the moment's investment of neural energy.
+- <b>Quote, inspiration, or personal reflection</b>: ```Selective Ignorance```. A brother, through the Islamic idea of "gaze control" from sinful desires (especially from men looking at women), has realized that beauty, although desirable for the eye, needs to be refrained from fully being transmitted to the mind, one needs to be content with seeing without looking, focusing one's attention on the Aim that guides the moment's investment of neural energy.
 
 ---
 
