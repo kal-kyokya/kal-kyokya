@@ -355,8 +355,8 @@ Created: {{ 2025-10-07 }}
 🔹 **Concept names and links:**
    [Barko RVT (Remote Viewing Tower) - Vidéosurveillance rurale](https://www.barko.com.au/barko-remote-viewing-tower/), [Video Demonstration](https://vimeo.com/609446023?fl=pl&fe=cm)<br />
 
-🔹 **Why it matters to Futtech & Eviot:** 
-   Giving life to both porject's website is a must-have feature to integrate over time.<br />
+🔹 **Why it matters to Eviot:** 
+   "Rurale", village, ushago, countryside, kijiji, etc. I looked at the cow picture on Barko's website and thought of building a system composed of a camera, a solar panel and 24/7 surveillance video transmission for a field somewhere in the village. That's IoT, that's Eviot.<br />
 
 🔹 **Knowledge extraction, possible adaptation / experiment:** 
    The way in which the mouse is animated to split itself into 3 distinct parts moving at different speeds and tracing/tracking the user's moving across the viewport did something to me. Impressed, surprised, pleased, intrigued, inspired?.<br />
