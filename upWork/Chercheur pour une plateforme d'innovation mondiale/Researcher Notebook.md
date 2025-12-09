@@ -346,9 +346,9 @@ Created: {{ 2025-10-07 }}
    Giving life to both porject's website is a must-have feature to integrate over time.<br />
 
 🔹 **Knowledge extraction, possible adaptation / experiment:** 
-   The way in which the mouse is animated to split itself into 3 distinct parts moving at different speeds and tracing/tracking the user's moving across the viewport did something to me. Impressed, surprised, pleased, intrigued, inspired?.<br />
-   I thought Plato's Tripartite Soul (Logos-Ethos-Pathos), Pathos leading the way, Ethos following and Logos closing the loop. The Truth comes last, though it's not the least.<br />
-   I mean, getting to philosophize in the middle of "work" truly is an effect I would love to have on people who would visit Futtech. I want my creations to have depth. The kind of depth that pierces people's soul and brings out thoughts, feelings, bodily sensations and has their intuition inform them of the beauty, meaning, value, time and effort encapsulated in my work, Ameen.
+   The way in which the mouse is animated to split itself into 3 distinct parts, moving at different speeds, and tracing/tracking the user's moving across the viewport did something to me. Impressed, surprised, pleased, intrigued, inspired?.<br />
+   I thought: "Plato's Tripartite Soul" (Logos-Ethos-Pathos), Pathos leading the way, Ethos following and Logos closing the loop. The Truth comes last, though it's not the least.<br />
+   I mean, getting to philosophize in the middle of "work" truly is an effect I would love to have on the people who will visit Futtech. I want my creations to have depth. The kind of depth that pierces people's souls and brings out thoughts, feelings, bodily sensations and has their intuition inform them of the beauty, meaning, value, time and effort encapsulated in my work, Ameen.
 
 ## Idea 28 - Dec. 9, 2025
 
@@ -359,8 +359,8 @@ Created: {{ 2025-10-07 }}
    "Rurale", village, ushago, countryside, kijiji, etc. I looked at the cow picture on Barko's website and thought of building a system composed of a camera, a solar panel and 24/7 surveillance video transmission for a field somewhere in the village. That's IoT, that's Eviot.<br />
 
 🔹 **Knowledge extraction, possible adaptation / experiment:** 
-   The way in which the mouse is animated to split itself into 3 distinct parts moving at different speeds and tracing/tracking the user's moving across the viewport did something to me. Impressed, surprised, pleased, intrigued, inspired?.<br />
-   I thought Plato's Tripartite Soul (Logos-Ethos-Pathos), Pathos leading the way, Ethos following and Logos closing the loop. The Truth comes last, though it's not the least.<br />
-   I mean, getting to philosophize in the middle of "work" truly is an effect I would love to have on people who would visit Futtech. I want my creations to have depth. The kind of depth that pierces people's soul and brings out thoughts, feelings, bodily sensations and has their intuition inform them of the beauty, meaning, value, time and effort encapsulated in my work, Ameen.
+   I had not watched the video demonstration, until when I needed to record it here, and have noticed how they used a drone to capture the farm, as well as the product. That reinforces my desire to afford the time and money required to be a proficient drone pilot specialized in video recording.<br />
+   I think of the product to be relatively simple to put together, as well as a good opportunity to bring together my EEE background (Solar power bit, remote monitoring through electronic components) and video processing interest (Continuous streaming of a video data).<br />
+   I have heard of people being taken advantage of by their 'farm guards/managers', dubious harvesting result being what I have in mind. Such a system reduces the likelihood of theft, corrupt practices, provides eyes on someone 'treasure', which facilitate thinking when reflecting on what, how, why make changes and modification to the farm.
 
 ---
