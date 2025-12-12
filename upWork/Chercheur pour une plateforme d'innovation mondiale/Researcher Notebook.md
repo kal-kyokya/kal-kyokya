@@ -360,8 +360,8 @@ Created: {{ 2025-10-07 }}
 
 🔹 **Knowledge extraction, possible adaptation / experiment:** 
    I had not watched the video demonstration, until when I needed to record it here, and have noticed how they used a drone to capture the farm, as well as the product. That reinforces my desire to afford the time and money required to be a proficient drone pilot specialized in video recording.<br />
-   I think of the product to be relatively simple to put together, as well as a good opportunity to bring together my EEE background (Solar power bit, remote monitoring through electronic components) and video processing interest (Continuous streaming of a video data).<br />
-   I have heard of people being taken advantage of by their 'farm guards/managers', dubious harvesting result being what I have in mind. Such a system reduces the likelihood of theft, corrupt practices, provides eyes on someone 'treasure', which facilitate thinking when reflecting on what, how, why make changes and modification to the farm.
+   I think of the product to be relatively simple to put together, as well as a good opportunity to bring together my EEE background (Solar power bit, remote monitoring through electronic components) and video processing interest (Continuous streaming of video data).<br />
+   I have heard of people being taken advantage of by their 'farm guards/managers', dubious harvesting results being what I have in mind. Such a system reduces the likelihood of theft and corrupt practices, providing eyes on someone 'treasure', which facilitate thinking when reflecting on what, how, why make changes and modification to the farm.
 
 ## Idea 29 - Dec. 12, 2025
 
@@ -372,8 +372,8 @@ Created: {{ 2025-10-07 }}
    The design of the website is commendable (i.e., deserving praise).<br />
 
 🔹 **Knowledge extraction, possible adaptation / experiment:** 
-   I had not watched the video demonstration, until when I needed to record it here, and have noticed how they used a drone to capture the farm, as well as the product. That reinforces my desire to afford the time and money required to be a proficient drone pilot specialized in video recording.<br />
-   I think of the product to be relatively simple to put together, as well as a good opportunity to bring together my EEE background (Solar power bit, remote monitoring through electronic components) and video processing interest (Continuous streaming of a video data).<br />
-   I have heard of people being taken advantage of by their 'farm guards/managers', dubious harvesting result being what I have in mind. Such a system reduces the likelihood of theft, corrupt practices, provides eyes on someone 'treasure', which facilitate thinking when reflecting on what, how, why make changes and modification to the farm.
+   I thought there was an animation configured to load upon accessing the website, but was wrong, the animation seems to run during loading of the website and each page refresh.<br />
+   The animation itself is what first caught my eye. I found the design of it 'very smooth', pleasing to eye and captivating enough for me to be distracted from the fact that the website was taking a moment before loading.<br />
+   Upon visiting Hydrostor's website in order to have a comprehensive idea of the functioning of that said animation, I have come to the realization that the whole website is extremely well done. The transitions from one page to another, scrolling, background video playbacks, horizontal scrolls, mouse tracing, and surely other aspect that my current level of expertise stops me from noticing, all contribute towards a product (Not the sold item, but the selling medium; the website product) being one that put on display the beauty of web development, Futtech will for sure use an animation of a drone flying, let's say, and a ball rolling across the screen once the drone is high enough. Maybe even have players run towards the ball from opposite sides with the camera-equipped drone hovering over them.
 
 ---
