@@ -368,8 +368,8 @@ Created: {{ 2025-10-07 }}
 🔹 **Concept names and links:**
    [Hydrostor A-CAES technology - Advanced Compressed Air Energy Storage](https://hydrostor.ca/technology/)<br />
 
-🔹 **Why it matters to Eviot:** 
-   "Rurale", village, ushago, countryside, kijiji, etc. I looked at the cow picture on Barko's website and thought of building a system composed of a camera, a solar panel and 24/7 surveillance video transmission for a field somewhere in the village. That's IoT, that's Eviot.<br />
+🔹 **Why it matters to Futtech & Eviot:** 
+   The design of the website is commendable (i.e., deserving praise).<br />
 
 🔹 **Knowledge extraction, possible adaptation / experiment:** 
    I had not watched the video demonstration, until when I needed to record it here, and have noticed how they used a drone to capture the farm, as well as the product. That reinforces my desire to afford the time and money required to be a proficient drone pilot specialized in video recording.<br />
