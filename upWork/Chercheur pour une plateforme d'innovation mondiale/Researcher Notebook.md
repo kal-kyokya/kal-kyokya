@@ -363,4 +363,17 @@ Created: {{ 2025-10-07 }}
    I think of the product to be relatively simple to put together, as well as a good opportunity to bring together my EEE background (Solar power bit, remote monitoring through electronic components) and video processing interest (Continuous streaming of a video data).<br />
    I have heard of people being taken advantage of by their 'farm guards/managers', dubious harvesting result being what I have in mind. Such a system reduces the likelihood of theft, corrupt practices, provides eyes on someone 'treasure', which facilitate thinking when reflecting on what, how, why make changes and modification to the farm.
 
+## Idea 29 - Dec. 12, 2025
+
+🔹 **Concept names and links:**
+   [Hydrostor A-CAES technology - Advanced Compressed Air Energy Storage](https://hydrostor.ca/technology/)<br />
+
+🔹 **Why it matters to Eviot:** 
+   "Rurale", village, ushago, countryside, kijiji, etc. I looked at the cow picture on Barko's website and thought of building a system composed of a camera, a solar panel and 24/7 surveillance video transmission for a field somewhere in the village. That's IoT, that's Eviot.<br />
+
+🔹 **Knowledge extraction, possible adaptation / experiment:** 
+   I had not watched the video demonstration, until when I needed to record it here, and have noticed how they used a drone to capture the farm, as well as the product. That reinforces my desire to afford the time and money required to be a proficient drone pilot specialized in video recording.<br />
+   I think of the product to be relatively simple to put together, as well as a good opportunity to bring together my EEE background (Solar power bit, remote monitoring through electronic components) and video processing interest (Continuous streaming of a video data).<br />
+   I have heard of people being taken advantage of by their 'farm guards/managers', dubious harvesting result being what I have in mind. Such a system reduces the likelihood of theft, corrupt practices, provides eyes on someone 'treasure', which facilitate thinking when reflecting on what, how, why make changes and modification to the farm.
+
 ---
