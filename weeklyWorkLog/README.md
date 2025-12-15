@@ -33,11 +33,10 @@ Created: {{ 2025-05-31 }}
 
 - **Learning & Growth**
 	1. Although active since Monday, the first learned thing worth noting occuring on Monday during refactor of Futtech's code. [Futtech's Django Admin Panel](https://www.google.com/search?q=django+admin+panel) could now be accessed but lacked Cascading Style Sheets due to unproper [Unix Permissions](https://www.google.com/search?q=unix+permissions) obstructing Nginx's directory traversals.
-	2. As I started implement the require code fixes to load the CSS, I learned of .
-	3. .
-	4. .
-	5. .
-	6. .
+	2. As I implemented the required code fixes to give Nginx the necessary unix permissions to load the CSS, I learned of ['ls -ld'](https://www.google.com/search?q=ls+d+unix+command+option) and ['namei'](https://www.google.com/search?q=the+namei+unix+command); two Unix commands of great use when handling an issue such as [Nginx's relation to File Permissions](https://www.google.com/search?q=nginx+relation+to+file+permissions).
+	3. Come Wednesday, as I followed up on some of my banking details, I was introduced to the idea of referring to myself as working in the [Business Process Outsourcing](https://www.google.com/search?q=business+process+outsourcing) sector, due to the nature of my current income source.
+	4. Thursday was marked by my introduction to the concept of [Preflight requests and their relation to CORS policies](https://www.google.com/search?q=Response+to+preflight+request+doesn%27t+pass+access+control+check%3A+No+%27Access-Control-Allow-Origin%27+header+is+present+on+the+requested+resource&), concept for which I was partially informed given the CORS bit of it, but for which I had not fully understood the mode communication Browser-Server.
+	5. Fast forward Saturday, as I diagnosed HTTP 500 on login request and Investigated login redicts and 404 error, I reaffirmed of the idea of the productivity boost one gains through usage of OpenAi's Codex, as well as the importance of taking the time to write every single line AI generated and explain to oneself why and what is going on.
 
 - **Job hunting**
 	- Still on that ; Learned that once one secures a job, especially one that picks his interest and demands time, effort and careful attention, he stops hunting. ```Just realized this also applies to romance```, lol.
