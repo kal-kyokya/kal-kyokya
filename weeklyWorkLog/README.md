@@ -42,9 +42,9 @@ Created: {{ 2025-05-31 }}
 	- Still on that ; Learned that once one secures a job, especially one that picks his interest and demands time, effort and careful attention, he stops hunting. ```Just realized this also applies to romance```, lol.
 
 ### 🏆 <b>3 Wins and/or Achievements</b>
-1. "Self-Mastery, Observation, Communication": Observation and communication are getting easier, and I noticed that a couple times this week. Well, AlhamduliAllah, let's keep showing up and getting the job done.
-2. 9 weeks now, over 2 months of having 2.4M handled week in and week out. I used to pray for days like this, gotta be grateful, humbled and focus-prone for this, AlhamduliAllah.
-3. Book read + Piano practice was much more consistent this week, I made progress and learned a lot about my relations with knowledge acquisition as well as the character traits most desirable by the ideal, for the ideal, DLHI.
+1. Was out for hours, covered more than half a marathon for the third month running, 22.01 km, raw-d*gged, no music, no podcast, 'no nothing', another 'straight up thoughts and observation' long distance run, AlhamduliAllah.
+2. Saw myself having an easier time handling online processing of some of my banking details, simply due to the fact that I could make informed guesses as to what the system prompting me for credentials might be built like. Less speculation allows for less sensitivity to negative emotions.
+3. 'Please Allah, Challenge Dem, Server QLF': acted out the third element and proved myself of use to QLF, SubhanaAllah.
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
 1. **Failure:** Subpar training sessions.<br />
