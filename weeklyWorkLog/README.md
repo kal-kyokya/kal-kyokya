@@ -47,11 +47,11 @@ Created: {{ 2025-05-31 }}
 3. 'Please Allah, Challenge Dem, Server QLF': acted out the third element and proved myself of use to QLF, SubhanaAllah.
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
-1. **Failure:** Subpar training sessions.<br />
-**Lesson:** Partly due to my late wake, found myself not being in a position to have home-sessions of equal duration to what my average of 1h30'. Simply gotta get sh*t together and be up early.
-2. **Failure:** Still on that; 9AM out of bed after midnight bedtime.<br />
-**Lesson:** Gotta renegotiate with myself and if 9 AM is the alarm I will need to start at in order to be up and running by 10 AM sharp, let it be.
-3. **Failure:** Sticky Note Daily Routine.<br />
+1. **Failure:** Half-Marathon in 2h30min.<br />
+**Lesson:** Failing to maintain a pace of 7.8 minutes per Kilometers had me falling short of my, current desired, norm. Gotta be more intentional with the cardio sessions and my diet to ensure we don't failed twice and make this a habit.
+2. **Failure:** 'Diffuse Awareness', missed Piano rehearsals.<br />
+**Lesson:** Although a useful trait to engage with, I saw myself starting a new GPT read that led to my justifying why I didn't continue with unfinished read and missed Piano sessions. There needs to be a priority list, a rule; 'First In, First Out'.
+3. **Failure:** Still on; 'Sticky Note Daily Routine.'<br />
 **Lesson:** 14th April 2025, 16:54, I designed the ideal day, a day that DLHI eats up on the clock, and haven't done a good job living up to that. The plan is already there, all that is required is for me to execute.
 
 ### 🌟 <b>Highlights of the Week</b>
@@ -112,7 +112,7 @@ Created: {{ 2025-05-31 }}
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
 1. **Failure:** Subpar training sessions.<br />
-**Lesson:** Partly due to my late wake, found myself not being in a position to have home-sessions of equal duration to what my average of 1h30'. Simply gotta get sh*t together and be up early.
+**Lesson:** Partly due to my late wake, I was unable to have home-sessions lasting my 1h30min average. Simply gotta get our sh*t together and be up early.
 2. **Failure:** Still on that; 9AM out of bed after midnight bedtime.<br />
 **Lesson:** Gotta renegotiate with myself and if 9 AM is the alarm I will need to start at in order to be up and running by 10 AM sharp, let it be.
 3. **Failure:** Sticky Note Daily Routine.<br />
