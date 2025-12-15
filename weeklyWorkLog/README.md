@@ -22,6 +22,70 @@ Created: {{ 2025-05-31 }}
 
 ---
 
+## Week 29 — Sunday, 14th December 2025
+
+### 🌱 **What Was Worked On**
+
+- **Projects**
+	1. **Recherche pour une plateforme d'innovation mondiale**: 'For the tenth week running' ; In order to earn what would cover Futtech's costs of operation, I submitted 29 entries (worldwide, monetizable, novel ideas having emerged over the last 12 months).
+	2. **Futtech Debugging**: Having deployed Futtech, and attempted to go through the User Journey, I have found myself recalibrating everything and resolving issues that obstruct the journey, with this week's efforts aimed at post-login home page redirect and rendering (after successfully handling User Login).
+	3. **Researcher's Notebook**: Having noticed the amount of exposure I get, via my research assistant role in the previously mentioned job, I ensured to fuel my [Researcher's Notebook](https://github.com/kal-kyokya/kal-kyokya/blob/main/upWork/Chercheur%20pour%20une%20plateforme%20d'innovation%20mondiale/Researcher%20Notebook.md), a side-project through which I extract knowledge from the world's ingenuity.
+
+- **Learning & Growth**
+	1. Although active since Monday, the first learned thing worth noting occuring on Monday during refactor of Futtech's code. [Futtech's Django Admin Panel](https://www.google.com/search?q=django+admin+panel) could now be accessed but lacked Cascading Style Sheets due to unproper [Unix Permissions](https://www.google.com/search?q=unix+permissions) obstructing Nginx's directory traversals.
+	2. As I started implement the require code fixes to load the CSS, I learned of .
+	3. .
+	4. .
+	5. .
+	6. .
+
+- **Job hunting**
+	- Still on that ; Learned that once one secures a job, especially one that picks his interest and demands time, effort and careful attention, he stops hunting. ```Just realized this also applies to romance```, lol.
+
+### 🏆 <b>3 Wins and/or Achievements</b>
+1. "Self-Mastery, Observation, Communication": Observation and communication are getting easier, and I noticed that a couple times this week. Well, AlhamduliAllah, let's keep showing up and getting the job done.
+2. 9 weeks now, over 2 months of having 2.4M handled week in and week out. I used to pray for days like this, gotta be grateful, humbled and focus-prone for this, AlhamduliAllah.
+3. Book read + Piano practice was much more consistent this week, I made progress and learned a lot about my relations with knowledge acquisition as well as the character traits most desirable by the ideal, for the ideal, DLHI.
+
+### 🔭 <b>3 Fails & Lessons Learned</b>
+1. **Failure:** Subpar training sessions.<br />
+**Lesson:** Partly due to my late wake, found myself not being in a position to have home-sessions of equal duration to what my average of 1h30'. Simply gotta get sh*t together and be up early.
+2. **Failure:** Still on that; 9AM out of bed after midnight bedtime.<br />
+**Lesson:** Gotta renegotiate with myself and if 9 AM is the alarm I will need to start at in order to be up and running by 10 AM sharp, let it be.
+3. **Failure:** Sticky Note Daily Routine.<br />
+**Lesson:** 14th April 2025, 16:54, I designed the ideal day, a day that DLHI eats up on the clock, and haven't done a good job living up to that. The plan is already there, all that is required is for me to execute.
+
+### 🌟 <b>Highlights of the Week</b>
+- <b>Memorable moment / breakthrough / proud event</b>: ACSS, Authority-Comfort-Skills-Social Skills; for one who thinks of himself introverted, the ease with which social interaction have flown this current week and the fluidity with which he has navigated each situation serve as testament to the Ethos in place, its detachment from Pathos and service to Logos.
+- <b>Quote, inspiration, or personal reflection</b>: ```The Pharisee in the Bible```; From Jordan B. Peterson's 2025 podcast with Joe Rogan - #2308, Pharisee are hypocrites, enemies of Christ, user of the name of God in vain, seeker of unearned approval, acceptance, significance, consideration, praises, reputation, honor, glory, status. Liars who would rather be seen doing the right thing than not. Dancers and not performers, we don't want that for ourself, DLHI is the opposite.
+
+---
+
+## 📅 <b>Coming Up Next Week</b> - 8th to 14th December 2025
+- [ ] Hit a weekly goal of 75 innovation research entries.
+- [ ] Ensure to spend 30 minutes, before midnight, [every night](https://www.youtube.com/shorts/mQcTJdyTFtA) rehearsing the piano.
+- [ ] Be done with dream analysis come 9:40AM.
+
+---
+
+## 📈 <b>Meta</b>
+| Metric | This Week |
+| ------ | --------- |
+| Submissions | 31 |
+| Study Hours | 4 |
+| GitHub Commits | 31 |
+| Sleep Avg (hrs) | 7 |
+| Total Coding Time (hrs) | 2 |
+| Training Sessions (Football) | 3 |
+
+---
+
+> _“A professional Muslim might strive to excel... and if they do become well-known, they would (ideally) increase their humility and gratitude... often deflecting praise by saying “Alhamdulillah” (praise be to God) and acknowledging that any success comes from God’s help, not solely their own genius” — Jean-Paul De Marie KYOKYA Kalulu's night read of the 48 Laws of Power within various philosophical contexts, researched and generated by ChatGPT._
+
+<!-- Let's update the log every Sunday. Let's Go! -->
+
+---
+
 ## Week 28 — Sunday, 7th December 2025
 
 ### 🌱 **What Was Worked On**
@@ -80,7 +144,7 @@ Created: {{ 2025-05-31 }}
 
 ---
 
-> _“A professional Muslim might strive to excel... and if they do become well-known, they would (ideally) increase their humility and gratitude... often deflecting praise by saying “Alhamdulillah” (praise be to God) and acknowledging that any success comes from God’s help, not solely their own genius” — Jean-Paul De Marie KYOKYA Kalulu's night read of the 48 Laws of Power within various philosophical context, researched and generated by ChatGPT._
+> _“A professional Muslim might strive to excel... and if they do become well-known, they would (ideally) increase their humility and gratitude... often deflecting praise by saying “Alhamdulillah” (praise be to God) and acknowledging that any success comes from God’s help, not solely their own genius” — Jean-Paul De Marie KYOKYA Kalulu's night read of the 48 Laws of Power within various philosophical contexts, researched and generated by ChatGPT._
 
 <!-- Let's update the log every Sunday. Let's Go! -->
 
