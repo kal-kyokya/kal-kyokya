@@ -77,7 +77,7 @@ Created: {{ 2025-05-31 }}
 
 ---
 
-> _“He who cannot obey himself will be commanded.” — Friedrich Nietzsche._
+> _“The first rule is to keep an untroubled spirit. The second is to look things in the face and know them for what they are.” — Marcus Aurelius._
 
 <!-- Let's update the log every Sunday. Let's Go! -->
 
