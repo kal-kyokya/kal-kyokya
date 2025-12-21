@@ -33,16 +33,16 @@ Created: {{ 2025-05-31 }}
 - **Learning & Growth**
 	1. Although active since Monday, the first note-worthy learning occured on Tuesday, as I endeavor to continue my work on Futtech-Django and found myself in need to reassert my understanding of Django's Serializers and how best to think of them, i.e. [an illustration](https://www.google.com/search?q=python+django+serializer+illustration).
 	2. Come Thursday, I dedicated the first couple hours before my afternoon gym session to implementing the structure support request-response cycle for 'featured videos' on Futtech as a result of continuously receiving an ```HTTP 500 (Server error)``` post-login.
-	3. Friday night, in anticipation of my reworking on an ['Blynk IoT Bulb' project](https://www.youtube.com/results?search_query=iot+bulb+blynk) I watched a number of related YouTube videos and noticed myself identifying Software Engineering concepts being used ny Blynk in order to handle Internet of Things communication. Proof of transformation, I dare say.
+	3. Friday night, in anticipation of my reworking on an ['Blynk IoT Bulb' project](https://www.youtube.com/results?search_query=iot+bulb+blynk) I watched a number of related YouTube videos and noticed myself identifying Software Engineering concepts being used by Blynk in order to handle Internet of Things communication. Proof of transformation, I dare say.
 	4. Saturday's intention was to make as much progress as possible away from the HTTP 500 error obstructing authenticated users from going past registration-login pages and introduced me to the idea of ```window.localStorage``` as the ```Single Source of Truth``` for a React frontend mitigating page refresh that erase an in-memory variable; ```ensuring data persists between refresh```.
 
 - **Job hunting**
 	- Still on that ; Learned that once one secures a job, especially one that picks his interest and demands time, effort and careful attention, he stops hunting. ```Just realized this also applies to romance```, lol.
 
 ### 🏆 <b>3 Wins and/or Achievements</b>
-1. Was out for hours, covered more than half a marathon for the third month running, 22.01 km, raw-d*gged, no music, no podcast, 'no nothing', another 'straight up thoughts and observation' long distance run, AlhamduliAllah.
-2. Saw myself having an easier time handling online processing of some of my banking details, simply due to the fact that I could make informed guesses as to what the system prompting me for credentials might be built like. Less speculation allows for less sensitivity to negative emotions.
-3. 'Please Allah, Challenge Dem, Server QLF': acted out the third element and proved myself of use to QLF, SubhanaAllah.
+1. Made an initial deposit for Keruvim performance, a 1-month program design to help football players have targeted training sessions through which they get a certain level of exposure to their strengths and weaknesses.
+2. Was exposed to the idea of death before my thursday gym session, felt 'kinda way', a strong pull I might call it, but nonetheless ensured the gym-hours were of quality work.
+3. Saw myself consistently go to bed and wake laying flat on my back, with few memories, here and there, of myself in the middle of the night, stopping myself deviating from this 'new norm' of mine..
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
 1. **Failure:** Half-Marathon in 2h30min.<br />
