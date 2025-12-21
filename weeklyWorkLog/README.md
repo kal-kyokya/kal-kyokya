@@ -53,8 +53,8 @@ Created: {{ 2025-05-31 }}
 **Lesson:** I currently am facing challenges delaying payments due to a processed I launched 2 week ago which until resolution put an transaction on hold and has payment labeled 'pending'. Delays of 3 business days, between each of my attempt at resolving the issue have had me go this long without a solution and demand of me to pay careful attention to what my next move is, assuming the issue persist in week 31.
 
 ### 🌟 <b>Highlights of the Week</b>
-- <b>Memorable moment / breakthrough / proud event</b>: More 'ACSS, Authority-Comfort-Skills-Social Skills'; Going to bed demanding of myself, of my self to sleep on my back and remain in that position come morning, followed by noticing it happening is noted as progress towards self-mastery, alhamduliAllah.
-- <b>Quote, inspiration, or personal reflection</b>: ```Roll the credits, let's go.```; Came to me as I ate up my monthly half-marathon and consider a sudden end for me. Memento Mori, D'Marie, let's go.
+- <b>Memorable moment / breakthrough / proud event</b>: I am currently committed to spending January 2026, InshaAllah, having targeted football sessions in USIU and have seen ideas come to mind, hinting at ways in which Futtech benefits from such a move.
+- <b>Quote, inspiration, or personal reflection</b>: ```That Mode.``` - Detachment, Non-attachment, Equanimity, The Way, The only Way.
 
 ---
 
@@ -117,7 +117,7 @@ Created: {{ 2025-05-31 }}
 
 ### 🌟 <b>Highlights of the Week</b>
 - <b>Memorable moment / breakthrough / proud event</b>: More 'ACSS, Authority-Comfort-Skills-Social Skills'; Going to bed demanding of myself, of my self to sleep on my back and remain in that position come morning, followed by noticing it happening is noted as progress towards self-mastery, alhamduliAllah.
-- <b>Quote, inspiration, or personal reflection</b>: ```Roll the credits, let's go.```; Came to me as I ate up my monthly half-marathon and consider a sudden end for me. Memento Mori, D'Marie, let's go.
+- <b>Quote, inspiration, or personal reflection</b>: ```Roll the credits, let's go.```; Came to me as I ate up my monthly half-marathon and considered a sudden end for me. Memento Mori, D'Marie, let's go.
 
 ---
 
