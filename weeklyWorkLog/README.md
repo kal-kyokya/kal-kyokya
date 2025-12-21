@@ -22,6 +22,68 @@ Created: {{ 2025-05-31 }}
 
 ---
 
+## Week 30 — Sunday, 21st December 2025
+
+### 🌱 **What Was Worked On**
+
+- **Projects**
+	1. **Recherche pour une plateforme d'innovation mondiale**: 'For the tenth week running' ; In order to earn what would cover Futtech's costs of operation, I submitted 79 entries (worldwide, monetizable, novel ideas having emerged over the last 12 months).
+	2. **Futtech Debugging**: Having deployed Futtech, and attempted to go through the User Journey, I have found myself recalibrating everything and resolving issues that obstruct the journey, with this week's efforts aimed at the React App's utilization of the backend generated access token in order to allow authenticated users to navigate across the frontend's defined endpoints.
+
+- **Learning & Growth**
+	1. Although active since Monday, the first learned thing worth noting occuring on Monday during refactor of Futtech's code. [Futtech's Django Admin Panel](https://www.google.com/search?q=django+admin+panel) could now be accessed but lacked Cascading Style Sheets due to unproper [Unix Permissions](https://www.google.com/search?q=unix+permissions) obstructing Nginx's directory traversals.
+	2. As I implemented the required code fixes to give Nginx the necessary unix permissions to load the CSS, I learned of ['ls -ld'](https://www.google.com/search?q=ls+d+unix+command+option) and ['namei'](https://www.google.com/search?q=the+namei+unix+command); two Unix commands of great use when handling an issue such as [Nginx's relation to File Permissions](https://www.google.com/search?q=nginx+relation+to+file+permissions).
+	3. Come Wednesday, as I followed up on some of my banking details, I was introduced to the idea of referring to myself as working in the [Business Process Outsourcing](https://www.google.com/search?q=business+process+outsourcing) sector, due to the nature of my current income source.
+	4. Thursday was marked by my introduction to the concept of [Preflight requests and their relation to CORS policies](https://www.google.com/search?q=Response+to+preflight+request+doesn%27t+pass+access+control+check%3A+No+%27Access-Control-Allow-Origin%27+header+is+present+on+the+requested+resource&), concept for which I was partially informed given the CORS bit of it, but for which I had not fully understood the mode communication Browser-Server.
+	5. Fast forward Saturday, as I diagnosed HTTP 500 on login request and Investigated login redicts and 404 error, I reaffirmed of the idea of the productivity boost one gains through usage of OpenAi's Codex, as well as the importance of taking the time to write every single line AI generated and explain to oneself why and what is going on.
+
+- **Job hunting**
+	- Still on that ; Learned that once one secures a job, especially one that picks his interest and demands time, effort and careful attention, he stops hunting. ```Just realized this also applies to romance```, lol.
+
+### 🏆 <b>3 Wins and/or Achievements</b>
+1. Was out for hours, covered more than half a marathon for the third month running, 22.01 km, raw-d*gged, no music, no podcast, 'no nothing', another 'straight up thoughts and observation' long distance run, AlhamduliAllah.
+2. Saw myself having an easier time handling online processing of some of my banking details, simply due to the fact that I could make informed guesses as to what the system prompting me for credentials might be built like. Less speculation allows for less sensitivity to negative emotions.
+3. 'Please Allah, Challenge Dem, Server QLF': acted out the third element and proved myself of use to QLF, SubhanaAllah.
+
+### 🔭 <b>3 Fails & Lessons Learned</b>
+1. **Failure:** Half-Marathon in 2h30min.<br />
+**Lesson:** Failing to maintain a pace of 7.8 minutes per Kilometers had me falling short of my, current desired, norm. Gotta be more intentional with the cardio sessions and my diet to ensure we don't failed twice and make this a habit.
+2. **Failure:** 'Diffuse Awareness', missed Piano rehearsals.<br />
+**Lesson:** Although a useful trait to engage with, I saw myself starting a new GPT read that led to my justifying why I didn't continue with unfinished read and missed Piano sessions. There needs to be a priority list, a rule; 'First In, First Out'.
+3. **Failure:** Still on; 'Sticky Note Daily Routine.'<br />
+**Lesson:** 14th April 2025, 16:54, I designed the ideal day, a day that DLHI eats up on the clock, and haven't done a good job living up to that. The plan is already there, all that is required is for me to execute.
+
+### 🌟 <b>Highlights of the Week</b>
+- <b>Memorable moment / breakthrough / proud event</b>: More 'ACSS, Authority-Comfort-Skills-Social Skills'; Going to bed demanding of myself, of my self to sleep on my back and remain in that position come morning, followed by noticing it happening is noted as progress towards self-mastery, alhamduliAllah.
+- <b>Quote, inspiration, or personal reflection</b>: ```Roll the credits, let's go.```; Came to me as I ate up my monthly half-marathon and consider a sudden end for me. Memento Mori, D'Marie, let's go.
+
+---
+
+## 📅 <b>Coming Up Next Week</b> - 15th to 21st December 2025
+- [ ] Hit a weekly goal of 50 innovation research entries.
+- [ ] Ensure to spend 30 minutes, before midnight, [every night](https://www.youtube.com/shorts/mQcTJdyTFtA) rehearsing the piano.
+- [ ] Be done with dream analysis come 9:40AM.
+
+---
+
+## 📈 <b>Meta</b>
+| Metric | This Week |
+| ------ | --------- |
+| Submissions | 29 |
+| Study Hours | N/A |
+| GitHub Commits | 15 |
+| Sleep Avg (hrs) | 7 |
+| Total Coding Time (hrs) | 2 |
+| Training Sessions (Football) | 3 |
+
+---
+
+> _“He who cannot obey himself will be commanded.” — Friedrich Nietzsche._
+
+<!-- Let's update the log every Sunday. Let's Go! -->
+
+---
+
 ## Week 29 — Sunday, 14th December 2025
 
 ### 🌱 **What Was Worked On**
