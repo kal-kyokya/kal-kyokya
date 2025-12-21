@@ -45,12 +45,12 @@ Created: {{ 2025-05-31 }}
 3. Saw myself consistently go to bed and wake laying flat on my back, with few memories, here and there, of myself in the middle of the night, stopping myself deviating from this 'new norm' of mine..
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
-1. **Failure:** Half-Marathon in 2h30min.<br />
-**Lesson:** Failing to maintain a pace of 7.8 minutes per Kilometers had me falling short of my, current desired, norm. Gotta be more intentional with the cardio sessions and my diet to ensure we don't failed twice and make this a habit.
+1. **Failure:** Upgrade in Lifestyle, given increased income.<br />
+**Lesson:** I need to look into my recent desire to embody 'competent, productive and generous', emphasis, stress on 'generous,, which has seen me 'make moves' again and again and again, simply because, first of all, I can, but also because these moves provide me with a sense of 'abundance mindset' displaying.
 2. **Failure:** 'Diffuse Awareness', missed Piano rehearsals.<br />
-**Lesson:** Although a useful trait to engage with, I saw myself starting a new GPT read that led to my justifying why I didn't continue with unfinished read and missed Piano sessions. There needs to be a priority list, a rule; 'First In, First Out'.
-3. **Failure:** Still on; 'Sticky Note Daily Routine.'<br />
-**Lesson:** 14th April 2025, 16:54, I designed the ideal day, a day that DLHI eats up on the clock, and haven't done a good job living up to that. The plan is already there, all that is required is for me to execute.
+**Lesson:** The read on 'King, Warrior, Magician, Lover' has gripped me enough to take precedence over the 48 laws of power read, as well as, a couple piano sessions this week. The reads can be exchanged, the piano sessions, on the other hand, need to be a staple.
+3. **Failure:** Banking details<br />
+**Lesson:** I currently am facing challenges delaying payments due to a processed I launched 2 week ago which until resolution put an transaction on hold and has payment labeled 'pending'. Delays of 3 business days, between each of my attempt at resolving the issue have had me go this long without a solution and demand of me to pay careful attention to what my next move is, assuming the issue persist in week 31.
 
 ### 🌟 <b>Highlights of the Week</b>
 - <b>Memorable moment / breakthrough / proud event</b>: More 'ACSS, Authority-Comfort-Skills-Social Skills'; Going to bed demanding of myself, of my self to sleep on my back and remain in that position come morning, followed by noticing it happening is noted as progress towards self-mastery, alhamduliAllah.
