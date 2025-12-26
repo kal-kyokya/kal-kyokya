@@ -373,8 +373,8 @@ Created: {{ 2025-10-07 }}
 
 🔹 **Knowledge extraction, possible adaptation / experiment:** 
    I thought there was an animation configured to load upon accessing the website, but was wrong, the animation seems to run during loading of the website and each page refresh.<br />
-   The animation itself is what first caught my eye. I found the design of it 'very smooth', pleasing to eye and captivating enough for me to be distracted from the fact that the website was taking a moment before loading.<br />
-   Upon visiting Hydrostor's website in order to have a comprehensive idea of the functioning of that said animation, I have come to the realization that the whole website is extremely well done. The transitions from one page to another, scrolling, background video playbacks, horizontal scrolls, mouse tracing, and surely other aspect that my current level of expertise stops me from noticing, all contribute towards a product (Not the sold item, but the selling medium; the website product) being one that put on display the beauty of web development, Futtech will for sure use an animation of a drone flying, let's say, and a ball rolling across the screen once the drone is high enough. Maybe even have players run towards the ball from opposite sides with the camera-equipped drone hovering over them.
+   The animation itself is what first caught my eye. I found its design 'quite smooth', pleasing to the eye, and captivating enough for me to be distracted from the fact that the website was taking a moment before loading.<br />
+   Upon visiting Hydrostor's website in order to have a comprehensive idea of the functioning of that said animation, I have come to the realization that the whole website is extremely well done. The transitions from one page to another, scrolling, background video playbacks, horizontal scrolls, mouse tracing, and surely other aspects that my current level of expertise stops me from noticing, all contribute towards a product (Not the sold item, but the selling medium; the website product) being one that puts on display the beauty of web development, Futtech will, for sure, use an animation of a drone flying, let's say, and a ball rolling across the screen once the drone is high enough. Maybe even have a couple players run towards the ball from opposite sides with the camera-equipped drone hovering over them.
 
 ## Idea 30 - Dec. 26, 2025
 
@@ -382,11 +382,11 @@ Created: {{ 2025-10-07 }}
    [Elettronew – Home automation yokis urmet](https://www.elettronew.com/en/prodotti/categoria/home-automation-yokis-urmet-673.html)<br />
 
 🔹 **Why it matters to Eviot:** 
-   The idea of an add-on transformingnaive systems in smart ones as well as the newly learned word ; ["Domoticien"](https://www.google.com/search?q=domoticien) whose definition narrows my conceptualization of how best to embody an ```Ihsan Software Engineer```.<br />
+   The idea of an add-on transformingnaive systems in smart ones as well as the newly learned word; ["Domoticien"](https://www.google.com/search?q=domoticien) whose definition narrows my conceptualization of how best to embody an ```Ihsan Software Engineer```.<br />
 
 🔹 **Knowledge extraction, possible adaptation / experiment:** 
-   I thought there was an animation configured to load upon accessing the website, but was wrong, the animation seems to run during loading of the website and each page refresh.<br />
-   The animation itself is what first caught my eye. I found the design of it 'very smooth', pleasing to eye and captivating enough for me to be distracted from the fact that the website was taking a moment before loading.<br />
-   Upon visiting Hydrostor's website in order to have a comprehensive idea of the functioning of that said animation, I have come to the realization that the whole website is extremely well done. The transitions from one page to another, scrolling, background video playbacks, horizontal scrolls, mouse tracing, and surely other aspect that my current level of expertise stops me from noticing, all contribute towards a product (Not the sold item, but the selling medium; the website product) being one that put on display the beauty of web development, Futtech will for sure use an animation of a drone flying, let's say, and a ball rolling across the screen once the drone is high enough. Maybe even have players run towards the ball from opposite sides with the camera-equipped drone hovering over them.
+   In order of magnitude; [Domoticien (or Home automation specialist)](https://www.google.com/search?q=domoticien) slapped me, man. I absolutely was unaware of the existence of such a job title and find its job description to be appealing.<br />
+   Having previously aimed at using Engineering, Technology, Programming, etc. in order to pursue careers in: 'Embedded Systems/Software Engineering' and 'Robotics Engineering', I have found a third entry to the list; be a Domoticien, a home automation specialist.<br />
+   The product itself hints at a project where I manipulate motion across the horizontal axis, I'm thinking curtains open-close cycles, maybe rolling-gate open and close too, etc.
 
 ---
