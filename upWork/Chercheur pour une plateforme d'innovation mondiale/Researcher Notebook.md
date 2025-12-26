@@ -382,7 +382,7 @@ Created: {{ 2025-10-07 }}
    [Elettronew – Home automation yokis urmet](https://www.elettronew.com/en/prodotti/categoria/home-automation-yokis-urmet-673.html)<br />
 
 🔹 **Why it matters to Eviot:** 
-   The design of the website is commendable (i.e., deserving praise).<br />
+   The idea of an add-on transformingnaive systems in smart ones as well as the newly learned word ; ["Domoticien"](https://www.google.com/search?q=domoticien) whose definition narrows my conceptualization of how best to embody an ```Ihsan Software Engineer```.<br />
 
 🔹 **Knowledge extraction, possible adaptation / experiment:** 
    I thought there was an animation configured to load upon accessing the website, but was wrong, the animation seems to run during loading of the website and each page refresh.<br />
