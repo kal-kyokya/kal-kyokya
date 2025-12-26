@@ -376,4 +376,17 @@ Created: {{ 2025-10-07 }}
    The animation itself is what first caught my eye. I found the design of it 'very smooth', pleasing to eye and captivating enough for me to be distracted from the fact that the website was taking a moment before loading.<br />
    Upon visiting Hydrostor's website in order to have a comprehensive idea of the functioning of that said animation, I have come to the realization that the whole website is extremely well done. The transitions from one page to another, scrolling, background video playbacks, horizontal scrolls, mouse tracing, and surely other aspect that my current level of expertise stops me from noticing, all contribute towards a product (Not the sold item, but the selling medium; the website product) being one that put on display the beauty of web development, Futtech will for sure use an animation of a drone flying, let's say, and a ball rolling across the screen once the drone is high enough. Maybe even have players run towards the ball from opposite sides with the camera-equipped drone hovering over them.
 
+## Idea 30 - Dec. 26, 2025
+
+🔹 **Concept names and links:**
+   [Elettronew – Home automation yokis urmet](https://www.elettronew.com/en/prodotti/categoria/home-automation-yokis-urmet-673.html)<br />
+
+🔹 **Why it matters to Eviot:** 
+   The design of the website is commendable (i.e., deserving praise).<br />
+
+🔹 **Knowledge extraction, possible adaptation / experiment:** 
+   I thought there was an animation configured to load upon accessing the website, but was wrong, the animation seems to run during loading of the website and each page refresh.<br />
+   The animation itself is what first caught my eye. I found the design of it 'very smooth', pleasing to eye and captivating enough for me to be distracted from the fact that the website was taking a moment before loading.<br />
+   Upon visiting Hydrostor's website in order to have a comprehensive idea of the functioning of that said animation, I have come to the realization that the whole website is extremely well done. The transitions from one page to another, scrolling, background video playbacks, horizontal scrolls, mouse tracing, and surely other aspect that my current level of expertise stops me from noticing, all contribute towards a product (Not the sold item, but the selling medium; the website product) being one that put on display the beauty of web development, Futtech will for sure use an animation of a drone flying, let's say, and a ball rolling across the screen once the drone is high enough. Maybe even have players run towards the ball from opposite sides with the camera-equipped drone hovering over them.
+
 ---
