@@ -394,6 +394,7 @@ Created: {{ 2025-10-07 }}
 
 🔹 **Concept names and links:**
    [515. Somfy Pro – Amy 1 channel sun protect modes IO](https://www.somfypro.co.uk/products/1871444-amy-1-channel-sun-protect-modes-io)<br />
+   Un interrupteur “intelligent” avec capteur de température pour piloter stores/volets automatiquement.<br />
 
 🔹 **Why it matters to Eviot:** 
    The use of an LDR in order to render your everyday house component (a switchm in this case) capable of facilitating automation of procedure, that's Eviot.<br />
