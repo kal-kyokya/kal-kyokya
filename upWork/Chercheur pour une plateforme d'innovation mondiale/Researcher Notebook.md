@@ -380,6 +380,7 @@ Created: {{ 2025-10-07 }}
 
 🔹 **Concept names and links:**
    [Elettronew – Home automation yokis urmet](https://www.elettronew.com/en/prodotti/categoria/home-automation-yokis-urmet-673.html)<br />
+   Un mini-module à encastrer qui rend un volet roulant “pilotable” sans refaire toute l’installation.<br />
 
 🔹 **Why it matters to Eviot:** 
    The idea of an add-on transforming naive systems in smart ones, as well as, the newly learned word; ["Domoticien"](https://www.google.com/search?q=domoticien) whose definition narrows my conceptualization of how best to embody an ```Ihsan Software Engineer```.<br />
