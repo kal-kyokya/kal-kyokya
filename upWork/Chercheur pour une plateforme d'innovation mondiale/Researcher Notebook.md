@@ -386,9 +386,9 @@ Created: {{ 2025-10-07 }}
    The idea of an add-on transforming naive systems in smart ones, as well as, the newly learned word; ["Domoticien"](https://www.google.com/search?q=domoticien) whose definition narrows my conceptualization of how best to embody an ```Ihsan Software Engineer```.<br />
 
 🔹 **Knowledge extraction, possible adaptation / experiment:** 
-   In order of magnitude; [Domoticien (or Home automation specialist)](https://www.google.com/search?q=domoticien) slapped me, man. I absolutely was unaware of the existence of such a job title and find its job description to be appealing.<br />
-   Having previously aimed at using Engineering, Technology, Programming, etc. in order to pursue careers in: 'Embedded Systems/Software Engineering' and 'Robotics Engineering', I have found a third entry to the list; be a Domoticien, a home automation specialist.<br />
-   The product itself hints at a project where I manipulate motion across the horizontal axis, I'm thinking curtains open-close cycles, maybe rolling-gate open and close too, etc.
+   In order of magnitude; [Domoticien (or Home automation specialist)](https://www.google.com/search?q=domoticien) slapped me, man. I absolutely was unaware of the existence of such a job title. I also find its job description to be appealing.<br />
+   Having previously aimed at using Engineering, Technology, Programming, and my academics in order to pursue careers in: 'Embedded Systems/Software Engineering' and 'Robotics Engineering', I have found a third entry to the list; be a Domoticien, a home automation specialist.<br />
+   The product itself hints at a project where I manipulate motion across the horizontal axis, I'm thinking curtains open-close cycles, maybe rolling-gates open and close too, etc.
 
 ## Idea 31 - Dec. 27, 2025
 
@@ -400,8 +400,8 @@ Created: {{ 2025-10-07 }}
    The use of an LDR in order to render your everyday house component (a switchm in this case) capable of facilitating automation of procedure, that's Eviot.<br />
 
 🔹 **Knowledge extraction, possible adaptation / experiment:** 
-   In order of magnitude; [Domoticien (or Home automation specialist)](https://www.google.com/search?q=domoticien) slapped me, man. I absolutely was unaware of the existence of such a job title and find its job description to be appealing.<br />
-   Having previously aimed at using Engineering, Technology, Programming, etc. in order to pursue careers in: 'Embedded Systems/Software Engineering' and 'Robotics Engineering', I have found a third entry to the list; be a Domoticien, a home automation specialist.<br />
-   The product itself hints at a project where I manipulate motion across the horizontal axis, I'm thinking curtains open-close cycles, maybe rolling-gate open and close too, etc.
+   An experiment says, let's think of how to engineer a compact circuit capable of replicating this smart switch in control a motor based on the amount of sunlight detected.<br />
+   A possible adaptation yields "usage détourné"; where else does this principle apply? What exactly is going one here: The sun shines, the switch notes the temperature, and upon exceeding a define threshold triggers an action meant to alleviate the system it has been incorporated into. Replace 'sinlight' with 'heat' and you would already have an idea in mind; a motor meant to not overheat and needing to be immersed in a coolant of some sort.<br />
+   Anyway, "shutter-curtains" could also be looked into, not necessarily in association with the smart light-dependent switch, maybe simply be controlled at a distance. I say 'simply', and find the humor in the ease with which I now think of implementing such circuits. The boy has grown. AlhamduliAllah.
 
 ---
