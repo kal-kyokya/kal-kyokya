@@ -389,4 +389,17 @@ Created: {{ 2025-10-07 }}
    Having previously aimed at using Engineering, Technology, Programming, etc. in order to pursue careers in: 'Embedded Systems/Software Engineering' and 'Robotics Engineering', I have found a third entry to the list; be a Domoticien, a home automation specialist.<br />
    The product itself hints at a project where I manipulate motion across the horizontal axis, I'm thinking curtains open-close cycles, maybe rolling-gate open and close too, etc.
 
+## Idea 31 - Dec. 27, 2025
+
+🔹 **Concept names and links:**
+   [515. Somfy Pro – Amy 1 channel sun protect modes IO](https://www.somfypro.co.uk/products/1871444-amy-1-channel-sun-protect-modes-io)<br />
+
+🔹 **Why it matters to Eviot:** 
+   The idea of an add-on transformingnaive systems in smart ones as well as the newly learned word; ["Domoticien"](https://www.google.com/search?q=domoticien) whose definition narrows my conceptualization of how best to embody an ```Ihsan Software Engineer```.<br />
+
+🔹 **Knowledge extraction, possible adaptation / experiment:** 
+   In order of magnitude; [Domoticien (or Home automation specialist)](https://www.google.com/search?q=domoticien) slapped me, man. I absolutely was unaware of the existence of such a job title and find its job description to be appealing.<br />
+   Having previously aimed at using Engineering, Technology, Programming, etc. in order to pursue careers in: 'Embedded Systems/Software Engineering' and 'Robotics Engineering', I have found a third entry to the list; be a Domoticien, a home automation specialist.<br />
+   The product itself hints at a project where I manipulate motion across the horizontal axis, I'm thinking curtains open-close cycles, maybe rolling-gate open and close too, etc.
+
 ---
