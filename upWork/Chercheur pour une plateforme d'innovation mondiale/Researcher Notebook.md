@@ -382,7 +382,7 @@ Created: {{ 2025-10-07 }}
    [Elettronew – Home automation yokis urmet](https://www.elettronew.com/en/prodotti/categoria/home-automation-yokis-urmet-673.html)<br />
 
 🔹 **Why it matters to Eviot:** 
-   The idea of an add-on transformingnaive systems in smart ones as well as the newly learned word; ["Domoticien"](https://www.google.com/search?q=domoticien) whose definition narrows my conceptualization of how best to embody an ```Ihsan Software Engineer```.<br />
+   The idea of an add-on transforming naive systems in smart ones, as well as, the newly learned word; ["Domoticien"](https://www.google.com/search?q=domoticien) whose definition narrows my conceptualization of how best to embody an ```Ihsan Software Engineer```.<br />
 
 🔹 **Knowledge extraction, possible adaptation / experiment:** 
    In order of magnitude; [Domoticien (or Home automation specialist)](https://www.google.com/search?q=domoticien) slapped me, man. I absolutely was unaware of the existence of such a job title and find its job description to be appealing.<br />
@@ -395,7 +395,7 @@ Created: {{ 2025-10-07 }}
    [515. Somfy Pro – Amy 1 channel sun protect modes IO](https://www.somfypro.co.uk/products/1871444-amy-1-channel-sun-protect-modes-io)<br />
 
 🔹 **Why it matters to Eviot:** 
-   The idea of an add-on transformingnaive systems in smart ones as well as the newly learned word; ["Domoticien"](https://www.google.com/search?q=domoticien) whose definition narrows my conceptualization of how best to embody an ```Ihsan Software Engineer```.<br />
+   The use of an LDR in order to render your everyday house component (a switchm in this case) capable of facilitating automation of procedure, that's Eviot.<br />
 
 🔹 **Knowledge extraction, possible adaptation / experiment:** 
    In order of magnitude; [Domoticien (or Home automation specialist)](https://www.google.com/search?q=domoticien) slapped me, man. I absolutely was unaware of the existence of such a job title and find its job description to be appealing.<br />
