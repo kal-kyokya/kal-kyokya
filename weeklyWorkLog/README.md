@@ -22,6 +22,68 @@ Created: {{ 2025-05-31 }}
 
 ---
 
+## Week 31 — Sunday, 28th December 2025
+
+### 🌱 **What Was Worked On**
+
+- **Projects**
+	1. **Recherche pour une plateforme d'innovation mondiale**: 'For the eleventh week running' ; In order to earn what would cover Futtech's costs of operation, I submitted 29 entries (worldwide, monetizable, novel ideas having emerged over the last 12 months).
+	2. **Futtech Debugging**: Having established a consistent registration-login-logout flow, I endeavored to make the process leading to display of error messages robust and reliable across the full stack.
+	3. **Researcher's Notebook**: Having noticed the amount of exposure I get, via my research assistant role in the previously mentioned job, I ensured to fuel my [Researcher's Notebook](https://github.com/kal-kyokya/kal-kyokya/blob/main/upWork/Chercheur%20pour%20une%20plateforme%20d'innovation%20mondiale/Researcher%20Notebook.md), a side-project through which I extract knowledge from the world's ingenuity.
+
+- **Learning & Growth**
+	1. Although active since Monday, the first note-worthy learning occured on Tuesday, as I endeavor to continue my work on Futtech-Django and found myself in need to reassert my understanding of Django's Serializers and how best to think of them, i.e. [an illustration](https://www.google.com/search?q=python+django+serializer+illustration).
+	2. Come Thursday, I dedicated the first couple hours before my afternoon gym session to implementing the structure support request-response cycle for 'featured videos' on Futtech as a result of continuously receiving an ```HTTP 500 (Server error)``` post-login.
+	3. Friday night, in anticipation of my reworking on an ['Blynk IoT Bulb' project](https://www.youtube.com/results?search_query=iot+bulb+blynk) I watched a number of related YouTube videos and noticed myself identifying Software Engineering concepts being used by Blynk in order to handle Internet of Things communication. Proof of transformation, I dare say.
+	4. Saturday's intention was to make as much progress as possible away from the HTTP 500 error obstructing authenticated users from going past registration-login pages and introduced me to the idea of ```window.localStorage``` as the ```Single Source of Truth``` for a React frontend mitigating page refresh that erase an in-memory variable; ```ensuring data persists between refresh```.
+
+- **Job hunting**
+	- Still on that ; Learned that once one secures a job, especially one that picks his interest and demands time, effort and careful attention, he stops hunting. ```Just realized this also applies to romance```, lol.
+
+### 🏆 <b>3 Wins and/or Achievements</b>
+1. Made an initial deposit for Keruvim performance, a 1-month program design to help football players have targeted training sessions through which they get a certain level of exposure to their strengths and weaknesses.
+2. Was exposed to the idea of death before my thursday gym session, felt 'kinda way', a strong pull I might call it, but nonetheless ensured the gym-hours were of quality work.
+3. Saw myself consistently go to bed and wake laying flat on my back, with few memories, here and there, of myself in the middle of the night, stopping myself deviating from this 'new norm' of mine..
+
+### 🔭 <b>3 Fails & Lessons Learned</b>
+1. **Failure:** Upgrade in Lifestyle, given increased income.<br />
+**Lesson:** I need to look into my recent desire to embody 'competent, productive and generous', emphasis, stress on 'generous,, which has seen me 'make moves' again and again and again, simply because, first of all, I can, but also because these moves provide me with a sense of 'abundance mindset' displaying.
+2. **Failure:** 'Diffuse Awareness', missed Piano rehearsals.<br />
+**Lesson:** The read on 'King, Warrior, Magician, Lover' has gripped me enough to take precedence over the 48 laws of power read, as well as, a couple piano sessions this week. The reads can be exchanged, the piano sessions, on the other hand, need to be a staple.
+3. **Failure:** Banking details<br />
+**Lesson:** I currently am facing challenges delaying payments due to a processed I launched 2 week ago which until resolution put an transaction on hold and has payment labeled 'pending'. Delays of 3 business days, between each of my attempt at resolving the issue have had me go this long without a solution and demand of me to pay careful attention to what my next move is, assuming the issue persist in week 31.
+
+### 🌟 <b>Highlights of the Week</b>
+- <b>Memorable moment / breakthrough / proud event</b>: I am currently committed to spending January 2026, InshaAllah, having targeted football sessions in USIU and have seen ideas come to mind, hinting at ways in which Futtech benefits from such a move.
+- <b>Quote, inspiration, or personal reflection</b>: ```That Mode.``` - Detachment, Non-attachment, Equanimity, The Way, The only Way.
+
+---
+
+## 📅 <b>Coming Up Next Week</b> - 22nd to 28th December 2025
+- [ ] Hit a weekly goal of 50 innovation research entries.
+- [ ] Ensure to spend 30 minutes, before bedtime, [every night](https://www.youtube.com/shorts/mQcTJdyTFtA) rehearsing the piano.
+- [ ] Be done with dream analysis come 9:30AM.
+
+---
+
+## 📈 <b>Meta</b>
+| Metric | This Week |
+| ------ | --------- |
+| Submissions | 79 |
+| Study Hours | N/A |
+| GitHub Commits | 36 |
+| Sleep Avg (hrs) | 7 |
+| Total Coding Time (hrs) | 3 |
+| Training Sessions (Football) | 3 |
+
+---
+
+> _“The first rule is to keep an untroubled spirit. The second is to look things in the face and know them for what they are.” — Marcus Aurelius._
+
+<!-- Let's update the log every Sunday. Let's Go! -->
+
+---
+
 ## Week 30 — Sunday, 21st December 2025
 
 ### 🌱 **What Was Worked On**
