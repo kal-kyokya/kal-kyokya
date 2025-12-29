@@ -60,7 +60,7 @@ Created: {{ 2025-05-31 }}
 
 ---
 
-## 📅 <b>Coming Up Next Week</b> - 29th December to 4th January 2025
+## 📅 <b>Coming Up Next Week, InshaAllah</b> - 29th December 2025 to 4th January 2026
 - [ ] Hit a weekly goal of 50 innovation research entries.
 - [ ] Ensure to spend 30 minutes, before bedtime, [every night](https://www.youtube.com/shorts/mQcTJdyTFtA) rehearsing the piano.
 - [ ] Be done with dream analysis come 9:25AM.
@@ -79,7 +79,7 @@ Created: {{ 2025-05-31 }}
 
 ---
 
-> _“The first rule is to keep an untroubled spirit. The second is to look things in the face and know them for what they are.” — Marcus Aurelius._
+> _“Moves Can Be Made.” — Jean-Paul De Marie KYOKYA Kalulu's wall-sticked notes, Tuesday, 8th of February 2022._
 
 <!-- Let's update the log every Sunday. Let's Go! -->
 
