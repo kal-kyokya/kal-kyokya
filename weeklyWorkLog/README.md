@@ -42,9 +42,9 @@ Created: {{ 2025-05-31 }}
 	- Still on that ; Learned that once one secures a job, especially one that picks his interest and demands time, effort and careful attention, he stops hunting. ```Just realized this also applies to romance```, lol.
 
 ### 🏆 <b>3 Wins and/or Achievements</b>
-1. Made an initial deposit for Keruvim performance, a 1-month program design to help football players have targeted training sessions through which they get a certain level of exposure to their strengths and weaknesses.
-2. Was exposed to the idea of death before my thursday gym session, felt 'kinda way', a strong pull I might call it, but nonetheless ensured the gym-hours were of quality work.
-3. Saw myself consistently go to bed and wake laying flat on my back, with few memories, here and there, of myself in the middle of the night, stopping myself deviating from this 'new norm' of mine..
+1. Was out there seeking a way to have my gym hours utilized for gym work on Christmas, despite my usual gym being closed, just like many business in my neighborhood were. "Don't worry about the element of what is going on around you, just make sure you show up and get the job done; ensure you get it in", a paraphrase of David Goggins.
+2. 'QLF christmas-week moves'; saw myself 'honoring' a 2.4M promise made to Dj mère and reinforce the idea of human beings deriving pride from knowing how to cause emotional shifts in others.
+3. Completed refactor of the 'registration-login-logout' flow and tested it live to see the browser's states adapt accordingly.
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
 1. **Failure:** Upgrade in Lifestyle, given increased income.<br />
@@ -103,9 +103,9 @@ Created: {{ 2025-05-31 }}
 	- Still on that ; Learned that once one secures a job, especially one that picks his interest and demands time, effort and careful attention, he stops hunting. ```Just realized this also applies to romance```, lol.
 
 ### 🏆 <b>3 Wins and/or Achievements</b>
-1. Made an initial deposit for Keruvim performance, a 1-month program design to help football players have targeted training sessions through which they get a certain level of exposure to their strengths and weaknesses.
+1. Made an initial deposit for Keruvim performance, a 1-month program designed to help football players have targeted training sessions through which they get a certain level of exposure to their strengths and weaknesses.
 2. Was exposed to the idea of death before my thursday gym session, felt 'kinda way', a strong pull I might call it, but nonetheless ensured the gym-hours were of quality work.
-3. Saw myself consistently go to bed and wake laying flat on my back, with few memories, here and there, of myself in the middle of the night, stopping myself deviating from this 'new norm' of mine..
+3. Saw myself consistently go to bed and wake laying flat on my back, with few memories, here and there, of myself in the middle of the night, stopping myself deviating from this 'new norm' of mine.
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
 1. **Failure:** Upgrade in Lifestyle, given increased income.<br />
