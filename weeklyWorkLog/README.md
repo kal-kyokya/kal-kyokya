@@ -48,11 +48,11 @@ Created: {{ 2025-05-31 }}
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
 1. **Failure:** Upgrade in Lifestyle, given increased income.<br />
-**Lesson:** I need to look into my recent desire to embody 'competent, productive and generous', emphasis, stress on 'generous,, which has seen me 'make moves' again and again and again, simply because, first of all, I can, but also because these moves provide me with a sense of 'abundance mindset' displaying.
-2. **Failure:** 'Diffuse Awareness', missed Piano rehearsals.<br />
-**Lesson:** The read on 'King, Warrior, Magician, Lover' has gripped me enough to take precedence over the 48 laws of power read, as well as, a couple piano sessions this week. The reads can be exchanged, the piano sessions, on the other hand, need to be a staple.
+**Lesson:** Last week this point was used to warn myself against excessive display of generosity, this time I would love to warn against self-indulging, especially on the quality of food. Although quality is desirable, one needs to cap the food budget so as to not end up hurting oneself.
+2. **Failure:** EEE.<br />
+**Lesson:** A new semester start in January. USIU awaits my return, patiently awaits. 2.4M needs to cater for both Futtech and the USIU experience.
 3. **Failure:** Banking details<br />
-**Lesson:** I currently am facing challenges delaying payments due to a processed I launched 2 week ago which until resolution put an transaction on hold and has payment labeled 'pending'. Delays of 3 business days, between each of my attempt at resolving the issue have had me go this long without a solution and demand of me to pay careful attention to what my next move is, assuming the issue persist in week 31.
+**Lesson:** Moves were made last week and up until Sunday morning were yet to receive a response. I did a good job listen/reading to what the payoneer users across the globe had to say about verification processes, ensured to reach out to customer service with a context-rich explanation of my situation and desired outcome, was informed of the escalation for manual review of my request and have had an easier time waiting patiently.
 
 ### 🌟 <b>Highlights of the Week</b>
 - <b>Memorable moment / breakthrough / proud event</b>: I am currently committed to spending January 2026, InshaAllah, having targeted football sessions in USIU and have seen ideas come to mind, hinting at ways in which Futtech benefits from such a move.
@@ -109,11 +109,11 @@ Created: {{ 2025-05-31 }}
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
 1. **Failure:** Upgrade in Lifestyle, given increased income.<br />
-**Lesson:** I need to look into my recent desire to embody 'competent, productive and generous', emphasis, stress on 'generous,, which has seen me 'make moves' again and again and again, simply because, first of all, I can, but also because these moves provide me with a sense of 'abundance mindset' displaying.
+**Lesson:** I need to look into my recent desire to embody 'competent, productive and generous', emphasis, stress on 'generous', which has seen me 'make moves' again and again and again, simply because, first of all: I can, but also because these moves provide me with a sense of 'abundance mindset' displaying.
 2. **Failure:** 'Diffuse Awareness', missed Piano rehearsals.<br />
 **Lesson:** The read on 'King, Warrior, Magician, Lover' has gripped me enough to take precedence over the 48 laws of power read, as well as, a couple piano sessions this week. The reads can be exchanged, the piano sessions, on the other hand, need to be a staple.
 3. **Failure:** Banking details<br />
-**Lesson:** I currently am facing challenges delaying payments due to a processed I launched 2 week ago which until resolution put an transaction on hold and has payment labeled 'pending'. Delays of 3 business days, between each of my attempt at resolving the issue have had me go this long without a solution and demand of me to pay careful attention to what my next move is, assuming the issue persist in week 31.
+**Lesson:** I, currently, am facing challenges, delaying payments, due to a process I launched 2 weeks ago, which until resolution puts any transaction on hold and has payments labeled 'pending'. Delays of 3 business days, between each of my attempt at resolving the issue, have had me go this long without a solution and demand of me to pay careful attention to what my next move is, assuming the issue persists in week 31.
 
 ### 🌟 <b>Highlights of the Week</b>
 - <b>Memorable moment / breakthrough / proud event</b>: I am currently committed to spending January 2026, InshaAllah, having targeted football sessions in USIU and have seen ideas come to mind, hinting at ways in which Futtech benefits from such a move.
