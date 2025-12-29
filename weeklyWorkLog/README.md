@@ -55,8 +55,8 @@ Created: {{ 2025-05-31 }}
 **Lesson:** Moves were made last week and up until Sunday morning were yet to receive a response. I did a good job listen/reading to what the payoneer users across the globe had to say about verification processes, ensured to reach out to customer service with a context-rich explanation of my situation and desired outcome, was informed of the escalation for manual review of my request and have had an easier time waiting patiently.
 
 ### 🌟 <b>Highlights of the Week</b>
-- <b>Memorable moment / breakthrough / proud event</b>: I am currently committed to spending January 2026, InshaAllah, having targeted football sessions in USIU and have seen ideas come to mind, hinting at ways in which Futtech benefits from such a move.
-- <b>Quote, inspiration, or personal reflection</b>: ```That Mode.``` - Detachment, Non-attachment, Equanimity, The Way, The only Way.
+- <b>Memorable moment / breakthrough / proud event</b>: Congo playing in the AFCON has had me, twice this week, feel the 'pull' associated with this desire, I aim to be detached from, to see the team do well, win each game, get the result one way or another, or maybe this is not a desire but rather a fear, a strong 'push', of seeing the team lose. Either way, Congo moves me, enough for me to need focus, so as to not stray from 'That Mode'.
+- <b>Quote, inspiration, or personal reflection</b>: ```Be careful who you share good news with.``` - Jordan B. Peterson, in relation to human relations. This is related to a couple smart, quite extroverted, individuals who have shaped my personality and character. People I want to share good news with.
 
 ---
 
