@@ -22,6 +22,68 @@ Created: {{ 2025-05-31 }}
 
 ---
 
+## Week 32 — Sunday, 4th January 2025
+
+### 🌱 **What Was Worked On**
+
+- **Projects**
+	1. **Recherche pour une plateforme d'innovation mondiale**: 'For the twelveth week running' ; In order to earn what would cover Futtech's costs of operation, I submitted 40 entries (worldwide, monetizable, novel ideas having emerged over the last 12 months).
+	2. **Futtech Debugging**: While establishing a robust and reliable error handling/display flow, the realization that write tests for the registration-login-logout flow helps better understand the system as whole led to the expansion of the test file inside 'user_auth'.
+
+- **Learning & Growth**
+	1. Although active since Monday, the first remarkable piece of learning revealed itself on Wednesday, in the form of my investigation of [JSON.parse in JavaScript](https://www.google.com/search?q=json.parse+javascript) as I was inspecting the React contexts I have made for Futtech.
+	2. Wednesday still, I had a first-time exposure to a python built-in function in [vars()](https://www.google.com/search?q=the+vars+method+in+python), a function that returns an object's mutable attributes.
+	3. Thursday, as I embarked on a journey to audit and improve Futtech's error handling system, I was introduced to the idea of [Root cause analysis](https://www.google.com/search?q=root+cause+analysis), a call to depth-search of reasons why one is in a place they consider suboptimal.
+	4. Friday's first research consisted of my clarifying the spelling of ['Idiosyncrasy'](https://www.google.com/search?q=idiosyncrasy+meaning), which I knew how to recognize, use in my thinking and speaking, but didn't quite remember how to write.
+	5. Friday early afternoon was home to the golden discovery of the day; the idea of being and becoming a ['Domoticien'](https://www.google.com/search?q=domoticien), someone who specializes in home installations.
+
+- **Job hunting**
+	- Still on that ; Learned that once one secures a job, especially one that picks his interest and demands time, effort and careful attention, he stops hunting. ```Just realized this also applies to romance```, lol.
+
+### 🏆 <b>3 Wins and/or Achievements</b>
+1. Was out there seeking a way to have my gym hours utilized for gym work on Christmas, despite my usual gym being closed, just like many business in my neighborhood were. "Don't worry about the element of what is going on around you, just make sure you show up and get the job done; ensure you get it in", a paraphrase of David Goggins.
+2. 'QLF christmas-week moves'; saw myself 'honoring' a 2.4M promise made to Dj mère and reinforce the idea of human beings deriving pride from knowing how to cause emotional shifts in others.
+3. Completed refactor of the 'registration-login-logout' flow and tested it live to see the browser's states adapt accordingly.
+
+### 🔭 <b>3 Fails & Lessons Learned</b>
+1. **Failure:** Upgrade in Lifestyle, given increased income.<br />
+**Lesson:** Last week this point was used to warn myself against excessive display of generosity, this time I would love to warn against self-indulging, especially on the quality of food. Although quality is desirable, one needs to cap the food budget so as to not end up hurting oneself.
+2. **Failure:** EEE.<br />
+**Lesson:** A new semester start in January. USIU awaits my return, patiently awaits. 2.4M needs to cater for both Futtech and the USIU experience.
+3. **Failure:** Banking details<br />
+**Lesson:** Moves were made last week and up until Sunday morning were yet to receive a response. I did a good job listen/reading to what the payoneer users across the globe had to say about verification processes, ensured to reach out to customer service with a context-rich explanation of my situation and desired outcome, was informed of the escalation for manual review of my request and have had an easier time waiting patiently.
+
+### 🌟 <b>Highlights of the Week</b>
+- <b>Memorable moment / breakthrough / proud event</b>: Congo playing in the AFCON has had me, twice this week, feel the 'pull' associated with this desire, I aim to be detached from, to see the team do well, win each game, get the result one way or another, or maybe this is not a desire but rather a fear, a strong 'push', of seeing the team lose. Either way, Congo moves me, enough for me to need focus, so as to not stray from 'That Mode'.
+- <b>Quote, inspiration, or personal reflection</b>: ```Be careful who you share good news with.``` - Jordan B. Peterson, in relation to human relations. This is related to a couple smart, quite extroverted, individuals who have shaped my personality and character. People I want to share good news with.
+
+---
+
+## 📅 <b>Coming Up Next Week, InshaAllah</b> - 29th December 2025 to 4th January 2026
+- [ ] Hit a weekly goal of 50 innovation research entries.
+- [ ] Ensure to spend 30 minutes, before bedtime, [every night](https://www.youtube.com/shorts/mQcTJdyTFtA) rehearsing the piano.
+- [ ] Be done with dream analysis come 9:25AM.
+
+---
+
+## 📈 <b>Meta</b>
+| Metric | This Week |
+| ------ | --------- |
+| Submissions | 29 |
+| Study Hours | N/A |
+| GitHub Commits | 32 |
+| Sleep Avg (hrs) | 7 |
+| Total Coding Time (hrs) | 3 |
+| Training Sessions (Football) | 1 |
+
+---
+
+> _“Moves Can Be Made.” — Jean-Paul De Marie KYOKYA Kalulu's wall-sticked notes, Tuesday, 8th of February 2022._
+
+<!-- Let's update the log every Sunday. Let's Go! -->
+
+---
+
 ## Week 31 — Sunday, 28th December 2025
 
 ### 🌱 **What Was Worked On**
