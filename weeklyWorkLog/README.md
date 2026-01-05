@@ -48,11 +48,11 @@ Created: {{ 2025-05-31 }}
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
 1. **Failure:** Upgrade in Lifestyle, given increased income.<br />
-**Lesson:** Last week this point was used to warn myself against excessive display of generosity, this time I would love to warn against self-indulging, especially on the quality of food. Although quality is desirable, one needs to cap the food budget so as to not end up hurting oneself.
-2. **Failure:** EEE.<br />
-**Lesson:** A new semester start in January. USIU awaits my return, patiently awaits. 2.4M needs to cater for both Futtech and the USIU experience.
-3. **Failure:** Banking details<br />
-**Lesson:** Moves were made last week and up until Sunday morning were yet to receive a response. I did a good job listen/reading to what the payoneer users across the globe had to say about verification processes, ensured to reach out to customer service with a context-rich explanation of my situation and desired outcome, was informed of the escalation for manual review of my request and have had an easier time waiting patiently.
+**Lesson:** Excessive generosity, self-indulgent food quality, control over one's hours. If money is access, and one seeks to balance Order & Chaos from an extraversion perspective, then increasing the hours or reducing the desire must be planned accordingly and executed diligently.
+2. **Failure:** EEE sponsored by 2.4M.<br />
+**Lesson:** It's simple, not necessarily easy, but simple nonetheless: "Take less than you make".
+3. **Failure:** The desire to be desired.<br />
+**Lesson:** Does it ever last for eternity? That moment where you satisfy that craving, that desirous side of your psyche, that indulging bit of you. Does that mode of being scale? Is it a 'mode' we will be honored to constantly be in? 'That mode' OG, let's perform, never dance.
 
 ### 🌟 <b>Highlights of the Week</b>
 - <b>Memorable moment / breakthrough / proud event</b>: Congo playing in the AFCON has had me, twice this week, feel the 'pull' associated with this desire, I aim to be detached from, to see the team do well, win each game, get the result one way or another, or maybe this is not a desire but rather a fear, a strong 'push', of seeing the team lose. Either way, Congo moves me, enough for me to need focus, so as to not stray from 'That Mode'.
@@ -113,9 +113,9 @@ Created: {{ 2025-05-31 }}
 1. **Failure:** Upgrade in Lifestyle, given increased income.<br />
 **Lesson:** Last week this point was used to warn myself against excessive display of generosity, this time I would love to warn against self-indulging, especially on the quality of food. Although quality is desirable, one needs to cap the food budget so as to not end up hurting oneself.
 2. **Failure:** EEE.<br />
-**Lesson:** A new semester start in January. USIU awaits my return, patiently awaits. 2.4M needs to cater for both Futtech and the USIU experience.
+**Lesson:** A new semester starts in January. USIU awaits my return, patiently awaits. 2.4M needs to cater for both Futtech and the USIU experience.
 3. **Failure:** Banking details<br />
-**Lesson:** Moves were made last week and up until Sunday morning were yet to receive a response. I did a good job listen/reading to what the payoneer users across the globe had to say about verification processes, ensured to reach out to customer service with a context-rich explanation of my situation and desired outcome, was informed of the escalation for manual review of my request and have had an easier time waiting patiently.
+**Lesson:** Moves were made last week, and up until Sunday morning were yet to receive a response. I did a good job listening/reading what the payoneer users, across the globe, had to say about verification processes, ensured to reach out to customer service with a context-rich explanation of my situation and desired outcome, was informed of the escalation for manual review of my request and have had an easier time waiting patiently.
 
 ### 🌟 <b>Highlights of the Week</b>
 - <b>Memorable moment / breakthrough / proud event</b>: Congo playing in the AFCON has had me, twice this week, feel the 'pull' associated with this desire, I aim to be detached from, to see the team do well, win each game, get the result one way or another, or maybe this is not a desire but rather a fear, a strong 'push', of seeing the team lose. Either way, Congo moves me, enough for me to need focus, so as to not stray from 'That Mode'.
