@@ -79,7 +79,7 @@ Created: {{ 2025-05-31 }}
 
 ---
 
-> _“Moves Can Be Made.” — Jean-Paul De Marie KYOKYA Kalulu's wall-sticked notes, Tuesday, 8th of February 2022._
+> _“New life, new style.” — 2017 Jean-Paul De Marie KYOKYA Kalulu's catchphrase/one liner/slogan/motto, upon arrival in the land of the 254. 2026, let's go_
 
 <!-- Let's update the log every Sunday. Let's Go! -->
 
