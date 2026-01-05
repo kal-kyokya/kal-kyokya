@@ -31,11 +31,12 @@ Created: {{ 2025-05-31 }}
 	2. **Futtech Debugging**: While establishing a robust and reliable error handling/display flow, the realization that write tests for the registration-login-logout flow helps better understand the system as whole led to the expansion of the test file inside 'user_auth'.
 
 - **Learning & Growth**
-	1. Although active since Monday, the first remarkable piece of learning revealed itself on Wednesday, in the form of my investigation of [JSON.parse in JavaScript](https://www.google.com/search?q=json.parse+javascript) as I was inspecting the React contexts I have made for Futtech.
-	2. Wednesday still, I had a first-time exposure to a python built-in function in [vars()](https://www.google.com/search?q=the+vars+method+in+python), a function that returns an object's mutable attributes.
-	3. Thursday, as I embarked on a journey to audit and improve Futtech's error handling system, I was introduced to the idea of [Root cause analysis](https://www.google.com/search?q=root+cause+analysis), a call to depth-search of reasons why one is in a place they consider suboptimal.
-	4. Friday's first research consisted of my clarifying the spelling of ['Idiosyncrasy'](https://www.google.com/search?q=idiosyncrasy+meaning), which I knew how to recognize, use in my thinking and speaking, but didn't quite remember how to write.
-	5. Friday early afternoon was home to the golden discovery of the day; the idea of being and becoming a ['Domoticien'](https://www.google.com/search?q=domoticien), someone who specializes in home installations.
+	1. Although up and running since Monday, the first bit of worthwhile learning was occuring on tuesday, in the form of an investigation of [React's useRouteError](https://www.google.com/search?q=react+userouteerror).
+	2. Wednesday, December 31st 2025, saw me heavily lookup Django concepts facilitating creation of API tests, starting with ["Django's normalize_email"](https://www.google.com/search?q=django+normalize_email), and followed by a refresh [The 'iexact' lookup filter](https://www.google.com/search?q=django+iexact+filter), as well as [How to run tests for a specific app](https://www.google.com/search?q=django+run+test+for+specific+app), all in Django.
+	3. Wednesday still, on a non-technical level, I clarified the spelling of [the area between eyebrows named 'Glabella'](https://www.google.com/search?q=glabella+area+between+eyebrows).
+	4. Thursday, January 1st 2026, started with an early morning discovery of the concept of [Happy path vs Unhappy path testing](https://www.google.com/search?q=happy+path+vs+unhappy+path+testing) in web development contexts.
+	5. Interestingly enough, the previous point was followed by a search for [the meaning of 'Logos'](https://www.google.com/search?q=logos+meaning).
+	6. Although not officially stated, I experienced failure of the Google search engine to be reached and was pleased to see myself swiftly react to that by using [Yahoo](https://www.yahoo.com/) and collect the data required for creation of work-related submissions. It's easy to forget that ```Google is not the internet```, although it surely directs a lot of internet traffic.
 
 - **Job hunting**
 	- Still on that ; Learned that once one secures a job, especially one that picks his interest and demands time, effort and careful attention, he stops hunting. ```Just realized this also applies to romance```, lol.
