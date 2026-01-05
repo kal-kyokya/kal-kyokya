@@ -55,8 +55,8 @@ Created: {{ 2025-05-31 }}
 **Lesson:** Does it ever last for eternity? That moment where you satisfy that craving, that desirous side of your psyche, that indulging bit of you. Does that mode of being scale? Is it a 'mode' we will be honored to constantly be in? 'That mode' OG, let's perform, never dance.
 
 ### 🌟 <b>Highlights of the Week</b>
-- <b>Memorable moment / breakthrough / proud event</b>: Congo playing in the AFCON has had me, twice this week, feel the 'pull' associated with this desire, I aim to be detached from, to see the team do well, win each game, get the result one way or another, or maybe this is not a desire but rather a fear, a strong 'push', of seeing the team lose. Either way, Congo moves me, enough for me to need focus, so as to not stray from 'That Mode'.
-- <b>Quote, inspiration, or personal reflection</b>: ```Be careful who you share good news with.``` - Jordan B. Peterson, in relation to human relations. This is related to a couple smart, quite extroverted, individuals who have shaped my personality and character. People I want to share good news with.
+- <b>Memorable moment / breakthrough / proud event</b>: "Smiling women" - Yeah, I know, I now know. Broda, I'm gone. I respect charismatic, Well put together, Assertive and Upstanding men. I love to see a women smile. Especially if I have something to do with it.
+- <b>Quote, inspiration, or personal reflection</b>: ```The First Rule is...``` - detachment, non-attachment, humility, to keep an untroubled spirit, submit one's will to Allah. Yeah, this is not a desire, it's more. I don't have aversion, I can sense more. Or maybe both. The middle way? The balance between push and pull? Yin and Yang? Well, InshaAllah. InshaAllah.
 
 ---
 
