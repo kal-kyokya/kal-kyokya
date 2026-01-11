@@ -22,29 +22,27 @@ Created: {{ 2025-05-31 }}
 
 ---
 
-## Week 32 — Sunday, 11th January 2025
+## Week 33 — Sunday, 11th January 2025
 
 ### 🌱 **What Was Worked On**
 
 - **Projects**
 	1. **Recherche pour une plateforme d'innovation mondiale**: 'For the thirteenth week running' ; In order to earn what would cover Futtech's costs of operation, I submitted 44 entries (worldwide, monetizable, novel ideas having emerged over the last 12 months).
-	2. **Futtech Debugging**: While establishing a robust and reliable error handling/display flow, the realization that write tests for the registration-login-logout flow helps better understand the system as whole led to the expansion of the test file inside 'user_auth'.
+	2. **Futtech Debugging**: 75% of the week was used to differentiate and resolve the errors and failures emerging upon testing of the 'user_auth' app, on the backend. The remaining percentage was used to familiarize oneself with the paradigm used to generate test for a React App.
 
 - **Learning & Growth**
-	1. Although up and running since Monday, the first bit of worthwhile learning was occuring on tuesday, in the form of an investigation of [React's useRouteError](https://www.google.com/search?q=react+userouteerror).
-	2. Wednesday, December 31st 2025, saw me heavily lookup Django concepts facilitating creation of API tests, starting with ["Django's normalize_email"](https://www.google.com/search?q=django+normalize_email), and followed by a refresh [The 'iexact' lookup filter](https://www.google.com/search?q=django+iexact+filter), as well as [How to run tests for a specific app](https://www.google.com/search?q=django+run+test+for+specific+app), all in Django.
-	3. Wednesday still, on a non-technical level, I clarified the spelling of [the area between eyebrows named 'Glabella'](https://www.google.com/search?q=glabella+area+between+eyebrows).
-	4. Thursday, January 1st 2026, started with an early morning discovery of the concept of [Happy path vs Unhappy path testing](https://www.google.com/search?q=happy+path+vs+unhappy+path+testing) in web development contexts.
-	5. Interestingly enough, the previous point was followed by a search for [the meaning of 'Logos'](https://www.google.com/search?q=logos+meaning).
-	6. Although not officially stated, I experienced failure of the Google search engine to be reached and was pleased to see myself swiftly react to that by using [Yahoo](https://www.yahoo.com/) and collect the data required for creation of work-related submissions. It's easy to forget that ```Google is not the internet```, although it surely directs a lot of internet traffic.
+	1. An eventful week, it was, although the first bit of noteworthy learning occured on Wednesday, as I resolved errors and failures raised during testing of the 'user_auth' Django app on the backend; What does it mean ['to err'](https://www.google.com/search?q=to+err+meaning).
+	2. Fast forward Friday, I got exposure to an uncommon status code; [Error 429 - Too Many Requests](https://www.google.com/search?q=429+error+code).
+	3. Given my aim of growing as a striker, learning [how to shoot a ball in football](https://www.google.com/search?q=football+soccer+how+to+shoot) revealed itself as point desperately in need of my focus and attention.
+	4. Come saturday, I directed my attention towards understanding the building blocks used in creating test for React Apps, notably; [the 'describe()' function](https://www.google.com/search?q=JavaScript+function+named+describe+test+creation), the idea of [seeding in programming](https://www.google.com/search?q=to+seed+in+programming) and an overview on [msw tesing in React](https://www.google.com/search?q=msw+testing+react).
 
 - **Job hunting**
 	- Still on that ; Learned that once one secures a job, especially one that picks his interest and demands time, effort and careful attention, he stops hunting. ```Just realized this also applies to romance```, lol.
 
 ### 🏆 <b>3 Wins and/or Achievements</b>
-1. Resolve the banking details issues I was wrestling with since very early December and saw transactions move from 'upcoming' to 'completed'.
-2. Ended one year in the gym, started another with a home session most likely to be my last in a while, given the Keruvim experience insight.
-3. 'Look good, Do good, Be good' - Acquired a number of long sleeved tops and sweatpants that will contribute to the looks, still in 'that mode' regarding 'being' and 'doing'.
+1. Completed week 1 of the Keruvim performance January 2026 plan.
+2. Engaged in a, more or less, 5-hour long Friday ball work session, challenged the body, pushed it further than the usual 90-minute in football.
+3. Managed to both work on Futtech and 2.4M, in the midst of all this productive work.
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
 1. **Failure:** Upgrade in Lifestyle, given increased income.<br />
@@ -85,26 +83,28 @@ Created: {{ 2025-05-31 }}
 
 ---
 
-## Week 33 — Sunday, 4th January 2025
+## Week 32 — Sunday, 4th January 2025
 
 ### 🌱 **What Was Worked On**
 
 - **Projects**
 	1. **Recherche pour une plateforme d'innovation mondiale**: 'For the twelveth week running' ; In order to earn what would cover Futtech's costs of operation, I submitted 40 entries (worldwide, monetizable, novel ideas having emerged over the last 12 months).
-	2. **Futtech Debugging**: 75% of the week was used to differentiate and resolve the errors and failures emerging upon testing of the 'user_auth' app, on the backend. The remaining percentage was used to familiarize oneself with the paradigm used to generate test for a React App.
+	2. **Futtech Debugging**: While establishing a robust and reliable error handling/display flow, the realization that write tests for the registration-login-logout flow helps better understand the system as whole led to the expansion of the test file inside 'user_auth'.
 
 - **Learning & Growth**
-	1. An eventful week, it was, although the first bit of noteworthy learning occured on Wednesday, as I resolved errors and failures raised during testing of the 'user_auth' Django app on the backend; What does it mean ['to err'](https://www.google.com/search?q=to+err+meaning).
-	2. Fast forward Friday, I got exposure to an uncommon status code; [Error 429 - Too Many Requests](https://www.google.com/search?q=429+error+code).
-	3. Given my aim of growing as a striker, learning [how to shoot a ball in football](https://www.google.com/search?q=football+soccer+how+to+shoot) revealed itself as point desperately in need of my focus and attention.
-	4. Come saturday, I directed my attention towards understanding the building blocks used in creating test for React Apps, notably; [the 'describe()' function](https://www.google.com/search?q=JavaScript+function+named+describe+test+creation), the idea of [seeding in programming](https://www.google.com/search?q=to+seed+in+programming) and an overview on [msw tesing in React](https://www.google.com/search?q=msw+testing+react).
+	1. Although up and running since Monday, the first bit of worthwhile learning was occuring on tuesday, in the form of an investigation of [React's useRouteError](https://www.google.com/search?q=react+userouteerror).
+	2. Wednesday, December 31st 2025, saw me heavily lookup Django concepts facilitating creation of API tests, starting with ["Django's normalize_email"](https://www.google.com/search?q=django+normalize_email), and followed by a refresh [The 'iexact' lookup filter](https://www.google.com/search?q=django+iexact+filter), as well as [How to run tests for a specific app](https://www.google.com/search?q=django+run+test+for+specific+app), all in Django.
+	3. Wednesday still, on a non-technical level, I clarified the spelling of [the area between eyebrows named 'Glabella'](https://www.google.com/search?q=glabella+area+between+eyebrows).
+	4. Thursday, January 1st 2026, started with an early morning discovery of the concept of [Happy path vs Unhappy path testing](https://www.google.com/search?q=happy+path+vs+unhappy+path+testing) in web development contexts.
+	5. Interestingly enough, the previous point was followed by a search for [the meaning of 'Logos'](https://www.google.com/search?q=logos+meaning).
+	6. Although not officially stated, I experienced failure of the Google search engine to be reached and was pleased to see myself swiftly react to that by using [Yahoo](https://www.yahoo.com/) and collect the data required for creation of work-related submissions. It's easy to forget that ```Google is not the internet```, although it surely directs a lot of internet traffic.
 
 - **Job hunting**
 	- Still on that ; Learned that once one secures a job, especially one that picks his interest and demands time, effort and careful attention, he stops hunting. ```Just realized this also applies to romance```, lol.
 
 ### 🏆 <b>3 Wins and/or Achievements</b>
-1. Resolve the banking details issues I was wrestling with since very early December and saw transactions move from 'upcoming' to 'completed'.
-2. Ended one year in the gym, started another with a home session most likely to be my last in a while, given the Keruvim experience insight.
+1. Resolved the banking details issues I was wrestling with since very early December and saw transactions move from 'upcoming' to 'completed'.
+2. Ended the previous year in the gym, started this one with a home session most likely to be my last in a while, given the Keruvim experience in sight.
 3. 'Look good, Do good, Be good' - Acquired a number of long sleeved tops and sweatpants that will contribute to the looks, still in 'that mode' regarding 'being' and 'doing'.
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
