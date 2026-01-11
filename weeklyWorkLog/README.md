@@ -22,13 +22,76 @@ Created: {{ 2025-05-31 }}
 
 ---
 
-## Week 32 — Sunday, 4th January 2025
+## Week 32 — Sunday, 11th January 2025
+
+### 🌱 **What Was Worked On**
+
+- **Projects**
+	1. **Recherche pour une plateforme d'innovation mondiale**: 'For the thirteenth week running' ; In order to earn what would cover Futtech's costs of operation, I submitted 44 entries (worldwide, monetizable, novel ideas having emerged over the last 12 months).
+	2. **Futtech Debugging**: While establishing a robust and reliable error handling/display flow, the realization that write tests for the registration-login-logout flow helps better understand the system as whole led to the expansion of the test file inside 'user_auth'.
+
+- **Learning & Growth**
+	1. Although up and running since Monday, the first bit of worthwhile learning was occuring on tuesday, in the form of an investigation of [React's useRouteError](https://www.google.com/search?q=react+userouteerror).
+	2. Wednesday, December 31st 2025, saw me heavily lookup Django concepts facilitating creation of API tests, starting with ["Django's normalize_email"](https://www.google.com/search?q=django+normalize_email), and followed by a refresh [The 'iexact' lookup filter](https://www.google.com/search?q=django+iexact+filter), as well as [How to run tests for a specific app](https://www.google.com/search?q=django+run+test+for+specific+app), all in Django.
+	3. Wednesday still, on a non-technical level, I clarified the spelling of [the area between eyebrows named 'Glabella'](https://www.google.com/search?q=glabella+area+between+eyebrows).
+	4. Thursday, January 1st 2026, started with an early morning discovery of the concept of [Happy path vs Unhappy path testing](https://www.google.com/search?q=happy+path+vs+unhappy+path+testing) in web development contexts.
+	5. Interestingly enough, the previous point was followed by a search for [the meaning of 'Logos'](https://www.google.com/search?q=logos+meaning).
+	6. Although not officially stated, I experienced failure of the Google search engine to be reached and was pleased to see myself swiftly react to that by using [Yahoo](https://www.yahoo.com/) and collect the data required for creation of work-related submissions. It's easy to forget that ```Google is not the internet```, although it surely directs a lot of internet traffic.
+
+- **Job hunting**
+	- Still on that ; Learned that once one secures a job, especially one that picks his interest and demands time, effort and careful attention, he stops hunting. ```Just realized this also applies to romance```, lol.
+
+### 🏆 <b>3 Wins and/or Achievements</b>
+1. Resolve the banking details issues I was wrestling with since very early December and saw transactions move from 'upcoming' to 'completed'.
+2. Ended one year in the gym, started another with a home session most likely to be my last in a while, given the Keruvim experience insight.
+3. 'Look good, Do good, Be good' - Acquired a number of long sleeved tops and sweatpants that will contribute to the looks, still in 'that mode' regarding 'being' and 'doing'.
+
+### 🔭 <b>3 Fails & Lessons Learned</b>
+1. **Failure:** Upgrade in Lifestyle, given increased income.<br />
+**Lesson:** Excessive generosity, self-indulgent food quality, control over one's hours. If money is access, and one seeks to balance Order & Chaos from an extraversion perspective, then increasing the hours or reducing the desire must be planned accordingly and executed diligently.
+2. **Failure:** EEE sponsored by 2.4M.<br />
+**Lesson:** It's simple, not necessarily easy, but simple nonetheless: "Take less than you make".
+3. **Failure:** The desire to be desired.<br />
+**Lesson:** Does it ever last for eternity? That moment where you satisfy that craving, that desirous side of your psyche, that indulging bit of you. Does that mode of being scale? Is it a 'mode' we will be honored to constantly be in? 'That mode' OG, let's perform, never dance.
+
+### 🌟 <b>Highlights of the Week</b>
+- <b>Memorable moment / breakthrough / proud event</b>: "Smiling women" - Yeah, I know, I now know. Broda, I'm gone. I respect charismatic, Well put together, Assertive and Upstanding men. I love to see a women smile. Especially if I have something to do with it.
+- <b>Quote, inspiration, or personal reflection</b>: ```The First Rule is...``` - detachment, non-attachment, humility, to keep an untroubled spirit, submit one's will to Allah. Yeah, this is not a desire, it's more. I don't have aversion, I can sense more. Or maybe both. The middle way? The balance between push and pull? Yin and Yang? Well, InshaAllah. InshaAllah.
+
+---
+
+## 📅 <b>Coming Up Next Week, InshaAllah</b> - 5th to 11th January 2026
+- [ ] Ensure to spend 30 minutes, before bedtime, [every night](https://www.youtube.com/shorts/mQcTJdyTFtA) rehearsing the piano.
+- [ ] Hit a daily average of 12 innovative research entries.
+- [ ] Be done with dream analysis come 9:10AM.
+
+---
+
+## 📈 <b>Meta</b>
+| Metric | This Week |
+| ------ | --------- |
+| Submissions | 40 |
+| Study Hours | N/A |
+| GitHub Commits | 41 |
+| Sleep Avg (hrs) | 7 |
+| Total Coding Time (hrs) | 3 |
+| Training Sessions (Football) | 2 |
+
+---
+
+> _“New life, new style.” — 2017 Jean-Paul De Marie KYOKYA Kalulu's catchphrase/one liner/slogan/motto, upon arrival in the land of the 254. 2026, let's go_
+
+<!-- Let's update the log every Sunday. Let's Go! -->
+
+---
+
+## Week 33 — Sunday, 4th January 2025
 
 ### 🌱 **What Was Worked On**
 
 - **Projects**
 	1. **Recherche pour une plateforme d'innovation mondiale**: 'For the twelveth week running' ; In order to earn what would cover Futtech's costs of operation, I submitted 40 entries (worldwide, monetizable, novel ideas having emerged over the last 12 months).
-	2. **Futtech Debugging**: While establishing a robust and reliable error handling/display flow, the realization that write tests for the registration-login-logout flow helps better understand the system as whole led to the expansion of the test file inside 'user_auth'.
+	2. **Futtech Debugging**: 75% of the week was used to differentiate and resolve the errors and failures emerging upon testing of the 'user_auth' app, on the backend. The remaining percentage was used to familiarize oneself with the paradigm used to generate test for a React App.
 
 - **Learning & Growth**
 	1. Although up and running since Monday, the first bit of worthwhile learning was occuring on tuesday, in the form of an investigation of [React's useRouteError](https://www.google.com/search?q=react+userouteerror).
