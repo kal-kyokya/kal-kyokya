@@ -94,12 +94,10 @@ Created: {{ 2025-05-31 }}
 	2. **Futtech Debugging**: 75% of the week was used to differentiate and resolve the errors and failures emerging upon testing of the 'user_auth' app, on the backend. The remaining percentage was used to familiarize oneself with the paradigm used to generate test for a React App.
 
 - **Learning & Growth**
-	1. Although up and running since Monday, the first bit of worthwhile learning was occuring on tuesday, in the form of an investigation of [React's useRouteError](https://www.google.com/search?q=react+userouteerror).
-	2. Wednesday, December 31st 2025, saw me heavily lookup Django concepts facilitating creation of API tests, starting with ["Django's normalize_email"](https://www.google.com/search?q=django+normalize_email), and followed by a refresh [The 'iexact' lookup filter](https://www.google.com/search?q=django+iexact+filter), as well as [How to run tests for a specific app](https://www.google.com/search?q=django+run+test+for+specific+app), all in Django.
-	3. Wednesday still, on a non-technical level, I clarified the spelling of [the area between eyebrows named 'Glabella'](https://www.google.com/search?q=glabella+area+between+eyebrows).
-	4. Thursday, January 1st 2026, started with an early morning discovery of the concept of [Happy path vs Unhappy path testing](https://www.google.com/search?q=happy+path+vs+unhappy+path+testing) in web development contexts.
-	5. Interestingly enough, the previous point was followed by a search for [the meaning of 'Logos'](https://www.google.com/search?q=logos+meaning).
-	6. Although not officially stated, I experienced failure of the Google search engine to be reached and was pleased to see myself swiftly react to that by using [Yahoo](https://www.yahoo.com/) and collect the data required for creation of work-related submissions. It's easy to forget that ```Google is not the internet```, although it surely directs a lot of internet traffic.
+	1. An eventful week, it was, although the first bit of noteworthy learning occured on Wednesday, as I resolved errors and failures raised during testing of the 'user_auth' Django app on the backend; What does it mean ['to err'](https://www.google.com/search?q=to+err+meaning).
+	2. Fast forward Friday, I got exposure to an uncommon status code; [Error 429 - Too Many Requests](https://www.google.com/search?q=429+error+code).
+	3. Given my aim of growing as a striker, learning [how to shoot a ball in football](https://www.google.com/search?q=football+soccer+how+to+shoot) revealed itself as point desperately in need of my focus and attention.
+	4. Come saturday, I directed my attention towards understanding the building blocks used in creating test for React Apps, notably; [the 'describe()' function](https://www.google.com/search?q=JavaScript+function+named+describe+test+creation), the idea of [seeding in programming](https://www.google.com/search?q=to+seed+in+programming) and an overview on [msw tesing in React](https://www.google.com/search?q=msw+testing+react).
 
 - **Job hunting**
 	- Still on that ; Learned that once one secures a job, especially one that picks his interest and demands time, effort and careful attention, he stops hunting. ```Just realized this also applies to romance```, lol.
