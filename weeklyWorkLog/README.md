@@ -39,9 +39,9 @@ Created: {{ 2025-05-31 }}
 	- Still on that ; Learned that once one secures a job, especially one that picks his interest and demands time, effort and careful attention, he stops hunting. ```Just realized this also applies to romance```, lol.
 
 ### 🏆 <b>3 Wins and/or Achievements</b>
-1. Completed week 1 of the Keruvim performance January 2026 plan.
-2. Engaged in a, more or less, 5-hour long Friday ball work session, challenged the body, pushed it further than the usual 90-minute in football.
-3. Managed to both work on Futtech and 2.4M, in the midst of all this productive work.
+1. Practiced pointing the standing foot's toes towards goal during shooting drills, in order to increase shot accuracy.
+2. 'Look good, Do good, Be good'; Yeah, "Looku nayo, safi", a n*gga had that sh*t on, bruh. All black, bruh. Très nwaar.
+3. The social media generated content, and the implications of tagging the San Siro turf inform me of the potential for Futtech to have a positive impact on football players, as well as, content creators.
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
 1. **Failure:** The desire to be desired.<br />
