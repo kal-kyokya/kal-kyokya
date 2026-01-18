@@ -52,8 +52,8 @@ Created: {{ 2025-05-31 }}
 **Lesson:** Although having practiced pointing toes towards the goal and noticed an improved aim, the rate at which I score goal per shots can, will and must be improved.
 
 ### 🌟 <b>Highlights of the Week</b>
-- <b>Memorable moment / breakthrough / proud event</b>: This week is all about football practice. Keruvim performance is the mirror through which I get to see myself, and get a chance to adjust outfit, so as to present my best self, out there.
-- <b>Quote, inspiration, or personal reflection</b>: ```Stoic Footballer``` - Football moves me, it brings out Pathos, the good kind; the one found in the shared aimed, acceptance of the suffering required for one to tranform for better. A place where I can integrate social life into my instanciation of the stoic Ethos, as I continually seek to serve Logos.
+- <b>Memorable moment / breakthrough / proud event</b>: "How does one make people feel safe to share with him their pain and suffering? Is that something that everyone out there is getting more and more of?". AlhamduliAllah, 'solution guy' gets to be used as someone on whom people's thoughts can bounce. People's thoughts and Pathos; bouncing off, due to 'That Mode'.
+- <b>Quote, inspiration, or personal reflection</b>: ```Practice reacting, not anticipating``` - Although a paraphrase of Coach Kirubi informing us of, who to be, how to think and what to do, as a footballer, on a football pitch. This can be tied to this week's shooting drill, as it creates a scenario where an attacking player fake coming short for a pass, before pulling back, taking one touch in space and finishing, with a second touch, across his body, into the bottom corner. That same actions can be run, like a basketball play, on the pitch.
 
 ---
 
@@ -113,7 +113,7 @@ Created: {{ 2025-05-31 }}
 **Lesson:** This is in relation to a drill I took part in this week, with Keruvim performance, where my mission was to stand on one leg and balance my body weight on an instable, inflated, half-moon-like, ball, while dropping 2 tennis balls and catching them before the second bounce.
 
 ### 🌟 <b>Highlights of the Week</b>
-- <b>Memorable moment / breakthrough / proud event</b>: This week is all about football practice. Keruvim performance is the mirror through which I get to see myself, and get a chance to adjust outfit, so as to present my best self, out there.
+- <b>Memorable moment / breakthrough / proud event</b>: This week is all about football practice. Keruvim performance is the mirror through which I get to see myself, and get a chance to adjust 'the outfit', so as to present my best self, out there.
 - <b>Quote, inspiration, or personal reflection</b>: ```Stoic Footballer``` - Football moves me, it brings out Pathos, the good kind; the one found in the shared aimed, acceptance of the suffering required for one to tranform for better. A place where I can integrate social life into my instanciation of the stoic Ethos, as I continually seek to serve Logos.
 
 ---
