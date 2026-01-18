@@ -44,12 +44,12 @@ Created: {{ 2025-05-31 }}
 3. The social media generated content, and the implications of tagging the San Siro turf inform me of the potential for Futtech to have a positive impact on football players, as well as, content creators.
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
-1. **Failure:** The desire to be desired.<br />
-**Lesson:** A culture of excellence in actions, thoughts and words, seeks indicators of respect and admiration guiding one's sense of where he stands clear. "You know you are doing well when the world rewards, instead of punishes". Be careful though, social media is not a 'real place' for you to seek that.
-2. **Failure:** Lack of shooting technique.<br />
-**Lesson:** Gotta make sure we spend more time shooting balls whenever we are on a football pitch, than juggling or passing.
-3. **Failure:** Lack of balance on shaky grounds.<br />
-**Lesson:** This is in relation to a drill I took part this week, with Keruvim performance, where my mission was to stand on one leg and balance my body weight on an instable inflated ballon-like ball, while dropping 2 tennis ball and catching them before the second bounce.
+1. **Failure:** Keeping time.<br />
+**Lesson:** "I've arrived mindset... Your start coming late... Your breakfast isn't ready" - Goggins already talked about this. I gotta honor myself and, flawlessly, execute my routines.
+2. **Failure:** Lack of urgency.<br />
+**Lesson:** Coach Kirubi called it out many a time during friday's session. I noticed it as I watched footage from it (Futtech's footage after training promise to of great help). How is one meant to rehearse with higher sense of urgency? Well, let's work on it this week. Starting in the gym.
+3. **Failure:** Shot accuracy.<br />
+**Lesson:** Although having practiced pointing toes towards the goal and noticed an improved aim, the rate at which I score goal per shots can, will and must be improved.
 
 ### 🌟 <b>Highlights of the Week</b>
 - <b>Memorable moment / breakthrough / proud event</b>: This week is all about football practice. Keruvim performance is the mirror through which I get to see myself, and get a chance to adjust outfit, so as to present my best self, out there.
@@ -106,11 +106,11 @@ Created: {{ 2025-05-31 }}
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
 1. **Failure:** The desire to be desired.<br />
-**Lesson:** A culture of excellence in actions, thoughts and words, seeks indicators of respect and admiration guiding one's sense of where he stands clear. "You know you are doing well when the world rewards, instead of punishes". Be careful though, social media is not a 'real place' for you to seek that.
+**Lesson:** A culture of excellence in actions, thoughts and words seeks indicators of respect and admiration, guiding one's sense of where he stands clear. "You know you are doing well when the world rewards, instead of punishes". Be careful though, social media is not a 'real place' for you to seek that.
 2. **Failure:** Lack of shooting technique.<br />
 **Lesson:** Gotta make sure we spend more time shooting balls whenever we are on a football pitch, than juggling or passing.
 3. **Failure:** Lack of balance on shaky grounds.<br />
-**Lesson:** This is in relation to a drill I took part this week, with Keruvim performance, where my mission was to stand on one leg and balance my body weight on an instable inflated ballon-like ball, while dropping 2 tennis ball and catching them before the second bounce.
+**Lesson:** This is in relation to a drill I took part in this week, with Keruvim performance, where my mission was to stand on one leg and balance my body weight on an instable, inflated, half-moon-like, ball, while dropping 2 tennis balls and catching them before the second bounce.
 
 ### 🌟 <b>Highlights of the Week</b>
 - <b>Memorable moment / breakthrough / proud event</b>: This week is all about football practice. Keruvim performance is the mirror through which I get to see myself, and get a chance to adjust outfit, so as to present my best self, out there.
