@@ -20,6 +20,66 @@ Created: {{ 2025-05-31 }}
 🔹 What didn’t go well — and what was learned.<br />
 🔹 Any standout moments or breakthroughs.
 
+
+## Week 34 — Sunday, 18th January 2025
+
+### 🌱 **What Was Worked On**
+
+- **Projects**
+	1. **Recherche pour une plateforme d'innovation mondiale**: 'For the fifthteenth week running' ; In order to earn what would cover Futtech's costs of operation, I submitted 46 entries (worldwide, monetizable, novel ideas having emerged over the last 12 months).
+	2. **Futtech Debugging**: .
+
+- **Learning & Growth**
+	1. An eventful week, it was, although the first bit of noteworthy learning occured on Wednesday, as I resolved errors and failures raised during testing of the 'user_auth' Django app on the backend; What does it mean ['to err'](https://www.google.com/search?q=to+err+meaning).
+	2. Fast forward Friday, I got exposure to an uncommon status code; [Error 429 - Too Many Requests](https://www.google.com/search?q=429+error+code).
+	3. Given my aim of growing as a striker, learning [how to shoot a ball in football](https://www.google.com/search?q=football+soccer+how+to+shoot) revealed itself as point desperately in need of my focus and attention.
+	4. Come saturday, I directed my attention towards understanding the building blocks used in creating test for React Apps, notably; [the 'describe()' function](https://www.google.com/search?q=JavaScript+function+named+describe+test+creation), the idea of [seeding in programming](https://www.google.com/search?q=to+seed+in+programming) and an overview on [msw tesing in React](https://www.google.com/search?q=msw+testing+react).
+
+- **Job hunting**
+	- Still on that ; Learned that once one secures a job, especially one that picks his interest and demands time, effort and careful attention, he stops hunting. ```Just realized this also applies to romance```, lol.
+
+### 🏆 <b>3 Wins and/or Achievements</b>
+1. Completed week 1 of the Keruvim performance January 2026 plan.
+2. Engaged in a, more or less, 5-hour long Friday ball work session, challenged the body, pushed it further than the usual 90-minute in football.
+3. Managed to both work on Futtech and 2.4M, in the midst of all this productive work.
+
+### 🔭 <b>3 Fails & Lessons Learned</b>
+1. **Failure:** The desire to be desired.<br />
+**Lesson:** A culture of excellence in actions, thoughts and words, seeks indicators of respect and admiration guiding one's sense of where he stands clear. "You know you are doing well when the world rewards, instead of punishes". Be careful though, social media is not a 'real place' for you to seek that.
+2. **Failure:** Lack of shooting technique.<br />
+**Lesson:** Gotta make sure we spend more time shooting balls whenever we are on a football pitch, than juggling or passing.
+3. **Failure:** Lack of balance on shaky grounds.<br />
+**Lesson:** This is in relation to a drill I took part this week, with Keruvim performance, where my mission was to stand on one leg and balance my body weight on an instable inflated ballon-like ball, while dropping 2 tennis ball and catching them before the second bounce.
+
+### 🌟 <b>Highlights of the Week</b>
+- <b>Memorable moment / breakthrough / proud event</b>: This week is all about football practice. Keruvim performance is the mirror through which I get to see myself, and get a chance to adjust outfit, so as to present my best self, out there.
+- <b>Quote, inspiration, or personal reflection</b>: ```Stoic Footballer``` - Football moves me, it brings out Pathos, the good kind; the one found in the shared aimed, acceptance of the suffering required for one to tranform for better. A place where I can integrate social life into my instanciation of the stoic Ethos, as I continually seek to serve Logos.
+
+---
+
+## 📅 <b>Coming Up Next Week, InshaAllah</b> - 12th to 18th January 2026
+- [ ] Hit a daily average of 12 innovative research entries.
+- [ ] Be done with dream analysis come 8:50AM.
+- [ ] Ensure to spend 30 minutes, before bedtime, [every night](https://www.youtube.com/shorts/mQcTJdyTFtA) stretching.
+
+---
+
+## 📈 <b>Meta</b>
+| Metric | This Week |
+| ------ | --------- |
+| Submissions | 44 |
+| Study Hours | N/A |
+| GitHub Commits | 25 |
+| Sleep Avg (hrs) | 7 |
+| Total Coding Time (hrs) | 3 |
+| Training Sessions (Football) | 5 |
+
+---
+
+> _“When the student is ready, the teacher will appear.” — Buddha or Lao Tzu_
+
+<!-- Let's update the log every Sunday. Let's Go! -->
+
 ---
 
 ## Week 33 — Sunday, 11th January 2025
@@ -27,8 +87,8 @@ Created: {{ 2025-05-31 }}
 ### 🌱 **What Was Worked On**
 
 - **Projects**
-	1. **Recherche pour une plateforme d'innovation mondiale**: 'For the thirteenth week running' ; In order to earn what would cover Futtech's costs of operation, I submitted 44 entries (worldwide, monetizable, novel ideas having emerged over the last 12 months).
-	2. **Futtech Debugging**: 75% of the week was used to differentiate and resolve the errors and failures emerging upon testing of the 'user_auth' app, on the backend. The remaining percentage was used to familiarize oneself with the paradigm used to generate test for a React App.
+	1. **Recherche pour une plateforme d'innovation mondiale**: 'For the fourteenth week running' ; In order to earn what would cover Futtech's costs of operation, I submitted 44 entries (worldwide, monetizable, novel ideas having emerged over the last 12 months).
+	2. **Futtech Debugging**: 75% of the week was used to differentiate errors from failures, and resolve their emergence upon testing of the 'user_auth' app, on the backend. The remaining percentage was used to familiarize oneself with the paradigm used to generate test for the frontend, a React App.
 
 - **Learning & Growth**
 	1. An eventful week, it was, although the first bit of noteworthy learning occured on Wednesday, as I resolved errors and failures raised during testing of the 'user_auth' Django app on the backend; What does it mean ['to err'](https://www.google.com/search?q=to+err+meaning).
@@ -88,7 +148,7 @@ Created: {{ 2025-05-31 }}
 ### 🌱 **What Was Worked On**
 
 - **Projects**
-	1. **Recherche pour une plateforme d'innovation mondiale**: 'For the twelveth week running' ; In order to earn what would cover Futtech's costs of operation, I submitted 40 entries (worldwide, monetizable, novel ideas having emerged over the last 12 months).
+	1. **Recherche pour une plateforme d'innovation mondiale**: 'For the thirteenth week running' ; In order to earn what would cover Futtech's costs of operation, I submitted 40 entries (worldwide, monetizable, novel ideas having emerged over the last 12 months).
 	2. **Futtech Debugging**: While establishing a robust and reliable error handling/display flow, the realization that write tests for the registration-login-logout flow helps better understand the system as whole led to the expansion of the test file inside 'user_auth'.
 
 - **Learning & Growth**
@@ -151,7 +211,7 @@ Created: {{ 2025-05-31 }}
 ### 🌱 **What Was Worked On**
 
 - **Projects**
-	1. **Recherche pour une plateforme d'innovation mondiale**: 'For the eleventh week running' ; In order to earn what would cover Futtech's costs of operation, I submitted 29 entries (worldwide, monetizable, novel ideas having emerged over the last 12 months).
+	1. **Recherche pour une plateforme d'innovation mondiale**: 'For the twelveth week running' ; In order to earn what would cover Futtech's costs of operation, I submitted 29 entries (worldwide, monetizable, novel ideas having emerged over the last 12 months).
 	2. **Futtech Debugging**: Having established a consistent registration-login-logout flow, I endeavored to make the process leading to display of error messages robust and reliable across the full stack.
 	3. **Researcher's Notebook**: Having noticed the amount of exposure I get, via my research assistant role in the previously mentioned job, I ensured to fuel my [Researcher's Notebook](https://github.com/kal-kyokya/kal-kyokya/blob/main/upWork/Chercheur%20pour%20une%20plateforme%20d'innovation%20mondiale/Researcher%20Notebook.md), a side-project through which I extract knowledge from the world's ingenuity.
 
@@ -214,7 +274,7 @@ Created: {{ 2025-05-31 }}
 ### 🌱 **What Was Worked On**
 
 - **Projects**
-	1. **Recherche pour une plateforme d'innovation mondiale**: 'For the tenth week running' ; In order to earn what would cover Futtech's costs of operation, I submitted 79 entries (worldwide, monetizable, novel ideas having emerged over the last 12 months).
+	1. **Recherche pour une plateforme d'innovation mondiale**: 'For the eleventh week running' ; In order to earn what would cover Futtech's costs of operation, I submitted 79 entries (worldwide, monetizable, novel ideas having emerged over the last 12 months).
 	2. **Futtech Debugging**: Having deployed Futtech, and attempted to go through the User Journey, I have found myself recalibrating everything and resolving issues that obstruct the journey, with this week's efforts aimed at the React App's utilization of the backend generated access token in order to allow authenticated users to navigate across the frontend's defined endpoints.
 
 - **Learning & Growth**
