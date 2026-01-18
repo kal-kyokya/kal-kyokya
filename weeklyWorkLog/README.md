@@ -76,7 +76,7 @@ Created: {{ 2025-05-31 }}
 
 ---
 
-> _“When the student is ready, the teacher will appear.” — Buddha or Lao Tzu_
+> _“It's necessary to keep your ego under control... The proper attitude is gratitude... Never think there's something spectacularly special about yourself that's attracting...” — Jordan B. Peterson via Akira The Don, Apple Music, "The Wave"_
 
 <!-- Let's update the log every Sunday. Let's Go! -->
 
