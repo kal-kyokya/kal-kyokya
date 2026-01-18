@@ -30,10 +30,10 @@ Created: {{ 2025-05-31 }}
 	2. **Futtech Debugging**: .
 
 - **Learning & Growth**
-	1. An eventful week, it was, although the first bit of noteworthy learning occured on Wednesday, as I resolved errors and failures raised during testing of the 'user_auth' Django app on the backend; What does it mean ['to err'](https://www.google.com/search?q=to+err+meaning).
-	2. Fast forward Friday, I got exposure to an uncommon status code; [Error 429 - Too Many Requests](https://www.google.com/search?q=429+error+code).
-	3. Given my aim of growing as a striker, learning [how to shoot a ball in football](https://www.google.com/search?q=football+soccer+how+to+shoot) revealed itself as point desperately in need of my focus and attention.
-	4. Come saturday, I directed my attention towards understanding the building blocks used in creating test for React Apps, notably; [the 'describe()' function](https://www.google.com/search?q=JavaScript+function+named+describe+test+creation), the idea of [seeding in programming](https://www.google.com/search?q=to+seed+in+programming) and an overview on [msw tesing in React](https://www.google.com/search?q=msw+testing+react).
+	1. This is a first one; although highly productive a week it was, the first noteworthy bit of learning occured on Saturday morning, as I sought clarification on the use of ['min-width' in CSS Media Queries](https://www.google.com/search?q=min-width+css+media+query).
+	2. The next bit of interesting bit of knowledge solidified that same day occured in the evening as I refreshed my memory of the meaning of [CC and BCC in email](https://www.google.com/search?q=cc+and+bcc+in+email+meaning).
+	3. For what this is worth, I was mistaken to believe that the french word ['Reproche'] was 'féminin', as [this google search](https://www.google.com/search?q=reproche+genre+masculin+ou+f%C3%A9minin) helped me know.
+	4. .
 
 - **Job hunting**
 	- Still on that ; Learned that once one secures a job, especially one that picks his interest and demands time, effort and careful attention, he stops hunting. ```Just realized this also applies to romance```, lol.
