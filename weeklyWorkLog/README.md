@@ -67,16 +67,16 @@ Created: {{ 2025-05-31 }}
 ## 📈 <b>Meta</b>
 | Metric | This Week |
 | ------ | --------- |
-| Submissions | 44 |
+| Submissions | 46 |
 | Study Hours | N/A |
 | GitHub Commits | 25 |
 | Sleep Avg (hrs) | 7 |
-| Total Coding Time (hrs) | 3 |
-| Training Sessions (Football) | 5 |
+| Total Coding Time (hrs) | 4 |
+| Training Sessions (Football) | 4 |
 
 ---
 
-> _“It's necessary to keep your ego under control... The proper attitude is gratitude... Never think there's something spectacularly special about yourself that's attracting...” — Jordan B. Peterson via Akira The Don, Apple Music, "The Wave"_
+> _“It's necessary to keep your ego under control... The proper attitude is gratitude... Never think there's something spectacularly special about yourself that's attracting...” — Jordan B. Peterson via Akira The Don, Apple Music, "The Wave"._
 
 <!-- Let's update the log every Sunday. Let's Go! -->
 
