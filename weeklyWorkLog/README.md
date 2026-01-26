@@ -57,9 +57,9 @@ Created: {{ 2025-05-31 }}
 
 ---
 
-## 📅 <b>Coming Up Next Week, InshaAllah</b> - 19th to 25th January 2026
+## 📅 <b>Coming Up Next Week, InshaAllah</b> - January 26th to February 1st 2026
 - [ ] Be done with dream analysis come 8:50AM.
-- [ ] Ensure to spend 30 minutes, before bedtime, [every night](https://www.youtube.com/shorts/mQcTJdyTFtA) stretching.
+- [ ] Ensure to spend 30 minutes, [every day](https://www.youtube.com/shorts/mQcTJdyTFtA) stretching.
 - [ ] Hit a daily average of 12 innovative research entries.
 
 ---
