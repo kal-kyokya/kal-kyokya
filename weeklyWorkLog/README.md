@@ -39,9 +39,9 @@ Created: {{ 2025-05-31 }}
 	- Still on that ; Learned that once one secures a job, especially one that picks his interest and demands time, effort and careful attention, he stops hunting. ```Just realized this also applies to romance```, lol.
 
 ### 🏆 <b>3 Wins and/or Achievements</b>
-1. Practiced pointing the standing foot's toes towards goal during shooting drills, in order to increase shot accuracy.
-2. 'Look good, Do good, Be good'; Yeah, "Looku nayo, safi", a n*gga had that sh*t on, bruh. All black, bruh. Très nwaar.
-3. The social media generated content, and the implications of tagging the San Siro turf inform me of the potential for Futtech to have a positive impact on football players, as well as, content creators.
+1. Getting to learn about injury management given a bit of discomfort felt in and around my vastus intermedius.
+2. Hard to not point out the pull subjected to by the social media content generated after carefully curation and editing, and the response it got. 'My ability to generate quality/beauty'.
+3. Thinking of asking QLF to inquire about a gym and consider hitting it.
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
 1. **Failure:** Keeping time.<br />
