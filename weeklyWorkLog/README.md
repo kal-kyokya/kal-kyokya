@@ -44,12 +44,12 @@ Created: {{ 2025-05-31 }}
 3. Thinking of asking QLF to inquire about a gym and consider hitting it.
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
-1. **Failure:** Keeping time.<br />
-**Lesson:** "I've arrived mindset... Your start coming late... Your breakfast isn't ready" - Goggins already talked about this. I gotta honor myself and, flawlessly, execute my routines.
-2. **Failure:** Lack of urgency.<br />
-**Lesson:** Coach Kirubi called it out many a time during friday's session. I noticed it as I watched footage from it (Futtech's footage after training promise to of great help). How is one meant to rehearse with higher sense of urgency? Well, let's work on it this week. Starting in the gym.
-3. **Failure:** Shot accuracy.<br />
-**Lesson:** Although having practiced pointing toes towards the goal and noticed an improved aim, the rate at which I score goal per shots can, will and must be improved.
+1. **Failure:** Failure to scan before asking for the ball.<br />
+**Lesson:** Practice going through a checklist that says 'See, Ask, Act'; See where the press is coming from, Ask for the ball on the right foot, Act swiftly and get to the goal.
+2. **Failure:** Failure to absorb the power of a hard pass.<br />
+**Lesson:** My first touch requires me to practive controlling the ball in a manner that has it stay within a 1 foot radius post first touch.
+3. **Failure:** Speed and change of direction.<br />
+**Lesson:** I need to ask myself, coach, the internet, ChatGPT, what makes me slow to take off, change direction and reach the highest top speed manageable.
 
 ### 🌟 <b>Highlights of the Week</b>
 - <b>Memorable moment / breakthrough / proud event</b>: "How does one make people feel safe to share with him their pain and suffering? Is that something that everyone out there is getting more and more of?". AlhamduliAllah, 'solution guy' gets to be used as someone on whom people's thoughts can bounce. People's thoughts and Pathos; bouncing off, due to 'That Mode'.
@@ -107,7 +107,7 @@ Created: {{ 2025-05-31 }}
 1. **Failure:** Keeping time.<br />
 **Lesson:** "I've arrived mindset... Your start coming late... Your breakfast isn't ready" - Goggins already talked about this. I gotta honor myself and, flawlessly, execute my routines.
 2. **Failure:** Lack of urgency.<br />
-**Lesson:** Coach Kirubi called it out many a time during friday's session. I noticed it as I watched footage from it (Futtech's footage after training promise to of great help). How is one meant to rehearse with higher sense of urgency? Well, let's work on it this week. Starting in the gym.
+**Lesson:** Coach Kirubi called it out many a time during friday's session. I noticed it as I watched footage from it (Futtech's footage after training promises to be of great help). How is one meant to rehearse training with higher sense of urgency? Well, let's work on it this week. Starting in the gym.
 3. **Failure:** Shot accuracy.<br />
 **Lesson:** Although having practiced pointing toes towards the goal and noticed an improved aim, the rate at which I score goal per shots can, will and must be improved.
 
