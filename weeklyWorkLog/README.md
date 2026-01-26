@@ -52,8 +52,8 @@ Created: {{ 2025-05-31 }}
 **Lesson:** I need to ask myself, coach, the internet, ChatGPT, what makes me slow to take off, change direction and reach the highest top speed manageable.
 
 ### 🌟 <b>Highlights of the Week</b>
-- <b>Memorable moment / breakthrough / proud event</b>: "How does one make people feel safe to share with him their pain and suffering? Is that something that everyone out there is getting more and more of?". AlhamduliAllah, 'solution guy' gets to be used as someone on whom people's thoughts can bounce. People's thoughts and Pathos; bouncing off, due to 'That Mode'.
-- <b>Quote, inspiration, or personal reflection</b>: ```Practice reacting, not anticipating``` - Although a paraphrase of Coach Kirubi informing us of, who to be, how to think and what to do, as a footballer, on a football pitch. This can be tied to this week's shooting drill, as it creates a scenario where an attacking player fake coming short for a pass, before pulling back, taking one touch in space and finishing, with a second touch, across his body, into the bottom corner. That same actions can be run, like a basketball play, on the pitch.
+- <b>Memorable moment / breakthrough / proud event</b>: Shooting with power. Discarding accuracy and aiming to use laces to hit it. Although accuracy dropped to 0%, like I got no goals (Hit the cross bar with a left shot), going out there and doing things differently than last time, and without carrying much for the result felt; right.
+- <b>Quote, inspiration, or personal reflection</b>: ```Aim at the highest good, Tell the Truth, or at least don't lie``` - Jordan B. Peterson, from the YouTube playlist 'Professor against Political Correctness'. This reminds me of the "Attitude-Aim-Action" mental model I have established.
 
 ---
 
@@ -113,7 +113,7 @@ Created: {{ 2025-05-31 }}
 
 ### 🌟 <b>Highlights of the Week</b>
 - <b>Memorable moment / breakthrough / proud event</b>: "How does one make people feel safe to share with him their pain and suffering? Is that something that everyone out there is getting more and more of?". AlhamduliAllah, 'solution guy' gets to be used as someone on whom people's thoughts can bounce. People's thoughts and Pathos; bouncing off, due to 'That Mode'.
-- <b>Quote, inspiration, or personal reflection</b>: ```Practice reacting, not anticipating``` - Although a paraphrase of Coach Kirubi informing us of, who to be, how to think and what to do, as a footballer, on a football pitch. This can be tied to this week's shooting drill, as it creates a scenario where an attacking player fake coming short for a pass, before pulling back, taking one touch in space and finishing, with a second touch, across his body, into the bottom corner. That same actions can be run, like a basketball play, on the pitch.
+- <b>Quote, inspiration, or personal reflection</b>: ```Practice reacting, not anticipating``` - Although a paraphrase of Coach Kirubi informing us of, who to be, how to think and what to do, as a footballer, on a football pitch. This can be tied to this week's shooting drill, as it creates a scenario where an attacking player fakes coming short for a pass, before pulling back, taking one touch in space and finishing, with a second touch, across his body, into the bottom corner. That same actions can be run, like a basketball play, on the pitch.
 
 ---
 
