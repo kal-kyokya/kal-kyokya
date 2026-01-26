@@ -76,7 +76,7 @@ Created: {{ 2025-05-31 }}
 
 ---
 
-> _“It's necessary to keep your ego under control... The proper attitude is gratitude... Never think there's something spectacularly special about yourself that's attracting...” — Jordan B. Peterson via Akira The Don, Apple Music, "The Wave"._
+> _“It's the truth I'm after, and the truth never harmed anyone. What harms us is to persist in self-deceit and ignorance.” — Marcus Aurelius._
 
 <!-- Let's update the log every Sunday. Let's Go! -->
 
