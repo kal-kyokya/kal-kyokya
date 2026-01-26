@@ -21,19 +21,79 @@ Created: {{ 2025-05-31 }}
 🔹 Any standout moments or breakthroughs.
 
 
-## Week 34 — Sunday, 18th January 2025
+## Week 35 — Sunday, 25th January 2025
 
 ### 🌱 **What Was Worked On**
 
 - **Projects**
-	1. **Recherche pour une plateforme d'innovation mondiale**: 'For the fifthteenth week running' ; In order to earn what would cover Futtech's costs of operation, I submitted 46 entries (worldwide, monetizable, novel ideas having emerged over the last 12 months).
-	2. **Futtech Debugging**: .
+	1. **Recherche pour une plateforme d'innovation mondiale**: 'For the sixteenth week running' ; In order to earn what would cover Futtech's costs of operation, I submitted 72 entries (worldwide, monetizable, novel ideas having emerged over the last 12 months).
+	2. **Futtech Debugging**: After having resolved the errors leading to failed test cases, a desire to comprehensively understand the authentication and authorization flow, from the client, to the server, and back to the client led to my laying down 4 [mermaid flowcharts](https://www.google.com/search?q=Mermaid+flowchart) detailing it.
 
 - **Learning & Growth**
 	1. This is a first one; although highly productive a week it was, the first noteworthy bit of learning occured on Saturday morning, as I sought clarification on the use of ['min-width' in CSS Media Queries](https://www.google.com/search?q=min-width+css+media+query).
 	2. The next bit of interesting bit of knowledge solidified that same day occured in the evening as I refreshed my memory of the meaning of [CC and BCC in email](https://www.google.com/search?q=cc+and+bcc+in+email+meaning).
 	3. For what this is worth, I was mistaken to believe that the french word ['Reproche'] was 'féminin', as [this google search](https://www.google.com/search?q=reproche+genre+masculin+ou+f%C3%A9minin) helped me know.
 	4. .
+
+- **Job hunting**
+	- Still on that ; Learned that once one secures a job, especially one that picks his interest and demands time, effort and careful attention, he stops hunting. ```Just realized this also applies to romance```, lol.
+
+### 🏆 <b>3 Wins and/or Achievements</b>
+1. Practiced pointing the standing foot's toes towards goal during shooting drills, in order to increase shot accuracy.
+2. 'Look good, Do good, Be good'; Yeah, "Looku nayo, safi", a n*gga had that sh*t on, bruh. All black, bruh. Très nwaar.
+3. The social media generated content, and the implications of tagging the San Siro turf inform me of the potential for Futtech to have a positive impact on football players, as well as, content creators.
+
+### 🔭 <b>3 Fails & Lessons Learned</b>
+1. **Failure:** Keeping time.<br />
+**Lesson:** "I've arrived mindset... Your start coming late... Your breakfast isn't ready" - Goggins already talked about this. I gotta honor myself and, flawlessly, execute my routines.
+2. **Failure:** Lack of urgency.<br />
+**Lesson:** Coach Kirubi called it out many a time during friday's session. I noticed it as I watched footage from it (Futtech's footage after training promise to of great help). How is one meant to rehearse with higher sense of urgency? Well, let's work on it this week. Starting in the gym.
+3. **Failure:** Shot accuracy.<br />
+**Lesson:** Although having practiced pointing toes towards the goal and noticed an improved aim, the rate at which I score goal per shots can, will and must be improved.
+
+### 🌟 <b>Highlights of the Week</b>
+- <b>Memorable moment / breakthrough / proud event</b>: "How does one make people feel safe to share with him their pain and suffering? Is that something that everyone out there is getting more and more of?". AlhamduliAllah, 'solution guy' gets to be used as someone on whom people's thoughts can bounce. People's thoughts and Pathos; bouncing off, due to 'That Mode'.
+- <b>Quote, inspiration, or personal reflection</b>: ```Practice reacting, not anticipating``` - Although a paraphrase of Coach Kirubi informing us of, who to be, how to think and what to do, as a footballer, on a football pitch. This can be tied to this week's shooting drill, as it creates a scenario where an attacking player fake coming short for a pass, before pulling back, taking one touch in space and finishing, with a second touch, across his body, into the bottom corner. That same actions can be run, like a basketball play, on the pitch.
+
+---
+
+## 📅 <b>Coming Up Next Week, InshaAllah</b> - 19th to 25th January 2026
+- [ ] Be done with dream analysis come 8:50AM.
+- [ ] Ensure to spend 30 minutes, before bedtime, [every night](https://www.youtube.com/shorts/mQcTJdyTFtA) stretching.
+- [ ] Hit a daily average of 12 innovative research entries.
+
+---
+
+## 📈 <b>Meta</b>
+| Metric | This Week |
+| ------ | --------- |
+| Submissions | 46 |
+| Study Hours | N/A |
+| GitHub Commits | 25 |
+| Sleep Avg (hrs) | 7 |
+| Total Coding Time (hrs) | 4 |
+| Training Sessions (Football) | 4 |
+
+---
+
+> _“It's necessary to keep your ego under control... The proper attitude is gratitude... Never think there's something spectacularly special about yourself that's attracting...” — Jordan B. Peterson via Akira The Don, Apple Music, "The Wave"._
+
+<!-- Let's update the log every Sunday. Let's Go! -->
+
+---
+
+## Week 34 — Sunday, 18th January 2025
+
+### 🌱 **What Was Worked On**
+
+- **Projects**
+	1. **Recherche pour une plateforme d'innovation mondiale**: 'For the fifthteenth week running' ; In order to earn what would cover Futtech's costs of operation, I submitted 46 entries (worldwide, monetizable, novel ideas having emerged over the last 12 months).
+	2. **Futtech Debugging**: A set of tests were created for the React App to ensure proper understanding of the React app serving as frontend as well as its appropriate functioning.
+
+- **Learning & Growth**
+	1. This is a first one; although highly productive a week it was, the first noteworthy bit of learning occured on Saturday morning, as I sought clarification on the use of ['min-width' in CSS Media Queries](https://www.google.com/search?q=min-width+css+media+query).
+	2. The next bit of interesting bit of knowledge solidified that same day occured in the evening as I refreshed my memory of the meaning of [CC and BCC in email](https://www.google.com/search?q=cc+and+bcc+in+email+meaning).
+	3. For what this is worth, I was mistaken to believe that the french word ['Reproche'] was 'féminin', as [this google search](https://www.google.com/search?q=reproche+genre+masculin+ou+f%C3%A9minin) helped me know.
 
 - **Job hunting**
 	- Still on that ; Learned that once one secures a job, especially one that picks his interest and demands time, effort and careful attention, he stops hunting. ```Just realized this also applies to romance```, lol.
