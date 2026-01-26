@@ -30,10 +30,10 @@ Created: {{ 2025-05-31 }}
 	2. **Futtech Debugging**: After having resolved the errors leading to failed test cases, a desire to comprehensively understand the authentication and authorization flow, from the client, to the server, and back to the client led to my laying down 4 [mermaid flowcharts](https://www.google.com/search?q=Mermaid+flowchart) detailing it.
 
 - **Learning & Growth**
-	1. This is a first one; although highly productive a week it was, the first noteworthy bit of learning occured on Saturday morning, as I sought clarification on the use of ['min-width' in CSS Media Queries](https://www.google.com/search?q=min-width+css+media+query).
-	2. The next bit of interesting bit of knowledge solidified that same day occured in the evening as I refreshed my memory of the meaning of [CC and BCC in email](https://www.google.com/search?q=cc+and+bcc+in+email+meaning).
-	3. For what this is worth, I was mistaken to believe that the french word ['Reproche'] was 'féminin', as [this google search](https://www.google.com/search?q=reproche+genre+masculin+ou+f%C3%A9minin) helped me know.
-	4. .
+	1. Tuesday morning, as I set on acquiring comprehensive understanding of the data flow from the client to the server, I was introduced to the idea of a [mermaid flowcharts](https://www.google.com/search?q=Mermaid+flowchart) and how to create one iside a '.md' file.
+	2. Perusing through the Django code responsible for handling frontend requests for 'Auth' I took note of the 'copy()' method and [investigated it](https://www.google.com/search?q=python+copy+function+on+dictionaries).
+	3. Still on tuesday, I learned of the [HoReCa](https://www.google.com/search?q=Secteur+des+restaurant+et+CHR) french acronym bundling together 'Hotels-Restaurants-Café' in the restauration sector.
+	4. As of thursday, I was pleased to learn how to [rename a file in Emacs](https://www.google.com/search?q=rename+file+emacs).
 
 - **Job hunting**
 	- Still on that ; Learned that once one secures a job, especially one that picks his interest and demands time, effort and careful attention, he stops hunting. ```Just realized this also applies to romance```, lol.
