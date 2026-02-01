@@ -21,6 +21,66 @@ Created: {{ 2025-05-31 }}
 🔹 Any standout moments or breakthroughs.
 
 
+## Week 36 — Sunday, 1st February 2025
+
+### 🌱 **What Was Worked On**
+
+- **Projects**
+	1. **Futtech Debugging**: Having completed unit, as well as, integration tests for the auth-flow, I set out to finalize refactor of the auth-related frontend functionality and prepare refactor of the playlist CRUD operations.
+
+- **Learning & Growth**
+	1. Tuesday morning, as I set on acquiring comprehensive understanding of the data flow from the client to the server, I was introduced to the idea of a [mermaid flowcharts](https://www.google.com/search?q=Mermaid+flowchart) and how to create one iside a '.md' file.
+	2. Perusing through the Django code responsible for handling frontend requests for 'Auth' I took note of the 'copy()' method and [investigated it](https://www.google.com/search?q=python+copy+function+on+dictionaries).
+	3. Still on tuesday, I learned of the [HoReCa](https://www.google.com/search?q=Secteur+des+restaurant+et+CHR) french acronym bundling together 'Hotels-Restaurants-Café' in the restauration sector.
+	4. As of thursday, I was pleased to learn how to [rename a file in Emacs](https://www.google.com/search?q=rename+file+emacs).
+
+- **Job hunting**
+	- Still on that ; Learned that once one secures a job, especially one that picks his interest and demands time, effort and careful attention, he stops hunting. ```Just realized this also applies to romance```, lol.
+
+### 🏆 <b>3 Wins and/or Achievements</b>
+1. Getting to learn about injury management given a bit of discomfort felt in and around my vastus intermedius.
+2. Hard to not point out the pull subjected to by the social media content generated after carefully curation and editing, and the response it got. 'My ability to generate quality/beauty'.
+3. Thinking of asking QLF to inquire about a gym and consider hitting it.
+
+### 🔭 <b>3 Fails & Lessons Learned</b>
+1. **Failure:** Failure to scan before asking for the ball.<br />
+**Lesson:** Practice going through a checklist that says 'See, Ask, Act'; See where the press is coming from, Ask for the ball on the right foot, Act swiftly and get to the goal.
+2. **Failure:** Failure to absorb the power of a hard pass.<br />
+**Lesson:** My first touch requires me to practive controlling the ball in a manner that has it stay within a 1 foot radius post first touch.
+3. **Failure:** Speed and change of direction.<br />
+**Lesson:** I need to ask myself, coach, the internet, ChatGPT, what makes me slow to take off, change direction and reach the highest top speed manageable.
+
+### 🌟 <b>Highlights of the Week</b>
+- <b>Memorable moment / breakthrough / proud event</b>: Shooting with power. Discarding accuracy and aiming to use laces to hit it. Although accuracy dropped to 0%, like I got no goals (Hit the cross bar with a left shot), going out there and doing things differently than last time, and without carrying much for the result felt; right.
+- <b>Quote, inspiration, or personal reflection</b>: ```Aim at the highest good, Tell the Truth, or at least don't lie``` - Jordan B. Peterson, from the YouTube playlist 'Professor against Political Correctness'. This reminds me of the "Attitude-Aim-Action" mental model I have established.
+
+---
+
+## 📅 <b>Coming Up Next Week, InshaAllah</b> - January 26th to February 1st 2026
+- [ ] Be done with dream analysis come 8:50AM.
+- [ ] Ensure to spend 30 minutes, [every day](https://www.youtube.com/shorts/mQcTJdyTFtA) stretching.
+- [ ] Hit a daily average of 12 innovative research entries.
+
+---
+
+## 📈 <b>Meta</b>
+| Metric | This Week |
+| ------ | --------- |
+| Submissions | 72 |
+| Study Hours | N/A |
+| GitHub Commits | 14 |
+| Sleep Avg (hrs) | 7 |
+| Total Coding Time (hrs) | 1 |
+| Training Sessions (Football) | 4 |
+
+---
+
+> _“It's the truth I'm after, and the truth never harmed anyone. What harms us is to persist in self-deceit and ignorance.” — Marcus Aurelius._
+
+<!-- Let's update the log every Sunday. Let's Go! -->
+
+---
+
 ## Week 35 — Sunday, 25th January 2025
 
 ### 🌱 **What Was Worked On**
