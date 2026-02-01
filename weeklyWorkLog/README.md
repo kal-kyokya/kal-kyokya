@@ -50,8 +50,8 @@ Created: {{ 2025-05-31 }}
 **Lesson:** Yeah, where I get my food from on a weekly basis needs to be scheduled and executed. The series of unexpected events this week resulted in my eating unscheduled meal, at unsual hours and resulted in my stomach being upset throughout the night, today, which impacts the quality of my sleep.
 
 ### 🌟 <b>Highlights of the Week</b>
-- <b>Memorable moment / breakthrough / proud event</b>: Shooting with power. Discarding accuracy and aiming to use laces to hit it. Although accuracy dropped to 0%, like I got no goals (Hit the cross bar with a left shot), going out there and doing things differently than last time, and without carrying much for the result felt; right.
-- <b>Quote, inspiration, or personal reflection</b>: ```Aim at the highest good, Tell the Truth, or at least don't lie``` - Jordan B. Peterson, from the YouTube playlist 'Professor against Political Correctness'. This reminds me of the "Attitude-Aim-Action" mental model I have established.
+- <b>Memorable moment / breakthrough / proud event</b>: Being given the book `Outliers by Malcom Gladwell`, on Friday, by Coach Kirubi and experiencing myself eating up the pages in a way that has me desiring to keep the book reading habit going.
+- <b>Quote, inspiration, or personal reflection</b>: ```Moves Can Be Made``` - A quote I wrote on February 8th 2022, and as of this week refers to the potential pathway forward I can, must, will use in order to launch Futtech.
 
 ---
 
