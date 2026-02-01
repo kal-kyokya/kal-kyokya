@@ -74,7 +74,7 @@ Created: {{ 2025-05-31 }}
 
 ---
 
-> _“It's the truth I'm after, and the truth never harmed anyone. What harms us is to persist in self-deceit and ignorance.” — Marcus Aurelius._
+> _“Game Theory: Players, Strategies, Rules and Incentives/Payoffs.” — Jean-Paul De Marie Kalulu KYOKYA's summary, extracted from the YouTube video 'Game Theory #1: The Dating Game'._
 
 <!-- Let's update the log every Sunday. Let's Go! -->
 
