@@ -42,12 +42,12 @@ Created: {{ 2025-05-31 }}
 3. Completing month 1 of Keruvim Performance in good health, having learned more about myself as a human being and football player than I had done in recet times.
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
-1. **Failure:** Failure to scan before asking for the ball.<br />
-**Lesson:** Practice going through a checklist that says 'See, Ask, Act'; See where the press is coming from, Ask for the ball on the right foot, Act swiftly and get to the goal.
-2. **Failure:** Failure to absorb the power of a hard pass.<br />
-**Lesson:** My first touch requires me to practive controlling the ball in a manner that has it stay within a 1 foot radius post first touch.
-3. **Failure:** Speed and change of direction.<br />
-**Lesson:** I need to ask myself, coach, the internet, ChatGPT, what makes me slow to take off, change direction and reach the highest top speed manageable.
+1. **Failure:** Lack of budget.<br />
+**Lesson:** Having to rely solely on my savings to transition between jobs makes the fact that I have been laxed with my budgeting pronounced and asks of me to act accordingly; lay out a plan, and execute.
+2. **Failure:** Low key; The desire to be desired.<br />
+**Lesson:** Although I'm kinda scraping dust here, this particular theme seems to be a few steps away from rearing its ugly head into my being, unless I stay in 'That Mode'.
+3. **Failure:** Inconsistent meal plan.<br />
+**Lesson:** Yeah, where I get my food from on a weekly basis needs to be scheduled and executed. The series of unexpected events this week resulted in my eating unscheduled meal, at unsual hours and resulted in my stomach being upset throughout the night, today, which impacts the quality of my sleep.
 
 ### 🌟 <b>Highlights of the Week</b>
 - <b>Memorable moment / breakthrough / proud event</b>: Shooting with power. Discarding accuracy and aiming to use laces to hit it. Although accuracy dropped to 0%, like I got no goals (Hit the cross bar with a left shot), going out there and doing things differently than last time, and without carrying much for the result felt; right.
