@@ -34,7 +34,7 @@ Created: {{ 2025-05-31 }}
 	3. While resolving bugs impeding graceful handling of errors during login attempts of invalid credentials, I was pleased to get a reminder of how to check that a [javascript string contains a substring](https://www.google.com/search?q=javascript+string+contains+substring).
 
 - **Job hunting**
-	- Still on that ; Learned that once one secures a job, especially one that picks his interest and demands time, effort and careful attention, he stops hunting. ```Just realized this also applies to romance```, lol.
+	- Midweek, was informed of the research job being on break till further notice and used the rest of the week to make moves enabling me to smoothly go back on the 3 application a day hunt starting today.
 
 ### 🏆 <b>3 Wins and/or Achievements</b>
 1. Getting to learn about injury management given a bit of discomfort felt in and around my vastus intermedius.
