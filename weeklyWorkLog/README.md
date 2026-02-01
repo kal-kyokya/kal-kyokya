@@ -37,9 +37,9 @@ Created: {{ 2025-05-31 }}
 	- Midweek, was informed of the research job being on break till further notice and used the rest of the week to make moves enabling me to smoothly go back on the 3 application a day hunt starting today.
 
 ### 🏆 <b>3 Wins and/or Achievements</b>
-1. Getting to learn about injury management given a bit of discomfort felt in and around my vastus intermedius.
-2. Hard to not point out the pull subjected to by the social media content generated after carefully curation and editing, and the response it got. 'My ability to generate quality/beauty'.
-3. Thinking of asking QLF to inquire about a gym and consider hitting it.
+1. Listening to my resentment and standing my ground professionally in order to not be bullied by the client I had been working with for the past 16 weeks.
+2. Not collapsing under the weight of the Pathos I was subject to as a result of an eventful week, that could have been used to justify an outburst of emotions.
+3. Completing month 1 of Keruvim Performance in good health, having learned more about myself as a human being and football player than I had done in recet times.
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
 1. **Failure:** Failure to scan before asking for the ball.<br />
