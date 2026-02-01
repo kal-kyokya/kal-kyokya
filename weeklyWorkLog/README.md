@@ -29,10 +29,9 @@ Created: {{ 2025-05-31 }}
 	1. **Futtech Debugging**: Having completed unit, as well as, integration tests for the auth-flow, I set out to finalize refactor of the auth-related frontend functionality and prepare refactor of the playlist CRUD operations.
 
 - **Learning & Growth**
-	1. Tuesday morning, as I set on acquiring comprehensive understanding of the data flow from the client to the server, I was introduced to the idea of a [mermaid flowcharts](https://www.google.com/search?q=Mermaid+flowchart) and how to create one iside a '.md' file.
-	2. Perusing through the Django code responsible for handling frontend requests for 'Auth' I took note of the 'copy()' method and [investigated it](https://www.google.com/search?q=python+copy+function+on+dictionaries).
-	3. Still on tuesday, I learned of the [HoReCa](https://www.google.com/search?q=Secteur+des+restaurant+et+CHR) french acronym bundling together 'Hotels-Restaurants-Café' in the restauration sector.
-	4. As of thursday, I was pleased to learn how to [rename a file in Emacs](https://www.google.com/search?q=rename+file+emacs).
+	1. Starting Friday, late night, I took the time to investigate [Game Theory: Players, Strategy, Rules and Incentives/Payoffs](https://www.google.com/search?q=game+theory+player+rule+and+incentives), a mental framework facilitating analysis of human interactions.
+	2. As a result, I also researched [Nash Equilibrium in Game Theory](https://www.google.com/search?q=nash+equilibrium+in+game+theory), a state where reward has been maximized in relation to risk.
+	3. While resolving bugs impeding graceful handling of errors during login attempts of invalid credentials, I was pleased to get a reminder of how to check that a [javascript string contains a substring](https://www.google.com/search?q=javascript+string+contains+substring).
 
 - **Job hunting**
 	- Still on that ; Learned that once one secures a job, especially one that picks his interest and demands time, effort and careful attention, he stops hunting. ```Just realized this also applies to romance```, lol.
