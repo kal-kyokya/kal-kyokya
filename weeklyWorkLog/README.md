@@ -29,9 +29,9 @@ Created: {{ 2025-05-31 }}
 	1. **Futtech Debugging**: Generated tests for the playlist CRUD operations across the entire tech stack, refactor modules causing failure of test cases and appended a mermaid flowchart representing playlist operations from the client to the server and back.
 
 - **Learning & Growth**
-	1. Starting Friday, late night, I took the time to investigate [Game Theory: Players, Strategy, Rules and Incentives/Payoffs](https://www.google.com/search?q=game+theory+player+rule+and+incentives), a mental framework facilitating analysis of human interactions.
-	2. As a result, I also researched [Nash Equilibrium in Game Theory](https://www.google.com/search?q=nash+equilibrium+in+game+theory), a state where reward has been maximized in relation to risk.
-	3. While resolving bugs impeding graceful handling of errors during login attempts of invalid credentials, I was pleased to get a reminder of how to check that a [javascript string contains a substring](https://www.google.com/search?q=javascript+string+contains+substring).
+	1. Starting monday evening, as I executed a ['Whois Domain Lookup'](https://www.google.com/search?q=whois+lookup) for `futtech-africa.com`, I was pleased to see my subdomain futtech.kalkyokya.tech appear on the first result page and noticed that the domain naming is more or less up for grabs. This had me thinking that maybe this is where I 'invest in real estate' and buy domain names as if it was land.
+	2. Fast forward friday, as a result of purchasing [USN's 3 in 1 Creatine Monohydrate](https://www.google.com/search?q=usn+creatine+3+in+1), I have educated myself greatly regarding nutrition and have integrated the captivating points into my daily routines.
+	3. Although having started the video on friday, I learned today that [mothers taking 'Choline' during pregnancy](https://www.google.com/search?q=mother+take+choline+during+pregnancy) increases the likelihood of having a relatively smart child.
 
 - **Job hunting**
 	- Midweek, was informed of the research job being on break till further notice and used the rest of the week to make moves enabling me to smoothly go back on the 3 application a day hunt starting today.
