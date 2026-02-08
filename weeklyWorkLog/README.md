@@ -42,12 +42,12 @@ Created: {{ 2025-05-31 }}
 3. Choosing to have individual sessions with Keruvim performance promises to help me grow as a striker, in ways I don't even know I need to grow.
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
-1. **Failure:** Lack of budget.<br />
-**Lesson:** Having to rely solely on my savings to transition between jobs makes the fact that I have been laxed with my budgeting pronounced and asks of me to act accordingly; lay out a plan, and execute.
-2. **Failure:** Low key; The desire to be desired.<br />
-**Lesson:** Although I'm kinda scraping dust here, this particular theme seems to be a few steps away from rearing its ugly head into my being, unless I stay in 'That Mode'.
-3. **Failure:** Inconsistent meal plan.<br />
-**Lesson:** Yeah, where I get my food from on a weekly basis needs to be scheduled and executed. The series of unexpected events this week resulted in my eating unscheduled meal, at unsual hours and resulted in my stomach being upset throughout the night, today, which impacts the quality of my sleep.
+1. **Failure:** Lacking a striker's fundamentals.<br />
+**Lesson:** I need these next 3 weeks. The work I will put it will help me earn the right to claim that I play as a striker and learn to be, think, act and play like one.
+2. **Failure:** Beep test.<br />
+**Lesson:** I scored a level 5.5 during wednesday's test and was informed that a professional should seek a level 15. I got work to do, as far as improving my cardio for football goes.
+3. **Failure:** 2.4M.<br />
+**Lesson:** Yeah, naaan. A brother needs to be out there making moula. This is required. A n*gga gotta make things happen.
 
 ### 🌟 <b>Highlights of the Week</b>
 - <b>Memorable moment / breakthrough / proud event</b>: Being given the book `Outliers by Malcom Gladwell`, on Friday, by Coach Kirubi and experiencing myself eating up the pages in a way that has me desiring to keep the book reading habit going.
