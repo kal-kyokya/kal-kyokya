@@ -74,7 +74,7 @@ Created: {{ 2025-05-31 }}
 
 ---
 
-> _“Game Theory: Players, Strategies, Rules and Incentives/Payoffs.” — Jean-Paul De Marie Kalulu KYOKYA's summary, extracted from the YouTube video 'Game Theory #1: The Dating Game'._
+> _“Dumb Luck, Volume Luck, Professional Luck and Specific Knowledge.” — Paraphrase of Naval Ravikant's description of the types of 'Luck'._
 
 <!-- Let's update the log every Sunday. Let's Go! -->
 
