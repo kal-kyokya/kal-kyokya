@@ -21,6 +21,64 @@ Created: {{ 2025-05-31 }}
 🔹 Any standout moments or breakthroughs.
 
 
+## Week 37 — Sunday, 8th February 2025
+
+### 🌱 **What Was Worked On**
+
+- **Projects**
+	1. **Futtech Debugging**: Generated tests for the playlist CRUD operations across the entire tech stack, refactor modules causing failure of test cases and appended a mermaid flowchart representing playlist operations from the client to the server and back.
+
+- **Learning & Growth**
+	1. Starting Friday, late night, I took the time to investigate [Game Theory: Players, Strategy, Rules and Incentives/Payoffs](https://www.google.com/search?q=game+theory+player+rule+and+incentives), a mental framework facilitating analysis of human interactions.
+	2. As a result, I also researched [Nash Equilibrium in Game Theory](https://www.google.com/search?q=nash+equilibrium+in+game+theory), a state where reward has been maximized in relation to risk.
+	3. While resolving bugs impeding graceful handling of errors during login attempts of invalid credentials, I was pleased to get a reminder of how to check that a [javascript string contains a substring](https://www.google.com/search?q=javascript+string+contains+substring).
+
+- **Job hunting**
+	- Midweek, was informed of the research job being on break till further notice and used the rest of the week to make moves enabling me to smoothly go back on the 3 application a day hunt starting today.
+
+### 🏆 <b>3 Wins and/or Achievements</b>
+1. Listening to my resentment and standing my ground professionally in order to not be bullied by the client I had been working with for the past 16 weeks.
+2. Not collapsing under the weight of the Pathos I was subject to as a result of an eventful week, that could have been used to justify an outburst of emotions.
+3. Completing month 1 of Keruvim Performance in good health, having learned more about myself as a human being and football player than I had done in recet times.
+
+### 🔭 <b>3 Fails & Lessons Learned</b>
+1. **Failure:** Lack of budget.<br />
+**Lesson:** Having to rely solely on my savings to transition between jobs makes the fact that I have been laxed with my budgeting pronounced and asks of me to act accordingly; lay out a plan, and execute.
+2. **Failure:** Low key; The desire to be desired.<br />
+**Lesson:** Although I'm kinda scraping dust here, this particular theme seems to be a few steps away from rearing its ugly head into my being, unless I stay in 'That Mode'.
+3. **Failure:** Inconsistent meal plan.<br />
+**Lesson:** Yeah, where I get my food from on a weekly basis needs to be scheduled and executed. The series of unexpected events this week resulted in my eating unscheduled meal, at unsual hours and resulted in my stomach being upset throughout the night, today, which impacts the quality of my sleep.
+
+### 🌟 <b>Highlights of the Week</b>
+- <b>Memorable moment / breakthrough / proud event</b>: Being given the book `Outliers by Malcom Gladwell`, on Friday, by Coach Kirubi and experiencing myself eating up the pages in a way that has me desiring to keep the book reading habit going.
+- <b>Quote, inspiration, or personal reflection</b>: ```Moves Can Be Made``` - A quote I wrote on February 8th 2022, and as of this week refers to the potential pathway forward I can, must, will use in order to launch Futtech.
+
+---
+
+## 📅 <b>Coming Up Next Week, InshaAllah</b> - 2nd to 8th February 2026
+- [ ] Be done with dream analysis come 8:20AM.
+- [ ] Ensure to spend 30 minutes, [every day](https://www.youtube.com/shorts/mQcTJdyTFtA) stretching.
+- [ ] Read 72-100 pages, [every day](https://www.youtube.com/shorts/mQcTJdyTFtA).
+
+---
+
+## 📈 <b>Meta</b>
+| Metric | This Week |
+| ------ | --------- |
+| Study Hours | N/A |
+| GitHub Commits | 25 |
+| Sleep Avg (hrs) | 7 |
+| Total Coding Time (hrs) | 2 |
+| Training Sessions (Football) | 3 |
+
+---
+
+> _“Game Theory: Players, Strategies, Rules and Incentives/Payoffs.” — Jean-Paul De Marie Kalulu KYOKYA's summary, extracted from the YouTube video 'Game Theory #1: The Dating Game'._
+
+<!-- Let's update the log every Sunday. Let's Go! -->
+
+---
+
 ## Week 36 — Sunday, 1st February 2025
 
 ### 🌱 **What Was Worked On**
