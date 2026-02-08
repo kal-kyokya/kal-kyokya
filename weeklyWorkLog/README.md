@@ -37,9 +37,9 @@ Created: {{ 2025-05-31 }}
 	- Average one application per day for this work week (i.e., 5 applications in total).
 
 ### 🏆 <b>3 Wins and/or Achievements</b>
-1. Listening to my resentment and standing my ground professionally in order to not be bullied by the client I had been working with for the past 16 weeks.
-2. Not collapsing under the weight of the Pathos I was subject to as a result of an eventful week, that could have been used to justify an outburst of emotions.
-3. Completing month 1 of Keruvim Performance in good health, having learned more about myself as a human being and football player than I had done in recet times.
+1. Complete read of the book Outlier by Malcom Gladwell in 4-5 days and immediately picking a second book I project to complete in an other 4-5 days span.
+2. In the same category, picking up a reading habit that, InshaAllah, I will keep up leaves me feeling proud of the progress I make each day after reading for an hour or two.
+3. Choosing to have individual sessions with Keruvim performance promises to help me grow as a striker, in ways I don't even know I need to grow.
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
 1. **Failure:** Lack of budget.<br />
@@ -97,7 +97,7 @@ Created: {{ 2025-05-31 }}
 ### 🏆 <b>3 Wins and/or Achievements</b>
 1. Listening to my resentment and standing my ground professionally in order to not be bullied by the client I had been working with for the past 16 weeks.
 2. Not collapsing under the weight of the Pathos I was subject to as a result of an eventful week, that could have been used to justify an outburst of emotions.
-3. Completing month 1 of Keruvim Performance in good health, having learned more about myself as a human being and football player than I had done in recet times.
+3. Completing month 1 of Keruvim Performance in good health, having learned more about myself as a human being and football player than I had done in recent times.
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
 1. **Failure:** Lack of budget.<br />
