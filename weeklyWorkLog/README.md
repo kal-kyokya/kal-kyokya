@@ -55,9 +55,10 @@ Created: {{ 2025-05-31 }}
 
 ---
 
-## 📅 <b>Coming Up Next Week, InshaAllah</b> - 2nd to 8th February 2026
-- [ ] Be done with dream analysis come 8:20AM.
-- [ ] Ensure to spend 30 minutes, [every day](https://www.youtube.com/shorts/mQcTJdyTFtA) stretching.
+## 📅 <b>Coming Up Next Week, InshaAllah</b> - 9th to 15th February 2026
+- [ ] Be done eating by 8:00PM.
+- [ ] Be done with dream analysis come 8:00AM.
+- [ ] Ensure to spend 30 minutes, [every day](https://www.youtube.com/shorts/mQcTJdyTFtA) going through the hip mobility routine.
 - [ ] Read 72-100 pages, [every day](https://www.youtube.com/shorts/mQcTJdyTFtA).
 
 ---
