@@ -34,7 +34,7 @@ Created: {{ 2025-05-31 }}
 	3. Although having started the video on friday, I learned today that [mothers taking 'Choline' during pregnancy](https://www.google.com/search?q=mother+take+choline+during+pregnancy) increases the likelihood of having a relatively smart child.
 
 - **Job hunting**
-	- Midweek, was informed of the research job being on break till further notice and used the rest of the week to make moves enabling me to smoothly go back on the 3 application a day hunt starting today.
+	- Average one application per day for this work week (i.e., 5 applications in total).
 
 ### 🏆 <b>3 Wins and/or Achievements</b>
 1. Listening to my resentment and standing my ground professionally in order to not be bullied by the client I had been working with for the past 16 weeks.
