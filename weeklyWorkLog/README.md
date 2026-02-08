@@ -50,8 +50,8 @@ Created: {{ 2025-05-31 }}
 **Lesson:** Yeah, naaan. A brother needs to be out there making moula. This is required. A n*gga gotta make things happen.
 
 ### 🌟 <b>Highlights of the Week</b>
-- <b>Memorable moment / breakthrough / proud event</b>: Being given the book `Outliers by Malcom Gladwell`, on Friday, by Coach Kirubi and experiencing myself eating up the pages in a way that has me desiring to keep the book reading habit going.
-- <b>Quote, inspiration, or personal reflection</b>: ```Moves Can Be Made``` - A quote I wrote on February 8th 2022, and as of this week refers to the potential pathway forward I can, must, will use in order to launch Futtech.
+- <b>Memorable moment / breakthrough / proud event</b>: Stepping into Naivas with Coach Kirubi and realizing just how socially skilled I have growned over the years of deliberate practice. I, low key, have something of a network and have acquired the skills required to display enough self-possession, observation and communication to not let my introversion limit me. Still got work to do though.
+- <b>Quote, inspiration, or personal reflection</b>: I have realized that my daily routine feeds me on many level; 'Stoic Footballer', 'Impactful Software Engineer', 'EEE', 'DLHI' are built-in. The initial code base off of which I currently am molding Futtech of has me thinking of the fact that over time, one moves faster because he is operating at 60-70% more than where a 'beginner' find himself on the journey up the mountain. AlhamduliAllah.
 
 ---
 
