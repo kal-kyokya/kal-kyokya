@@ -21,12 +21,71 @@ Created: {{ 2025-05-31 }}
 🔹 Any standout moments or breakthroughs.
 
 
+## Week 38 — Sunday, 15th February 2025
+
+### 🌱 **What Was Worked On**
+
+- **Projects**
+	1. **Futtech Debugging**: Rewrote and enhanced the project's documentation and module's comments for newcomers and future me to easily understand the functioning of the Futtech project..
+
+- **Learning & Growth**
+	1. Starting monday evening, as I executed a ['Whois Domain Lookup'](https://www.google.com/search?q=whois+lookup) for `futtech-africa.com`, I was pleased to see my subdomain futtech.kalkyokya.tech appear on the first result page and noticed that the domain naming is more or less up for grabs. This had me thinking that maybe this is where I 'invest in real estate' and buy domain names as if it was land.
+	2. Fast forward friday, as a result of purchasing [USN's 3 in 1 Creatine Monohydrate](https://www.google.com/search?q=usn+creatine+3+in+1), I have educated myself greatly regarding nutrition and have integrated the captivating points into my daily routines.
+	3. Although having started the video on friday, I learned today that [mothers taking 'Choline' during pregnancy](https://www.google.com/search?q=mother+take+choline+during+pregnancy) increases the likelihood of having a relatively smart child.
+
+- **Job hunting**
+	- Average one application per day for this work week (i.e., 5 applications in total).
+
+### 🏆 <b>3 Wins and/or Achievements</b>
+1. Complete read of the book Outlier by Malcom Gladwell in 4-5 days and immediately picking a second book I project to complete in an other 4-5 days span.
+2. In the same category, picking up a reading habit that, InshaAllah, I will keep up leaves me feeling proud of the progress I make each day after reading for an hour or two.
+3. Choosing to have individual sessions with Keruvim performance promises to help me grow as a striker, in ways I don't even know I need to grow.
+
+### 🔭 <b>3 Fails & Lessons Learned</b>
+1. **Failure:** Lacking a striker's fundamentals.<br />
+**Lesson:** I need these next 3 weeks. The work I will put it will help me earn the right to claim that I play as a striker and learn to be, think, act and play like one.
+2. **Failure:** Beep test.<br />
+**Lesson:** I scored a level 5.5 during wednesday's test and was informed that a professional should seek a level 15. I got work to do, as far as improving my cardio for football goes.
+3. **Failure:** 2.4M.<br />
+**Lesson:** Yeah, naaan. A brother needs to be out there making moula. This is required. A n*gga gotta make things happen.
+
+### 🌟 <b>Highlights of the Week</b>
+- <b>Memorable moment / breakthrough / proud event</b>: Stepping into Naivas with Coach Kirubi and realizing just how socially skilled I have growned over the years of deliberate practice. I, low key, have something of a network and have acquired the skills required to display enough self-possession, observation and communication to not let my introversion limit me. Still got work to do though.
+- <b>Quote, inspiration, or personal reflection</b>: I have realized that my daily routine feeds me on many level; 'Stoic Footballer', 'Impactful Software Engineer', 'EEE', 'DLHI' are built-in. The initial code base off of which I currently am molding Futtech of has me thinking of the fact that over time, one moves faster because he is operating at 60-70% more than where a 'beginner' find himself on the journey up the mountain. AlhamduliAllah.
+
+---
+
+## 📅 <b>Coming Up Next Week, InshaAllah</b> - 9th to 15th February 2026
+- [ ] Be done eating by 8:00PM.
+- [ ] Be done with dream analysis come 8:00AM.
+- [ ] Ensure to spend 30 minutes, [every day](https://www.youtube.com/shorts/mQcTJdyTFtA) going through the hip mobility routine.
+- [ ] Read 72-100 pages, [every day](https://www.youtube.com/shorts/mQcTJdyTFtA).
+
+---
+
+## 📈 <b>Meta</b>
+| Metric | This Week |
+| ------ | --------- |
+| Study Hours | N/A |
+| GitHub Commits | 32 |
+| Sleep Avg (hrs) | 7 |
+| Total Coding Time (hrs) | 2 |
+| Training Sessions (Football) | 4 |
+
+---
+
+> _“Dumb Luck, Volume Luck, Professional Luck and Specific Knowledge.” — Paraphrase of Naval Ravikant's description of the types of 'Luck'._
+
+<!-- Let's update the log every Sunday. Let's Go! -->
+
+---
+
 ## Week 37 — Sunday, 8th February 2025
 
 ### 🌱 **What Was Worked On**
 
 - **Projects**
-	1. **Futtech Debugging**: Generated tests for the playlist CRUD operations across the entire tech stack, refactor modules causing failure of test cases and appended a mermaid flowchart representing playlist operations from the client to the server and back.
+	1. **Futtech Debugging**: Generated tests for the playlist CRUD operations across the entire tech stack, refactored modules causing test failures, and appended a mermaid flowchart representing playlist operations from the client to the server and back.
 
 - **Learning & Growth**
 	1. Starting monday evening, as I executed a ['Whois Domain Lookup'](https://www.google.com/search?q=whois+lookup) for `futtech-africa.com`, I was pleased to see my subdomain futtech.kalkyokya.tech appear on the first result page and noticed that the domain naming is more or less up for grabs. This had me thinking that maybe this is where I 'invest in real estate' and buy domain names as if it was land.
