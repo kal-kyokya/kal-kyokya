@@ -41,12 +41,12 @@ Created: {{ 2025-05-31 }}
 3. The ease with whcih I have seen myself learn from Coach Kirubi during friday's session where a number of things clicked as far as "first touch, set up and shoot" drills went.
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
-1. **Failure:** Lacking a striker's fundamentals.<br />
-**Lesson:** I need these next 3 weeks. The work I will put it will help me earn the right to claim that I play as a striker and learn to be, think, act and play like one.
-2. **Failure:** Beep test.<br />
-**Lesson:** I scored a level 5.5 during wednesday's test and was informed that a professional should seek a level 15. I got work to do, as far as improving my cardio for football goes.
-3. **Failure:** 2.4M.<br />
-**Lesson:** Yeah, naaan. A brother needs to be out there making moula. This is required. A n*gga gotta make things happen.
+1. **Failure:** Time management.<br />
+**Lesson:** Being up early is not enough. I need to be done grooming an hour from my 7:25 AM wake up time. Should be ready to move by 8:25 AM already.
+2. **Failure:** No bedtime routine.<br />
+**Lesson:** I have arrived at the turf 30 minutes on Thursday, having forgotten the ball that given to me on wednesday. Not readying the next day starting before bedtime  is one of point of failure I want to eliminate.
+3. **Failure:** Forgettig to take my scoop of creatine.<br />
+**Lesson:** With the take on creatine from [this Diary of CEO's YouTube episode](https://www.youtube.com/watch?v=JCTb3QSrGMQ) in mind, I am commited to a long-term intake of creatine every morning which I need to integrate in my morning routine religiously.
 
 ### 🌟 <b>Highlights of the Week</b>
 - <b>Memorable moment / breakthrough / proud event</b>: Stepping into Naivas with Coach Kirubi and realizing just how socially skilled I have growned over the years of deliberate practice. I, low key, have something of a network and have acquired the skills required to display enough self-possession, observation and communication to not let my introversion limit me. Still got work to do though.
@@ -101,7 +101,7 @@ Created: {{ 2025-05-31 }}
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
 1. **Failure:** Lacking a striker's fundamentals.<br />
-**Lesson:** I need these next 3 weeks. The work I will put it will help me earn the right to claim that I play as a striker and learn to be, think, act and play like one.
+**Lesson:** I need these next 3 weeks. The work I will put in will help me earn the right to claim that I play as a striker and learn to be, think, act and play like one.
 2. **Failure:** Beep test.<br />
 **Lesson:** I scored a level 5.5 during wednesday's test and was informed that a professional should seek a level 15. I got work to do, as far as improving my cardio for football goes.
 3. **Failure:** 2.4M.<br />
