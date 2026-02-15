@@ -73,7 +73,7 @@ Created: {{ 2025-05-31 }}
 
 ---
 
-> _“Dumb Luck, Volume Luck, Professional Luck and Specific Knowledge.” — Paraphrase of Naval Ravikant's description of the types of 'Luck'._
+> _“Not to display anger or other emotions. To be free of passion and yet full of love.” — Marcus Aurelius._
 
 <!-- Let's update the log every Sunday. Let's Go! -->
 
