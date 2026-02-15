@@ -33,7 +33,7 @@ Created: {{ 2025-05-31 }}
 	2. Come saturday, research on how to embed videos in a website at an affordable made me discover [Bunny Stream](https://www.youtube.com/results?search_query=bunny+stream), a service that emerged from Bunny.net in 2021 and has been compared to [Cloudflare stream](https://www.youtube.com/results?search_query=Cloudflare+Stream) substantially.
 
 - **Job hunting**
-	- Average one application per day for this work week (i.e., 5 applications in total).
+	- Submitted 3 proposals which were all viewed by employers and the last one had me receive a message where I was informed that someone else was hired earlier in the day, but permission to save my contact was asked nonetheless.
 
 ### 🏆 <b>3 Wins and/or Achievements</b>
 1. Complete read of the book Outlier by Malcom Gladwell in 4-5 days and immediately picking a second book I project to complete in an other 4-5 days span.
@@ -92,7 +92,7 @@ Created: {{ 2025-05-31 }}
 	3. Although having started the video on friday, I learned today that [mothers taking 'Choline' during pregnancy](https://www.google.com/search?q=mother+take+choline+during+pregnancy) increases the likelihood of having a relatively smart child.
 
 - **Job hunting**
-	- Average one application per day for this work week (i.e., 5 applications in total).
+	- Averaged one application per day for this work week (i.e., 5 applications in total).
 
 ### 🏆 <b>3 Wins and/or Achievements</b>
 1. Complete read of the book Outlier by Malcom Gladwell in 4-5 days and immediately picking a second book I project to complete in an other 4-5 days span.
