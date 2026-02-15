@@ -49,8 +49,8 @@ Created: {{ 2025-05-31 }}
 **Lesson:** With the take on creatine from [this Diary of CEO's YouTube episode](https://www.youtube.com/watch?v=JCTb3QSrGMQ) in mind, I am commited to a long-term intake of creatine every morning which I need to integrate in my morning routine religiously.
 
 ### 🌟 <b>Highlights of the Week</b>
-- <b>Memorable moment / breakthrough / proud event</b>: Stepping into Naivas with Coach Kirubi and realizing just how socially skilled I have growned over the years of deliberate practice. I, low key, have something of a network and have acquired the skills required to display enough self-possession, observation and communication to not let my introversion limit me. Still got work to do though.
-- <b>Quote, inspiration, or personal reflection</b>: I have realized that my daily routine feeds me on many level; 'Stoic Footballer', 'Impactful Software Engineer', 'EEE', 'DLHI' are built-in. The initial code base off of which I currently am molding Futtech of has me thinking of the fact that over time, one moves faster because he is operating at 60-70% more than where a 'beginner' find himself on the journey up the mountain. AlhamduliAllah.
+- <b>Memorable moment / breakthrough / proud event</b>: Getting to watch myself train through videos recorded and edited by Coach Kirubi had me feeling so proud of myself. turns out I got a decent first touch, which despite the need to be worked on sets me up for a good push of the ball precending my 'low and hard' shots. Futtech will get me more of exactly that: "Watch Yourself Ball".
+- <b>Quote, inspiration, or personal reflection</b>: "Qualité. Concentration" - Two words that emerged during this week's training with Keruvim Performance and guided my actions.
 
 ---
 
@@ -109,7 +109,7 @@ Created: {{ 2025-05-31 }}
 
 ### 🌟 <b>Highlights of the Week</b>
 - <b>Memorable moment / breakthrough / proud event</b>: Stepping into Naivas with Coach Kirubi and realizing just how socially skilled I have growned over the years of deliberate practice. I, low key, have something of a network and have acquired the skills required to display enough self-possession, observation and communication to not let my introversion limit me. Still got work to do though.
-- <b>Quote, inspiration, or personal reflection</b>: I have realized that my daily routine feeds me on many level; 'Stoic Footballer', 'Impactful Software Engineer', 'EEE', 'DLHI' are built-in. The initial code base off of which I currently am molding Futtech of has me thinking of the fact that over time, one moves faster because he is operating at 60-70% more than where a 'beginner' find himself on the journey up the mountain. AlhamduliAllah.
+- <b>Quote, inspiration, or personal reflection</b>: I have realized that my typical day feeds me on many level; 'Stoic Footballer', 'Impactful Software Engineer', 'EEE', 'DLHI' are built-in. The initial codebase off of which I currently am molding Futtech, has me thinking of the fact that over time, one moves faster because he is operating at 60-70% more than where a 'beginner' finds himself on the journey up the mountain. AlhamduliAllah.
 
 ---
 
