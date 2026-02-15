@@ -29,9 +29,8 @@ Created: {{ 2025-05-31 }}
 	1. **Futtech Debugging**: Rewrote and enhanced the project's documentation and module's comments for newcomers and future me to easily understand the functioning of the Futtech project..
 
 - **Learning & Growth**
-	1. Starting monday evening, as I executed a ['Whois Domain Lookup'](https://www.google.com/search?q=whois+lookup) for `futtech-africa.com`, I was pleased to see my subdomain futtech.kalkyokya.tech appear on the first result page and noticed that the domain naming is more or less up for grabs. This had me thinking that maybe this is where I 'invest in real estate' and buy domain names as if it was land.
-	2. Fast forward friday, as a result of purchasing [USN's 3 in 1 Creatine Monohydrate](https://www.google.com/search?q=usn+creatine+3+in+1), I have educated myself greatly regarding nutrition and have integrated the captivating points into my daily routines.
-	3. Although having started the video on friday, I learned today that [mothers taking 'Choline' during pregnancy](https://www.google.com/search?q=mother+take+choline+during+pregnancy) increases the likelihood of having a relatively smart child.
+	1. As a result of an inquiry made by a potential client, I finished tuesday looking up how to [integrate M-Pesa to a website](https://www.youtube.com/results?search_query=integrate+mpesa+to+website), which led to my wondering what the meaning of [STK push](https://www.google.com/search?q=stk+push) is.
+	2. Come saturday, research on how to embed videos in a website at an affordable made me discover [Bunny Stream](https://www.youtube.com/results?search_query=bunny+stream), a service that emerged from Bunny.net in 2021 and has been compared to [Cloudflare stream](https://www.youtube.com/results?search_query=Cloudflare+Stream) substantially.
 
 - **Job hunting**
 	- Average one application per day for this work week (i.e., 5 applications in total).
