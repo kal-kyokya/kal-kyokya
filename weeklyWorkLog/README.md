@@ -36,9 +36,9 @@ Created: {{ 2025-05-31 }}
 	- Submitted 3 proposals which were all viewed by employers and the last one had me receive a message where I was informed that someone else was hired earlier in the day, but permission to save my contact was asked nonetheless.
 
 ### 🏆 <b>3 Wins and/or Achievements</b>
-1. Complete read of the book Outlier by Malcom Gladwell in 4-5 days and immediately picking a second book I project to complete in an other 4-5 days span.
-2. In the same category, picking up a reading habit that, InshaAllah, I will keep up leaves me feeling proud of the progress I make each day after reading for an hour or two.
-3. Choosing to have individual sessions with Keruvim performance promises to help me grow as a striker, in ways I don't even know I need to grow.
+1. Completing read of the book "The Introvert's Way" by Sophia Dembling and starting my second read of the book "Making Life Work" by Tom Zinkle, Ph.D..
+2. Having someone reach out to me as a result of my showing the personal portfolio project and the Instagram highlights of my football training sessions has me feeling like the story I have to tell is powerful enough to have the potential to help me get access to life experiences that will fill ne with meaning.
+3. The ease with whcih I have seen myself learn from Coach Kirubi during friday's session where a number of things clicked as far as "first touch, set up and shoot" drills went.
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
 1. **Failure:** Lacking a striker's fundamentals.<br />
