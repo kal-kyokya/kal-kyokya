@@ -52,8 +52,8 @@ Created: {{ 2025-05-31 }}
 **Lesson:** Saw myself mislead someone I knew way-back-when. Embellishing my recent wins and accomplishments as if they aren't good enough as is. I need to practice telling the truth, or at least not lying.
 
 ### 🌟 <b>Highlights of the Week</b>
-- <b>Memorable moment / breakthrough / proud event</b>: Getting to watch myself train through videos recorded and edited by Coach Kirubi had me feeling so proud of myself. turns out I got a decent first touch, which despite the need to be worked on sets me up for a good push of the ball precending my 'low and hard' shots. Futtech will get me more of exactly that: "Watch Yourself Ball".
-- <b>Quote, inspiration, or personal reflection</b>: "Qualité. Concentration" - Two words that emerged during this week's training with Keruvim Performance and guided my actions.
+- <b>Memorable moment / breakthrough / proud event</b>: Being up at 6 AM, ready to show up at San Siro Turf Stadium in Roysambu for a 6:30 to 7:30 AM training session with Keruvim performance. I have had a hard time be up that early in the morning. That hasn't been a problem lately.
+- <b>Quote, inspiration, or personal reflection</b>: "Destest mediocrity." - I am an admirer of David Goggings mindset. I sometimes wonder why is it that I can be such a harsh critic of myself and the world around me. I sometimes forget that 'staying hard' is the mode that feels most honorable to me..
 
 ---
 
@@ -110,7 +110,7 @@ Created: {{ 2025-05-31 }}
 **Lesson:** With the take on creatine from [this Diary of CEO's YouTube episode](https://www.youtube.com/watch?v=JCTb3QSrGMQ) in mind, I am commited to a long-term intake of creatine every morning which I need to integrate in my morning routine religiously.
 
 ### 🌟 <b>Highlights of the Week</b>
-- <b>Memorable moment / breakthrough / proud event</b>: Getting to watch myself train through videos recorded and edited by Coach Kirubi had me feeling so proud of myself. turns out I got a decent first touch, which despite the need to be worked on sets me up for a good push of the ball precending my 'low and hard' shots. Futtech will get me more of exactly that: "Watch Yourself Ball".
+- <b>Memorable moment / breakthrough / proud event</b>: Getting to watch myself train through videos recorded and edited by Coach Kirubi had me feeling so proud of myself. turns out I got a decent first touch, which despite the need to be worked on sets me up for a good push of the ball preceding my 'low and hard' shots. Futtech will get me more of exactly that: "Watch Yourself Ball".
 - <b>Quote, inspiration, or personal reflection</b>: "Qualité. Concentration" - Two words that emerged during this week's training with Keruvim Performance and guided my actions.
 
 ---
