@@ -39,9 +39,9 @@ Created: {{ 2025-05-31 }}
 	- No jobs applied for.
 
 ### 🏆 <b>3 Wins and/or Achievements</b>
-1. Completing read of the book "The Introvert's Way" by Sophia Dembling and starting my second read of the book "Making Life Work" by Tom Zinkle, Ph.D..
-2. Having someone reach out to me as a result of my showing the personal portfolio project and the Instagram highlights of my football training sessions has me feeling like the story I have to tell is powerful enough to have the potential to help me get access to life experiences that will fill ne with meaning.
-3. The ease with whcih I have seen myself learn from Coach Kirubi during friday's session where a number of things clicked as far as "first touch, set up and shoot" drills went.
+1. Being willing, and able to be up as early as 6 AM, in order to go for training and grow with Keruvim Performance.
+2. Starting Ramadan, on Wednesday, with three 80 minutes+ calls through which I was able to put myself together and practiced telling the truth or at least not lying.
+3. Walking arounf USIU, interacting with various people and making the most out of those opportunity to socialize by being in the moment, learning and encouraging the best out of everyone.
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
 1. **Failure:** Time management.<br />
@@ -98,7 +98,7 @@ Created: {{ 2025-05-31 }}
 
 ### 🏆 <b>3 Wins and/or Achievements</b>
 1. Completing read of the book "The Introvert's Way" by Sophia Dembling and starting my second read of the book "Making Life Work" by Tom Zinkle, Ph.D..
-2. Having someone reach out to me as a result of my showing the personal portfolio project and the Instagram highlights of my football training sessions has me feeling like the story I have to tell is powerful enough to have the potential to help me get access to life experiences that will fill ne with meaning.
+2. Having someone reach out to me as a result of my showing the personal portfolio project and the Instagram highlights of my football training sessions has me feeling like the story I have to tell is powerful enough to have the potential to help me get access to life experiences that will fill me with meaning.
 3. The ease with whcih I have seen myself learn from Coach Kirubi during friday's session where a number of things clicked as far as "first touch, set up and shoot" drills went.
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
