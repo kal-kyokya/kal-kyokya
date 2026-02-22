@@ -44,12 +44,12 @@ Created: {{ 2025-05-31 }}
 3. Walking arounf USIU, interacting with various people and making the most out of those opportunity to socialize by being in the moment, learning and encouraging the best out of everyone.
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
-1. **Failure:** Time management.<br />
-**Lesson:** Being up early is not enough. I need to be done grooming an hour from my 7:25 AM wake up time. Should be ready to move by 8:25 AM already.
-2. **Failure:** No bedtime routine.<br />
-**Lesson:** I have arrived at the turf 30 minutes on Thursday, having forgotten the ball that given to me on wednesday. Not readying the next day starting before bedtime  is one of point of failure I want to eliminate.
-3. **Failure:** Forgettig to take my scoop of creatine.<br />
-**Lesson:** With the take on creatine from [this Diary of CEO's YouTube episode](https://www.youtube.com/watch?v=JCTb3QSrGMQ) in mind, I am commited to a long-term intake of creatine every morning which I need to integrate in my morning routine religiously.
+1. **Failure:** Doom scrolling IG.<br />
+**Lesson:** Simple, we disconnect from social media at 9:30PM. I'd rather know myself on Crunchyroll and/or Netflix.
+2. **Failure:** Lack of focus.<br />
+**Lesson:** Coach Kirubi and I noticed my concentration weaving at times, we are at the turf here, I tend to not play my best ball during the first session of the week, then get better during the next one. I need to have a routine that gets me ready every single time.
+3. **Failure:** Lies and deception.<br />
+**Lesson:** Saw myself mislead someone I knew way-back-when. Embellishing my recent wins and accomplishments as if they aren't good enough as is. I need to practice telling the truth, or at least not lying.
 
 ### 🌟 <b>Highlights of the Week</b>
 - <b>Memorable moment / breakthrough / proud event</b>: Getting to watch myself train through videos recorded and edited by Coach Kirubi had me feeling so proud of myself. turns out I got a decent first touch, which despite the need to be worked on sets me up for a good push of the ball precending my 'low and hard' shots. Futtech will get me more of exactly that: "Watch Yourself Ball".
@@ -105,8 +105,8 @@ Created: {{ 2025-05-31 }}
 1. **Failure:** Time management.<br />
 **Lesson:** Being up early is not enough. I need to be done grooming an hour from my 7:25 AM wake up time. Should be ready to move by 8:25 AM already.
 2. **Failure:** No bedtime routine.<br />
-**Lesson:** I have arrived at the turf 30 minutes on Thursday, having forgotten the ball that given to me on wednesday. Not readying the next day starting before bedtime  is one of point of failure I want to eliminate.
-3. **Failure:** Forgettig to take my scoop of creatine.<br />
+**Lesson:** I have arrived at the turf 30 minutes late on Thursday, having forgotten the ball that given to me on wednesday. Not readying the next day starting before bedtime  is one of point of failure I want to eliminate.
+3. **Failure:** Forgetting to take my scoop of creatine.<br />
 **Lesson:** With the take on creatine from [this Diary of CEO's YouTube episode](https://www.youtube.com/watch?v=JCTb3QSrGMQ) in mind, I am commited to a long-term intake of creatine every morning which I need to integrate in my morning routine religiously.
 
 ### 🌟 <b>Highlights of the Week</b>
