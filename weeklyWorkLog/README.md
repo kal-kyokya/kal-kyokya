@@ -21,12 +21,70 @@ Created: {{ 2025-05-31 }}
 🔹 Any standout moments or breakthroughs.
 
 
+## Week 39 — Sunday, 22nd February 2025
+
+### 🌱 **What Was Worked On**
+
+- **Projects**
+	1. **Futtech Debugging**: Switched VPaaS via transition from Mux to Bunny Stream, and began implementation of a payment system primarily relying on Safaricom's M-Pesa, and Stripe as fallback.
+
+- **Learning & Growth**
+	1. As a result of an inquiry made by a potential client, I finished tuesday looking up how to [integrate M-Pesa to a website](https://www.youtube.com/results?search_query=integrate+mpesa+to+website), which led to my wondering what the meaning of [STK push](https://www.google.com/search?q=stk+push) is.
+	2. Come saturday, research on how to embed videos in a website at an affordable made me discover [Bunny Stream](https://www.youtube.com/results?search_query=bunny+stream), a service that emerged from Bunny.net in 2021 and has been compared to [Cloudflare stream](https://www.youtube.com/results?search_query=Cloudflare+Stream) substantially.
+
+- **Job hunting**
+	- Submitted 3 proposals which were all viewed by employers and the last one had me receive a message where I was informed that someone else was hired earlier in the day, but permission to save my contact was asked nonetheless.
+
+### 🏆 <b>3 Wins and/or Achievements</b>
+1. Completing read of the book "The Introvert's Way" by Sophia Dembling and starting my second read of the book "Making Life Work" by Tom Zinkle, Ph.D..
+2. Having someone reach out to me as a result of my showing the personal portfolio project and the Instagram highlights of my football training sessions has me feeling like the story I have to tell is powerful enough to have the potential to help me get access to life experiences that will fill ne with meaning.
+3. The ease with whcih I have seen myself learn from Coach Kirubi during friday's session where a number of things clicked as far as "first touch, set up and shoot" drills went.
+
+### 🔭 <b>3 Fails & Lessons Learned</b>
+1. **Failure:** Time management.<br />
+**Lesson:** Being up early is not enough. I need to be done grooming an hour from my 7:25 AM wake up time. Should be ready to move by 8:25 AM already.
+2. **Failure:** No bedtime routine.<br />
+**Lesson:** I have arrived at the turf 30 minutes on Thursday, having forgotten the ball that given to me on wednesday. Not readying the next day starting before bedtime  is one of point of failure I want to eliminate.
+3. **Failure:** Forgettig to take my scoop of creatine.<br />
+**Lesson:** With the take on creatine from [this Diary of CEO's YouTube episode](https://www.youtube.com/watch?v=JCTb3QSrGMQ) in mind, I am commited to a long-term intake of creatine every morning which I need to integrate in my morning routine religiously.
+
+### 🌟 <b>Highlights of the Week</b>
+- <b>Memorable moment / breakthrough / proud event</b>: Getting to watch myself train through videos recorded and edited by Coach Kirubi had me feeling so proud of myself. turns out I got a decent first touch, which despite the need to be worked on sets me up for a good push of the ball precending my 'low and hard' shots. Futtech will get me more of exactly that: "Watch Yourself Ball".
+- <b>Quote, inspiration, or personal reflection</b>: "Qualité. Concentration" - Two words that emerged during this week's training with Keruvim Performance and guided my actions.
+
+---
+
+## 📅 <b>Coming Up Next Week, InshaAllah</b> - 9th to 15th February 2026
+- [ ] Be done eating by 8:00PM.
+- [ ] Be done with dream analysis come 7:45A M.
+- [ ] Ensure to spend 30 minutes, [every day](https://www.youtube.com/shorts/mQcTJdyTFtA) going through the hip mobility routine.
+- [ ] Read 72-100 pages, [every day](https://www.youtube.com/shorts/mQcTJdyTFtA).
+
+---
+
+## 📈 <b>Meta</b>
+| Metric | This Week |
+| ------ | --------- |
+| Study Hours | N/A |
+| GitHub Commits | 27 |
+| Sleep Avg (hrs) | 7 |
+| Total Coding Time (hrs) | 1 |
+| Training Sessions (Football) | 5 |
+
+---
+
+> _“Not to display anger or other emotions. To be free of passion and yet full of love.” — Marcus Aurelius._
+
+<!-- Let's update the log every Sunday. Let's Go! -->
+
+---
+
 ## Week 38 — Sunday, 15th February 2025
 
 ### 🌱 **What Was Worked On**
 
 - **Projects**
-	1. **Futtech Debugging**: Rewrote and enhanced the project's documentation and module's comments for newcomers and future me to easily understand the functioning of the Futtech project..
+	1. **Futtech Debugging**: Rewrote and enhanced the project's documentation and module's comments for newcomers and future me to easily understand the functioning of the Futtech project.
 
 - **Learning & Growth**
 	1. As a result of an inquiry made by a potential client, I finished tuesday looking up how to [integrate M-Pesa to a website](https://www.youtube.com/results?search_query=integrate+mpesa+to+website), which led to my wondering what the meaning of [STK push](https://www.google.com/search?q=stk+push) is.
