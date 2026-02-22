@@ -36,7 +36,7 @@ Created: {{ 2025-05-31 }}
 	5. Saturday, early morning, while restructuring the payment system to use M-Pesa, I learned of the [HTTP 202 status code](https://www.google.com/search?q=status+code+202), which I don't have in my screenshots, and was pleased to gain awareness of.
 
 - **Job hunting**
-	- Submitted 3 proposals which were all viewed by employers and the last one had me receive a message where I was informed that someone else was hired earlier in the day, but permission to save my contact was asked nonetheless.
+	- No jobs applied for.
 
 ### 🏆 <b>3 Wins and/or Achievements</b>
 1. Completing read of the book "The Introvert's Way" by Sophia Dembling and starting my second read of the book "Making Life Work" by Tom Zinkle, Ph.D..
