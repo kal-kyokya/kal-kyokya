@@ -29,8 +29,11 @@ Created: {{ 2025-05-31 }}
 	1. **Futtech Debugging**: Switched VPaaS via transition from Mux to Bunny Stream, and began implementation of a payment system primarily relying on Safaricom's M-Pesa, and Stripe as fallback.
 
 - **Learning & Growth**
-	1. As a result of an inquiry made by a potential client, I finished tuesday looking up how to [integrate M-Pesa to a website](https://www.youtube.com/results?search_query=integrate+mpesa+to+website), which led to my wondering what the meaning of [STK push](https://www.google.com/search?q=stk+push) is.
-	2. Come saturday, research on how to embed videos in a website at an affordable made me discover [Bunny Stream](https://www.youtube.com/results?search_query=bunny+stream), a service that emerged from Bunny.net in 2021 and has been compared to [Cloudflare stream](https://www.youtube.com/results?search_query=Cloudflare+Stream) substantially.
+	1. Wednesday morning, as I refactored the Django backend, I learned of the ['raise_for_status()'](https://www.google.com/search?q=response+raise_for_status+()+meaning) method attached to response objects which, in case of a 4xx or 5xx status code, will notify the developer of the failure that occured.
+	2. Thursday afternoon, as I implemented Bunny Stream for video on-demand functionalities, I was exposed to the idea of a [GUID](https://www.google.com/search?q=guid+meaning), in a programming context and was pleased to use it as a reminder of Universal Unique IDentifiers, in opposition to Global-UIDs aka GUID.
+	3. Friday morning, in an attempt to educate myself on the usage of Bunny Stream, I set out to read [its documentation](https://docs.bunny.net/stream) which, I have to say, is extremely well written.
+	4. While reading Bunny's documentation, I encountered the concepts of video [Encoding and Transcoding](https://www.google.com/search?q=Encoding+and+transcoding) which I believe I need to be aware of given the video-centric nature of Futtech.
+	5. Saturday, early morning, while restructuring the payment system to use M-Pesa, I learned of the [HTTP 202 status code](https://www.google.com/search?q=status+code+202), which I don't have in my screenshots, and was pleased to gain awareness of.
 
 - **Job hunting**
 	- Submitted 3 proposals which were all viewed by employers and the last one had me receive a message where I was informed that someone else was hired earlier in the day, but permission to save my contact was asked nonetheless.
