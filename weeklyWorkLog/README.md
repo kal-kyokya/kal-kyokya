@@ -76,7 +76,7 @@ Created: {{ 2025-05-31 }}
 
 ---
 
-> _“Not to display anger or other emotions. To be free of passion and yet full of love.” — Marcus Aurelius._
+> _“My mother, her reverence for the divine. Her generosity. Her inability not only to do wrong but even to conceive of doing it” — Marcus Aurelius._
 
 <!-- Let's update the log every Sunday. Let's Go! -->
 
