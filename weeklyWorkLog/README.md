@@ -76,7 +76,7 @@ Created: {{ 2025-05-31 }}
 
 ---
 
-> _“My mother, her reverence for the divine. Her generosity. Her inability not only to do wrong but even to conceive of doing it” — Marcus Aurelius._
+> _“To love my family: Truth and Justice” — Marcus Aurelius via Akira The Don, Apple Music, "Truth and Justice"._
 
 <!-- Let's update the log every Sunday. Let's Go! -->
 
@@ -118,7 +118,7 @@ Created: {{ 2025-05-31 }}
 
 ---
 
-## 📅 <b>Coming Up Next Week, InshaAllah</b> - 9th to 15th February 2026
+## 📅 <b>Coming Up Next Week, InshaAllah</b> - 23rd February to 1st March 2026
 - [ ] Be done eating by 8:00PM.
 - [ ] Be done with dream analysis come 7:25A M.
 - [ ] Ensure to spend 30 minutes, [every day](https://www.youtube.com/shorts/mQcTJdyTFtA) going through the hip mobility routine.
@@ -176,7 +176,7 @@ Created: {{ 2025-05-31 }}
 
 ---
 
-## 📅 <b>Coming Up Next Week, InshaAllah</b> - 9th to 15th February 2026
+## 📅 <b>Coming Up Next Week, InshaAllah</b> - 16th to 22nd February 2026
 - [ ] Be done eating by 8:00PM.
 - [ ] Be done with dream analysis come 7:45A M.
 - [ ] Ensure to spend 30 minutes, [every day](https://www.youtube.com/shorts/mQcTJdyTFtA) going through the hip mobility routine.
