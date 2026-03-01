@@ -44,12 +44,12 @@ Created: {{ 2025-05-31 }}
 3. Succesfully instill an 11PM bedtime routine.
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
-1. **Failure:** Doom scrolling IG.<br />
-**Lesson:** Simple, we disconnect from social media at 9:30PM. I'd rather know myself on Crunchyroll and/or Netflix.
-2. **Failure:** Lack of focus.<br />
-**Lesson:** Coach Kirubi and I noticed my concentration weaving at times, we are at the turf here, I tend to not play my best ball during the first session of the week, then get better during the next one. I need to have a routine that gets me ready every single time.
-3. **Failure:** Lies and deception.<br />
-**Lesson:** Saw myself mislead someone I knew way-back-when. Embellishing my recent wins and accomplishments as if they aren't good enough as is. I need to practice telling the truth, or at least not lying.
+1. **Failure:** Eating window.<br />
+**Lesson:** My new aim is to have my first meal at 1PM and last one, in and around 7PM, a 6 hours eating period and 18 hours fasting. Gotta be better organized to make that happen.
+2. **Failure:** Hip mobility routine.<br />
+**Lesson:** I am not doing it excellently, which robs me of the benefit I could get if I did so. I’m giving into laziness, and the weakness that thinks of 30 minutes of stretching as long. "Stay hard", we’ve come a long way and can’t afford to get too comfortable now.
+3. **Failure:** Financial discipline.<br />
+**Lesson:** Money came in, a brother made a couple good moves here and there, but, but, but, he has no job, no income, and therefore ain’t in a position to let his desire to “what would you do if you had money?” get in the way of establishing a plan and executing it. I need to stick to the code.
 
 ### 🌟 <b>Highlights of the Week</b>
 - <b>Memorable moment / breakthrough / proud event</b>: Being up at 6 AM, ready to show up at San Siro Turf Stadium in Roysambu for a 6:30 to 7:30 AM training session with Keruvim performance. I have had a hard time be up that early in the morning. That hasn't been a problem lately.
