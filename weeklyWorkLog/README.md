@@ -39,9 +39,9 @@ Created: {{ 2025-05-31 }}
 	- No jobs applied for.
 
 ### 🏆 <b>3 Wins and/or Achievements</b>
-1. Being willing, and able to be up as early as 6 AM, in order to go for training and grow with Keruvim Performance.
-2. Starting Ramadan, on Wednesday, with three 80 minutes+ calls through which I was able to put myself together and practiced telling the truth or at least not lying.
-3. Walking arounf USIU, interacting with various people and making the most out of those opportunity to socialize by being in the moment, learning and encouraging the best out of everyone.
+1. Completing month 2 of Keruvim performance: Phase 2 - Power.
+2. Covering rent and my Linode VPS for the next 3 months.
+3. Succesfully instill an 11PM bedtime routine.
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
 1. **Failure:** Doom scrolling IG.<br />
@@ -102,7 +102,7 @@ Created: {{ 2025-05-31 }}
 ### 🏆 <b>3 Wins and/or Achievements</b>
 1. Being willing, and able to be up as early as 6 AM, in order to go for training and grow with Keruvim Performance.
 2. Starting Ramadan, on Wednesday, with three 80 minutes+ calls through which I was able to put myself together and practiced telling the truth or at least not lying.
-3. Walking arounf USIU, interacting with various people and making the most out of those opportunity to socialize by being in the moment, learning and encouraging the best out of everyone.
+3. Walking around USIU, interacting with various people and making the most out of those opportunity to socialize by being in the moment, learning and encouraging the best out of everyone.
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
 1. **Failure:** Doom scrolling IG.<br />
