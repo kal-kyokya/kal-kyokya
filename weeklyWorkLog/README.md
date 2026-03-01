@@ -21,6 +21,67 @@ Created: {{ 2025-05-31 }}
 🔹 Any standout moments or breakthroughs.
 
 
+## Week 40 — Sunday, 1st March 2025
+
+### 🌱 **What Was Worked On**
+
+- **Projects**
+	1. **Futtech Debugging**: Continued implementation of a payment system primarily relying on Safaricom's M-Pesa, and Stripe as fallback.
+
+- **Learning & Growth**
+	1. .
+	2. .
+	3. .
+	4. .
+	5. .
+
+- **Job hunting**
+	- No jobs applied for.
+
+### 🏆 <b>3 Wins and/or Achievements</b>
+1. Being willing, and able to be up as early as 6 AM, in order to go for training and grow with Keruvim Performance.
+2. Starting Ramadan, on Wednesday, with three 80 minutes+ calls through which I was able to put myself together and practiced telling the truth or at least not lying.
+3. Walking arounf USIU, interacting with various people and making the most out of those opportunity to socialize by being in the moment, learning and encouraging the best out of everyone.
+
+### 🔭 <b>3 Fails & Lessons Learned</b>
+1. **Failure:** Doom scrolling IG.<br />
+**Lesson:** Simple, we disconnect from social media at 9:30PM. I'd rather know myself on Crunchyroll and/or Netflix.
+2. **Failure:** Lack of focus.<br />
+**Lesson:** Coach Kirubi and I noticed my concentration weaving at times, we are at the turf here, I tend to not play my best ball during the first session of the week, then get better during the next one. I need to have a routine that gets me ready every single time.
+3. **Failure:** Lies and deception.<br />
+**Lesson:** Saw myself mislead someone I knew way-back-when. Embellishing my recent wins and accomplishments as if they aren't good enough as is. I need to practice telling the truth, or at least not lying.
+
+### 🌟 <b>Highlights of the Week</b>
+- <b>Memorable moment / breakthrough / proud event</b>: Being up at 6 AM, ready to show up at San Siro Turf Stadium in Roysambu for a 6:30 to 7:30 AM training session with Keruvim performance. I have had a hard time be up that early in the morning. That hasn't been a problem lately.
+- <b>Quote, inspiration, or personal reflection</b>: "Destest mediocrity." - I am an admirer of David Goggings mindset. I sometimes wonder why is it that I can be such a harsh critic of myself and the world around me. I sometimes forget that 'staying hard' is the mode that feels most honorable to me..
+
+---
+
+## 📅 <b>Coming Up Next Week, InshaAllah</b> - 9th to 15th February 2026
+- [ ] Be done eating by 8:00PM.
+- [ ] Be done with dream analysis come 7:25A M.
+- [ ] Ensure to spend 30 minutes, [every day](https://www.youtube.com/shorts/mQcTJdyTFtA) going through the hip mobility routine.
+- [ ] Read 72-100 pages, [every day](https://www.youtube.com/shorts/mQcTJdyTFtA).
+
+---
+
+## 📈 <b>Meta</b>
+| Metric | This Week |
+| ------ | --------- |
+| Study Hours | N/A |
+| GitHub Commits | 51 |
+| Sleep Avg (hrs) | 7 |
+| Total Coding Time (hrs) | 4 |
+| Training Sessions (Football) | 4 |
+
+---
+
+> _“My mother, her reverence for the divine. Her generosity. Her inability not only to do wrong but even to conceive of doing it” — Marcus Aurelius._
+
+<!-- Let's update the log every Sunday. Let's Go! -->
+
+---
+
 ## Week 39 — Sunday, 22nd February 2025
 
 ### 🌱 **What Was Worked On**
