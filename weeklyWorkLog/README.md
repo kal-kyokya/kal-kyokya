@@ -29,11 +29,7 @@ Created: {{ 2025-05-31 }}
 	1. **Futtech Debugging**: Continued implementation of a payment system primarily relying on Safaricom's M-Pesa, and Stripe as fallback.
 
 - **Learning & Growth**
-	1. .
-	2. .
-	3. .
-	4. .
-	5. .
+	1. Wednesday afternoon, through this YouTuve video titled ['MPESA APIs Integration | Expert Bytes Session'](https://www.youtube.com/watch?v=wdb-pTDSLSk), got a comprehensive understanding of what adding M-Pesa to Futtech means and looks like.
 
 - **Job hunting**
 	- No jobs applied for.
