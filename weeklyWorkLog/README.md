@@ -52,8 +52,8 @@ Created: {{ 2025-05-31 }}
 **Lesson:** Money came in, a brother made a couple good moves here and there, but, but, but, he has no job, no income, and therefore ain’t in a position to let his desire to “what would you do if you had money?” get in the way of establishing a plan and executing it. I need to stick to the code.
 
 ### 🌟 <b>Highlights of the Week</b>
-- <b>Memorable moment / breakthrough / proud event</b>: Being up at 6 AM, ready to show up at San Siro Turf Stadium in Roysambu for a 6:30 to 7:30 AM training session with Keruvim performance. I have had a hard time be up that early in the morning. That hasn't been a problem lately.
-- <b>Quote, inspiration, or personal reflection</b>: "Destest mediocrity." - I am an admirer of David Goggings mindset. I sometimes wonder why is it that I can be such a harsh critic of myself and the world around me. I sometimes forget that 'staying hard' is the mode that feels most honorable to me..
+- <b>Memorable moment / breakthrough / proud event</b>: Attending the group session on Friday, being blessed to have Marcus recording moments of it, which I was able to edit into a 19 seconds video that fills me with proud given how much flair I can put on display while playing football, and informs me of the usefulness a service like Futtech could have for me, personally, and the potential it has for monetization. The reaction the video had on my IG might be a strong influence on how I feel about it, and am grateful for the journey that led me here.
+- <b>Quote, inspiration, or personal reflection</b>:  I am detached from the beautiful, the shiny, the attractive, the pulling, the captivating, as a sacrifice for the goals I have set for 'The Dem': a stoic footballer and an impactful software engineer. This is why I’m not out there, doing nothing other than balling and coding. Refraining from losing control over my gaze and sending the wrong message. Misleading the world into what my intention is: approaching not. I got a plan, gotta execut it. Gotta execute.
 
 ---
 
@@ -113,8 +113,8 @@ Created: {{ 2025-05-31 }}
 **Lesson:** Saw myself mislead someone I knew way-back-when. Embellishing my recent wins and accomplishments as if they aren't good enough as is. I need to practice telling the truth, or at least not lying.
 
 ### 🌟 <b>Highlights of the Week</b>
-- <b>Memorable moment / breakthrough / proud event</b>: Being up at 6 AM, ready to show up at San Siro Turf Stadium in Roysambu for a 6:30 to 7:30 AM training session with Keruvim performance. I have had a hard time be up that early in the morning. That hasn't been a problem lately.
-- <b>Quote, inspiration, or personal reflection</b>: "Destest mediocrity." - I am an admirer of David Goggings mindset. I sometimes wonder why is it that I can be such a harsh critic of myself and the world around me. I sometimes forget that 'staying hard' is the mode that feels most honorable to me..
+- <b>Memorable moment / breakthrough / proud event</b>: Being up at 6 AM, ready to show up at San Siro Turf Stadium in Roysambu for a 6:30 to 7:30 AM training session with Keruvim performance. I have had a hard time being up that early in the morning. That hasn't been a problem lately.
+- <b>Quote, inspiration, or personal reflection</b>: "Detest mediocrity." - I am an admirer of David Goggings' mindset. I sometimes wonder "Why is it that I can be such a harsh critic of myself, and the world around me?". I sometimes forget that 'staying hard' is the mode that feels most honorable to me.
 
 ---
 
