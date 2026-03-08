@@ -34,7 +34,7 @@ Created: {{ 2025-05-31 }}
 	3. Saturday night, fueled by the desire to progress significantly with refactor of Futtech's auth pages, I was pleased to investigate the CSS [clamp() function](https://www.google.com/search?q=clamp+css) and [outline property](https://www.google.com/search?q=outline+css+property).
 
 - **Job hunting**
-	- No jobs applied for.
+	- Applied for 5 jobs, 2 of which were viewed by clients.
 
 ### 🏆 <b>3 Wins and/or Achievements</b>
 1. Completing month 2 of Keruvim performance: Phase 2 - Power.
