@@ -50,8 +50,8 @@ Created: {{ 2025-05-31 }}
 **Lesson:** Executing plans: Bedtime, wake up time, training start time, these 3 gotta be better handled this week 42.
 
 ### 🌟 <b>Highlights of the Week</b>
-- <b>Memorable moment / breakthrough / proud event</b>: Attending the group session on Friday, being blessed to have Marcus recording moments of it, which I was able to edit into a 19 seconds video that fills me with proud given how much flair I can put on display while playing football, and informs me of the usefulness a service like Futtech could have for me, personally, and the potential it has for monetization. The reaction the video had on my IG might be a strong influence on how I feel about it, and am grateful for the journey that led me here.
-- <b>Quote, inspiration, or personal reflection</b>:  I am detached from the beautiful, the shiny, the attractive, the pulling, the captivating, as a sacrifice for the goals I have set for 'The Dem': a stoic footballer and an impactful software engineer. This is why I’m not out there, doing nothing other than balling and coding. Refraining from losing control over my gaze and sending the wrong message. Misleading the world into what my intention is: approaching not. I got a plan, gotta execut it. Gotta execute.
+- <b>Memorable moment / breakthrough / proud event</b>: I enjoy the time spent around the guys who are with Keruvim Performance: I get to work hard, be productive and feel like I earn the right to "show my teeth" aka laugh.
+- <b>Quote, inspiration, or personal reflection</b>: I wonder what it was with me and the desire to speak swahili more than english during my sessions with Keruvim Performance, this week. I wonder what that was all about.
 
 ---
 
@@ -108,7 +108,7 @@ Created: {{ 2025-05-31 }}
 
 ### 🌟 <b>Highlights of the Week</b>
 - <b>Memorable moment / breakthrough / proud event</b>: Attending the group session on Friday, being blessed to have Marcus recording moments of it, which I was able to edit into a 19 seconds video that fills me with proud given how much flair I can put on display while playing football, and informs me of the usefulness a service like Futtech could have for me, personally, and the potential it has for monetization. The reaction the video had on my IG might be a strong influence on how I feel about it, and am grateful for the journey that led me here.
-- <b>Quote, inspiration, or personal reflection</b>:  I am detached from the beautiful, the shiny, the attractive, the pulling, the captivating, as a sacrifice for the goals I have set for 'The Dem': a stoic footballer and an impactful software engineer. This is why I’m not out there, doing nothing other than balling and coding. Refraining from losing control over my gaze and sending the wrong message. Misleading the world into what my intention is: approaching not. I got a plan, gotta execut it. Gotta execute.
+- <b>Quote, inspiration, or personal reflection</b>:  I am detached from the beautiful, the shiny, the attractive, the pulling, the captivating, as a sacrifice for the goals I have set for 'The Dem': a stoic footballer and an impactful software engineer. This is why I’m not out there, doing nothing other than balling and coding. Refraining from losing control over my gaze and sending the wrong message. Misleading the world into what my intention is: approaching not. I got a plan, gotta execute it. Gotta execute.
 
 ---
 
