@@ -29,7 +29,9 @@ Created: {{ 2025-05-31 }}
 	1. **Futtech Debugging**: Completed implementation of a payment system primarily relying on Safaricom's M-Pesa, and Stripe as fallback, as well as refactoring the auth pages to include a product preview video hosted on Bunny Stream.
 
 - **Learning & Growth**
-	1. Wednesday afternoon, through this YouTuve video titled ['MPESA APIs Integration | Expert Bytes Session'](https://www.youtube.com/watch?v=wdb-pTDSLSk), got a comprehensive understanding of what adding M-Pesa to Futtech means and looks like.
+	1. Tuesday afternoon, while looking at [Lipa Na M-Pesa's sequence diagram](https://developer.safaricom.co.ke/docs/images/lipa-na-mpesa-sequence-diagram.png), I learned of [ACK responses](https://www.google.com/search?q=ack+response) and the [HTTP 202 status code] involved in request-response cycles that do not resolve immediately.
+	2. Come Friday, after discussing a future project with Coach Kirubi, I confirmed the meaning of the term [Churn rate](https://www.google.com/search?q=churn+rate), in the context of a subscription-based digital product.
+	3. Saturday night, fueled by the desire to progress significantly with refactor of Futtech's auth pages, I was pleased to investigate the CSS [clamp() function](https://www.google.com/search?q=clamp+css) and [outline property](https://www.google.com/search?q=outline+css+property).
 
 - **Job hunting**
 	- No jobs applied for.
