@@ -37,9 +37,9 @@ Created: {{ 2025-05-31 }}
 	- Applied for 5 jobs, 2 of which were viewed by clients.
 
 ### 🏆 <b>3 Wins and/or Achievements</b>
-1. Completing month 2 of Keruvim performance: Phase 2 - Power.
-2. Covering rent and my Linode VPS for the next 3 months.
-3. Succesfully instill an 11PM bedtime routine.
+1. Seeing myself dominate during Keruvim performance's test week; upper and lower body, power generation, muscle definition and single leg hop.
+2. Receiving financial support from QLF, and hearing of how promising the future is, alhamduliAllah.
+3. Seeing an old friend of mine getting into married life and having the means to make a small gesture displaying the love and appreciation I have for a n*gga.
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
 1. **Failure:** Eating window.<br />
