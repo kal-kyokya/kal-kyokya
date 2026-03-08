@@ -21,6 +21,63 @@ Created: {{ 2025-05-31 }}
 🔹 Any standout moments or breakthroughs.
 
 
+## Week 41 — Sunday, 8th March 2025
+
+### 🌱 **What Was Worked On**
+
+- **Projects**
+	1. **Futtech Debugging**: Completed implementation of a payment system primarily relying on Safaricom's M-Pesa, and Stripe as fallback, as well as refactoring the auth pages to include a product preview video hosted on Bunny Stream.
+
+- **Learning & Growth**
+	1. Wednesday afternoon, through this YouTuve video titled ['MPESA APIs Integration | Expert Bytes Session'](https://www.youtube.com/watch?v=wdb-pTDSLSk), got a comprehensive understanding of what adding M-Pesa to Futtech means and looks like.
+
+- **Job hunting**
+	- No jobs applied for.
+
+### 🏆 <b>3 Wins and/or Achievements</b>
+1. Completing month 2 of Keruvim performance: Phase 2 - Power.
+2. Covering rent and my Linode VPS for the next 3 months.
+3. Succesfully instill an 11PM bedtime routine.
+
+### 🔭 <b>3 Fails & Lessons Learned</b>
+1. **Failure:** Eating window.<br />
+**Lesson:** My new aim is to have my first meal at 1PM and last one, in and around 7PM, a 6 hours eating period and 18 hours fasting. Gotta be better organized to make that happen.
+2. **Failure:** Hip mobility routine.<br />
+**Lesson:** I am not doing it excellently, which robs me of the benefit I could get if I did so. I’m giving into laziness, and the weakness that thinks of 30 minutes of stretching as long. "Stay hard", we’ve come a long way and can’t afford to get too comfortable now.
+3. **Failure:** Financial discipline.<br />
+**Lesson:** Money came in, a brother made a couple good moves here and there, but, but, but, he has no job, no income, and therefore ain’t in a position to let his desire to “what would you do if you had money?” get in the way of establishing a plan and executing it. I need to stick to the code.
+
+### 🌟 <b>Highlights of the Week</b>
+- <b>Memorable moment / breakthrough / proud event</b>: Attending the group session on Friday, being blessed to have Marcus recording moments of it, which I was able to edit into a 19 seconds video that fills me with proud given how much flair I can put on display while playing football, and informs me of the usefulness a service like Futtech could have for me, personally, and the potential it has for monetization. The reaction the video had on my IG might be a strong influence on how I feel about it, and am grateful for the journey that led me here.
+- <b>Quote, inspiration, or personal reflection</b>:  I am detached from the beautiful, the shiny, the attractive, the pulling, the captivating, as a sacrifice for the goals I have set for 'The Dem': a stoic footballer and an impactful software engineer. This is why I’m not out there, doing nothing other than balling and coding. Refraining from losing control over my gaze and sending the wrong message. Misleading the world into what my intention is: approaching not. I got a plan, gotta execut it. Gotta execute.
+
+---
+
+## 📅 <b>Coming Up Next Week, InshaAllah</b> - 2nd to 8th March 2026
+- [ ] Be done eating by 7:00PM.
+- [ ] Be done with dream analysis come 7:25A M.
+- [ ] Ensure to spend 30 minutes, [every day](https://www.youtube.com/shorts/mQcTJdyTFtA) going through the hip mobility routine.
+- [ ] Read 72-100 pages, [every day](https://www.youtube.com/shorts/mQcTJdyTFtA).
+
+---
+
+## 📈 <b>Meta</b>
+| Metric | This Week |
+| ------ | --------- |
+| Study Hours | N/A |
+| GitHub Commits | 18 |
+| Sleep Avg (hrs) | 7 |
+| Total Coding Time (hrs) | 2 |
+| Training Sessions (Football) | 5 |
+
+---
+
+> _“To love my family: Truth and Justice” — Marcus Aurelius via Akira The Don, Apple Music, "Truth and Justice"._
+
+<!-- Let's update the log every Sunday. Let's Go! -->
+
+---
+
 ## Week 40 — Sunday, 1st March 2025
 
 ### 🌱 **What Was Worked On**
