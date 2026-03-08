@@ -43,11 +43,11 @@ Created: {{ 2025-05-31 }}
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
 1. **Failure:** Eating window.<br />
-**Lesson:** My new aim is to have my first meal at 1PM and last one, in and around 7PM, a 6 hours eating period and 18 hours fasting. Gotta be better organized to make that happen.
+**Lesson:** What I have learned over the last 14 days is that it works best if I aim at breaking my first at 1PM and ensure that I do not eat past 8 PM no matter what. 11PM bedtime would guarantee 3 hours of digestion.
 2. **Failure:** Hip mobility routine.<br />
-**Lesson:** I am not doing it excellently, which robs me of the benefit I could get if I did so. I’m giving into laziness, and the weakness that thinks of 30 minutes of stretching as long. "Stay hard", we’ve come a long way and can’t afford to get too comfortable now.
-3. **Failure:** Financial discipline.<br />
-**Lesson:** Money came in, a brother made a couple good moves here and there, but, but, but, he has no job, no income, and therefore ain’t in a position to let his desire to “what would you do if you had money?” get in the way of establishing a plan and executing it. I need to stick to the code.
+**Lesson:** Still on that: I am not doing it excellently, which robs me of the benefit I could get if I did so. I’m giving into laziness, and the weakness that thinks of 30 minutes of stretching as long. "Stay hard", we’ve come a long way and can’t afford to get too comfortable now.
+3. **Failure:** Discipline.<br />
+**Lesson:** Executing plans: Bedtime, wake up time, training start time, these 3 gotta be better handled this week 42.
 
 ### 🌟 <b>Highlights of the Week</b>
 - <b>Memorable moment / breakthrough / proud event</b>: Attending the group session on Friday, being blessed to have Marcus recording moments of it, which I was able to edit into a 19 seconds video that fills me with proud given how much flair I can put on display while playing football, and informs me of the usefulness a service like Futtech could have for me, personally, and the potential it has for monetization. The reaction the video had on my IG might be a strong influence on how I feel about it, and am grateful for the journey that led me here.
