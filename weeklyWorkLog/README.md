@@ -55,9 +55,9 @@ Created: {{ 2025-05-31 }}
 
 ---
 
-## 📅 <b>Coming Up Next Week, InshaAllah</b> - 2nd to 8th March 2026
-- [ ] Be done eating by 7:00PM.
-- [ ] Be done with dream analysis come 7:25A M.
+## 📅 <b>Coming Up Next Week, InshaAllah</b> - 9th to 15th March 2026
+- [ ] Be done eating by 7-8PM.
+- [ ] Be done with dream analysis come 7:25AM.
 - [ ] Ensure to spend 30 minutes, [every day](https://www.youtube.com/shorts/mQcTJdyTFtA) going through the hip mobility routine.
 - [ ] Read 72-100 pages, [every day](https://www.youtube.com/shorts/mQcTJdyTFtA).
 
@@ -74,7 +74,7 @@ Created: {{ 2025-05-31 }}
 
 ---
 
-> _“To love my family: Truth and Justice” — Marcus Aurelius via Akira The Don, Apple Music, "Truth and Justice"._
+> _“...becoming emotionally attached to someone we care about is one of the greatest rewards in life.” — Nancy Van Pelt, "Heart to Heart: The Art of Communication", Anger Workout: Coping With Conflict, page 85._
 
 <!-- Let's update the log every Sunday. Let's Go! -->
 
@@ -114,7 +114,7 @@ Created: {{ 2025-05-31 }}
 
 ## 📅 <b>Coming Up Next Week, InshaAllah</b> - 2nd to 8th March 2026
 - [ ] Be done eating by 7:00PM.
-- [ ] Be done with dream analysis come 7:25A M.
+- [ ] Be done with dream analysis come 7:25AM.
 - [ ] Ensure to spend 30 minutes, [every day](https://www.youtube.com/shorts/mQcTJdyTFtA) going through the hip mobility routine.
 - [ ] Read 72-100 pages, [every day](https://www.youtube.com/shorts/mQcTJdyTFtA).
 
@@ -175,7 +175,7 @@ Created: {{ 2025-05-31 }}
 
 ## 📅 <b>Coming Up Next Week, InshaAllah</b> - 23rd February to 1st March 2026
 - [ ] Be done eating by 8:00PM.
-- [ ] Be done with dream analysis come 7:25A M.
+- [ ] Be done with dream analysis come 7:25AM.
 - [ ] Ensure to spend 30 minutes, [every day](https://www.youtube.com/shorts/mQcTJdyTFtA) going through the hip mobility routine.
 - [ ] Read 72-100 pages, [every day](https://www.youtube.com/shorts/mQcTJdyTFtA).
 
@@ -233,7 +233,7 @@ Created: {{ 2025-05-31 }}
 
 ## 📅 <b>Coming Up Next Week, InshaAllah</b> - 16th to 22nd February 2026
 - [ ] Be done eating by 8:00PM.
-- [ ] Be done with dream analysis come 7:45A M.
+- [ ] Be done with dream analysis come 7:45AM.
 - [ ] Ensure to spend 30 minutes, [every day](https://www.youtube.com/shorts/mQcTJdyTFtA) going through the hip mobility routine.
 - [ ] Read 72-100 pages, [every day](https://www.youtube.com/shorts/mQcTJdyTFtA).
 
