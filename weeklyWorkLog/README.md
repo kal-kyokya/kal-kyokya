@@ -20,8 +20,63 @@ Created: {{ 2025-05-31 }}
 🔹 What didn’t go well — and what was learned.<br />
 🔹 Any standout moments or breakthroughs.
 
+## Week 42 and 43 — Sundays, 15th and 22nd March 2026
 
-## Week 41 — Sunday, 8th March 2025
+### 🌱 **What Was Worked On**
+
+- **Projects**
+	1. **Futtech Debugging**: Attempted to implement a multi-tenant architecture before rolling every change back and electing to refactor the project's frontend styling for maintainability and reworked to the playlist items JSX and SCSS files to better its display given new VPaaS (Bunny Stream) that doesn't rely on thumbnail.
+
+- **Learning & Growth**
+
+- **Job hunting**
+	- Applied for 5 jobs, 2 of which were viewed by clients.
+
+### 🏆 <b>3 Wins and/or Achievements</b>
+1. Seeing myself dominate during Keruvim performance's test week; upper and lower body, power generation, muscle definition and single leg hop.
+2. Receiving financial support from QLF, and hearing of how promising the future is, alhamduliAllah.
+3. Seeing an old friend of mine getting into married life and having the means to make a small gesture displaying the love and appreciation I have for a n*gga.
+
+### 🔭 <b>3 Fails & Lessons Learned</b>
+1. **Failure:** Eating window.<br />
+**Lesson:** What I have learned over the last 14 days is that it works best if I aim at breaking my first at 1PM and ensure that I do not eat past 8 PM no matter what. 11PM bedtime would guarantee 3 hours of digestion.
+2. **Failure:** Hip mobility routine.<br />
+**Lesson:** Still on that: I am not doing it excellently, which robs me of the benefit I could get if I did so. I’m giving into laziness, and the weakness that thinks of 30 minutes of stretching as long. "Stay hard", we’ve come a long way and can’t afford to get too comfortable now.
+3. **Failure:** Discipline.<br />
+**Lesson:** Executing plans: Bedtime, wake up time, training start time, these 3 gotta be better handled this week 42.
+
+### 🌟 <b>Highlights of the Week</b>
+- <b>Memorable moment / breakthrough / proud event</b>: I enjoy the time spent around the guys who are with Keruvim Performance: I get to work hard, be productive and feel like I earn the right to "show my teeth" aka laugh.
+- <b>Quote, inspiration, or personal reflection</b>: I wonder what it was with me and the desire to speak swahili more than english during my sessions with Keruvim Performance, this week. I wonder what that was all about.
+
+---
+
+## 📅 <b>Coming Up Next Week, InshaAllah</b> - 9th to 15th March 2026
+- [ ] Be done eating by 7-8PM.
+- [ ] Be done with dream analysis come 7:25AM.
+- [ ] Ensure to spend 30 minutes, [every day](https://www.youtube.com/shorts/mQcTJdyTFtA) going through the hip mobility routine.
+- [ ] Read 72-100 pages, [every day](https://www.youtube.com/shorts/mQcTJdyTFtA).
+
+---
+
+## 📈 <b>Meta</b>
+| Metric | This Week |
+| ------ | --------- |
+| Study Hours | N/A |
+| GitHub Commits | 37 |
+| Sleep Avg (hrs) | 7 |
+| Total Coding Time (hrs) | 3 |
+| Training Sessions (Football) | 4 |
+
+---
+
+> _“...becoming emotionally attached to someone we care about is one of the greatest rewards in life.” — Nancy Van Pelt, "Heart to Heart: The Art of Communication", Anger Workout: Coping With Conflict, page 85._
+
+<!-- Let's update the log every Sunday. Let's Go! -->
+
+---
+
+## Week 41 — Sunday, 8th March 2026
 
 ### 🌱 **What Was Worked On**
 
@@ -80,7 +135,7 @@ Created: {{ 2025-05-31 }}
 
 ---
 
-## Week 40 — Sunday, 1st March 2025
+## Week 40 — Sunday, 1st March 2026
 
 ### 🌱 **What Was Worked On**
 
@@ -137,7 +192,7 @@ Created: {{ 2025-05-31 }}
 
 ---
 
-## Week 39 — Sunday, 22nd February 2025
+## Week 39 — Sunday, 22nd February 2026
 
 ### 🌱 **What Was Worked On**
 
@@ -198,7 +253,7 @@ Created: {{ 2025-05-31 }}
 
 ---
 
-## Week 38 — Sunday, 15th February 2025
+## Week 38 — Sunday, 15th February 2026
 
 ### 🌱 **What Was Worked On**
 
@@ -256,7 +311,7 @@ Created: {{ 2025-05-31 }}
 
 ---
 
-## Week 37 — Sunday, 8th February 2025
+## Week 37 — Sunday, 8th February 2026
 
 ### 🌱 **What Was Worked On**
 
@@ -315,7 +370,7 @@ Created: {{ 2025-05-31 }}
 
 ---
 
-## Week 36 — Sunday, 1st February 2025
+## Week 36 — Sunday, 1st February 2026
 
 ### 🌱 **What Was Worked On**
 
@@ -373,7 +428,7 @@ Created: {{ 2025-05-31 }}
 
 ---
 
-## Week 35 — Sunday, 25th January 2025
+## Week 35 — Sunday, 25th January 2026
 
 ### 🌱 **What Was Worked On**
 
@@ -434,7 +489,7 @@ Created: {{ 2025-05-31 }}
 
 ---
 
-## Week 34 — Sunday, 18th January 2025
+## Week 34 — Sunday, 18th January 2026
 
 ### 🌱 **What Was Worked On**
 
@@ -494,7 +549,7 @@ Created: {{ 2025-05-31 }}
 
 ---
 
-## Week 33 — Sunday, 11th January 2025
+## Week 33 — Sunday, 11th January 2026
 
 ### 🌱 **What Was Worked On**
 
@@ -555,7 +610,7 @@ Created: {{ 2025-05-31 }}
 
 ---
 
-## Week 32 — Sunday, 4th January 2025
+## Week 32 — Sunday, 4th January 2026
 
 ### 🌱 **What Was Worked On**
 
