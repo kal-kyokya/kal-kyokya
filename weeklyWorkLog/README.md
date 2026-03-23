@@ -33,12 +33,12 @@ Created: {{ 2025-05-31 }}
 	3. Wednesday, 11th March, in an attempt to consolidate the learning done on CSS Mixins, I spent time looking at [SASS tokens and mixins](https://www.google.com/search?q=sass+tokens+and+mixins), and how they minimize the presence of [magical values/numbers](https://www.google.com/search?q=magic+values+programming) in favor of `named constants`.
 
 - **Job hunting**
-	- Applied for 5 jobs, 2 of which were viewed by clients.
+	- Applied for 7 jobs, interacted with 2 clients to negociate terms and conditions.
 
 ### 🏆 <b>3 Wins and/or Achievements</b>
-1. Seeing myself dominate during Keruvim performance's test week; upper and lower body, power generation, muscle definition and single leg hop.
-2. Receiving financial support from QLF, and hearing of how promising the future is, alhamduliAllah.
-3. Seeing an old friend of mine getting into married life and having the means to make a small gesture displaying the love and appreciation I have for a n*gga.
+1. Being able to scaffold Futtech in a "coachkirubi.kalkyokya.tech" website, made me realize that I have developed a certain level of comfort with web development.
+2. My creative touch, in terms of IG video composition, leaves me more confident in my opinion and taste given how good, how 'true', genuine the videos I compile are.
+3. Consistently showing up for Keruvim performance since January 6, injury free, putting in the hours, again and again and again, AlhamduliAllah.
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
 1. **Failure:** Eating window.<br />
