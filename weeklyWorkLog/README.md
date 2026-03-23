@@ -73,7 +73,7 @@ Created: {{ 2025-05-31 }}
 
 ---
 
-> _“...becoming emotionally attached to someone we care about is one of the greatest rewards in life.” — Nancy Van Pelt, "Heart to Heart: The Art of Communication", Anger Workout: Coping With Conflict, page 85._
+> _“Even while losing someone I loved, I made the right choice” — Shion Yamada Asaemon, Hell's Paradise S2E23._
 
 <!-- Let's update the log every Sunday. Let's Go! -->
 
