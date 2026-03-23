@@ -41,12 +41,12 @@ Created: {{ 2025-05-31 }}
 3. Consistently showing up for Keruvim performance since January 6, injury free, putting in the hours, again and again and again, AlhamduliAllah.
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
-1. **Failure:** Eating window.<br />
-**Lesson:** What I have learned over the last 14 days is that it works best if I aim at breaking my first at 1PM and ensure that I do not eat past 8 PM no matter what. 11PM bedtime would guarantee 3 hours of digestion.
-2. **Failure:** Hip mobility routine.<br />
-**Lesson:** Still on that: I am not doing it excellently, which robs me of the benefit I could get if I did so. I’m giving into laziness, and the weakness that thinks of 30 minutes of stretching as long. "Stay hard", we’ve come a long way and can’t afford to get too comfortable now.
-3. **Failure:** Discipline.<br />
-**Lesson:** Executing plans: Bedtime, wake up time, training start time, these 3 gotta be better handled this week 42.
+1. **Failure:** Weekly work log.<br />
+**Lesson:** On 15th March, for reason that I fail to easily recall, given how distal a date it now represents, I did not log the work for the week. Gotta do better and not make the same mistake twice in a row.
+2. **Failure:** Fears and Desires.<br />
+**Lesson:** I am partially covered for the 3 months and have found myself robbing me of the present moment due to the fact that there still is work to do in order to ensure the rent and VPS payments are supported by funds that keep me fed and trained with Keruvim Performance.
+3. **Failure:** Sleeping position and wake up time.<br />
+**Lesson:** Complacency is the word; I now give into the laziness that comes upon me everytime I do something long enough. That's a proclivity we want to remedy to via football and the commitment we have made to Stoic Footballer and Ihsan Software Engineer.
 
 ### 🌟 <b>Highlights of the Week</b>
 - <b>Memorable moment / breakthrough / proud event</b>: I enjoy the time spent around the guys who are with Keruvim Performance: I get to work hard, be productive and feel like I earn the right to "show my teeth" aka laugh.
