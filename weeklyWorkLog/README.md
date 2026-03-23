@@ -49,8 +49,8 @@ Created: {{ 2025-05-31 }}
 **Lesson:** Complacency is the word; I now give into the laziness that comes upon me everytime I do something long enough. That's a proclivity we want to remedy to via football and the commitment we have made to Stoic Footballer and Ihsan Software Engineer.
 
 ### 🌟 <b>Highlights of the Week</b>
-- <b>Memorable moment / breakthrough / proud event</b>: I enjoy the time spent around the guys who are with Keruvim Performance: I get to work hard, be productive and feel like I earn the right to "show my teeth" aka laugh.
-- <b>Quote, inspiration, or personal reflection</b>: I wonder what it was with me and the desire to speak swahili more than english during my sessions with Keruvim Performance, this week. I wonder what that was all about.
+- <b>Memorable moment / breakthrough / proud event</b>: Talking to a 12 y/o cousin of mine residing in belgium who claims to want to be a geographer and also love football. I was able to truthfully, honestly, openly shared my thoughts on football with him, asked questions, use him to have someone on whom my thoughts can bounce back to me. A lovely and rare experience.
+- <b>Quote, inspiration, or personal reflection</b>: The Johari Model offering the Self divided in: Open, Hidden, Blind and Unknown. This mental model marries itself nicely with the ideas I have developed via JBP's lectures.
 
 ---
 
