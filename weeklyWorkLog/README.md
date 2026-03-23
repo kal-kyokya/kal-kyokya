@@ -28,6 +28,9 @@ Created: {{ 2025-05-31 }}
 	1. **Futtech Debugging**: Attempted to implement a multi-tenant architecture before rolling every change back and electing to refactor the project's frontend styling for maintainability and reworked to the playlist items JSX and SCSS files to better its display given new VPaaS (Bunny Stream) that doesn't rely on thumbnail.
 
 - **Learning & Growth**
+	1. Monday, 9th March, was marked by my discovery of the concept of ['developer velocity'](https://www.google.com/search?q=developer+velocity), a term that enriches my thinking of software development lifecycles.
+	2. Tuesday, 10th March, saw me get introduced to the idea of [CSS Mixins](https://www.google.com/search?q=css+mixins) which, to me, sound like bringing the concept of functions and variables to the world of frontend styling.
+	3. Wednesday, 11th March, in an attempt to consolidate the learning done on CSS Mixins, I spent time looking at [SASS tokens and mixins](https://www.google.com/search?q=sass+tokens+and+mixins), and how they minimize the presence of [magical values/numbers](https://www.google.com/search?q=magic+values+programming) in favor of `named constants`.
 
 - **Job hunting**
 	- Applied for 5 jobs, 2 of which were viewed by clients.
