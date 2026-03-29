@@ -20,6 +20,65 @@ Created: {{ 2025-05-31 }}
 🔹 What didn’t go well — and what was learned.<br />
 🔹 Any standout moments or breakthroughs.
 
+## Week 44 — Sunday, 29th March 2026
+
+### 🌱 **What Was Worked On**
+
+- **Projects**
+	1. **Keruvim Performance's web app**: Completed structuring of the backend infrastructure using Django and DRF for storing of data related to orders, programs, payment events, etc.
+	2. **Futtech Debugging**: Generated via LiveTagPro a video analysis of the RMCRD Elastico and embedded it on the registration page.
+
+- **Learning & Growth**
+	1. Thursday late afternoon, as I set on beginning creation of Keruvim Performance's backend, I found myself requiring to look up ['How to create a Django project'](https://www.google.com/search?q=creating+a+django+project), which I had lost sight of, given the irregularity with which I found myself creating new ones.
+	2. Friday morning, as I picked up creation of Django models storing Keruvim Performance's data, I was exposed to the idea of ['Django models.PROTECT'](https://www.google.com/search?q=DJANGO+MODELS.PROTECT) for foreign key references, as well as, [Slugs and Slug fields](https://www.google.com/search?q=slugfield) in Django contexts.
+
+- **Job hunting**
+	- .
+
+### 🏆 <b>3 Wins and/or Achievements</b>
+1. Being able to scaffold Futtech in a "coachkirubi.kalkyokya.tech" website, made me realize that I have developed a certain level of comfort with web development.
+2. My creative touch, in terms of IG video composition, leaves me more confident in my opinion and taste given how good, how 'true', genuine the videos I compile are.
+3. Consistently showing up for Keruvim performance since January 6, injury free, putting in the hours, again and again and again, AlhamduliAllah.
+
+### 🔭 <b>3 Fails & Lessons Learned</b>
+1. **Failure:** Weekly work log.<br />
+**Lesson:** On 15th March, for reason that I fail to easily recall, given how distal a date it now represents, I did not log the work for the week. Gotta do better and not make the same mistake twice in a row.
+2. **Failure:** Fears and Desires.<br />
+**Lesson:** I am partially covered for the 3 months and have found myself robbing me of the present moment due to the fact that there still is work to do in order to ensure the rent and VPS payments are supported by funds that keep me fed and trained with Keruvim Performance.
+3. **Failure:** Sleeping position and wake up time.<br />
+**Lesson:** Complacency is the word; I now give into the laziness that comes upon me everytime I do something long enough. That's a proclivity we want to remedy to via football and the commitment we have made to Stoic Footballer and Ihsan Software Engineer.
+
+### 🌟 <b>Highlights of the Week</b>
+- <b>Memorable moment / breakthrough / proud event</b>: Talking to a 12 y/o cousin of mine residing in belgium who claims to want to be a geographer and also love football. I was able to truthfully, honestly, openly shared my thoughts on football with him, asked questions, use him to have someone on whom my thoughts can bounce back to me. A lovely and rare experience.
+- <b>Quote, inspiration, or personal reflection</b>: The Johari Model offering the Self divided in: Open, Hidden, Blind and Unknown. This mental model marries itself nicely with the ideas I have developed via JBP's lectures.
+
+---
+
+## 📅 <b>Coming Up Next Week, InshaAllah</b> - 23rd to 29th March 2026
+- [ ] Be done eating by 7-8PM.
+- [ ] Be done with dream analysis come 7:45AM.
+- [ ] Ensure to spend 30 minutes, [every day](https://www.youtube.com/shorts/mQcTJdyTFtA) going through the hip mobility routine.
+- [ ] Read 27-72 pages, [every day](https://www.youtube.com/shorts/mQcTJdyTFtA).
+
+---
+
+## 📈 <b>Meta</b>
+| Metric | This Week |
+| ------ | --------- |
+| Study Hours | N/A |
+| GitHub Commits | 82 |
+| Sleep Avg (hrs) | 7 |
+| Total Coding Time (hrs) | 5 |
+| Training Sessions (Football) | 9 |
+
+---
+
+> _“Even while losing someone I loved, I made the right choice” — Shion Yamada Asaemon, Hell's Paradise S2E23._
+
+<!-- Let's update the log every Sunday. Let's Go! -->
+
+---
+
 ## Week 42 and 43 — Sundays, 15th and 22nd March 2026
 
 ### 🌱 **What Was Worked On**
