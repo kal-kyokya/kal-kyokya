@@ -38,15 +38,15 @@ Created: {{ 2025-05-31 }}
 ### 🏆 <b>3 Wins and/or Achievements</b>
 1. Showing up to USIU over the weekend to use the library's desktop to render video analysis of myself via LiveTagPro by ProTrainUp.
 2. Felt-sense of growth resulting from the week's job hunt where job opportunities seemed plenty, and only requiring that I be better equipped with proofs of work.
-3. Going the wrrk without picking up any knocks, and getting some rest for my right knee.
+3. Going the week without picking up any knocks, and getting some rest for my right knee.
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
-1. **Failure:** Weekly work log.<br />
-**Lesson:** On 15th March, for reason that I fail to easily recall, given how distal a date it now represents, I did not log the work for the week. Gotta do better and not make the same mistake twice in a row.
-2. **Failure:** Fears and Desires.<br />
-**Lesson:** I am partially covered for the 3 months and have found myself robbing me of the present moment due to the fact that there still is work to do in order to ensure the rent and VPS payments are supported by funds that keep me fed and trained with Keruvim Performance.
-3. **Failure:** Sleeping position and wake up time.<br />
-**Lesson:** Complacency is the word; I now give into the laziness that comes upon me everytime I do something long enough. That's a proclivity we want to remedy to via football and the commitment we have made to Stoic Footballer and Ihsan Software Engineer.
+1. **Failure:** Doom scrolling.<br />
+**Lesson:** Gave in and scrolled Instagram reels until 6AM, this night. We have already set the end of scrolling to be 9:30PM, it is a matter of execution at, this point.
+2. **Failure:** No snooze.<br />
+**Lesson:** I have been lax with my waking up and dream analysis. Gotta ensure I respect 7:20AM wake, which starts the 25 minutes Dream analysis ending at 7:45AM, before my morning routine.
+3. **Failure:** 2.4M.<br />
+**Lesson:** Got some moula in, gotta make sure we don't give into overindulging our appetite for comfort disguised as streamlining.
 
 ### 🌟 <b>Highlights of the Week</b>
 - <b>Memorable moment / breakthrough / proud event</b>: Talking to a 12 y/o cousin of mine residing in belgium who claims to want to be a geographer and also love football. I was able to truthfully, honestly, openly shared my thoughts on football with him, asked questions, use him to have someone on whom my thoughts can bounce back to me. A lovely and rare experience.
@@ -101,9 +101,9 @@ Created: {{ 2025-05-31 }}
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
 1. **Failure:** Weekly work log.<br />
-**Lesson:** On 15th March, for reason that I fail to easily recall, given how distal a date it now represents, I did not log the work for the week. Gotta do better and not make the same mistake twice in a row.
+**Lesson:** On 15th March, for reasons that I fail to easily recall, given how distal a date it now represents, I did not log the work for the week. Gotta do better and not make the same mistake twice.
 2. **Failure:** Fears and Desires.<br />
-**Lesson:** I am partially covered for the 3 months and have found myself robbing me of the present moment due to the fact that there still is work to do in order to ensure the rent and VPS payments are supported by funds that keep me fed and trained with Keruvim Performance.
+**Lesson:** I am partially covered for the next 3 months and have found myself robbing me of the present moment due to the fact that there still is work to do in order to ensure the rent and VPS payments are supported by funds that keep me fed and trained with Keruvim Performance.
 3. **Failure:** Sleeping position and wake up time.<br />
 **Lesson:** Complacency is the word; I now give into the laziness that comes upon me everytime I do something long enough. That's a proclivity we want to remedy to via football and the commitment we have made to Stoic Footballer and Ihsan Software Engineer.
 
