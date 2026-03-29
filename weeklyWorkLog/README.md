@@ -73,7 +73,7 @@ Created: {{ 2025-05-31 }}
 
 ---
 
-> _“Even while losing someone I loved, I made the right choice” — Shion Yamada Asaemon, Hell's Paradise S2E23._
+> _“It's always the case that the best story wins” — Jordan B. Peterson via Akira The Don, Apple Music, "The Adventure of Truth"._
 
 <!-- Let's update the log every Sunday. Let's Go! -->
 
