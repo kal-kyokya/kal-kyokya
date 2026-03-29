@@ -49,12 +49,12 @@ Created: {{ 2025-05-31 }}
 **Lesson:** Got some moula in, gotta make sure we don't give into overindulging our appetite for comfort disguised as streamlining.
 
 ### 🌟 <b>Highlights of the Week</b>
-- <b>Memorable moment / breakthrough / proud event</b>: Talking to a 12 y/o cousin of mine residing in belgium who claims to want to be a geographer and also love football. I was able to truthfully, honestly, openly shared my thoughts on football with him, asked questions, use him to have someone on whom my thoughts can bounce back to me. A lovely and rare experience.
-- <b>Quote, inspiration, or personal reflection</b>: The Johari Model offering the Self divided in: Open, Hidden, Blind and Unknown. This mental model marries itself nicely with the ideas I have developed via JBP's lectures.
+- <b>Memorable moment / breakthrough / proud event</b>: Spending a combined 10+ hours in USIU's library, generating proof of intelligence for my claim of aiming to be football analyst. That right there is the kind of absorption I want to be subject to as often as healthily possible.
+- <b>Quote, inspiration, or personal reflection</b>: QLF coming through with 2.4M and having me, out here, freed from concern as to what the near future will be like, giving the support and space to get creative as to how to move in order to penetrate the Football industry, AlhamduliAllah.
 
 ---
 
-## 📅 <b>Coming Up Next Week, InshaAllah</b> - 23rd to 29th March 2026
+## 📅 <b>Coming Up Next Week, InshaAllah</b> - 
 - [ ] Be done eating by 7-8PM.
 - [ ] Be done with dream analysis come 7:45AM.
 - [ ] Ensure to spend 30 minutes, [every day](https://www.youtube.com/shorts/mQcTJdyTFtA) going through the hip mobility routine.
@@ -108,7 +108,7 @@ Created: {{ 2025-05-31 }}
 **Lesson:** Complacency is the word; I now give into the laziness that comes upon me everytime I do something long enough. That's a proclivity we want to remedy to via football and the commitment we have made to Stoic Footballer and Ihsan Software Engineer.
 
 ### 🌟 <b>Highlights of the Week</b>
-- <b>Memorable moment / breakthrough / proud event</b>: Talking to a 12 y/o cousin of mine residing in belgium who claims to want to be a geographer and also love football. I was able to truthfully, honestly, openly shared my thoughts on football with him, asked questions, use him to have someone on whom my thoughts can bounce back to me. A lovely and rare experience.
+- <b>Memorable moment / breakthrough / proud event</b>: Talking to a 12 y/o cousin of mine residing in belgium who claims to want to be a geographer and also loves football. I was able to truthfully and openly shared my thoughts on football with him, asked questions, used him to have someone on whom my thoughts could bounce back to me from. A lovely and rare experience.
 - <b>Quote, inspiration, or personal reflection</b>: The Johari Model offering the Self divided in: Open, Hidden, Blind and Unknown. This mental model marries itself nicely with the ideas I have developed via JBP's lectures.
 
 ---
