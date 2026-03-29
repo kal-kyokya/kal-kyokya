@@ -33,12 +33,12 @@ Created: {{ 2025-05-31 }}
 	2. Friday morning, as I picked up creation of Django models storing Keruvim Performance's data, I was exposed to the idea of ['Django models.PROTECT'](https://www.google.com/search?q=DJANGO+MODELS.PROTECT) for foreign key references, as well as, [Slugs and Slug fields](https://www.google.com/search?q=slugfield) in Django contexts.
 
 - **Job hunting**
-	- .
+	- Applied for 7 jobs, 4 of wich were viewed and 1 had a client interaction.
 
 ### 🏆 <b>3 Wins and/or Achievements</b>
-1. Being able to scaffold Futtech in a "coachkirubi.kalkyokya.tech" website, made me realize that I have developed a certain level of comfort with web development.
-2. My creative touch, in terms of IG video composition, leaves me more confident in my opinion and taste given how good, how 'true', genuine the videos I compile are.
-3. Consistently showing up for Keruvim performance since January 6, injury free, putting in the hours, again and again and again, AlhamduliAllah.
+1. Showing up to USIU over the weekend to use the library's desktop to render video analysis of myself via LiveTagPro by ProTrainUp.
+2. Felt-sense of growth resulting from the week's job hunt where job opportunities seemed plenty, and only requiring that I be better equipped with proofs of work.
+3. Going the wrrk without picking up any knocks, and getting some rest for my right knee.
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
 1. **Failure:** Weekly work log.<br />
