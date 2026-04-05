@@ -37,9 +37,9 @@ Created: {{ 2025-05-31 }}
 	- Applied for 7 jobs, 1 of wich was viewed and another had a client interaction.
 
 ### 🏆 <b>3 Wins and/or Achievements</b>
-1. Showing up to USIU over the weekend to use the library's desktop to render video analysis of myself via LiveTagPro by ProTrainUp.
-2. Felt-sense of growth resulting from the week's job hunt where job opportunities seemed plenty, and only requiring that I be better equipped with proofs of work.
-3. Going the week without picking up any knocks, and getting some rest for my right knee.
+1. Refactoring [Futtech's](https://www.futtech.kalkyokya.tech/) registration into a multi-section, rich, appealing landing page that informs users of my football analysis aim and prompts for more than just registration.
+2. In 8-hours, generating a proof of work 1-minute sample video, demonstrating my ability to create a video edit provided a script and a voiceover recording.
+3. Officially completing month 3 of the Keruvim Performance Strength and Conditioning Program.
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
 1. **Failure:** Doom scrolling.<br />
