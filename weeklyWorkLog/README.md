@@ -34,7 +34,7 @@ Created: {{ 2025-05-31 }}
 	3. Later on that day, as a result of having seen it mentioned in both Futtech's and Coach Kirubi's codebases, I looked up [Hero section of a website](https://www.google.com/search?q=hero+section+of+website), a concept I greatly needed to be introduced to as it represents the section below the navigation bar which contains the gist of what a web product/app/site is all about.
 
 - **Job hunting**
-	- Applied for 7 jobs, 4 of wich were viewed and 1 had a client interaction.
+	- Applied for 7 jobs, 1 of wich was viewed and another had a client interaction.
 
 ### 🏆 <b>3 Wins and/or Achievements</b>
 1. Showing up to USIU over the weekend to use the library's desktop to render video analysis of myself via LiveTagPro by ProTrainUp.
