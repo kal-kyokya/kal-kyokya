@@ -42,12 +42,12 @@ Created: {{ 2025-05-31 }}
 3. Officially completing month 3 of the Keruvim Performance Strength and Conditioning Program.
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
-1. **Failure:** Doom scrolling.<br />
-**Lesson:** Gave in and scrolled Instagram reels until 6AM, this night. We have already set the end of scrolling to be 9:30PM, it is a matter of execution at, this point.
-2. **Failure:** No snooze.<br />
+1. **Failure:** 'Doom scrolling'.<br />
+**Lesson:** This week too: gave in and scrolled Instagram reels until 3AM, this night. We have already set the end of scrolling to be 9:30PM, it is a matter of execution at, this point.
+2. **Failure:** Still on that: No snooze.<br />
 **Lesson:** I have been lax with my waking up and dream analysis. Gotta ensure I respect 7:20AM wake, which starts the 25 minutes Dream analysis ending at 7:45AM, before my morning routine.
-3. **Failure:** 2.4M.<br />
-**Lesson:** Got some moula in, gotta make sure we don't give into overindulging our appetite for comfort disguised as streamlining.
+3. **Failure:** I've arrived mindset.<br />
+**Lesson:** Pathos, that's it. I'm giving into the belief that the fire I have for Keruvim Performance isn't burning as hot as in the beginning. Just gotta shake that up and go hard this month.
 
 ### 🌟 <b>Highlights of the Week</b>
 - <b>Memorable moment / breakthrough / proud event</b>: Spending a combined 10+ hours in USIU's library, generating proof of intelligence for my claim of aiming to be football analyst. That right there is the kind of absorption I want to be subject to as often as healthily possible.
