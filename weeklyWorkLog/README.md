@@ -50,8 +50,8 @@ Created: {{ 2025-05-31 }}
 **Lesson:** Pathos, that's it. I'm giving into the belief that the fire I have for Keruvim Performance isn't burning as hot as in the beginning. Just gotta shake that up and go hard this month.
 
 ### 🌟 <b>Highlights of the Week</b>
-- <b>Memorable moment / breakthrough / proud event</b>: Spending a combined 10+ hours in USIU's library, generating proof of intelligence for my claim of aiming to be football analyst. That right there is the kind of absorption I want to be subject to as often as healthily possible.
-- <b>Quote, inspiration, or personal reflection</b>: QLF coming through with 2.4M and having me, out here, freed from concern as to what the near future will be like, giving the support and space to get creative as to how to move in order to penetrate the Football industry, AlhamduliAllah.
+- <b>Memorable moment / breakthrough / proud event</b>: Congo winning its game against Jamaica in Guadalajara, Mexico, on Tuesday, which qualified us to the world cup hosted by the USA in June this year. Follow by an extended phone call with QLF where I got hear my lovely little niece passionately talk gibberish, as well as discussing with my mom and little sister. I Love them <3.
+- <b>Quote, inspiration, or personal reflection</b>: 'I would die for you' --> How about 'I live for you'. Every thought, word, action directed toward serving those one claim to love, that's a better, and much more demanding gift, than death.
 
 ---
 
@@ -109,8 +109,8 @@ Created: {{ 2025-05-31 }}
 **Lesson:** Got some moula in, gotta make sure we don't give into overindulging our appetite for comfort disguised as streamlining.
 
 ### 🌟 <b>Highlights of the Week</b>
-- <b>Memorable moment / breakthrough / proud event</b>: Spending a combined 10+ hours in USIU's library, generating proof of intelligence for my claim of aiming to be football analyst. That right there is the kind of absorption I want to be subject to as often as healthily possible.
-- <b>Quote, inspiration, or personal reflection</b>: QLF coming through with 2.4M and having me, out here, freed from concern as to what the near future will be like, giving the support and space to get creative as to how to move in order to penetrate the Football industry, AlhamduliAllah.
+- <b>Memorable moment / breakthrough / proud event</b>: Spending a combined 10+ hours in USIU's library, generating proof of intelligence for my claim of aiming to be a football analyst. That right there is the kind of absorption I want to be subject to as often as healthily possible.
+- <b>Quote, inspiration, or personal reflection</b>: QLF coming through with 2.4M and having me, out here, freed from concern as to what the near future will be like, giving me the support and space to get creative as to how to move in order to penetrate the Football industry, AlhamduliAllah.
 
 ---
 
