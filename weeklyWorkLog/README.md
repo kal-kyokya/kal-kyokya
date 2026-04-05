@@ -20,6 +20,65 @@ Created: {{ 2025-05-31 }}
 🔹 What didn’t go well — and what was learned.<br />
 🔹 Any standout moments or breakthroughs.
 
+## Week 45 — Sunday, 5th April 2026
+
+### 🌱 **What Was Worked On**
+
+- **Projects**
+	1. **Keruvim Performance's web app**: Built the React + Vite as frontend and deployed a beta version using Nginx and Gunicorn.
+	2. **Futtech Debugging**: Refactored the registration into a rich landing page introducing user to the Futtech universe and football video analysis nature of the project.
+
+- **Learning & Growth**
+	1. Thursday late afternoon, as I set on beginning creation of Keruvim Performance's backend, I found myself requiring to look up ['How to create a Django project'](https://www.google.com/search?q=creating+a+django+project), which I had lost sight of, given the irregularity with which I found myself creating new ones.
+	2. Friday morning, as I picked up creation of Django models storing Keruvim Performance's data, I was exposed to the idea of ['Django models.PROTECT'](https://www.google.com/search?q=DJANGO+MODELS.PROTECT) for foreign key references, as well as, [Slugs and Slug fields](https://www.google.com/search?q=slugfield) in Django contexts.
+
+- **Job hunting**
+	- Applied for 7 jobs, 4 of wich were viewed and 1 had a client interaction.
+
+### 🏆 <b>3 Wins and/or Achievements</b>
+1. Showing up to USIU over the weekend to use the library's desktop to render video analysis of myself via LiveTagPro by ProTrainUp.
+2. Felt-sense of growth resulting from the week's job hunt where job opportunities seemed plenty, and only requiring that I be better equipped with proofs of work.
+3. Going the week without picking up any knocks, and getting some rest for my right knee.
+
+### 🔭 <b>3 Fails & Lessons Learned</b>
+1. **Failure:** Doom scrolling.<br />
+**Lesson:** Gave in and scrolled Instagram reels until 6AM, this night. We have already set the end of scrolling to be 9:30PM, it is a matter of execution at, this point.
+2. **Failure:** No snooze.<br />
+**Lesson:** I have been lax with my waking up and dream analysis. Gotta ensure I respect 7:20AM wake, which starts the 25 minutes Dream analysis ending at 7:45AM, before my morning routine.
+3. **Failure:** 2.4M.<br />
+**Lesson:** Got some moula in, gotta make sure we don't give into overindulging our appetite for comfort disguised as streamlining.
+
+### 🌟 <b>Highlights of the Week</b>
+- <b>Memorable moment / breakthrough / proud event</b>: Spending a combined 10+ hours in USIU's library, generating proof of intelligence for my claim of aiming to be football analyst. That right there is the kind of absorption I want to be subject to as often as healthily possible.
+- <b>Quote, inspiration, or personal reflection</b>: QLF coming through with 2.4M and having me, out here, freed from concern as to what the near future will be like, giving the support and space to get creative as to how to move in order to penetrate the Football industry, AlhamduliAllah.
+
+---
+
+## 📅 <b>Coming Up Next Week, InshaAllah</b> - 30th March to 5th April 2026
+- [ ] Be done eating by 7-8PM.
+- [ ] Be done with dream analysis come 7:45AM.
+- [ ] Ensure to spend 30 minutes, [every day](https://www.youtube.com/shorts/mQcTJdyTFtA) going through the hip mobility routine.
+- [ ] Read 27-72 pages, [every day](https://www.youtube.com/shorts/mQcTJdyTFtA).
+
+---
+
+## 📈 <b>Meta</b>
+| Metric | This Week |
+| ------ | --------- |
+| Study Hours | N/A |
+| GitHub Commits | 47 |
+| Sleep Avg (hrs) | 7 |
+| Total Coding Time (hrs) | 5 |
+| Training Sessions (Football) | 3 |
+
+---
+
+> _“It's always the case that the best story wins” — Jordan B. Peterson via Akira The Don, Apple Music, "The Adventure of Truth"._
+
+<!-- Let's update the log every Sunday. Let's Go! -->
+
+---
+
 ## Week 44 — Sunday, 29th March 2026
 
 ### 🌱 **What Was Worked On**
