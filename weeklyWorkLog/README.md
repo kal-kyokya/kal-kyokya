@@ -74,7 +74,7 @@ Created: {{ 2025-05-31 }}
 
 ---
 
-> _“It's always the case that the best story wins” — Jordan B. Peterson via Akira The Don, Apple Music, "The Adventure of Truth"._
+> _“Solution guy, solution guy” — Jean-Paul De Marie KYOKYA Kalulu's projects._
 
 <!-- Let's update the log every Sunday. Let's Go! -->
 
