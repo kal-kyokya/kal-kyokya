@@ -29,8 +29,9 @@ Created: {{ 2025-05-31 }}
 	2. **Futtech Debugging**: Refactored the registration into a rich landing page introducing user to the Futtech universe and football video analysis nature of the project.
 
 - **Learning & Growth**
-	1. Thursday late afternoon, as I set on beginning creation of Keruvim Performance's backend, I found myself requiring to look up ['How to create a Django project'](https://www.google.com/search?q=creating+a+django+project), which I had lost sight of, given the irregularity with which I found myself creating new ones.
-	2. Friday morning, as I picked up creation of Django models storing Keruvim Performance's data, I was exposed to the idea of ['Django models.PROTECT'](https://www.google.com/search?q=DJANGO+MODELS.PROTECT) for foreign key references, as well as, [Slugs and Slug fields](https://www.google.com/search?q=slugfield) in Django contexts.
+	1. Tuesday around noon, as I set on engineering Coach Kirubi's frontend, found myself looking up ['Creating a React App with Vite'](https://www.google.com/search?q=creating+a+react+app+with+vite), an operation I had not done since the creation of Futtech's frontend, a year ago.
+	2. Come saturday, during refactor of Futtech's registration page, as I adjusted a [max-width set in ch units], I learned of a relative unit never encountered before: 'ch' units which is said to be the equivalent of the width of the zero character (0).
+	3. Later on that day, as a result of having seen it mentioned in both Futtech's and Coach Kirubi's codebases, I looked up [Hero section of a website](https://www.google.com/search?q=hero+section+of+website), a concept I greatly needed to be introduced to as it represents the section below the navigation bar which contains the gist of what a web product/app/site is all about.
 
 - **Job hunting**
 	- Applied for 7 jobs, 4 of wich were viewed and 1 had a client interaction.
