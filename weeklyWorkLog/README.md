@@ -33,7 +33,7 @@ Created: {{ 2025-05-31 }}
 	2. Thursday afternoon, in need of a voice over of the football script I intended on video editing, I looked up [Voiceover App AI](https://www.google.com/search?q=voiceover+app+ai) and discovered [Eleven Labs](https://elevenlabs.io/voice-cloning) to be a interesting platform for such task.
 
 - **Job hunting**
-	- Applied for 7 jobs, 1 of wich was viewed and another had a client interaction.
+	- Was contacted by the client with which we worked on the 'Chercheur pour une plateforme d'innovation mondiale' project, to execute research on a number of innovative ideas.
 
 ### 🏆 <b>3 Wins and/or Achievements</b>
 1. Refactoring [Futtech's](https://www.futtech.kalkyokya.tech/) registration into a multi-section, rich, appealing landing page that informs users of my football analysis aim and prompts for more than just registration.
