@@ -36,17 +36,17 @@ Created: {{ 2025-05-31 }}
 	- Was contacted by the client with which we worked on the 'Chercheur pour une plateforme d'innovation mondiale' project, to execute research on a number of innovative ideas.
 
 ### 🏆 <b>3 Wins and/or Achievements</b>
-1. Refactoring [Futtech's](https://www.futtech.kalkyokya.tech/) registration into a multi-section, rich, appealing landing page that informs users of my football analysis aim and prompts for more than just registration.
-2. In 8-hours, generating a proof of work 1-minute sample video, demonstrating my ability to create a video edit provided a script and a voiceover recording.
-3. Officially completing month 3 of the Keruvim Performance Strength and Conditioning Program.
+1. 2.4M opportunity; with Maxime Lugaz asking me to generate reports on innovative ideas in the construction sector.
+2. Playing football on Saturday, scoring a goal and being a high energy individual post-match.
+3. 2.4M negotiation; based on football video editing, leading to my acquisition of a pricing scheme that varies with the video length.
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
-1. **Failure:** 'Doom scrolling'.<br />
-**Lesson:** This week too: gave in and scrolled Instagram reels until 3AM, this night. We have already set the end of scrolling to be 9:30PM, it is a matter of execution at, this point.
-2. **Failure:** Still on that: No snooze.<br />
-**Lesson:** I have been lax with my waking up and dream analysis. Gotta ensure I respect 7:20AM wake, which starts the 25 minutes Dream analysis ending at 7:45AM, before my morning routine.
-3. **Failure:** I've arrived mindset.<br />
-**Lesson:** Pathos, that's it. I'm giving into the belief that the fire I have for Keruvim Performance isn't burning as hot as in the beginning. Just gotta shake that up and go hard this month.
+1. **Failure:** Eating cake and ice cream on Sunday.<br />
+**Lesson:** Could I be 'chasing the taste of good food', as was forbidden by Miyamoto Musashi in the Dokkodo? Well, the fact that I question this, already is an indication of an insiduous pattern of behavior. I currently haven't had a stable meal plan, for me commit to and execute.
+2. **Failure:** Money management.<br />
+**Lesson:** 2.4M lack of regulation, especially around food spending. Without earning nearly enough. Gotta be productive enough with the research job ti earn what would afford me the amount of protein and Bolt/Uber rides I use to put in the hours.
+3. **Failure:** Third week in a row of 'Doom scrolling'.<br />
+**Lesson:** This week too: gave in and scrolled Instagram reels passed curfew. We have already set the end of scrolling to be 9:30PM, it is a matter of execution at, this point.
 
 ### 🌟 <b>Highlights of the Week</b>
 - <b>Memorable moment / breakthrough / proud event</b>: Congo winning its game against Jamaica in Guadalajara, Mexico, on Tuesday, which qualified us to the world cup hosted by the USA in June this year. Follow by an extended phone call with QLF where I got hear my lovely little niece passionately talk gibberish, as well as discussing with my mom and little sister. I Love them <3.
@@ -96,7 +96,7 @@ Created: {{ 2025-05-31 }}
 	- Applied for 7 jobs, 1 of wich was viewed and another had a client interaction.
 
 ### 🏆 <b>3 Wins and/or Achievements</b>
-1. Refactoring [Futtech's](https://www.futtech.kalkyokya.tech/) registration into a multi-section, rich, appealing landing page that informs users of my football analysis aim and prompts for more than just registration.
+1. Refactoring [Futtech's](https://www.futtech.kalkyokya.tech/) registration page into a multi-section, rich/appealing landing page, informing users of my football analysis aim and prompting for more than just registration.
 2. In 8-hours, generating a proof of work 1-minute sample video, demonstrating my ability to create a video edit provided a script and a voiceover recording.
 3. Officially completing month 3 of the Keruvim Performance Strength and Conditioning Program.
 
@@ -106,7 +106,7 @@ Created: {{ 2025-05-31 }}
 2. **Failure:** Still on that: No snooze.<br />
 **Lesson:** I have been lax with my waking up and dream analysis. Gotta ensure I respect 7:20AM wake, which starts the 25 minutes Dream analysis ending at 7:45AM, before my morning routine.
 3. **Failure:** I've arrived mindset.<br />
-**Lesson:** Pathos, that's it. I'm giving into the belief that the fire I have for Keruvim Performance isn't burning as hot as in the beginning. Just gotta shake that up and go hard this month.
+**Lesson:** Pathos, that's it. I'm giving into the belief that the fire I have for Keruvim Performance isn't burning as hot as in the beginning. Just gotta shake that off, and go hard this month.
 
 ### 🌟 <b>Highlights of the Week</b>
 - <b>Memorable moment / breakthrough / proud event</b>: Congo winning its game against Jamaica in Guadalajara, Mexico, on Tuesday, which qualified us to the world cup hosted by the USA in June this year. Follow by an extended phone call with QLF where I got hear my lovely little niece passionately talk gibberish, as well as discussing with my mom and little sister. I Love them <3.
