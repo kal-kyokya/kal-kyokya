@@ -29,9 +29,8 @@ Created: {{ 2025-05-31 }}
 	2. **Futtech Debugging**: Committed changes made the previous week to GitHub, of Futtech's landing page's content and styling.
 
 - **Learning & Growth**
-	1. Tuesday around noon, as I set on engineering Coach Kirubi's frontend, found myself looking up ['Creating a React App with Vite'](https://www.google.com/search?q=creating+a+react+app+with+vite), an operation I had not done since the creation of Futtech's frontend, a year ago.
-	2. Come saturday, during refactor of Futtech's registration page, as I adjusted a [max-width set in ch units], I learned of a relative unit never encountered before: 'ch' units which is said to be the equivalent of the width of the zero character (0).
-	3. Later on that day, as a result of having seen it mentioned in both Futtech's and Coach Kirubi's codebases, I looked up [Hero section of a website](https://www.google.com/search?q=hero+section+of+website), a concept I greatly needed to be introduced to as it represents the section below the navigation bar which contains the gist of what a web product/app/site is all about.
+	1. Monday, at noon, as I sought to resolve failure of admin users to login, I looked up `how to` [check](https://www.google.com/search?q=check+django+superuser+password) and [change](https://www.google.com/search?q=change+django+superuser+password) `a Django superuser's password`, and was reintroduced to the idea of password salting and their irreversible nature, which requires knowing the pre-salted version, so as to facilitate checking.
+	2. Thursday afternoon, in need of a voice over of the football script I intended on video editing, I looked up [Voiceover App AI](https://www.google.com/search?q=voiceover+app+ai) and discovered [Eleven Labs](https://elevenlabs.io/voice-cloning) to be a interesting platform for such task.
 
 - **Job hunting**
 	- Applied for 7 jobs, 1 of wich was viewed and another had a client interaction.
