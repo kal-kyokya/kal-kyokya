@@ -20,13 +20,73 @@ Created: {{ 2025-05-31 }}
 🔹 What didn’t go well — and what was learned.<br />
 🔹 Any standout moments or breakthroughs.
 
+## Week 46 — Sunday, 12th April 2026
+
+### 🌱 **What Was Worked On**
+
+- **Projects**
+	1. **Keruvim Performance's web app**: Resolve failure to login admin users and availed a demo program for client-side display.
+	2. **Futtech Debugging**: Committed changes made the previous week to GitHub, of Futtech's landing page's content and styling.
+
+- **Learning & Growth**
+	1. Tuesday around noon, as I set on engineering Coach Kirubi's frontend, found myself looking up ['Creating a React App with Vite'](https://www.google.com/search?q=creating+a+react+app+with+vite), an operation I had not done since the creation of Futtech's frontend, a year ago.
+	2. Come saturday, during refactor of Futtech's registration page, as I adjusted a [max-width set in ch units], I learned of a relative unit never encountered before: 'ch' units which is said to be the equivalent of the width of the zero character (0).
+	3. Later on that day, as a result of having seen it mentioned in both Futtech's and Coach Kirubi's codebases, I looked up [Hero section of a website](https://www.google.com/search?q=hero+section+of+website), a concept I greatly needed to be introduced to as it represents the section below the navigation bar which contains the gist of what a web product/app/site is all about.
+
+- **Job hunting**
+	- Applied for 7 jobs, 1 of wich was viewed and another had a client interaction.
+
+### 🏆 <b>3 Wins and/or Achievements</b>
+1. Refactoring [Futtech's](https://www.futtech.kalkyokya.tech/) registration into a multi-section, rich, appealing landing page that informs users of my football analysis aim and prompts for more than just registration.
+2. In 8-hours, generating a proof of work 1-minute sample video, demonstrating my ability to create a video edit provided a script and a voiceover recording.
+3. Officially completing month 3 of the Keruvim Performance Strength and Conditioning Program.
+
+### 🔭 <b>3 Fails & Lessons Learned</b>
+1. **Failure:** 'Doom scrolling'.<br />
+**Lesson:** This week too: gave in and scrolled Instagram reels until 3AM, this night. We have already set the end of scrolling to be 9:30PM, it is a matter of execution at, this point.
+2. **Failure:** Still on that: No snooze.<br />
+**Lesson:** I have been lax with my waking up and dream analysis. Gotta ensure I respect 7:20AM wake, which starts the 25 minutes Dream analysis ending at 7:45AM, before my morning routine.
+3. **Failure:** I've arrived mindset.<br />
+**Lesson:** Pathos, that's it. I'm giving into the belief that the fire I have for Keruvim Performance isn't burning as hot as in the beginning. Just gotta shake that up and go hard this month.
+
+### 🌟 <b>Highlights of the Week</b>
+- <b>Memorable moment / breakthrough / proud event</b>: Congo winning its game against Jamaica in Guadalajara, Mexico, on Tuesday, which qualified us to the world cup hosted by the USA in June this year. Follow by an extended phone call with QLF where I got hear my lovely little niece passionately talk gibberish, as well as discussing with my mom and little sister. I Love them <3.
+- <b>Quote, inspiration, or personal reflection</b>: 'I would die for you' --> How about 'I live for you'. Every thought, word, action directed toward serving those one claim to love, that's a better, and much more demanding gift, than death.
+
+---
+
+## 📅 <b>Coming Up Next Week, InshaAllah</b> - 6th to 12th April 2026
+- [ ] Be done eating by 7-8PM.
+- [ ] Be done with dream analysis come 7:45AM.
+- [ ] Ensure to spend 30 minutes, [every day](https://www.youtube.com/shorts/mQcTJdyTFtA) going through the hip mobility routine.
+- [ ] Read 27-72 pages, [every day](https://www.youtube.com/shorts/mQcTJdyTFtA).
+
+---
+
+## 📈 <b>Meta</b>
+| Metric | This Week |
+| ------ | --------- |
+| Study Hours | N/A |
+| GitHub Commits | 63 |
+| Sleep Avg (hrs) | 7 |
+| Total Coding Time (hrs) | 7 |
+| Training Sessions (Football) | 3 |
+
+---
+
+> _“Solution guy, solution guy” — Jean-Paul De Marie KYOKYA Kalulu's projects._
+
+<!-- Let's update the log every Sunday. Let's Go! -->
+
+---
+
 ## Week 45 — Sunday, 5th April 2026
 
 ### 🌱 **What Was Worked On**
 
 - **Projects**
 	1. **Keruvim Performance's web app**: Built the React + Vite as frontend and deployed a beta version using Nginx and Gunicorn.
-	2. **Futtech Debugging**: Refactored the registration into a rich landing page introducing user to the Futtech universe and football video analysis nature of the project.
+	2. **Futtech Debugging**: Refactored the registration page into a rich landing page, introducing users to the Futtech universe, and football video analysis nature of the project.
 
 - **Learning & Growth**
 	1. Tuesday around noon, as I set on engineering Coach Kirubi's frontend, found myself looking up ['Creating a React App with Vite'](https://www.google.com/search?q=creating+a+react+app+with+vite), an operation I had not done since the creation of Futtech's frontend, a year ago.
