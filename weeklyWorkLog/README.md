@@ -73,7 +73,7 @@ Created: {{ 2025-05-31 }}
 
 ---
 
-> _“Solution guy, solution guy” — Jean-Paul De Marie KYOKYA Kalulu's projects._
+> _“You Should Never Sacrifice What You Could Be For What You Are.” — Jordan B. Peterson, final Personality and Transformation 2017 lecture._
 
 <!-- Let's update the log every Sunday. Let's Go! -->
 
