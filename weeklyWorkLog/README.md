@@ -49,8 +49,8 @@ Created: {{ 2025-05-31 }}
 **Lesson:** This week too: gave in and scrolled Instagram reels passed curfew. We have already set the end of scrolling to be 9:30PM, it is a matter of execution at, this point.
 
 ### 🌟 <b>Highlights of the Week</b>
-- <b>Memorable moment / breakthrough / proud event</b>: Congo winning its game against Jamaica in Guadalajara, Mexico, on Tuesday, which qualified us to the world cup hosted by the USA in June this year. Follow by an extended phone call with QLF where I got hear my lovely little niece passionately talk gibberish, as well as discussing with my mom and little sister. I Love them <3.
-- <b>Quote, inspiration, or personal reflection</b>: 'I would die for you' --> How about 'I live for you'. Every thought, word, action directed toward serving those one claim to love, that's a better, and much more demanding gift, than death.
+- <b>Memorable moment / breakthrough / proud event</b>: The football game on saturday against Coach Ryan's academy did that thing where I wake up in the morning and my mind rushes into reminiscing the events of the that game. Requiring me to intentionally take my attention back to Dream Analysis and my morning prayer/morning routine. I had not played ball all year long. That was fun.
+- <b>Quote, inspiration, or personal reflection</b>: Having my uncle in Poland and a high school friend invite me to seek opportunities to go abroad, with Russia emerging as the prime option. Moved me a bit. The thought of leaving Kenya is one I might not be fully interested in. "Don't sacrifice who you could be for who you are". AlhamduliAllah.
 
 ---
 
@@ -109,7 +109,7 @@ Created: {{ 2025-05-31 }}
 **Lesson:** Pathos, that's it. I'm giving into the belief that the fire I have for Keruvim Performance isn't burning as hot as in the beginning. Just gotta shake that off, and go hard this month.
 
 ### 🌟 <b>Highlights of the Week</b>
-- <b>Memorable moment / breakthrough / proud event</b>: Congo winning its game against Jamaica in Guadalajara, Mexico, on Tuesday, which qualified us to the world cup hosted by the USA in June this year. Follow by an extended phone call with QLF where I got hear my lovely little niece passionately talk gibberish, as well as discussing with my mom and little sister. I Love them <3.
+- <b>Memorable moment / breakthrough / proud event</b>: Congo winning its game against Jamaica in Guadalajara, Mexico, on Tuesday, which qualified us to the world cup hosted by the USA in June this year. Followed by an extended phone call with QLF where I got to hear my lovely little niece passionately talk gibberish, as well as discuss with my mom and little sister. I Love them <3.
 - <b>Quote, inspiration, or personal reflection</b>: 'I would die for you' --> How about 'I live for you'. Every thought, word, action directed toward serving those one claim to love, that's a better, and much more demanding gift, than death.
 
 ---
