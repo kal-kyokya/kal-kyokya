@@ -71,7 +71,7 @@ Created: {{ 2025-05-31 }}
 
 ---
 
-> _“You Should Never Sacrifice What You Could Be For What You Are.” — Jordan B. Peterson, final Personality and Transformation 2017 lecture._
+> _“Perform Without Purpose - The Purpose is You.” — David Goggins via Akira The Don, Apple Music, "The Purpose is You"._
 
 <!-- Let's update the log every Sunday. Let's Go! -->
 
