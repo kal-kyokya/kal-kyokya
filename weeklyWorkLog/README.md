@@ -20,6 +20,64 @@ Created: {{ 2025-05-31 }}
 🔹 What didn’t go well — and what was learned.<br />
 🔹 Any standout moments or breakthroughs.
 
+## Week 47 — Sunday, 19th April 2026
+
+### 🌱 **What Was Worked On**
+
+- **Projects**
+	1. **Portfolio website**: Expanded (my personal professional portfolio website)[https://www.kalkyokya.tech] via the addition of a “clients” section containing the pieces of work I was contracted to create, either solo or in a group.
+
+- **Learning & Growth**
+	1. Monday, at noon, as I sought to resolve failure of admin users to login, I looked up `how to` [check](https://www.google.com/search?q=check+django+superuser+password) and [change](https://www.google.com/search?q=change+django+superuser+password) `a Django superuser's password`, and was reintroduced to the idea of password salting and their irreversible nature, which requires knowing the pre-salted version, so as to facilitate checking.
+	2. Thursday afternoon, in need of a voice over of the football script I intended on video editing, I looked up [Voiceover App AI](https://www.google.com/search?q=voiceover+app+ai) and discovered [Eleven Labs](https://elevenlabs.io/voice-cloning) to be a interesting platform for such task.
+
+- **Job hunting**
+	- Was contacted by the client with which we worked on the 'Chercheur pour une plateforme d'innovation mondiale' project, to execute research on a number of innovative ideas.
+
+### 🏆 <b>3 Wins and/or Achievements</b>
+1. 2.4M opportunity; with Maxime Lugaz asking me to generate reports on innovative ideas in the construction sector.
+2. Playing football on Saturday, scoring a goal and being a high energy individual post-match.
+3. 2.4M negotiation; based on football video editing, leading to my acquisition of a pricing scheme that varies with the video length.
+
+### 🔭 <b>3 Fails & Lessons Learned</b>
+1. **Failure:** Eating cake and ice cream on Sunday.<br />
+**Lesson:** Could I be 'chasing the taste of good food', as was forbidden by Miyamoto Musashi in the Dokkodo? Well, the fact that I question this, already is an indication of an insiduous pattern of behavior. I currently haven't had a stable meal plan, for me commit to and execute.
+2. **Failure:** Money management.<br />
+**Lesson:** 2.4M lack of regulation, especially around food spending. Without earning nearly enough. Gotta be productive enough with the research job ti earn what would afford me the amount of protein and Bolt/Uber rides I use to put in the hours.
+3. **Failure:** Third week in a row of 'Doom scrolling'.<br />
+**Lesson:** This week too: gave in and scrolled Instagram reels passed curfew. We have already set the end of scrolling to be 9:30PM, it is a matter of execution at, this point.
+
+### 🌟 <b>Highlights of the Week</b>
+- <b>Memorable moment / breakthrough / proud event</b>: The football game on saturday against Coach Ryan's academy did that thing where I wake up in the morning and my mind rushes into reminiscing the events of the that game. Requiring me to intentionally take my attention back to Dream Analysis and my morning prayer/morning routine. I had not played ball all year long. That was fun.
+- <b>Quote, inspiration, or personal reflection</b>: Having my uncle in Poland and a high school friend invite me to seek opportunities to go abroad, with Russia emerging as the prime option. Moved me a bit. The thought of leaving Kenya is one I might not be fully interested in. "Don't sacrifice who you could be for who you are". AlhamduliAllah.
+
+---
+
+## 📅 <b>Coming Up Next Week, InshaAllah</b> - 13th to 19th April 2026
+- [ ] Be done eating by 7-8PM.
+- [ ] Be done with dream analysis come 7:45AM.
+- [ ] Ensure to spend 30 minutes, [every day](https://www.youtube.com/shorts/mQcTJdyTFtA) going through the hip mobility routine.
+- [ ] Read 27-72 pages, [every day](https://www.youtube.com/shorts/mQcTJdyTFtA).
+
+---
+
+## 📈 <b>Meta</b>
+| Metric | This Week |
+| ------ | --------- |
+| GitHub Commits | 5 |
+| Job Application | 4 |
+| Sleep Avg (hrs) | 7 |
+| Total Coding Time (hrs) | N/A |
+| Training Sessions (Football) | 4 |
+
+---
+
+> _“You Should Never Sacrifice What You Could Be For What You Are.” — Jordan B. Peterson, final Personality and Transformation 2017 lecture._
+
+<!-- Let's update the log every Sunday. Let's Go! -->
+
+---
+
 ## Week 46 — Sunday, 12th April 2026
 
 ### 🌱 **What Was Worked On**
