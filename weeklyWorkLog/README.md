@@ -34,9 +34,9 @@ Created: {{ 2025-05-31 }}
 	- Still working, as I was contacted by the client with which we worked the 'Chercheur pour une plateforme d'innovation mondiale' project, to execute research on a number of innovative ideas.
 
 ### 🏆 <b>3 Wins and/or Achievements</b>
-1. 2.4M opportunity; with Maxime Lugaz asking me to generate reports on innovative ideas in the construction sector.
-2. Playing football on Saturday, scoring a goal and being a high energy individual post-match.
-3. 2.4M negotiation; based on football video editing, leading to my acquisition of a pricing scheme that varies with the video length.
+1. Creating a player analysis video edit, focused on Lamine Yamal’s chance creation, in the games against Atletico Madrid, this 2025/2026 season.
+2. Adding Coach Kirubi’s strength & conditioning programs online shop to my portfolio website, as an entry to the “clients” section.
+3. Making it 3-in-3, as I consistently used the last 3 weeks to generate content with a USIU library's desktop, to support my football video editor claim.
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
 1. **Failure:** Eating cake and ice cream on Sunday.<br />
