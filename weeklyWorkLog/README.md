@@ -47,8 +47,8 @@ Created: {{ 2025-05-31 }}
 **Lesson:** I fibbed on Friday morning, pinning my “exhaustion” on work-related stress, while the truth was that I got caught overextending the social media time at night. 9:30PM bana, let’s just stick to that.
 
 ### 🌟 <b>Highlights of the Week</b>
-- <b>Memorable moment / breakthrough / proud event</b>: The football game on saturday against Coach Ryan's academy did that thing where I wake up in the morning and my mind rushes into reminiscing the events of the that game. Requiring me to intentionally take my attention back to Dream Analysis and my morning prayer/morning routine. I had not played ball all year long. That was fun.
-- <b>Quote, inspiration, or personal reflection</b>: Having my uncle in Poland and a high school friend invite me to seek opportunities to go abroad, with Russia emerging as the prime option. Moved me a bit. The thought of leaving Kenya is one I might not be fully interested in. "Don't sacrifice who you could be for who you are". AlhamduliAllah.
+- <b>Memorable moment / breakthrough / proud event</b>: Hosting OG Penesenga from the Airport and hanging out for more or less 10 hours. Being a decent host. AlhamduliAllah, I have set myself up to be able to embody someone I respect and admire, without strain. A nigga shows glimpses of being “like that”.
+- <b>Quote, inspiration, or personal reflection</b>: Engaging OG vieux Père in a conversation potentially leading to a 2.4M move that involves territories outside Africa. Gotta dominate all the way through. Yesterday, today, tomorrow, next week, next month, next year, next years.
 
 ---
 
