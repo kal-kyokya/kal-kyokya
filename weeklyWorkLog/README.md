@@ -31,7 +31,7 @@ Created: {{ 2025-05-31 }}
 	1. Here with a wednesday learning event, as I planned the analysis of Barcelona vs Atletico Madrid, the idea of (Zone 14 in football)[https://www.google.com/search?q=zone+14+football]: ('The Most Dangerous Area in Football')[https://the-footballanalyst.com/zone-14-the-most-dangerous-area-in-football/].
 
 - **Job hunting**
-	- Was contacted by the client with which we worked on the 'Chercheur pour une plateforme d'innovation mondiale' project, to execute research on a number of innovative ideas.
+	- Still working, as I was contacted by the client with which we worked the 'Chercheur pour une plateforme d'innovation mondiale' project, to execute research on a number of innovative ideas.
 
 ### 🏆 <b>3 Wins and/or Achievements</b>
 1. 2.4M opportunity; with Maxime Lugaz asking me to generate reports on innovative ideas in the construction sector.
