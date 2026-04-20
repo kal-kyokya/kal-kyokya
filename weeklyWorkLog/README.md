@@ -39,12 +39,12 @@ Created: {{ 2025-05-31 }}
 3. Making it 3-in-3, as I consistently used the last 3 weeks to generate content with a USIU library's desktop, to support my football video editor claim.
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
-1. **Failure:** Eating cake and ice cream on Sunday.<br />
-**Lesson:** Could I be 'chasing the taste of good food', as was forbidden by Miyamoto Musashi in the Dokkodo? Well, the fact that I question this, already is an indication of an insiduous pattern of behavior. I currently haven't had a stable meal plan, for me commit to and execute.
-2. **Failure:** Money management.<br />
-**Lesson:** 2.4M lack of regulation, especially around food spending. Without earning nearly enough. Gotta be productive enough with the research job ti earn what would afford me the amount of protein and Bolt/Uber rides I use to put in the hours.
-3. **Failure:** Third week in a row of 'Doom scrolling'.<br />
-**Lesson:** This week too: gave in and scrolled Instagram reels passed curfew. We have already set the end of scrolling to be 9:30PM, it is a matter of execution at, this point.
+1. **Failure:** Keruvim Training.<br />
+**Lesson:** I failed to show up for every training session scheduled for this week. There is no reason why I would pay the full amount and fail to show up for every single session. Gotta do better.
+2. **Failure:** Wake up time.<br />
+**Lesson:** At this point, I am failing in the same exact ways, again, and again, and again. Do I have the discipline to follow the plan and execute it well enough to get the result? Yes. Am I doing it consistently? No. Consistency. I need a streak.
+3. **Failure:** Fourth week in a row of 'Doom scrolling'.<br />
+**Lesson:** I fibbed on Friday morning, pinning my “exhaustion” on work-related stress, while the truth was that I got caught overextending the social media time at night. 9:30PM bana, let’s just stick to that.
 
 ### 🌟 <b>Highlights of the Week</b>
 - <b>Memorable moment / breakthrough / proud event</b>: The football game on saturday against Coach Ryan's academy did that thing where I wake up in the morning and my mind rushes into reminiscing the events of the that game. Requiring me to intentionally take my attention back to Dream Analysis and my morning prayer/morning routine. I had not played ball all year long. That was fun.
