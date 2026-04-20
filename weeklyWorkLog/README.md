@@ -28,8 +28,7 @@ Created: {{ 2025-05-31 }}
 	1. **Portfolio website**: Expanded (my personal professional portfolio website)[https://www.kalkyokya.tech] via the addition of a “clients” section containing the pieces of work I was contracted to create, either solo or in a group.
 
 - **Learning & Growth**
-	1. Monday, at noon, as I sought to resolve failure of admin users to login, I looked up `how to` [check](https://www.google.com/search?q=check+django+superuser+password) and [change](https://www.google.com/search?q=change+django+superuser+password) `a Django superuser's password`, and was reintroduced to the idea of password salting and their irreversible nature, which requires knowing the pre-salted version, so as to facilitate checking.
-	2. Thursday afternoon, in need of a voice over of the football script I intended on video editing, I looked up [Voiceover App AI](https://www.google.com/search?q=voiceover+app+ai) and discovered [Eleven Labs](https://elevenlabs.io/voice-cloning) to be a interesting platform for such task.
+	1. Here with a wednesday learning event, as I planned the analysis of Barcelona vs Atletico Madrid, the idea of (Zone 14 in football)[https://www.google.com/search?q=zone+14+football]: ('The Most Dangerous Area in Football')[https://the-footballanalyst.com/zone-14-the-most-dangerous-area-in-football/].
 
 - **Job hunting**
 	- Was contacted by the client with which we worked on the 'Chercheur pour une plateforme d'innovation mondiale' project, to execute research on a number of innovative ideas.
