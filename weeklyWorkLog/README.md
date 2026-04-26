@@ -20,6 +20,63 @@ Created: {{ 2025-05-31 }}
 🔹 What didn’t go well — and what was learned.<br />
 🔹 Any standout moments or breakthroughs.
 
+## Week 48 — Sunday, 26th April 2026
+
+### 🌱 **What Was Worked On**
+
+- **Projects**
+	1. **Futtech-Django**: Established the frontend and backend structures required for creation of a public showcase section of the Futtech App, whose core is a curated list of videos providing users with an insight into the football analysis, video editing, strength and conditioning claims, as well as, football training claims made on the landing page.
+
+- **Learning & Growth**
+	1. Here with a wednesday learning event, as I planned the analysis of Barcelona vs Atletico Madrid, the idea of (Zone 14 in football)[https://www.google.com/search?q=zone+14+football]: ('The Most Dangerous Area in Football')[https://the-footballanalyst.com/zone-14-the-most-dangerous-area-in-football/].
+
+- **Job hunting**
+	- Still working, as I was contacted by the client with which we worked the 'Chercheur pour une plateforme d'innovation mondiale' project, to execute research on a number of innovative ideas.
+
+### 🏆 <b>3 Wins and/or Achievements</b>
+1. Creating a player analysis video edit, focused on Lamine Yamal’s chance creation, in the games against Atletico Madrid, this 2025/2026 season.
+2. Adding Coach Kirubi’s strength & conditioning programs online shop to my portfolio website, as an entry to the “clients” section.
+3. Making it 3-in-3, as I consistently used the last 3 weeks to generate content with a USIU library's desktop, to support my football video editor claim.
+
+### 🔭 <b>3 Fails & Lessons Learned</b>
+1. **Failure:** Keruvim Training.<br />
+**Lesson:** I failed to show up for every training session scheduled for this week. There is no reason why I would pay the full amount and fail to show up for every single session. Gotta do better.
+2. **Failure:** Wake up time.<br />
+**Lesson:** At this point, I am failing in the same exact ways, again, and again, and again. Do I have the discipline to follow the plan and execute it well enough to get the result? Yes. Am I doing it consistently? No. Consistency. I need a streak.
+3. **Failure:** Fourth week in a row of 'Doom scrolling'.<br />
+**Lesson:** I fibbed on Friday morning, pinning my “exhaustion” on work-related stress, while the truth was that I got caught overextending the social media time at night. 9:30PM bana, let’s just stick to that.
+
+### 🌟 <b>Highlights of the Week</b>
+- <b>Memorable moment / breakthrough / proud event</b>: Hosting OG Penesenga from the Airport and hanging out for more or less 10 hours. Being a decent host. AlhamduliAllah, I have set myself up to be able to embody someone I respect and admire, without strain. A nigga shows glimpses of being “like that”.
+- <b>Quote, inspiration, or personal reflection</b>: Engaging OG vieux Père in a conversation potentially leading to a 2.4M move that involves territories outside Africa. Gotta dominate all the way through. Yesterday, today, tomorrow, next week, next month, next year, next years.
+
+---
+
+## 📅 <b>Coming Up Next Week, InshaAllah</b> - 20th to 26th April 2026
+- [ ] Be done eating by 7-8PM.
+- [ ] Be done with dream analysis come 7:45AM.
+- [ ] Ensure to spend 30 minutes, [every day](https://www.youtube.com/shorts/mQcTJdyTFtA) going through the hip mobility routine.
+- [ ] Read 27-72 pages, [every day](https://www.youtube.com/shorts/mQcTJdyTFtA).
+
+---
+
+## 📈 <b>Meta</b>
+| Metric | This Week |
+| ------ | --------- |
+| GitHub Commits | 14 |
+| Job Application | N/A |
+| Sleep Avg (hrs) | 7 |
+| Total Coding Time (hrs) | N/A |
+| Training Sessions (Football) | 3 |
+
+---
+
+> _“Perform Without Purpose - The Purpose is You.” — David Goggins via Akira The Don, Apple Music, "The Purpose is You"._
+
+<!-- Let's update the log every Sunday. Let's Go! -->
+
+---
+
 ## Week 47 — Sunday, 19th April 2026
 
 ### 🌱 **What Was Worked On**
