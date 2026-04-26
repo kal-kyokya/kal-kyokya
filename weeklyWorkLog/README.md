@@ -35,9 +35,9 @@ Created: {{ 2025-05-31 }}
 	- Still working, as I was contacted by the client with which we worked the 'Chercheur pour une plateforme d'innovation mondiale' project, to execute research on a number of innovative ideas.
 
 ### 🏆 <b>3 Wins and/or Achievements</b>
-1. Creating a player analysis video edit, focused on Lamine Yamal’s chance creation, in the games against Atletico Madrid, this 2025/2026 season.
-2. Adding Coach Kirubi’s strength & conditioning programs online shop to my portfolio website, as an entry to the “clients” section.
-3. Making it 3-in-3, as I consistently used the last 3 weeks to generate content with a USIU library's desktop, to support my football video editor claim.
+1. Making it 4-in-4, as I consistently used the last 4 weeks to generate video content with a USIU library's desktop, to support my football video editor claim.
+2. Created a 1min 55secs video edit focused on Robert Lewandowski's elite off-the-ball movement and striker positioning.
+3. Reached out to QLF to get the European Football Degree Pathway plan underway.
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
 1. **Failure:** Keruvim Training.<br />
