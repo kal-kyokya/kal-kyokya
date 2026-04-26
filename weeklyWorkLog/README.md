@@ -28,7 +28,8 @@ Created: {{ 2025-05-31 }}
 	1. **Futtech-Django**: Established the frontend and backend structures required for creation of a public showcase section of the Futtech App, whose core is a curated list of videos providing users with an insight into the football analysis, video editing, strength and conditioning claims, as well as, football training claims made on the landing page.
 
 - **Learning & Growth**
-	1. Here with a wednesday learning event, as I planned the analysis of Barcelona vs Atletico Madrid, the idea of (Zone 14 in football)[https://www.google.com/search?q=zone+14+football]: ('The Most Dangerous Area in Football')[https://the-footballanalyst.com/zone-14-the-most-dangerous-area-in-football/].
+	1. Starting Monday, as a result of having, more than once, mentioned the concept of a 'USP' in the research I made regarding a Football Degree Pathway, I looked up the meaning of [a Unique Selling Proposition/Point](https://www.google.com/search?q=usp+meaning) to clarify what the 'S' and especially the 'P' stand for.
+	2. Wednesday, late morning, I wanted to confirm my guess that a combination of Input and Output is referred to as [throughput](https://www.google.com/search?q=throughput+meaning), which turned out to be true.
 
 - **Job hunting**
 	- Still working, as I was contacted by the client with which we worked the 'Chercheur pour une plateforme d'innovation mondiale' project, to execute research on a number of innovative ideas.
