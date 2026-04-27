@@ -71,7 +71,7 @@ Created: {{ 2025-05-31 }}
 
 ---
 
-> _“Perform Without Purpose - The Purpose is You.” — David Goggins via Akira The Don, Apple Music, "The Purpose is You"._
+> _“'Usikaniye match' - Hold no grudges towards an upcoming performance.” — Sayying from Bukavu, South Kivu, Democratic Republic of Congo, Wisdom of Language._
 
 <!-- Let's update the log every Sunday. Let's Go! -->
 
