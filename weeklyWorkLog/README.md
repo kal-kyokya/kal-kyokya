@@ -48,8 +48,8 @@ Created: {{ 2025-05-31 }}
 **Lesson:** I haven't earned yet. Money is coming in, but not substantially enough for me to claim having made a proper 2.4M move.
 
 ### 🌟 <b>Highlights of the Week</b>
-- <b>Memorable moment / breakthrough / proud event</b>: Hosting OG Penesenga from the Airport and hanging out for more or less 10 hours. Being a decent host. AlhamduliAllah, I have set myself up to be able to embody someone I respect and admire, without strain. A nigga shows glimpses of being “like that”.
-- <b>Quote, inspiration, or personal reflection</b>: Engaging OG vieux Père in a conversation potentially leading to a 2.4M move that involves territories outside Africa. Gotta dominate all the way through. Yesterday, today, tomorrow, next week, next month, next year, next years.
+- <b>Memorable moment / breakthrough / proud event</b>: I showed up for the game locked in and willing to stoically prep myself for a performance worth the standard I have for me. I didn't play nice and was assertive enough to go out and run a routine that I believe I need to build on.
+- <b>Quote, inspiration, or personal reflection</b>: I did a good job working my defender's blind side during the friendly match at the RMCRD, so much so that I got a goal. I only had that one tool with me though, that resulted in the defender making an adjustment that took me out of the game. Good thing is via Lewandowski's analysis, I have learned of the drift away, then either attack the near post or take one step forward, before checking back in for a cut back, and potentially running back to the fronting the post.
 
 ---
 
