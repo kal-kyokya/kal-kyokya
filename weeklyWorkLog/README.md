@@ -41,11 +41,11 @@ Created: {{ 2025-05-31 }}
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
 1. **Failure:** Keruvim Training.<br />
-**Lesson:** I failed to show up for every training session scheduled for this week. There is no reason why I would pay the full amount and fail to show up for every single session. Gotta do better.
-2. **Failure:** Wake up time.<br />
-**Lesson:** At this point, I am failing in the same exact ways, again, and again, and again. Do I have the discipline to follow the plan and execute it well enough to get the result? Yes. Am I doing it consistently? No. Consistency. I need a streak.
-3. **Failure:** Fourth week in a row of 'Doom scrolling'.<br />
-**Lesson:** I fibbed on Friday morning, pinning my “exhaustion” on work-related stress, while the truth was that I got caught overextending the social media time at night. 9:30PM bana, let’s just stick to that.
+**Lesson:** Lost a friendly game 6-2 against a team made of gentlemen in their late 30s who are no where as fit as they would ideally be, I could have influenced the scoreline more by having more than a one goal.
+2. **Failure:** 'Microtransgressions'.<br />
+**Lesson:** Surely insidious in nature, a 45 minutes delay at bedtime and wake up time, social media scrolling passed 9:30PM, an extra serviing of food here and there. The little things that allow myself to indulge in. I need to fully commit.
+3. **Failure:** 2.4M.<br />
+**Lesson:** I haven't earned yet. Money is coming in, but not substantially enough for me to claim having made a proper 2.4M move.
 
 ### 🌟 <b>Highlights of the Week</b>
 - <b>Memorable moment / breakthrough / proud event</b>: Hosting OG Penesenga from the Airport and hanging out for more or less 10 hours. Being a decent host. AlhamduliAllah, I have set myself up to be able to embody someone I respect and admire, without strain. A nigga shows glimpses of being “like that”.
