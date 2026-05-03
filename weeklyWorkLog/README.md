@@ -36,7 +36,7 @@ Created: {{ 2025-05-31 }}
 
 ### 🏆 <b>3 Wins and/or Achievements</b>
 1. Edited a 54 seconds video compiling the best of my football skills, executed during training sessions with Keruvim Performance, over the last 4 months.
-2. Uploaded the 54 seconds video mentioned above to both Bunny Stream and my Instagram profile. IG where I made moves to increase the likelyhood that the video will be a success, in my opinion, having accumulated over 125 comments and 50+ likes as I type this.
+2. Uploaded the 54 seconds video mentioned above to both Bunny Stream and my Instagram profile. IG where I made moves to increase the likelihood that the video will be a success, in my opinion, having accumulated over 125 comments and 50+ likes as I type this.
 3. Got a job allowing me to earn a bit, make a couple investments this months, and helping me not have a 'hole in my CV' for the past 7 months.
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
@@ -48,8 +48,8 @@ Created: {{ 2025-05-31 }}
 **Lesson:** I am allowing myself to allocate the couple hours I used to give to books to the NBA playoffs games, which needs not be gicent given that with 6-10 minutes of read I could go a long way. Read for the minimal possible amount of time you can manage.
 
 ### 🌟 <b>Highlights of the Week</b>
-- <b>Memorable moment / breakthrough / proud event</b>: I showed up for the game locked in and willing to stoically prep myself for a performance worth the standard I have for me. I didn't play nice and was assertive enough to go out and run a routine that I believe I need to build on.
-- <b>Quote, inspiration, or personal reflection</b>: I did a good job working my defender's blind side during the friendly match at the RMCRD, so much so that I got a goal. I only had that one tool with me though, that resulted in the defender making an adjustment that took me out of the game. Good thing is via Lewandowski's analysis, I have learned of the drift away, then either attack the near post or take one step forward, before checking back in for a cut back, and potentially running back to the fronting the post.
+- <b>Memorable moment / breakthrough / proud event</b>: Making a sell in less than 24 hours, as I made moves to sell the Casio Piano OG Boussole left me 2 years ago, made some money off it, used it to make an initial deposit with Keruvim Performance and now reminiscing on the good old piano days.
+- <b>Quote, inspiration, or personal reflection</b>: "How quickly would you fail if you knew you were 32 failures away from your life changing success?" - Embodied this as I implemented the strategy design to increase the likelihood that my latest IG reel can be used to support my claim of being video editor specialized in football analysis.
 
 ---
 
