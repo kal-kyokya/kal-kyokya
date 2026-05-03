@@ -35,9 +35,9 @@ Created: {{ 2025-05-31 }}
 	- Was hired as a Twitter Engagement Assistant (Sports / Athlete Community) midweek and have accepted a month-long contract covering May, AlhamduliAllah.
 
 ### 🏆 <b>3 Wins and/or Achievements</b>
-1. Making it 4-in-4, as I consistently used the last 4 weeks to generate video content with a USIU library's desktop, to support my football video editor claim.
-2. Created a 1min 55secs video edit focused on Robert Lewandowski's elite off-the-ball movement and striker positioning.
-3. Reached out to QLF to get the European Football Degree Pathway plan underway.
+1. Edited a 54 seconds video compiling the best of my football skills, executed during training sessions with Keruvim Performance, over the last 4 months.
+2. Uploaded the 54 seconds video mentioned above to both Bunny Stream and my Instagram profile. IG where I made moves to increase the likelyhood that the video will be a success, in my opinion, having accumulated over 125 comments and 50+ likes as I type this.
+3. Got a job allowing me to earn a bit, make a couple investments this months, and helping me not have a 'hole in my CV' for the past 7 months.
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
 1. **Failure:** Keruvim Training.<br />
