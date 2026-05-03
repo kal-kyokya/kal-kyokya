@@ -40,12 +40,12 @@ Created: {{ 2025-05-31 }}
 3. Got a job allowing me to earn a bit, make a couple investments this months, and helping me not have a 'hole in my CV' for the past 7 months.
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
-1. **Failure:** Keruvim Training.<br />
-**Lesson:** Lost a friendly game 6-2 against a team made of gentlemen in their late 30s who are no where as fit as they would ideally be, I could have influenced the scoreline more by having more than a one goal.
-2. **Failure:** 'Microtransgressions'.<br />
-**Lesson:** Surely insidious in nature, a 45 minutes delay at bedtime and wake up time, social media scrolling passed 9:30PM, an extra serviing of food here and there. The little things that allow myself to indulge in. I need to fully commit.
-3. **Failure:** 2.4M.<br />
-**Lesson:** I haven't earned yet. Money is coming in, but not substantially enough for me to claim having made a proper 2.4M move.
+1. **Failure:** "No snooze".<br />
+**Lesson:** I did hit that snooze button a whole lot of times this week. I can't be, it shouldn't be, it better not be. This is it: No snooze, no more snooze.
+2. **Failure:** Second week running: 'Microtransgressions'.<br />
+**Lesson:** "Surely insidious in nature, a 45 minutes delay at bedtime and wake up time, social media scrolling passed 9:30PM, an extra serviing of food here and there. The little things that allow myself to indulge in. I need to fully commit".
+3. **Failure:** Reading books.<br />
+**Lesson:** I am allowing myself to allocate the couple hours I used to give to books to the NBA playoffs games, which needs not be gicent given that with 6-10 minutes of read I could go a long way. Read for the minimal possible amount of time you can manage.
 
 ### 🌟 <b>Highlights of the Week</b>
 - <b>Memorable moment / breakthrough / proud event</b>: I showed up for the game locked in and willing to stoically prep myself for a performance worth the standard I have for me. I didn't play nice and was assertive enough to go out and run a routine that I believe I need to build on.
@@ -100,7 +100,7 @@ Created: {{ 2025-05-31 }}
 1. **Failure:** Keruvim Training.<br />
 **Lesson:** Lost a friendly game 6-2 against a team made of gentlemen in their late 30s who are no where as fit as they would ideally be, I could have influenced the scoreline more by having more than a one goal.
 2. **Failure:** 'Microtransgressions'.<br />
-**Lesson:** Surely insidious in nature, a 45 minutes delay at bedtime and wake up time, social media scrolling passed 9:30PM, an extra serviing of food here and there. The little things that allow myself to indulge in. I need to fully commit.
+**Lesson:** Surely insidious in nature, a 45 minutes delay at bedtime and wake up time, social media scrolling passed 9:30PM, an extra serving of food here and there. The little things that I allow myself to indulge in. I need to fully commit.
 3. **Failure:** 2.4M.<br />
 **Lesson:** I haven't earned yet. Money is coming in, but not substantially enough for me to claim having made a proper 2.4M move.
 
