@@ -20,6 +20,63 @@ Created: {{ 2025-05-31 }}
 🔹 What didn’t go well — and what was learned.<br />
 🔹 Any standout moments or breakthroughs.
 
+## Week 49 — Sunday, 3rd May 2026
+
+### 🌱 **What Was Worked On**
+
+- **Projects**
+	1. **Futtech-Django**: Redefined the style sheets of the public header, as well as the video player for mobile responsiveness.
+
+- **Learning & Growth**
+	1. Starting Monday, as a result of having, more than once, mentioned the concept of a 'USP' in the research I made regarding a Football Degree Pathway, I looked up the meaning of [a Unique Selling Proposition/Point](https://www.google.com/search?q=usp+meaning) to clarify what the 'S' and especially the 'P' stand for.
+	2. Wednesday, late morning, I wanted to confirm my guess that a combination of Input and Output is referred to as [throughput](https://www.google.com/search?q=throughput+meaning), which turned out to be true.
+
+- **Job hunting**
+	- Still working, as I was contacted by the client with which we worked the 'Chercheur pour une plateforme d'innovation mondiale' project, to execute research on a number of innovative ideas.
+
+### 🏆 <b>3 Wins and/or Achievements</b>
+1. Making it 4-in-4, as I consistently used the last 4 weeks to generate video content with a USIU library's desktop, to support my football video editor claim.
+2. Created a 1min 55secs video edit focused on Robert Lewandowski's elite off-the-ball movement and striker positioning.
+3. Reached out to QLF to get the European Football Degree Pathway plan underway.
+
+### 🔭 <b>3 Fails & Lessons Learned</b>
+1. **Failure:** Keruvim Training.<br />
+**Lesson:** Lost a friendly game 6-2 against a team made of gentlemen in their late 30s who are no where as fit as they would ideally be, I could have influenced the scoreline more by having more than a one goal.
+2. **Failure:** 'Microtransgressions'.<br />
+**Lesson:** Surely insidious in nature, a 45 minutes delay at bedtime and wake up time, social media scrolling passed 9:30PM, an extra serviing of food here and there. The little things that allow myself to indulge in. I need to fully commit.
+3. **Failure:** 2.4M.<br />
+**Lesson:** I haven't earned yet. Money is coming in, but not substantially enough for me to claim having made a proper 2.4M move.
+
+### 🌟 <b>Highlights of the Week</b>
+- <b>Memorable moment / breakthrough / proud event</b>: I showed up for the game locked in and willing to stoically prep myself for a performance worth the standard I have for me. I didn't play nice and was assertive enough to go out and run a routine that I believe I need to build on.
+- <b>Quote, inspiration, or personal reflection</b>: I did a good job working my defender's blind side during the friendly match at the RMCRD, so much so that I got a goal. I only had that one tool with me though, that resulted in the defender making an adjustment that took me out of the game. Good thing is via Lewandowski's analysis, I have learned of the drift away, then either attack the near post or take one step forward, before checking back in for a cut back, and potentially running back to the fronting the post.
+
+---
+
+## 📅 <b>Coming Up Next Week, InshaAllah</b> - 27th April to 3rd May 2026
+- [ ] Be done eating by 7-8PM.
+- [ ] Be done with dream analysis come 7:45AM.
+- [ ] Ensure to spend 30 minutes, [every day](https://www.youtube.com/shorts/mQcTJdyTFtA) going through the hip mobility routine.
+
+---
+
+## 📈 <b>Meta</b>
+| Metric | This Week |
+| ------ | --------- |
+| GitHub Commits | 33 |
+| Job Application | N/A |
+| Sleep Avg (hrs) | 7 |
+| Total Coding Time (hrs) | 2 |
+| Training Sessions (Football) | 3 |
+
+---
+
+> _“'Usikaniye match' - Hold no grudges towards an upcoming performance.” — Sayying from Bukavu, South Kivu, Democratic Republic of Congo, Wisdom of Language._
+
+<!-- Let's update the log every Sunday. Let's Go! -->
+
+---
+
 ## Week 48 — Sunday, 26th April 2026
 
 ### 🌱 **What Was Worked On**
