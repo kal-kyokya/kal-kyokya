@@ -55,7 +55,7 @@ Created: {{ 2025-05-31 }}
 
 ## 📅 <b>Coming Up Next Week, InshaAllah</b> - 4th to 10th May 2026
 - [ ] Be done eating by 7-8PM.
-- [ ] Be done with dream analysis come 7:45AM.
+- [ ] Be done with dream analysis come [7:45AM](https://www.youtube.com/watch?v=T4H7EC9j6mg).
 - [ ] Ensure to spend 30 minutes, [every day](https://www.youtube.com/shorts/mQcTJdyTFtA) going through the hip mobility routine.
 - [ ] Read at least one page of a book every single day.
 
@@ -72,7 +72,7 @@ Created: {{ 2025-05-31 }}
 
 ---
 
-> _“'Usikaniye match' - Hold no grudges towards an upcoming performance.” — Sayying from Bukavu, South Kivu, Democratic Republic of Congo, Wisdom of Language._
+> _“Try Getting Up at the Same Time Everyday.” — Jordan B. Peterson._
 
 <!-- Let's update the log every Sunday. Let's Go! -->
 
@@ -129,7 +129,7 @@ Created: {{ 2025-05-31 }}
 
 ---
 
-> _“'Usikaniye match' - Hold no grudges towards an upcoming performance.” — Sayying from Bukavu, South Kivu, Democratic Republic of Congo, Wisdom of Language._
+> _“'Usikaniye match' - Hold no grudges towards an upcoming performance.” — Saying from Bukavu, South Kivu, Democratic Republic of Congo, Wisdom of Language._
 
 <!-- Let's update the log every Sunday. Let's Go! -->
 
