@@ -32,7 +32,7 @@ Created: {{ 2025-05-31 }}
 	2. Tuesday, as I sought to polish the appearance of video objects on the public showcase page, I started off by looking up ['How to add a thumbnail to an iFrame video in HTML'](https://www.google.com/search?q=add+thumbnail+to+iframe+video+html), before realizing that I could directly consume Bunny Stream's thumbnail URL as an API.
 
 - **Job hunting**
-	- Still working, as I was contacted by the client with which we worked the 'Chercheur pour une plateforme d'innovation mondiale' project, to execute research on a number of innovative ideas.
+	- Was hired as a Twitter Engagement Assistant (Sports / Athlete Community) midweek and have accepted a month-long contract covering May, AlhamduliAllah.
 
 ### 🏆 <b>3 Wins and/or Achievements</b>
 1. Making it 4-in-4, as I consistently used the last 4 weeks to generate video content with a USIU library's desktop, to support my football video editor claim.
