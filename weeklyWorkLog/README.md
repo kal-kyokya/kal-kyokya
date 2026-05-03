@@ -28,8 +28,8 @@ Created: {{ 2025-05-31 }}
 	1. **Futtech-Django**: Redefined the style sheets of the public header, as well as the video player for mobile responsiveness.
 
 - **Learning & Growth**
-	1. Starting Monday, as a result of having, more than once, mentioned the concept of a 'USP' in the research I made regarding a Football Degree Pathway, I looked up the meaning of [a Unique Selling Proposition/Point](https://www.google.com/search?q=usp+meaning) to clarify what the 'S' and especially the 'P' stand for.
-	2. Wednesday, late morning, I wanted to confirm my guess that a combination of Input and Output is referred to as [throughput](https://www.google.com/search?q=throughput+meaning), which turned out to be true.
+	1. Starting Monday, as I set on adding a [transform effect](https://www.google.com/search?q=transform+css+property) on thumbnail images displayed in the public showcase section of Futtech, I lookedup the 'Transform CSS property' to refresh my memory on how exactly to implement the said effect.
+	2. Tuesday, as I sought to polish the appearance of video objects on the public showcase page, I started off by looking up ['How to add a thumbnail to an iFrame video in HTML'](https://www.google.com/search?q=add+thumbnail+to+iframe+video+html), before realizing that I could directly consume Bunny Stream's thumbnail URL as an API.
 
 - **Job hunting**
 	- Still working, as I was contacted by the client with which we worked the 'Chercheur pour une plateforme d'innovation mondiale' project, to execute research on a number of innovative ideas.
