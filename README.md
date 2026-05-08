@@ -133,16 +133,6 @@ My Mission:</br>
 		height="40"
 		/>
 	</a>&emsp;
-	<a href="https://flask.palletsprojects.com/"
-	   target="_blank"
-	   rel="noreferrer"
-	   >
-	   <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21~v2.svg"
-	   	alt="flask"
-	   	width="40"
-	   	height="40"
-	   />
-	</a>&emsp;
 	<a href="https://git-scm.com/"
 	   target="_blank"
 	   rel="noreferrer"
@@ -183,16 +173,6 @@ My Mission:</br>
 		height="40"
 		/>
 	</a>&emsp;
-	<a href="https://www.mysql.com/"
-	   target="_blank"
-	   rel="noreferrer"
-	   >
-	   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-	   	alt="mysql"
-	   	width="40"
-	   	height="40"
-	   	/>
-	</a>&emsp;
 	<a href="https://www.nginx.com"
 	   target="_blank"
 	   rel="noreferrer"
@@ -213,16 +193,6 @@ My Mission:</br>
 	   height="40"
 	   />
 	</a>&emsp;
-	<a href="https://www.php.net"
-	   target="_blank"
-	   rel="noreferrer"
-	   >
-	   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"
-	   	alt="php"
-		width="40"
-		height="40"
-		/>
-	</a>&emsp;
 	<a href="https://www.python.org"
 	   target="_blank"
 	   rel="noreferrer"
@@ -239,36 +209,6 @@ My Mission:</br>
 	   >
 	   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
 	   	alt="react"
-		width="40"
-		height="40"
-		/>
-	</a>&emsp;
-	<a href="https://reactnative.dev/"
-	   target="_blank"
-	   rel="noreferrer"
-	   >
-	   <img src="https://reactnative.dev/img/header_logo.svg"
-	   	alt="reactnative"
-		width="40"
-		height="40"
-		/>
-	</a>&emsp;
-	<a href="https://www.sqlite.org/"
-	   target="_blank"
-	   rel="noreferrer"
-	   >
-	   <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg"
-	   	alt="sqlite"
-		width="40"
-		height="40"
-		/>
-	</a>&emsp;
-	<a href="https://www.vagrantup.com/"
-	   target="_blank"
-	   rel="noreferrer"
-	   >
-	   <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg"
-	   	alt="vagrant"
 		width="40"
 		height="40"
 		/>
