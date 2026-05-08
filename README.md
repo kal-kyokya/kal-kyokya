@@ -48,52 +48,52 @@ My Mission:</br>
 	     </a>
 
 <h3 align="left">Connect with me:</h3>
-<p>
+<p align="left" style="display:flex; gap:16px; align-items:center; flex-wrap: wrap">
 	<a href="https://medium.com/@kal-kyokya"
 	   target="_blank">
 	   <img alt="Medium badge"
 	   	src="https://img.shields.io/badge/Medium-black?logo=medium&logoColor=white"/>
-	</a>&emsp;
+	</a>
 	<a href="https://anilist.co/user/kalkyokya/"
 	   target="_blank">
 	   <img alt="Anilist badge"
 	     src="https://img.shields.io/badge/AniList-02A9FF?logo=anilist&logoColor=fff"/>
-	</a>&emsp;
+	</a>
 	<a href="https://myanimelist.net/profile/kal-kyokya"
 	   target="_blank">
 	   <img alt="MyAnimeList badge"
 	   src="https://img.shields.io/badge/MyAnimeList-2E51A2?logo=myanimelist&logoColor=fff"/>
-	</a>&emsp;
+	</a>
 	<a href="https://www.pinterest.com/kalulukyokya/"
 	target="_blank">
 	<img alt="Pinterest"
 	src="https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white"/>
-	</a>&emsp;
+	</a>
 	<a href="https://discordapp.com/users/1151038985683087410"
 	target="_blank">
 	<img alt="Discord badge"
 	src="https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white"/>
-	</a>&emsp;
+	</a>
 	<a href="https://www.quora.com/profile/Jeanpaul-Kyokya"
 	target="_blank">
 	<img alt="Quora badge"
 	src="https://img.shields.io/badge/Quora-B92B27?logo=quora&logoColor=fff"/>
-	</a>&emsp;
+	</a>
 	<a href="https://www.tiktok.com/@jeanpaulkyokya?_t=ZM-8vhRXpGAx8Q&_r=1"
 	target="_blank">
 	<img alt="Tiktok badge"
 	src="https://img.shields.io/badge/TikTok-black?logo=tiktok&logoColor=white"/>
-	</a>&emsp;
+	</a>
 	<a href="https://www.youtube.com/@jeanpaulkyokya2341"
 	target="_blank">
 	<img alt="Youtube badge"
 	src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white"/>
-	</a>&emsp;
+	</a>
 	
 </p>
 
 <h3 align="left">Languages & Tools:</h3>
-<p style="display: flex; flex-direction: row">
+<p align="left" style="display:flex; gap:16px; align-items:center; flex-wrap: wrap">
 	<a href="https://www.gnu.org/software/bash/"
       	   target="_blank"
       	   >
@@ -102,7 +102,7 @@ My Mission:</br>
 	     	width="40"
 	     	height="40"
 	     	/>
-	</a>&emsp;
+	</a>
 	<a href="https://www.cprogramming.com/"
 	   target="_blank"
 	   rel="noreferrer"
@@ -112,7 +112,7 @@ My Mission:</br>
 		width="40"
 		height="40"
 		/>
-	</a>&emsp;
+	</a>
 	<a href="https://www.w3schools.com/css/"
 	   target="_blank"
 	   rel="noreferrer"
@@ -122,7 +122,7 @@ My Mission:</br>
 	   width="40"
 	   height="40"
 	   />
-	</a>&emsp;
+	</a>
 	<a href="https://www.djangoproject.com/"
 	   target="_blank"
 	   rel="noreferrer"
@@ -132,7 +132,7 @@ My Mission:</br>
 		width="40"
 		height="40"
 		/>
-	</a>&emsp;
+	</a>
 	<a href="https://git-scm.com/"
 	   target="_blank"
 	   rel="noreferrer"
@@ -142,7 +142,7 @@ My Mission:</br>
 		width="40"
 		height="40"
 		/>
-	</a>&emsp;
+	</a>
 	<a href="https://www.w3.org/html/"
 	   target="_blank"
 	   rel="noreferrer"
@@ -152,7 +152,7 @@ My Mission:</br>
 	   	width="40"
 	   	height="40"
 	   	/>
-	</a>&emsp;
+	</a>
 	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
 	   target="_blank"
 	   rel="noreferrer"
@@ -162,7 +162,7 @@ My Mission:</br>
 		width="40"
 		height="40"
 		/>
-	</a>&emsp;
+	</a>
 	<a href="https://www.linux.org/"
 	   target="_blank"
 	   rel="noreferrer"
@@ -172,7 +172,7 @@ My Mission:</br>
 		width="40"
 		height="40"
 		/>
-	</a>&emsp;
+	</a>
 	<a href="https://www.nginx.com"
 	   target="_blank"
 	   rel="noreferrer"
@@ -182,7 +182,7 @@ My Mission:</br>
 		width="40"
 		height="40"
 		/>
-	</a>&emsp;
+	</a>
 	<a href="https://nodejs.org"
 	   target="_blank"
 	   rel="noreferrer"
@@ -192,7 +192,7 @@ My Mission:</br>
 	   width="40"
 	   height="40"
 	   />
-	</a>&emsp;
+	</a>
 	<a href="https://www.python.org"
 	   target="_blank"
 	   rel="noreferrer"
@@ -202,7 +202,7 @@ My Mission:</br>
 		width="40"
 		height="40"
 		/>
-	</a>&emsp;
+	</a>
 	<a href="https://reactjs.org/"
 	   target="_blank"
 	   rel="noreferrer"
@@ -212,5 +212,5 @@ My Mission:</br>
 		width="40"
 		height="40"
 		/>
-	</a>&emsp;
+	</a>
 </p>
