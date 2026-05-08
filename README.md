@@ -93,7 +93,7 @@ My Mission:</br>
 </p>
 
 <h3 align="left">Languages & Tools:</h3>
-<p display="flex" flex-direction="row">
+<p style="display: flex; flex-direction: row">
 	<a href="https://www.gnu.org/software/bash/"
       	   target="_blank"
       	   >
