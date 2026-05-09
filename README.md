@@ -2,97 +2,95 @@
 **kal-kyokya/kal-kyokya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on the GitHub profile.
 -->
 
-<h2 align="center">Greetings 👋</br>
+<h1 align="center">Greetings 👋</h1>
 
-My name is Jean-Paul De Marie KYOKYA Kalulu.</br>
-I am from Congo-DRC and resides in Nairobi-Kenya.</br>
+<h3 align="center">
+    Building technology at the intersection of Software, Embedded Systems & Football Analytics
+</h3>
 
-In pursuit of a career in <b>Embedded software & systems engineering</b>—with an <b>Electrical & Electronics Engineering</b> background & <b>Software Engineering</b> Certifications; I want to use my skills to help create a future you envision and solve your problems.</br>
+<p align="center">
+My name is <b>Jean-Paul De Marie KYOKYA Kalulu</b>.</br>
+I am a Congolese Software Engineer based in Nairobi, Kenya,
+with a background in Electrical & Electronics Engineering.
+</p>
 
-My Mission:</br>
-<p>
+<p align="center">
+I aspire to become an <b>Embedded Software & Systems Engineer</b>,
+building technology that solves real-world infrastructure and
+performance problems — especially within African contexts.
+</p>
+
+<p align="center">
 	<em>
-		"To make technology not just accessible, but transformational."
+		"Building technology that expands opportunity — especially where talent exists but infrastructure does not."
 	</em>
 </p>
-</h2>
 
-<h3 align="center">An Entrepreneurial Full-stack Developer in Kenya</h3>
-
-<p align="left">
-   <img alt="eyoul"
-   	src="https://komarev.com/ghpvc/?username=eyoul&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
+---
 
 <img align="right"
      alt="coding"
-     width="400"
+     width="380"
      src="https://i2.wp.com/i.giphy.com/media/26tn33aiTi1jkl6H6/giphy-downsized.gif?w=770&ssl=1"/>
 
-- 🌱 Founder of **2 Tech Startups**.
+## 🚀What I'm Building
 
-- 🔭 Currently learning to **integrate Django backends with react clients**.
+### ⚽ FUTTECH
+A football analytics & player development platform focused on:
+- video analysis,
+- tactical intelligence,
+- player movement analysis,
+- and football development through technology.
 
-- :bulb: Seeking to collaborate on **Django & MERN Development Projects**.
+The goal is to help African footballers improve through accessible performance tools.
 
-- 📫 Looking for help with **'Cost Of Sold Goods' optimization**.
+---
 
-- 💬 Ask me about **Electronics, Software Engineering & Football**.
+### 🌐 Everything-IoT
+An initiative exploring:
+- IoT systems,
+- embedded devices,
+- connectivity solutions,
+- edge computing,
+- and intelligent infrastructure technologies.
 
-- 😌 Fun fact: **I am funny** :trollface: .
+---
 
-- ⚡ Visit : <a href="https://www.kalkyokya.tech/"
-     	     	target="_blank"
-		>
-		https://www.kalkyokya.tech
-	     </a>
+## 🔭Currently Exploring
 
-<h3 align="left">Connect with me:</h3>
-<p>
-	<a href="https://medium.com/@kal-kyokya"
-	   target="_blank">
-	   <img alt="Medium badge"
-	   	src="https://img.shields.io/badge/Medium-black?logo=medium&logoColor=white"/>
-	</a>&emsp;
-	<a href="https://anilist.co/user/kalkyokya/"
-	   target="_blank">
-	   <img alt="Anilist badge"
-	     src="https://img.shields.io/badge/AniList-02A9FF?logo=anilist&logoColor=fff"/>
-	</a>&emsp;
-	<a href="https://myanimelist.net/profile/kal-kyokya"
-	   target="_blank">
-	   <img alt="MyAnimeList badge"
-	   src="https://img.shields.io/badge/MyAnimeList-2E51A2?logo=myanimelist&logoColor=fff"/>
-	</a>&emsp;
-	<a href="https://www.pinterest.com/kalulukyokya/"
-	target="_blank">
-	<img alt="Pinterest"
-	src="https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white"/>
-	</a>&emsp;
-	<a href="https://discordapp.com/users/1151038985683087410"
-	target="_blank">
-	<img alt="Discord badge"
-	src="https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white"/>
-	</a>&emsp;
-	<a href="https://www.quora.com/profile/Jeanpaul-Kyokya"
-	target="_blank">
-	<img alt="Quora badge"
-	src="https://img.shields.io/badge/Quora-B92B27?logo=quora&logoColor=fff"/>
-	</a>&emsp;
-	<a href="https://www.tiktok.com/@jeanpaulkyokya?_t=ZM-8vhRXpGAx8Q&_r=1"
-	target="_blank">
-	<img alt="Tiktok badge"
-	src="https://img.shields.io/badge/TikTok-black?logo=tiktok&logoColor=white"/>
-	</a>&emsp;
-	<a href="https://www.youtube.com/@jeanpaulkyokya2341"
-	target="_blank">
-	<img alt="Youtube badge"
-	src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white"/>
-	</a>&emsp;
-	
-</p>
+- Embedded Linux Systems
+- Computer Vision for Football Analysis
+- IoT Connectivity & Edge Devices
+- Video Infrastructure using Bunny Stream
+- Django + React Architectures
+- Tactical Football Analysis
+- Backend Infrastructure & System Design
 
-<h3 align="left">Languages & Tools:</h3>
+---
+
+## ⚽ Football & Performance Engineering
+
+I study football not only as a player, but also as a systems problem:
+decision-making, spatial awareness, movement efficiency,
+reaction timing and tactical intelligence.
+
+FUTTECH is my attempt to bridge football development and technology
+for African players.
+
+---
+
+## 🌱 Current Focus
+
+- Founder of 2 tech initiatives
+- Building full-stack applications with Django, React & Node.js
+- Developing backend engineering skills
+- Transitioning toward embedded systems & low-level computing
+- Combining engineering with football performance analysis
+
+---
+
+## 🛠️ Languages & Tools
+
 <p align="left">
 	<a href="https://www.gnu.org/software/bash/" target="_blank">
 	   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
@@ -130,4 +128,35 @@ My Mission:</br>
 	<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
 	   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
 	</a>&nbsp;&nbsp;
+</p>
+
+---
+
+## 🌍 Connect With Me
+
+<p align="left">
+	<a href="https://www.kalkyokya.tech/" target="_blank">
+	   <img alt="Website"
+	   	src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
+	</a>&emsp;
+	<a href="https://medium.com/@kal-kyokya" target="_blank">
+	   <img alt="Medium badge"
+	   	src="https://img.shields.io/badge/Medium-black?logo=medium&logoColor=white"/>
+	</a>&emsp;
+	<a href="https://www.youtube.com/@jeanpaulkyokya2341" target="_blank">
+	<img alt="Youtube badge"
+	src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white"/>
+	</a>&emsp;
+	<a href="https://www.tiktok.com/@jeanpaulkyokya?_t=ZM-8vhRXpGAx8Q&_r=1" target="_blank">
+	<img alt="Tiktok badge"
+	src="https://img.shields.io/badge/TikTok-black?logo=tiktok&logoColor=white"/>
+	</a>&emsp;
+	<a href="https://discordapp.com/users/1151038985683087410" target="_blank">
+	<img alt="Discord badge"
+	src="https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white"/>
+	</a>&emsp;
+	<a href="https://www.quora.com/profile/Jeanpaul-Kyokya" target="_blank">
+	<img alt="Quora badge"
+	src="https://img.shields.io/badge/Quora-B92B27?logo=quora&logoColor=fff"/>
+	</a>&emsp;
 </p>
