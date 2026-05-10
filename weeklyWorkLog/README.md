@@ -27,6 +27,7 @@ Created: {{ 2025-05-31 }}
 - **Projects**
 	1. **Futtech-Django**: Disabled the login button to block access to Futtech's internal structure as I build it and direct traffic towards the public showcase implemented last week.
 	2. **Personal Professional Portfolio Website**: Redefine the copyright section of the website for succintness.
+	3. **GitHub README**: Updated the "special repository's README" with informations reflecting the progress made over the weeks and the current aims.
 
 - **Learning & Growth**
 	1. Tuesday afternoon, as I worked on the Twitter Engagement Assistant job, I learned of a google search bar technic consisting of typing `"site:<site_name> <target_keyword>"` which helps narrow the search to a particular website for a particular set of keywords.
