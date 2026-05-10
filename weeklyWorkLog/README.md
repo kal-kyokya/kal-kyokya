@@ -29,8 +29,9 @@ Created: {{ 2025-05-31 }}
 	2. **Personal Professional Portfolio Website**: Redefine the copyright section of the website for succintness.
 
 - **Learning & Growth**
-	1. Starting Monday, as I set on adding a [transform effect](https://www.google.com/search?q=transform+css+property) on thumbnail images displayed in the public showcase section of Futtech, I lookedup the 'Transform CSS property' to refresh my memory on how exactly to implement the said effect.
-	2. Tuesday, as I sought to polish the appearance of video objects on the public showcase page, I started off by looking up ['How to add a thumbnail to an iFrame video in HTML'](https://www.google.com/search?q=add+thumbnail+to+iframe+video+html), before realizing that I could directly consume Bunny Stream's thumbnail URL as an API.
+	1. Tuesday afternoon, as I worked on the Twitter Engagement Assistant job, I learned of a google search bar technic consisting of typing `"site:<site_name> <target_keyword>"` which helps narrow the search to a particular website for a particular set of keywords.
+	2. Found myself googling: ["<p display='flex'>"](https://www.google.com/search?q=%3Cp+display%3D%22flex%22%3E) as I needed a reminder on how to define HTML element's style directly inside them.
+	3. The AI overview associated with the google search ['to free associate'](https://www.google.com/search?q=to+free+associate) provided me with a weekend read that helped consolidate the learning done via watching the 2017 Personality lectures by Jordan B. Peterson.
 
 - **Job hunting**
 	- Was hired as a Twitter Engagement Assistant (Sports / Athlete Community) midweek and have accepted a month-long contract covering May, AlhamduliAllah.
