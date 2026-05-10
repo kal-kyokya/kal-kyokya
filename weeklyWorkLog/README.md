@@ -75,7 +75,7 @@ Created: {{ 2025-05-31 }}
 
 ---
 
-> _“Try Getting Up at the Same Time Everyday.” — Jordan B. Peterson._
+> _“Ash hadu an la ilaha illallah wa ashhadu anna muhammadan abduhu wa rasuluh.” — Second part of the Shahada (the Islamic declaration of faith)._
 
 <!-- Let's update the log every Sunday. Let's Go! -->
 
