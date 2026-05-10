@@ -37,9 +37,9 @@ Created: {{ 2025-05-31 }}
 	- Still on that: 'Was hired as a Twitter Engagement Assistant (Sports / Athlete Community) midweek and have accepted a month-long contract covering May, AlhamduliAllah'.
 
 ### 🏆 <b>3 Wins and/or Achievements</b>
-1. Edited a 54 seconds video compiling the best of my football skills, executed during training sessions with Keruvim Performance, over the last 4 months.
-2. Uploaded the 54 seconds video mentioned above to both Bunny Stream and my Instagram profile. IG where I made moves to increase the likelihood that the video will be a success, in my opinion, having accumulated over 125 comments and 50+ likes as I type this.
-3. Got a job allowing me to earn a bit, make a couple investments this months, and helping me not have a 'hole in my CV' for the past 7 months.
+1. Scored as many as 5 of 7 balls during this week's finishing drills, InshaAllah, this was me shaking the rust off and getting into rythm to regularly hit 7/7, week-in, week-out.
+2. Boosted the IG post a week later (Wednesday), after it had organically accumulated over a thousand views, one hundred twenty five comments and seventy likes, to now having ten thousand views, one thousand plus likes, in three days, with four more days to come.
+3. Regularly watched Baki Hanma with German subtitles, and picked up a dictionary checking habit which as seen me recognize certain words that keep on being used.
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
 1. **Failure:** "No snooze".<br />
