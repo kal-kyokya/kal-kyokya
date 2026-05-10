@@ -42,12 +42,12 @@ Created: {{ 2025-05-31 }}
 3. Regularly watched Baki Hanma with German subtitles, and picked up a dictionary checking habit which as seen me recognize certain words that keep on being used.
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
-1. **Failure:** "No snooze".<br />
-**Lesson:** I did hit that snooze button a whole lot of times this week. I can't be, it shouldn't be, it better not be. This is it: No snooze, no more snooze.
-2. **Failure:** Second week running: 'Microtransgressions'.<br />
-**Lesson:** "Surely insidious in nature, a 45 minutes delay at bedtime and wake up time, social media scrolling passed 9:30PM, an extra serviing of food here and there. The little things that allow myself to indulge in. I need to fully commit".
-3. **Failure:** Reading books.<br />
-**Lesson:** I am allowing myself to allocate the couple hours I used to give to books to the NBA playoffs games, which needs not be gicent given that with 6-10 minutes of read I could go a long way. Read for the minimal possible amount of time you can manage.
+1. **Failure:** Still on that: "No snooze".<br />
+**Lesson:** Although going for practice at 9AM help on the 3 days I had one, the week has seen me fail to 'wake up at the same time everyday'.
+2. **Failure:** Third week running: 'Microtransgressions'.<br />
+**Lesson:** "Surely insidious in nature, a 45 minutes delay at bedtime and wake up time, social media scrolling passed 9:30PM, an extra serving of food here and there. The little things that allow myself to indulge in. I need to fully commit".
+3. **Failure:** 2.4M.<br />
+**Lesson:** 'Increase sacrifice, or decrease desire', my food habit, food consumption has gone up as I believe myself needing to eat in proportion to the training I am doing with Keruvim Performance.
 
 ### 🌟 <b>Highlights of the Week</b>
 - <b>Memorable moment / breakthrough / proud event</b>: Making a sell in less than 24 hours, as I made moves to sell the Casio Piano OG Boussole left me 2 years ago, made some money off it, used it to make an initial deposit with Keruvim Performance and now reminiscing on the good old piano days.
@@ -103,7 +103,7 @@ Created: {{ 2025-05-31 }}
 1. **Failure:** "No snooze".<br />
 **Lesson:** I did hit that snooze button a whole lot of times this week. I can't be, it shouldn't be, it better not be. This is it: No snooze, no more snooze.
 2. **Failure:** Second week running: 'Microtransgressions'.<br />
-**Lesson:** "Surely insidious in nature, a 45 minutes delay at bedtime and wake up time, social media scrolling passed 9:30PM, an extra serviing of food here and there. The little things that allow myself to indulge in. I need to fully commit".
+**Lesson:** "Surely insidious in nature, a 45 minutes delay at bedtime and wake up time, social media scrolling passed 9:30PM, an extra serving of food here and there. The little things that allow myself to indulge in. I need to fully commit".
 3. **Failure:** Reading books.<br />
 **Lesson:** I am allowing myself to allocate the couple hours I used to give to books to the NBA playoffs games, which needs not be gicent given that with 6-10 minutes of read I could go a long way. Read for the minimal possible amount of time you can manage.
 
