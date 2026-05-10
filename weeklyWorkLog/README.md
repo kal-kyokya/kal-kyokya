@@ -20,6 +20,65 @@ Created: {{ 2025-05-31 }}
 🔹 What didn’t go well — and what was learned.<br />
 🔹 Any standout moments or breakthroughs.
 
+## Week 50 — Sunday, 10th May 2026
+
+### 🌱 **What Was Worked On**
+
+- **Projects**
+	1. **Futtech-Django**: Disabled the login button to block access to Futtech's internal structure as I build it and direct traffic towards the public showcase implemented last week.
+	2. **Personal Professional Portfolio Website**: Redefine the copyright section of the website for succintness.
+
+- **Learning & Growth**
+	1. Starting Monday, as I set on adding a [transform effect](https://www.google.com/search?q=transform+css+property) on thumbnail images displayed in the public showcase section of Futtech, I lookedup the 'Transform CSS property' to refresh my memory on how exactly to implement the said effect.
+	2. Tuesday, as I sought to polish the appearance of video objects on the public showcase page, I started off by looking up ['How to add a thumbnail to an iFrame video in HTML'](https://www.google.com/search?q=add+thumbnail+to+iframe+video+html), before realizing that I could directly consume Bunny Stream's thumbnail URL as an API.
+
+- **Job hunting**
+	- Was hired as a Twitter Engagement Assistant (Sports / Athlete Community) midweek and have accepted a month-long contract covering May, AlhamduliAllah.
+
+### 🏆 <b>3 Wins and/or Achievements</b>
+1. Edited a 54 seconds video compiling the best of my football skills, executed during training sessions with Keruvim Performance, over the last 4 months.
+2. Uploaded the 54 seconds video mentioned above to both Bunny Stream and my Instagram profile. IG where I made moves to increase the likelihood that the video will be a success, in my opinion, having accumulated over 125 comments and 50+ likes as I type this.
+3. Got a job allowing me to earn a bit, make a couple investments this months, and helping me not have a 'hole in my CV' for the past 7 months.
+
+### 🔭 <b>3 Fails & Lessons Learned</b>
+1. **Failure:** "No snooze".<br />
+**Lesson:** I did hit that snooze button a whole lot of times this week. I can't be, it shouldn't be, it better not be. This is it: No snooze, no more snooze.
+2. **Failure:** Second week running: 'Microtransgressions'.<br />
+**Lesson:** "Surely insidious in nature, a 45 minutes delay at bedtime and wake up time, social media scrolling passed 9:30PM, an extra serviing of food here and there. The little things that allow myself to indulge in. I need to fully commit".
+3. **Failure:** Reading books.<br />
+**Lesson:** I am allowing myself to allocate the couple hours I used to give to books to the NBA playoffs games, which needs not be gicent given that with 6-10 minutes of read I could go a long way. Read for the minimal possible amount of time you can manage.
+
+### 🌟 <b>Highlights of the Week</b>
+- <b>Memorable moment / breakthrough / proud event</b>: Making a sell in less than 24 hours, as I made moves to sell the Casio Piano OG Boussole left me 2 years ago, made some money off it, used it to make an initial deposit with Keruvim Performance and now reminiscing on the good old piano days.
+- <b>Quote, inspiration, or personal reflection</b>: "How quickly would you fail if you knew you were 32 failures away from your life changing success?" - Embodied this as I implemented the strategy design to increase the likelihood that my latest IG reel can be used to support my claim of being video editor specialized in football analysis.
+
+---
+
+## 📅 <b>Coming Up Next Week, InshaAllah</b> - 4th to 10th May 2026
+- [ ] Be done eating by 7-8PM.
+- [ ] Be done with dream analysis come [7:45AM](https://www.youtube.com/watch?v=T4H7EC9j6mg).
+- [ ] Ensure to spend 30 minutes, [every day](https://www.youtube.com/shorts/mQcTJdyTFtA) going through the hip mobility routine.
+- [ ] Read at least one page of a book every single day.
+
+---
+
+## 📈 <b>Meta</b>
+| Metric | This Week |
+| ------ | --------- |
+| GitHub Commits | 21 |
+| Job Application | 2 |
+| Sleep Avg (hrs) | 8 |
+| Total Coding Time (hrs) | 1 |
+| Training Sessions (Football) | 2 |
+
+---
+
+> _“Try Getting Up at the Same Time Everyday.” — Jordan B. Peterson._
+
+<!-- Let's update the log every Sunday. Let's Go! -->
+
+---
+
 ## Week 49 — Sunday, 3rd May 2026
 
 ### 🌱 **What Was Worked On**
