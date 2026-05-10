@@ -34,7 +34,7 @@ Created: {{ 2025-05-31 }}
 	3. The AI overview associated with the google search ['to free associate'](https://www.google.com/search?q=to+free+associate) provided me with a weekend read that helped consolidate the learning done via watching the 2017 Personality lectures by Jordan B. Peterson.
 
 - **Job hunting**
-	- Was hired as a Twitter Engagement Assistant (Sports / Athlete Community) midweek and have accepted a month-long contract covering May, AlhamduliAllah.
+	- Still on that: 'Was hired as a Twitter Engagement Assistant (Sports / Athlete Community) midweek and have accepted a month-long contract covering May, AlhamduliAllah'.
 
 ### 🏆 <b>3 Wins and/or Achievements</b>
 1. Edited a 54 seconds video compiling the best of my football skills, executed during training sessions with Keruvim Performance, over the last 4 months.
