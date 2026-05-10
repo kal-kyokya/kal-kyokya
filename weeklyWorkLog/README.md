@@ -50,8 +50,8 @@ Created: {{ 2025-05-31 }}
 **Lesson:** 'Increase sacrifice, or decrease desire', my food habit, food consumption has gone up as I believe myself needing to eat in proportion to the training I am doing with Keruvim Performance.
 
 ### 🌟 <b>Highlights of the Week</b>
-- <b>Memorable moment / breakthrough / proud event</b>: Making a sell in less than 24 hours, as I made moves to sell the Casio Piano OG Boussole left me 2 years ago, made some money off it, used it to make an initial deposit with Keruvim Performance and now reminiscing on the good old piano days.
-- <b>Quote, inspiration, or personal reflection</b>: "How quickly would you fail if you knew you were 32 failures away from your life changing success?" - Embodied this as I implemented the strategy design to increase the likelihood that my latest IG reel can be used to support my claim of being video editor specialized in football analysis.
+- <b>Memorable moment / breakthrough / proud event</b>: There are 2 shots I attempted during the friday's finishing drill that have stuck with me; both of them, quite venimous, laces and toe-bone, the first flew straight above the small net, the other was nicely low and hard but wide to the right. Those are misses that have me feeling that a goal from them would be highlights.
+- <b>Quote, inspiration, or personal reflection</b>: Imma survive till I get that OG Vieux père 2.4M june move on, and make my deutsch moves.
 
 ---
 
@@ -109,7 +109,7 @@ Created: {{ 2025-05-31 }}
 
 ### 🌟 <b>Highlights of the Week</b>
 - <b>Memorable moment / breakthrough / proud event</b>: Making a sell in less than 24 hours, as I made moves to sell the Casio Piano OG Boussole left me 2 years ago, made some money off it, used it to make an initial deposit with Keruvim Performance and now reminiscing on the good old piano days.
-- <b>Quote, inspiration, or personal reflection</b>: "How quickly would you fail if you knew you were 32 failures away from your life changing success?" - Embodied this as I implemented the strategy design to increase the likelihood that my latest IG reel can be used to support my claim of being video editor specialized in football analysis.
+- <b>Quote, inspiration, or personal reflection</b>: "How quickly would you fail if you knew you were 32 failures away from your life changing success?" - Embodied this, as I implemented the strategy designed to increase the likelihood that my latest IG reel can be used to support my claim of being a video editor specialized in football analysis.
 
 ---
 
