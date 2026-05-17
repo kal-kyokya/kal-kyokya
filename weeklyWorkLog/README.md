@@ -30,9 +30,7 @@ Created: {{ 2025-05-31 }}
 	1. **Futtech-Django**: Enable back the login button and refactored the project's codebase to reflect deletion of the frontend video upload workflow, as well as, video management functionality.
 
 - **Learning & Growth**
-	1. Tuesday afternoon, as I worked on the Twitter Engagement Assistant job, I learned of a google search bar technic consisting of typing `"site:<site_name> <target_keyword>"` which helps narrow the search to a particular website for a particular set of keywords.
-	2. Found myself googling: ["<p display='flex'>"](https://www.google.com/search?q=%3Cp+display%3D%22flex%22%3E) as I needed a reminder on how to define HTML element's style directly inside them.
-	3. The AI overview associated with the google search ['to free associate'](https://www.google.com/search?q=to+free+associate) provided me with a weekend read that helped consolidate the learning done via watching the 2017 Personality lectures by Jordan B. Peterson.
+	1. Thursday evening, as I worked the Twitter Engagement gig, I sought to type down a comment, in french, that pointed out how versatile the subject player was; this led to my looking up ['versatilité'](https://www.google.com/search?q=versatilit%C3%A9), a word that doesn't exist in french, though. Polyvalence is the french equivalent, by the way.
 
 - **Job hunting**
 	- Still on that: 'Was hired as a Twitter Engagement Assistant (Sports / Athlete Community) midweek and have accepted a month-long contract covering May, AlhamduliAllah'.
