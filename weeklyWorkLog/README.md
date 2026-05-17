@@ -20,6 +20,67 @@ Created: {{ 2025-05-31 }}
 🔹 What didn’t go well — and what was learned.<br />
 🔹 Any standout moments or breakthroughs.
 
+---
+
+## Week 51 — Sunday, 17th May 2026
+
+### 🌱 **What Was Worked On**
+
+- **Projects**
+	1. **Futtech-Django**: Enable back the login button and refactored the project's codebase to reflect deletion of the frontend video upload workflow, as well as, video management functionality.
+
+- **Learning & Growth**
+	1. Tuesday afternoon, as I worked on the Twitter Engagement Assistant job, I learned of a google search bar technic consisting of typing `"site:<site_name> <target_keyword>"` which helps narrow the search to a particular website for a particular set of keywords.
+	2. Found myself googling: ["<p display='flex'>"](https://www.google.com/search?q=%3Cp+display%3D%22flex%22%3E) as I needed a reminder on how to define HTML element's style directly inside them.
+	3. The AI overview associated with the google search ['to free associate'](https://www.google.com/search?q=to+free+associate) provided me with a weekend read that helped consolidate the learning done via watching the 2017 Personality lectures by Jordan B. Peterson.
+
+- **Job hunting**
+	- Still on that: 'Was hired as a Twitter Engagement Assistant (Sports / Athlete Community) midweek and have accepted a month-long contract covering May, AlhamduliAllah'.
+
+### 🏆 <b>3 Wins and/or Achievements</b>
+1. Scored as many as 5 of 7 balls during this week's finishing drills, InshaAllah, this was me shaking the rust off and getting into rythm to regularly hit 7/7, week-in, week-out.
+2. Boosted the IG post a week later (Wednesday), after it had organically accumulated over a thousand views, one hundred twenty five comments and seventy likes, to now having ten thousand views, one thousand plus likes, in three days, with four more days to come.
+3. Regularly watched Baki Hanma with German subtitles, and picked up a dictionary checking habit which as seen me recognize certain words that keep on being used.
+
+### 🔭 <b>3 Fails & Lessons Learned</b>
+1. **Failure:** Still on that: "No snooze".<br />
+**Lesson:** Although going for practice at 9AM help on the 3 days I had one, the week has seen me fail to 'wake up at the same time everyday'.
+2. **Failure:** Third week running: 'Microtransgressions'.<br />
+**Lesson:** "Surely insidious in nature, a 45 minutes delay at bedtime and wake up time, social media scrolling passed 9:30PM, an extra serving of food here and there. The little things that allow myself to indulge in. I need to fully commit".
+3. **Failure:** 2.4M.<br />
+**Lesson:** 'Increase sacrifice, or decrease desire', my food habit, food consumption has gone up as I believe myself needing to eat in proportion to the training I am doing with Keruvim Performance.
+
+### 🌟 <b>Highlights of the Week</b>
+- <b>Memorable moment / breakthrough / proud event</b>: There are 2 shots I attempted during the friday's finishing drill that have stuck with me; both of them, quite venimous, laces and toe-bone, the first flew straight above the small net, the other was nicely low and hard but wide to the right. Those are misses that have me feeling that a goal from them would be highlights.
+- <b>Quote, inspiration, or personal reflection</b>: Imma survive till I get that OG Vieux père 2.4M june move on, and make my deutsch moves.
+
+---
+
+## 📅 <b>Coming Up Next Week, InshaAllah</b> - 11th to 17th May 2026
+- [ ] Be done eating by 7-8PM.
+- [ ] Be done with dream analysis come [8:15AM](https://www.youtube.com/watch?v=T4H7EC9j6mg).
+- [ ] Ensure to spend 30 minutes, [every day](https://www.youtube.com/shorts/mQcTJdyTFtA) going through the hip mobility routine.
+- [ ] Read at least one page of a book every single day.
+
+---
+
+## 📈 <b>Meta</b>
+| Metric | This Week |
+| ------ | --------- |
+| GitHub Commits | 25 |
+| Job Application | N/A |
+| Sleep Avg (hrs) | 8 |
+| Total Coding Time (hrs) | N/A |
+| Training Sessions (Football) | 3 |
+
+---
+
+> _“Ash hadu an la ilaha illallah wa ashhadu anna muhammadan abduhu wa rasuluh.” — Second part of the Shahada (the Islamic declaration of faith)._
+
+<!-- Let's update the log every Sunday. Let's Go! -->
+
+---
+
 ## Week 50 — Sunday, 10th May 2026
 
 ### 🌱 **What Was Worked On**
