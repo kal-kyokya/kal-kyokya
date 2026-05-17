@@ -49,8 +49,8 @@ Created: {{ 2025-05-31 }}
 **Lesson:** 'Increase sacrifice, or decrease desire', my food habit, food consumption has gone up as I believe myself needing to eat in proportion to the training I am doing with Keruvim Performance.
 
 ### 🌟 <b>Highlights of the Week</b>
-- <b>Memorable moment / breakthrough / proud event</b>: There are 2 shots I attempted during the friday's finishing drill that have stuck with me; both of them, quite venimous, laces and toe-bone, the first flew straight above the small net, the other was nicely low and hard but wide to the right. Those are misses that have me feeling that a goal from them would be highlights.
-- <b>Quote, inspiration, or personal reflection</b>: Imma survive till I get that OG Vieux père 2.4M june move on, and make my deutsch moves.
+- <b>Memorable moment / breakthrough / proud event</b>: The strong Pathos associated with being called out for this insidious habit I have developed over the weeks of arriving late for training. Turns out the sin of Pride truly is the thing I need exposure to, in order to learn to truly be humble.
+- <b>Quote, inspiration, or personal reflection</b>: I'm a prideful individual who still needs to work on his relation with authority figures, especially when there is conflict, friction, confrontation.
 
 ---
 
