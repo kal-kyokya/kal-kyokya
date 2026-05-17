@@ -36,14 +36,14 @@ Created: {{ 2025-05-31 }}
 	- Still on that: 'Was hired as a Twitter Engagement Assistant (Sports / Athlete Community) midweek and have accepted a month-long contract covering May, AlhamduliAllah'.
 
 ### 🏆 <b>3 Wins and/or Achievements</b>
-1. Scored as many as 5 of 7 balls during this week's finishing drills, InshaAllah, this was me shaking the rust off and getting into rythm to regularly hit 7/7, week-in, week-out.
-2. Boosted the IG post a week later (Wednesday), after it had organically accumulated over a thousand views, one hundred twenty five comments and seventy likes, to now having ten thousand views, one thousand plus likes, in three days, with four more days to come.
-3. Regularly watched Baki Hanma with German subtitles, and picked up a dictionary checking habit which as seen me recognize certain words that keep on being used.
+1. 'That Mode'; Showed up on Thursday, cold, stoic, focused, locked in. Put in a good shift, a angry one, an aggressive one, and lived up to the potential of DLHI, who goes out there, and gets the job done.
+2. 2.4M, a brother got himself to the 'tank on E' point and pulled strings, which he didn't really know he could pull, to stay afloat. I got me a good reputation and a valuable network.
+3. Hit my local gym on monday and lifted super heavy weight, which is a reflection of how strong and powerful I have grown as a result of training with Keruvim Performance.
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
-1. **Failure:** Still on that: "No snooze".<br />
-**Lesson:** Although going for practice at 9AM help on the 3 days I had one, the week has seen me fail to 'wake up at the same time everyday'.
-2. **Failure:** Third week running: 'Microtransgressions'.<br />
+1. **Failure:** Being late for training.<br />
+**Lesson:** Was punished by Coach Kirubi for arriving 4 minutes for a training session meant to start at 9:30AM, and have made the resolution, at least for the next couple weeks to at the turf before 8AM to watch and see the 'other guys' keeping time.
+2. **Failure:** Fourth week running: 'Microtransgressions'.<br />
 **Lesson:** "Surely insidious in nature, a 45 minutes delay at bedtime and wake up time, social media scrolling passed 9:30PM, an extra serving of food here and there. The little things that allow myself to indulge in. I need to fully commit".
 3. **Failure:** 2.4M.<br />
 **Lesson:** 'Increase sacrifice, or decrease desire', my food habit, food consumption has gone up as I believe myself needing to eat in proportion to the training I am doing with Keruvim Performance.
