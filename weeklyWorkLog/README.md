@@ -73,7 +73,7 @@ Created: {{ 2025-05-31 }}
 
 ---
 
-> _“Ash hadu an la ilaha illallah wa ashhadu anna muhammadan abduhu wa rasuluh.” — Second part of the Shahada (the Islamic declaration of faith)._
+> _“You can't expect me to give 100%, while you come here and give me the bare minimum required to pass.” — Coach Kirubi, paraphrase from his lecture to Jean-Paul on being late for training._
 
 <!-- Let's update the log every Sunday. Let's Go! -->
 
