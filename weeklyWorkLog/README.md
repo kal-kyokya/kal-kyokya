@@ -37,9 +37,9 @@ Created: {{ 2025-05-31 }}
 	- Still on that: 'Was hired as a Twitter Engagement Assistant (Sports / Athlete Community) midweek and have accepted a month-long contract covering May, AlhamduliAllah'.
 
 ### 🏆 <b>3 Wins and/or Achievements</b>
-1. 'That Mode'; Showed up on Thursday, cold, stoic, focused, locked in. Put in a good shift, a angry one, an aggressive one, and lived up to the potential of DLHI, who goes out there, and gets the job done.
-2. 2.4M, a brother got himself to the 'tank on E' point and pulled strings, which he didn't really know he could pull, to stay afloat. I got me a good reputation and a valuable network.
-3. Hit my local gym on monday and lifted super heavy weight, which is a reflection of how strong and powerful I have grown as a result of training with Keruvim Performance.
+1. Spent the week regularly stretching in the evening with no training or gym workouts, which as contributed to my right knee's discomfort to fade away.
+2. Noticed myself able to recognize a word and two from Dutch as I browsed the internet.
+3. Still out there on that 2.4M man, have seen myself consistently making moves week-in, week-out, and reinforcing the idea, making memories of me being a 2.4M move-maker.
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
 1. **Failure:** Being late for training.<br />
