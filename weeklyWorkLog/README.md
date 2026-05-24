@@ -42,12 +42,12 @@ Created: {{ 2025-05-31 }}
 3. Still out there on that 2.4M man, have seen myself consistently making moves week-in, week-out, and reinforcing the idea, making memories of me being a 2.4M move-maker.
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
-1. **Failure:** Being late for training.<br />
-**Lesson:** Was punished by Coach Kirubi for arriving 4 minutes for a training session meant to start at 9:30AM, and have made the resolution, at least for the next couple weeks to at the turf before 8AM to watch and see the 'other guys' keeping time.
-2. **Failure:** Fourth week running: 'Microtransgressions'.<br />
-**Lesson:** "Surely insidious in nature, a 45 minutes delay at bedtime and wake up time, social media scrolling passed 9:30PM, an extra serving of food here and there. The little things that allow myself to indulge in. I need to fully commit".
+1. **Failure:** Giving into Fear.<br />
+**Lesson:** I did some doomscrolling and went to bed past 5 in morning, simply because I felt like I was being suffocated the night before. Sleeping close to when the sun is coming up felt 'safer', and allowed me to spend 24 hours which I believed helped forget the feeling.
+2. **Failure:** Fifth week running: 'Microtransgressions'.<br />
+**Lesson:** "Surely insidious in nature, a 45 minutes delay at bedtime and wake up time, social media scrolling passed 9:30PM, an extra serving of food here and there. The little things that I allow myself to indulge in. I need to fully commit".
 3. **Failure:** 2.4M.<br />
-**Lesson:** 'Increase sacrifice, or decrease desire', my food habit, food consumption has gone up as I believe myself needing to eat in proportion to the training I am doing with Keruvim Performance.
+**Lesson:** 'Increase sacrifice, or decrease desire', my food habit, food consumption has gone up, as I think myself needing to eat in proportion to the training I am doing with Keruvim Performance.
 
 ### 🌟 <b>Highlights of the Week</b>
 - <b>Memorable moment / breakthrough / proud event</b>: The strong Pathos associated with being called out for this insidious habit I have developed over the weeks of arriving late for training. Turns out the sin of Pride truly is the thing I need exposure to, in order to learn to truly be humble.
@@ -100,7 +100,7 @@ Created: {{ 2025-05-31 }}
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
 1. **Failure:** Being late for training.<br />
-**Lesson:** Was punished by Coach Kirubi for arriving 4 minutes for a training session meant to start at 9:30AM, and have made the resolution, at least for the next couple weeks to at the turf before 8AM to watch and see the 'other guys' keeping time.
+**Lesson:** Was punished by Coach Kirubi for arriving 4 minutes late for a training session meant to start at 9:30AM, and have made the resolution, at least for the next couple weeks to be at the turf, before 8AM, to watch and see the 'other guys' keeping time.
 2. **Failure:** Fourth week running: 'Microtransgressions'.<br />
 **Lesson:** "Surely insidious in nature, a 45 minutes delay at bedtime and wake up time, social media scrolling passed 9:30PM, an extra serving of food here and there. The little things that allow myself to indulge in. I need to fully commit".
 3. **Failure:** 2.4M.<br />
