@@ -74,7 +74,7 @@ Created: {{ 2025-05-31 }}
 
 ---
 
-> _“You can't expect me to give 100%, while you come here and give me the bare minimum required to pass.” — Coach Kirubi, paraphrase from his lecture to Jean-Paul on being late for training._
+> _“Don't practice what you don't want to become.” — Jordan B. Peterson, 2017 Maps of Meaning 03: Marionettes and Individuals (Part 2)._
 
 <!-- Let's update the log every Sunday. Let's Go! -->
 
