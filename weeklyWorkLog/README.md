@@ -22,12 +22,69 @@ Created: {{ 2025-05-31 }}
 
 ---
 
+## Week 52 — Sunday, 24th May 2026
+
+### 🌱 **What Was Worked On**
+
+- **Projects**
+	1. **Futtech-Django**: Redefined the frontend's post-login routing and redesigned the watch page and public showcase's cascading style sheet.
+
+- **Learning & Growth**
+	1. Thursday evening, as I worked the Twitter Engagement gig, I sought to type down a comment, in french, that pointed out how versatile the subject player was; this led to my looking up ['versatilité'](https://www.google.com/search?q=versatilit%C3%A9), a word that doesn't exist in french, though. Polyvalence is the french equivalent, by the way.
+
+- **Job hunting**
+	- Still on that: 'Was hired as a Twitter Engagement Assistant (Sports / Athlete Community) midweek and have accepted a month-long contract covering May, AlhamduliAllah'.
+
+### 🏆 <b>3 Wins and/or Achievements</b>
+1. 'That Mode'; Showed up on Thursday, cold, stoic, focused, locked in. Put in a good shift, a angry one, an aggressive one, and lived up to the potential of DLHI, who goes out there, and gets the job done.
+2. 2.4M, a brother got himself to the 'tank on E' point and pulled strings, which he didn't really know he could pull, to stay afloat. I got me a good reputation and a valuable network.
+3. Hit my local gym on monday and lifted super heavy weight, which is a reflection of how strong and powerful I have grown as a result of training with Keruvim Performance.
+
+### 🔭 <b>3 Fails & Lessons Learned</b>
+1. **Failure:** Being late for training.<br />
+**Lesson:** Was punished by Coach Kirubi for arriving 4 minutes for a training session meant to start at 9:30AM, and have made the resolution, at least for the next couple weeks to at the turf before 8AM to watch and see the 'other guys' keeping time.
+2. **Failure:** Fourth week running: 'Microtransgressions'.<br />
+**Lesson:** "Surely insidious in nature, a 45 minutes delay at bedtime and wake up time, social media scrolling passed 9:30PM, an extra serving of food here and there. The little things that allow myself to indulge in. I need to fully commit".
+3. **Failure:** 2.4M.<br />
+**Lesson:** 'Increase sacrifice, or decrease desire', my food habit, food consumption has gone up as I believe myself needing to eat in proportion to the training I am doing with Keruvim Performance.
+
+### 🌟 <b>Highlights of the Week</b>
+- <b>Memorable moment / breakthrough / proud event</b>: The strong Pathos associated with being called out for this insidious habit I have developed over the weeks of arriving late for training. Turns out the sin of Pride truly is the thing I need exposure to, in order to learn to truly be humble.
+- <b>Quote, inspiration, or personal reflection</b>: I'm a prideful individual who still needs to work on his relation with authority figures, especially when there is conflict, friction, confrontation.
+
+---
+
+## 📅 <b>Coming Up Next Week, InshaAllah</b> - 18th to 24th May 2026
+- [ ] Be done eating by 7-8PM.
+- [ ] Be done with dream analysis come [7:45AM](https://www.youtube.com/watch?v=T4H7EC9j6mg).
+- [ ] Ensure to spend 30 minutes, [every day](https://www.youtube.com/shorts/mQcTJdyTFtA) going through the hip mobility routine.
+- [ ] Read at least one page of a book every single day.
+
+---
+
+## 📈 <b>Meta</b>
+| Metric | This Week |
+| ------ | --------- |
+| GitHub Commits | 40 |
+| Job Application | N/A |
+| Sleep Avg (hrs) | 8 |
+| Total Coding Time (hrs) | 1 |
+| Training Sessions (Football) | 3 |
+
+---
+
+> _“You can't expect me to give 100%, while you come here and give me the bare minimum required to pass.” — Coach Kirubi, paraphrase from his lecture to Jean-Paul on being late for training._
+
+<!-- Let's update the log every Sunday. Let's Go! -->
+
+---
+
 ## Week 51 — Sunday, 17th May 2026
 
 ### 🌱 **What Was Worked On**
 
 - **Projects**
-	1. **Futtech-Django**: Enable back the login button and refactored the project's codebase to reflect deletion of the frontend video upload workflow, as well as, video management functionality.
+	1. **Futtech-Django**: Enabled back the login button and refactored the project's codebase to reflect deletion of the frontend video upload workflow, as well as, video management functionality.
 
 - **Learning & Growth**
 	1. Thursday evening, as I worked the Twitter Engagement gig, I sought to type down a comment, in french, that pointed out how versatile the subject player was; this led to my looking up ['versatilité'](https://www.google.com/search?q=versatilit%C3%A9), a word that doesn't exist in french, though. Polyvalence is the french equivalent, by the way.
