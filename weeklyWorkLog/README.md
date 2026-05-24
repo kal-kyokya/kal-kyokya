@@ -30,7 +30,8 @@ Created: {{ 2025-05-31 }}
 	1. **Futtech-Django**: Redefined the frontend's post-login routing and redesigned the watch page and public showcase's cascading style sheet.
 
 - **Learning & Growth**
-	1. Thursday evening, as I worked the Twitter Engagement gig, I sought to type down a comment, in french, that pointed out how versatile the subject player was; this led to my looking up ['versatilité'](https://www.google.com/search?q=versatilit%C3%A9), a word that doesn't exist in french, though. Polyvalence is the french equivalent, by the way.
+	1. Friday, midday, as I debugged the React frontend's app routing, I found myself obligated to look up what a ['React Router DOM Outlet component'](https://www.google.com/search?q=react+router+dom+outlet+component) is, given that I wrongfully suspect it to be causing failure to go past the 'Loading page...' notification.
+	2. Saturday, at noon, as I redefined the CSS of the public showcase's watch pages, I needed to know what is the ['rgba() value of the Dimgrey color'](https://www.google.com/search?q=dimgrey+rgba+value) and googled it.
 
 - **Job hunting**
 	- Still on that: 'Was hired as a Twitter Engagement Assistant (Sports / Athlete Community) midweek and have accepted a month-long contract covering May, AlhamduliAllah'.
