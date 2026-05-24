@@ -50,8 +50,8 @@ Created: {{ 2025-05-31 }}
 **Lesson:** 'Increase sacrifice, or decrease desire', my food habit, food consumption has gone up, as I think myself needing to eat in proportion to the training I am doing with Keruvim Performance.
 
 ### 🌟 <b>Highlights of the Week</b>
-- <b>Memorable moment / breakthrough / proud event</b>: The strong Pathos associated with being called out for this insidious habit I have developed over the weeks of arriving late for training. Turns out the sin of Pride truly is the thing I need exposure to, in order to learn to truly be humble.
-- <b>Quote, inspiration, or personal reflection</b>: I'm a prideful individual who still needs to work on his relation with authority figures, especially when there is conflict, friction, confrontation.
+- <b>Memorable moment / breakthrough / proud event</b>: Me picking up a food delivery from Feat Food Restaurant, and being asked by two young men, aged 9 to 10, to play some rock-paper-scissor, through which I learned that the games is launch followed a 'Rock, Paper, Scissors, Go!'. I naively asked if we could all 3 play at once, to which I was answered to by a call to play one-on-one. AlhamduliAllah.
+- <b>Quote, inspiration, or personal reflection</b>: 2.4M, brother. I'm out there man, I truly am out there. Been making some for months now. Of course OG vieux père be coming in clutch on a regular, but, I've made the most over the past 9 months.
 
 ---
 
