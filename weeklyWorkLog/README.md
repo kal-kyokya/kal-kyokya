@@ -22,7 +22,7 @@ Created: {{ 2025-05-31 }}
 
 ---
 
-## Week 52 — Sunday, 24th May 2026
+## 🎉Week 52 — Sunday, 24th May 2026 🎉
 
 ### 🌱 **What Was Worked On**
 
@@ -66,11 +66,11 @@ Created: {{ 2025-05-31 }}
 ## 📈 <b>Meta</b>
 | Metric | This Week |
 | ------ | --------- |
-| GitHub Commits | 40 |
+| GitHub Commits | 31 |
 | Job Application | N/A |
 | Sleep Avg (hrs) | 8 |
-| Total Coding Time (hrs) | 1 |
-| Training Sessions (Football) | 3 |
+| Total Coding Time (hrs) | 4 |
+| Training Sessions (Football) | N/A |
 
 ---
 
