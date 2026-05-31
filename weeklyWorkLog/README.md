@@ -30,8 +30,10 @@ Created: {{ 2025-05-31 }}
 	1. **Futtech-Django**: Debugged the user updation workflow, investigating the HTTP 500 status code returned upon user profile updates. Change the login page's hero section's video and expanded the public showcase selection via creation of a new video object.
 
 - **Learning & Growth**
-	1. Friday, midday, as I debugged the React frontend's app routing, I found myself obligated to look up what a ['React Router DOM Outlet component'](https://www.google.com/search?q=react+router+dom+outlet+component) is, given that I wrongfully suspect it to be causing failure to go past the 'Loading page...' notification.
-	2. Saturday, at noon, as I redefined the CSS of the public showcase's watch pages, I needed to know what is the ['rgba() value of the Dimgrey color'](https://www.google.com/search?q=dimgrey+rgba+value) and googled it.
+	1. Starting monday, as I reviewed the backend codebase handling user updates, I looked up the function `normalize_email()` which as the name suggest ensures email inputs are standardized before recorded in the database, here is [the actual google search](https://www.google.com/search?q=normalize+email+django).
+	2. I didn't know, until I knew. But turns out there is a difference between [Dutch and German](https://www.google.com/search?q=dutch+and+german+language), I was caught reading dutch, thinking that was german, and thought them to be one and the same.
+	3. Come tuesday, as I kept witch-hunting the cause of the user update 500 server error, I went searching for the [built-in Django User model's location](https://www.google.com/search?q=get+user+model+django+location), which I believe might have been wrongly altered and required a rollback (I was wrong.)
+	4. Fast forward thursday, as I intended on transmitting some of the knowledge acquired during creation of my 'instagram viral reel', I found myself needing to know how to [loop an iFrame video from Bunny Stream in React](https://www.google.com/search?q=iframe+loop+video+React+bunny+stream), which I implemented on the auth and watch pages.
 
 - **Job hunting**
 	- Still on that: 'Was hired as a Twitter Engagement Assistant (Sports / Athlete Community) midweek and have accepted a month-long contract covering May, AlhamduliAllah'.
