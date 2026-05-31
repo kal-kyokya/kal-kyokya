@@ -57,11 +57,11 @@ Created: {{ 2025-05-31 }}
 
 ---
 
-## 📅 <b>Coming Up Next Week, InshaAllah</b> - 25th to 31st May 2026
+## 📅 <b>Coming Up Next Week, InshaAllah</b> - 1st to 7th June 2026
 - [ ] Be done eating by 7-8PM.
 - [ ] Be done with dream analysis come [8:20AM](https://www.youtube.com/watch?v=T4H7EC9j6mg).
 - [ ] Ensure to spend 30 minutes, [every day](https://www.youtube.com/shorts/mQcTJdyTFtA) going through the hip mobility routine.
-- [ ] Read at least one page of a book every single day.
+- [ ] Read, at least one page, of a physical book, every single day.
 
 ---
 
