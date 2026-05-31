@@ -39,9 +39,9 @@ Created: {{ 2025-05-31 }}
 	- Still on that: 'Was hired as a Twitter Engagement Assistant (Sports / Athlete Community) midweek and have accepted a month-long contract covering May, AlhamduliAllah'.
 
 ### 🏆 <b>3 Wins and/or Achievements</b>
-1. Spent the week regularly stretching in the evening with no training or gym workouts, which as contributed to my right knee's discomfort to fade away.
-2. Noticed myself able to recognize a word and two from Dutch as I browsed the internet.
-3. Still out there on that 2.4M man, have seen myself consistently making moves week-in, week-out, and reinforcing the idea, making memories of me being a 2.4M move-maker.
+1. Hitting the gym on saturday and using that session to strengthen my right knee.
+2. Picking up a habit of having a google translate tab open and ready to see me type in sentences I want translated from German to English.
+3. In all appearance, completed the Twitter Sport Community Engagement gig and there have recorded my first ever football-related job.
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
 1. **Failure:** Giving into Fear.<br />
