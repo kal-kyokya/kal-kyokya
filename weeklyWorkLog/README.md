@@ -22,12 +22,70 @@ Created: {{ 2025-05-31 }}
 
 ---
 
+## Week 53 — Sunday, 31st May 2026
+
+### 🌱 **What Was Worked On**
+
+- **Projects**
+	1. **Futtech-Django**: Debugged the user updation workflow, investigating the HTTP 500 status code returned upon user profile updates. Change the login page's hero section's video and expanded the public showcase selection via creation of a new video object.
+
+- **Learning & Growth**
+	1. Friday, midday, as I debugged the React frontend's app routing, I found myself obligated to look up what a ['React Router DOM Outlet component'](https://www.google.com/search?q=react+router+dom+outlet+component) is, given that I wrongfully suspect it to be causing failure to go past the 'Loading page...' notification.
+	2. Saturday, at noon, as I redefined the CSS of the public showcase's watch pages, I needed to know what is the ['rgba() value of the Dimgrey color'](https://www.google.com/search?q=dimgrey+rgba+value) and googled it.
+
+- **Job hunting**
+	- Still on that: 'Was hired as a Twitter Engagement Assistant (Sports / Athlete Community) midweek and have accepted a month-long contract covering May, AlhamduliAllah'.
+
+### 🏆 <b>3 Wins and/or Achievements</b>
+1. Spent the week regularly stretching in the evening with no training or gym workouts, which as contributed to my right knee's discomfort to fade away.
+2. Noticed myself able to recognize a word and two from Dutch as I browsed the internet.
+3. Still out there on that 2.4M man, have seen myself consistently making moves week-in, week-out, and reinforcing the idea, making memories of me being a 2.4M move-maker.
+
+### 🔭 <b>3 Fails & Lessons Learned</b>
+1. **Failure:** Giving into Fear.<br />
+**Lesson:** I did some doomscrolling and went to bed past 5 in morning, simply because I felt like I was being suffocated the night before. Sleeping close to when the sun is coming up felt 'safer', and allowed me to spend 24 hours which I believed helped forget the feeling.
+2. **Failure:** Fifth week running: 'Microtransgressions'.<br />
+**Lesson:** "Surely insidious in nature, a 45 minutes delay at bedtime and wake up time, social media scrolling passed 9:30PM, an extra serving of food here and there. The little things that I allow myself to indulge in. I need to fully commit".
+3. **Failure:** 2.4M.<br />
+**Lesson:** 'Increase sacrifice, or decrease desire', my food habit, food consumption has gone up, as I think myself needing to eat in proportion to the training I am doing with Keruvim Performance.
+
+### 🌟 <b>Highlights of the Week</b>
+- <b>Memorable moment / breakthrough / proud event</b>: Me picking up a food delivery from Feat Food Restaurant, and being asked by two young men, aged 9 to 10, to play some rock-paper-scissor, through which I learned that the games is launch followed a 'Rock, Paper, Scissors, Go!'. I naively asked if we could all 3 play at once, to which I was answered to by a call to play one-on-one. AlhamduliAllah.
+- <b>Quote, inspiration, or personal reflection</b>: 2.4M, brother. I'm out there man, I truly am out there. Been making some for months now. Of course OG vieux père be coming in clutch on a regular, but, I've made the most over the past 9 months.
+
+---
+
+## 📅 <b>Coming Up Next Week, InshaAllah</b> - 25th to 31st May 2026
+- [ ] Be done eating by 7-8PM.
+- [ ] Be done with dream analysis come [8:20AM](https://www.youtube.com/watch?v=T4H7EC9j6mg).
+- [ ] Ensure to spend 30 minutes, [every day](https://www.youtube.com/shorts/mQcTJdyTFtA) going through the hip mobility routine.
+- [ ] Read at least one page of a book every single day.
+
+---
+
+## 📈 <b>Meta</b>
+| Metric | This Week |
+| ------ | --------- |
+| GitHub Commits | 31 |
+| Job Application | N/A |
+| Sleep Avg (hrs) | 8 |
+| Total Coding Time (hrs) | 4 |
+| Training Sessions (Football) | N/A |
+
+---
+
+> _“Don't practice what you don't want to become.” — Jordan B. Peterson, 2017 Maps of Meaning 03: Marionettes and Individuals (Part 2)._
+
+<!-- Let's update the log every Sunday. Let's Go! -->
+
+---
+
 ## 🎉Week 52 — Sunday, 24th May 2026 🎉
 
 ### 🌱 **What Was Worked On**
 
 - **Projects**
-	1. **Futtech-Django**: Redefined the frontend's post-login routing and redesigned the watch page and public showcase's cascading style sheet.
+	1. **Futtech-Django**: Redefined the frontend's post-login routing and refined the watch page and public showcase's cascading style sheet.
 
 - **Learning & Growth**
 	1. Friday, midday, as I debugged the React frontend's app routing, I found myself obligated to look up what a ['React Router DOM Outlet component'](https://www.google.com/search?q=react+router+dom+outlet+component) is, given that I wrongfully suspect it to be causing failure to go past the 'Loading page...' notification.
