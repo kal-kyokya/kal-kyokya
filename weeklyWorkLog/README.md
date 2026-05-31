@@ -52,8 +52,8 @@ Created: {{ 2025-05-31 }}
 **Lesson:** Although, I do a good job not giving into it, the simple fact that I seems to be on edge, and potentially itching for conflict, is an event I need to investigate. Could it be the lack of training?
 
 ### 🌟 <b>Highlights of the Week</b>
-- <b>Memorable moment / breakthrough / proud event</b>: Me picking up a food delivery from Feat Food Restaurant, and being asked by two young men, aged 9 to 10, to play some rock-paper-scissor, through which I learned that the games is launch followed a 'Rock, Paper, Scissors, Go!'. I naively asked if we could all 3 play at once, to which I was answered to by a call to play one-on-one. AlhamduliAllah.
-- <b>Quote, inspiration, or personal reflection</b>: 2.4M, brother. I'm out there man, I truly am out there. Been making some for months now. Of course OG vieux père be coming in clutch on a regular, but, I've made the most over the past 9 months.
+- <b>Memorable moment / breakthrough / proud event</b>: Being invited, by the two young men from last week, to once again play rock-paper-scissor, which I accepted, after passing the message that this will be our last time, given that I would rather not be interrupted as I moved in or out the building.
+- <b>Quote, inspiration, or personal reflection</b>: "Pain is Weakness Leaving the Body" - Heard this quote, from Naz Reid, during the playoff series having the Spurs facing the Timberwolves, and would love to keep it in mind as I strengthen body, mind and soul.
 
 ---
 
@@ -110,8 +110,8 @@ Created: {{ 2025-05-31 }}
 **Lesson:** 'Increase sacrifice, or decrease desire', my food habit, food consumption has gone up, as I think myself needing to eat in proportion to the training I am doing with Keruvim Performance.
 
 ### 🌟 <b>Highlights of the Week</b>
-- <b>Memorable moment / breakthrough / proud event</b>: Me picking up a food delivery from Feat Food Restaurant, and being asked by two young men, aged 9 to 10, to play some rock-paper-scissor, through which I learned that the games is launch followed a 'Rock, Paper, Scissors, Go!'. I naively asked if we could all 3 play at once, to which I was answered to by a call to play one-on-one. AlhamduliAllah.
-- <b>Quote, inspiration, or personal reflection</b>: 2.4M, brother. I'm out there man, I truly am out there. Been making some for months now. Of course OG vieux père be coming in clutch on a regular, but, I've made the most over the past 9 months.
+- <b>Memorable moment / breakthrough / proud event</b>: Me picking up a food delivery from Feat Food Restaurant, and being asked by two young men, aged 9 to 10, to play some rock-paper-scissor, through which I learned that the games is launched following the words: 'Rock, Paper, Scissors, Go!'. I naively asked if we could all 3 play at once, to which I was answered to by a call to play one-on-one. AlhamduliAllah.
+- <b>Quote, inspiration, or personal reflection</b>: 2.4M, brother. I'm out there man, I truly am out there. Been making some mula for months now. Of course OG vieux père be coming in clutch on a regular, but, I've made the most mula ever over the past 9 months.
 
 ---
 
