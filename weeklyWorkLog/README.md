@@ -76,7 +76,7 @@ Created: {{ 2025-05-31 }}
 
 ---
 
-> _“Don't practice what you don't want to become.” — Jordan B. Peterson, 2017 Maps of Meaning 03: Marionettes and Individuals (Part 2)._
+> _“We Cannot Accept In Victory What We Would Not Accept In Defeat.” — Heard during the 2026 NBA playoffs, quote attributed to Dick Bennett._
 
 <!-- Let's update the log every Sunday. Let's Go! -->
 
