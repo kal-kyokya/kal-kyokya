@@ -44,12 +44,12 @@ Created: {{ 2025-05-31 }}
 3. In all appearance, completed the Twitter Sport Community Engagement gig and there have recorded my first ever football-related job.
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
-1. **Failure:** Giving into Fear.<br />
-**Lesson:** I did some doomscrolling and went to bed past 5 in morning, simply because I felt like I was being suffocated the night before. Sleeping close to when the sun is coming up felt 'safer', and allowed me to spend 24 hours which I believed helped forget the feeling.
-2. **Failure:** Fifth week running: 'Microtransgressions'.<br />
-**Lesson:** "Surely insidious in nature, a 45 minutes delay at bedtime and wake up time, social media scrolling passed 9:30PM, an extra serving of food here and there. The little things that I allow myself to indulge in. I need to fully commit".
-3. **Failure:** 2.4M.<br />
-**Lesson:** 'Increase sacrifice, or decrease desire', my food habit, food consumption has gone up, as I think myself needing to eat in proportion to the training I am doing with Keruvim Performance.
+1. **Failure:** Wake up time.<br />
+**Lesson:** Keeping my phone a couple meters from my bed is a good beginning, given that it forces me to leave the bed, next step is to stay out of it.
+2. **Failure:** Avoidance.<br />
+**Lesson:** I have discovered this to be a sin of mine. "Dipping", "Ducking", cowardice of some sort, a lack of `Courage`, in some sense: "Being a b.", I have to tell the truth, especially in tic-tac social situations when I don't have much time to think.
+3. **Failure:** Irritability.<br />
+**Lesson:** Although, I do a good job not giving into it, the simple fact that I seems to be on edge, and potentially itching for conflict, is an event I need to investigate. Could it be the lack of training?
 
 ### 🌟 <b>Highlights of the Week</b>
 - <b>Memorable moment / breakthrough / proud event</b>: Me picking up a food delivery from Feat Food Restaurant, and being asked by two young men, aged 9 to 10, to play some rock-paper-scissor, through which I learned that the games is launch followed a 'Rock, Paper, Scissors, Go!'. I naively asked if we could all 3 play at once, to which I was answered to by a call to play one-on-one. AlhamduliAllah.
