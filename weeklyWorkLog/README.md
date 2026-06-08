@@ -22,6 +22,66 @@ Created: {{ 2025-05-31 }}
 
 ---
 
+## Week 54 — Sunday, 7th June 2026
+
+### 🌱 **What Was Worked On**
+
+- **Projects**
+	1. **Futtech-Django**: Debugged the profile update workflow, converted the “Position” input from a string to a selected set of options and removed the playlist icon from the sidebar.
+
+- **Learning & Growth**
+	1. Starting monday, as I reviewed the backend codebase handling user updates, I looked up the function `normalize_email()` which as the name suggest ensures email inputs are standardized before recorded in the database, here is [the actual google search](https://www.google.com/search?q=normalize+email+django).
+	2. I didn't know, until I knew. But turns out there is a difference between [Dutch and German](https://www.google.com/search?q=dutch+and+german+language), I was caught reading dutch, thinking that was german, and thought them to be one and the same.
+	3. Come tuesday, as I kept witch-hunting the cause of the user update 500 server error, I went searching for the [built-in Django User model's location](https://www.google.com/search?q=get+user+model+django+location), which I believe might have been wrongly altered and required a rollback (I was wrong.)
+	4. Fast forward thursday, as I intended on transmitting some of the knowledge acquired during creation of my 'instagram viral reel', I found myself needing to know how to [loop an iFrame video from Bunny Stream in React](https://www.google.com/search?q=iframe+loop+video+React+bunny+stream), which I implemented on the auth and watch pages.
+
+- **Job hunting**
+	- Still on that: 'Was hired as a Twitter Engagement Assistant (Sports / Athlete Community) midweek and have accepted a month-long contract covering May, AlhamduliAllah'.
+
+### 🏆 <b>3 Wins and/or Achievements</b>
+1. Hitting the gym on saturday and using that session to strengthen my right knee.
+2. Picking up a habit of having a google translate tab open and ready to see me type in sentences I want translated from German to English.
+3. In all appearance, completed the Twitter Sport Community Engagement gig and there have recorded my first ever football-related job.
+
+### 🔭 <b>3 Fails & Lessons Learned</b>
+1. **Failure:** Wake up time.<br />
+**Lesson:** Keeping my phone a couple meters from my bed is a good beginning, given that it forces me to leave the bed, next step is to stay out of it.
+2. **Failure:** Avoidance.<br />
+**Lesson:** I have discovered this to be a sin of mine. "Dipping", "Ducking", cowardice of some sort, a lack of `Courage`, in some sense: "Being a b.", I have to tell the truth, especially in tic-tac social situations when I don't have much time to think.
+3. **Failure:** Irritability.<br />
+**Lesson:** Although, I do a good job not giving into it, the simple fact that I seems to be on edge, and potentially itching for conflict, is an event I need to investigate. Could it be the lack of training?
+
+### 🌟 <b>Highlights of the Week</b>
+- <b>Memorable moment / breakthrough / proud event</b>: Being invited, by the two young men from last week, to once again play rock-paper-scissor, which I accepted, after passing the message that this will be our last time, given that I would rather not be interrupted as I moved in or out the building.
+- <b>Quote, inspiration, or personal reflection</b>: "Pain is Weakness Leaving the Body" - Heard this quote, from Naz Reid, during the playoff series having the Spurs facing the Timberwolves, and would love to keep it in mind as I strengthen body, mind and soul.
+
+---
+
+## 📅 <b>Coming Up Next Week, InshaAllah</b> - 1st to 7th June 2026
+- [ ] Be done eating by 7-8PM.
+- [ ] Be done with dream analysis come [8:20AM](https://www.youtube.com/watch?v=T4H7EC9j6mg).
+- [ ] Ensure to spend 30 minutes, [every day](https://www.youtube.com/shorts/mQcTJdyTFtA) going through the hip mobility routine.
+- [ ] Read, at least one page, of a physical book, every single day.
+
+---
+
+## 📈 <b>Meta</b>
+| Metric | This Week |
+| ------ | --------- |
+| GitHub Commits | 23 |
+| Job Application | N/A |
+| Sleep Avg (hrs) | 8 |
+| Total Coding Time (hrs) | 2 |
+| Training Sessions (Football) | 1 |
+
+---
+
+> _“We Cannot Accept In Victory What We Would Not Accept In Defeat.” — Heard during the 2026 NBA playoffs, quote attributed to Dick Bennett._
+
+<!-- Let's update the log every Sunday. Let's Go! -->
+
+---
+
 ## Week 53 — Sunday, 31st May 2026
 
 ### 🌱 **What Was Worked On**
