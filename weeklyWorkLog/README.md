@@ -36,9 +36,9 @@ Created: {{ 2025-05-31 }}
 	- Still on that: 'Was hired as a Twitter Engagement Assistant (Sports / Athlete Community) midweek and have accepted a month-long contract covering May, AlhamduliAllah'.
 
 ### 🏆 <b>3 Wins and/or Achievements</b>
-1. Hitting the gym on saturday and using that session to strengthen my right knee.
-2. Picking up a habit of having a google translate tab open and ready to see me type in sentences I want translated from German to English.
-3. In all appearance, completed the Twitter Sport Community Engagement gig and there have recorded my first ever football-related job.
+1. Hitting the gym on two separate occasions, with the intention of discovering how to train upper and lower body, in a athletic manner, rather than a bodybuilding way, as it was the case before the Keruvim Performance experience.
+2. Making the 2.4M moves required for me to stay afloat, survive the week and maintain control over my mind during a short period of lack.
+3. Thinking up a way to use Google’s Gemini to clock in an hour per day where I learn German, idea which as helped greatly in my understanding of German sentence structures, number leading to a dozen, days of the week, how to tell time, and more.
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
 1. **Failure:** Wake up time.<br />
