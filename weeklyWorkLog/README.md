@@ -33,7 +33,7 @@ Created: {{ 2025-05-31 }}
 	1. Had to refresh my memory on what is a [Python Static Method](https://www.google.com/search?q=python+static+method) while debugging the user profile update workflow.
 
 - **Job hunting**
-	- Still on that: 'Was hired as a Twitter Engagement Assistant (Sports / Athlete Community) midweek and have accepted a month-long contract covering May, AlhamduliAllah'.
+	- Submitted 3 proposals, all of them football-related, and received a Software Engineering-related invite that I elected to ignore.
 
 ### 🏆 <b>3 Wins and/or Achievements</b>
 1. Hitting the gym on two separate occasions, with the intention of discovering how to train upper and lower body, in a athletic manner, rather than a bodybuilding way, as it was the case before the Keruvim Performance experience.
