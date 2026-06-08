@@ -49,8 +49,8 @@ Created: {{ 2025-05-31 }}
 **Lesson:** Yeah, this is not acceptable, a n*gga gotta spend 30 minutes stretching, it’s inexcusable.
 
 ### 🌟 <b>Highlights of the Week</b>
-- <b>Memorable moment / breakthrough / proud event</b>: Being invited, by the two young men from last week, to once again play rock-paper-scissor, which I accepted, after passing the message that this will be our last time, given that I would rather not be interrupted as I moved in or out the building.
-- <b>Quote, inspiration, or personal reflection</b>: "Pain is Weakness Leaving the Body" - Heard this quote, from Naz Reid, during the playoff series having the Spurs facing the Timberwolves, and would love to keep it in mind as I strengthen body, mind and soul.
+- <b>Memorable moment / breakthrough / proud event</b>: My neighbor of 7 years moved out on Tuesday. End of a cycle, beginning of a new one, I hit the body and spirit gym in Kahawa Sukari the same day and had me some fun working on my lower body, with a special focus on strengthening muscles tied to the health of my right knee.
+- <b>Quote, inspiration, or personal reflection</b>: “An ideal is a judge” — Whether be the idea version of oneself or an attractive women who will bring about feeling of inadequacies in men, cause them to be terrified by the projection they make on her; “She is great, she deserves the best this world has to offer, am I not the best this world has to offer, she deserves better.” The 30 jahr QLF project might turn out to be the way how I overcome the feeling of inadequacy and dive into the waters.
 
 ---
 
