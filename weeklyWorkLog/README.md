@@ -41,12 +41,12 @@ Created: {{ 2025-05-31 }}
 3. Thinking up a way to use Google’s Gemini to clock in an hour per day where I learn German, idea which as helped greatly in my understanding of German sentence structures, number leading to a dozen, days of the week, how to tell time, and more.
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
-1. **Failure:** Wake up time.<br />
-**Lesson:** Keeping my phone a couple meters from my bed is a good beginning, given that it forces me to leave the bed, next step is to stay out of it.
-2. **Failure:** Avoidance.<br />
-**Lesson:** I have discovered this to be a sin of mine. "Dipping", "Ducking", cowardice of some sort, a lack of `Courage`, in some sense: "Being a b.", I have to tell the truth, especially in tic-tac social situations when I don't have much time to think.
-3. **Failure:** Irritability.<br />
-**Lesson:** Although, I do a good job not giving into it, the simple fact that I seems to be on edge, and potentially itching for conflict, is an event I need to investigate. Could it be the lack of training?
+1. **Failure:** Doomscrolling.<br />
+**Lesson:** I’m tempted to think that not having an pressing matter to handle before noon leaves me preferring to snooze, drift in and out of sleep as I seek to get the 10 insights of my Dream analysis.
+2. **Failure:** Regular sleep schedule.<br />
+**Lesson:** Bedtime, wake up time, 8 hours of sleep. I have it in me to be asleep for 10 hours, it has come out this week and I can’t help but wonder what’s up with that. Gym workouts requiring me to rest? Straight up laziness?
+3. **Failure:** Hip mobility routine.<br />
+**Lesson:** Yeah, this is not acceptable, a n*gga gotta spend 30 minutes stretching, it’s inexcusable.
 
 ### 🌟 <b>Highlights of the Week</b>
 - <b>Memorable moment / breakthrough / proud event</b>: Being invited, by the two young men from last week, to once again play rock-paper-scissor, which I accepted, after passing the message that this will be our last time, given that I would rather not be interrupted as I moved in or out the building.
