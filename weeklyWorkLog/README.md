@@ -73,7 +73,7 @@ Created: {{ 2025-05-31 }}
 
 ---
 
-> _“We Cannot Accept In Victory What We Would Not Accept In Defeat.” — Heard during the 2026 NBA playoffs, quote attributed to Dick Bennett._
+> _“Burning Bridges is Okay, I’d Rather Take the Long Way” — Drake, Iceman, “Burning bridges”._
 
 <!-- Let's update the log every Sunday. Let's Go! -->
 
