@@ -54,11 +54,12 @@ Created: {{ 2025-05-31 }}
 
 ---
 
-## 📅 <b>Coming Up Next Week, InshaAllah</b> - 8th to 14th June 2026
+## 📅 <b>Coming Up Next Week, InshaAllah</b> - 15th to 21st June 2026
 - [ ] Be done eating by 7-8PM.
-- [ ] Be done with dream analysis come [8:20AM](https://www.youtube.com/watch?v=T4H7EC9j6mg).
+- [ ] Be done with dream analysis come [9:20AM](https://www.youtube.com/watch?v=T4H7EC9j6mg).
 - [ ] Ensure to spend 30 minutes, [every day](https://www.youtube.com/shorts/mQcTJdyTFtA) going through the hip mobility routine.
 - [ ] Read, at least one page, of a physical book, every single day.
+- [ ] Average 1 hour a day of German language practice.
 
 ---
 
