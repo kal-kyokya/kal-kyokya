@@ -49,8 +49,8 @@ Created: {{ 2025-05-31 }}
 **Lesson:** Do it.
 
 ### 🌟 <b>Highlights of the Week</b>
-- <b>Memorable moment / breakthrough / proud event</b>: My neighbor of 7 years moved out on Tuesday. End of a cycle, beginning of a new one, I hit the body and spirit gym in Kahawa Sukari the same day and had me some fun working on my lower body, with a special focus on strengthening muscles tied to the health of my right knee.
-- <b>Quote, inspiration, or personal reflection</b>: “An ideal is a judge” — Whether be the idea version of oneself or an attractive women who will bring about feeling of inadequacies in men, cause them to be terrified by the projection they make on her; “She is great, she deserves the best this world has to offer, am I not the best this world has to offer, she deserves better.” The 30 jahr QLF project might turn out to be the way how I overcome the feeling of inadequacy and dive into the waters.
+- <b>Memorable moment / breakthrough / proud event</b>: Hitting the Gym and electing to be in 'That Mode' throughout the entirety of the session. The level of focus and commitment to excellence with every reps I get to experience inside a Gym is something that always is memorable to me.
+- <b>Quote, inspiration, or personal reflection</b>: "Present reality is a reflection of past choices" - The state of my world, as of today, encourages the manner in which I have decided to express myself verbally, the thinking habit I am cultivating and the actions I pose week-in and week-out. The interactions I have with others, and the lack thereof, also does it.
 
 ---
 
@@ -107,7 +107,7 @@ Created: {{ 2025-05-31 }}
 
 ### 🌟 <b>Highlights of the Week</b>
 - <b>Memorable moment / breakthrough / proud event</b>: My neighbor of 7 years moved out on Tuesday. End of a cycle, beginning of a new one, I hit the body and spirit gym in Kahawa Sukari the same day and had me some fun working on my lower body, with a special focus on strengthening muscles tied to the health of my right knee.
-- <b>Quote, inspiration, or personal reflection</b>: “An ideal is a judge” — Whether be the idea version of oneself or an attractive women who will bring about feeling of inadequacies in men, cause them to be terrified by the projection they make on her; “She is great, she deserves the best this world has to offer, am I not the best this world has to offer, she deserves better.” The 30 jahr QLF project might turn out to be the way how I overcome the feeling of inadequacy and dive into the waters.
+- <b>Quote, inspiration, or personal reflection</b>: “An ideal is a judge” — Whether be the ideal version of oneself or an attractive woman who will bring about feelings of inadequacy in men, and cause them to be terrified by a projection they make on her (“She is great, she deserves the best this world has to offer, am I not the best this world has to offer, she deserves better.”) The jahr-30 QLF project might turn out to be the way how I overcome the feeling of inadequacy, and dive into the waters.
 
 ---
 
