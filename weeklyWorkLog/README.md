@@ -33,7 +33,7 @@ Created: {{ 2025-05-31 }}
 	1. Come saturday, after having made use of the virtue of [Temperance](https://www.google.com/search?q=temperance+meaning) all week, I reinforce the notion that 'That Mode', whether under pulls or pushes, is valid.
 
 - **Job hunting**
-	- Submitted 3 proposals, all of them football-related, and received a Software Engineering-related invite that I elected to ignore.
+	- Negociated with a client interested in World Cup related video editing, although failed to seal the deal.
 
 ### 🏆 <b>3 Wins and/or Achievements</b>
 1. Hitting the gym on two separate occasions, with the intention of discovering how to train upper and lower body, in a athletic manner, rather than a bodybuilding way, as it was the case before the Keruvim Performance experience.
