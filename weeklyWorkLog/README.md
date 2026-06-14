@@ -30,7 +30,7 @@ Created: {{ 2025-05-31 }}
 	1. **Futtech-Django**: Refactored 'PlaylistItem' components to relie on video slugs, rather than video IDs, made primary investigation of failure to load videos on the watch page, as well as discarded playlist links from the User Profile.
 
 - **Learning & Growth**
-	1. Had to refresh my memory on what is a [Python Static Method](https://www.google.com/search?q=python+static+method) while debugging the user profile update workflow.
+	1. Come saturday, after having made use of the virtue of [Temperance](https://www.google.com/search?q=temperance+meaning) all week, I reinforce the notion that 'That Mode', whether under pulls or pushes, is valid.
 
 - **Job hunting**
 	- Submitted 3 proposals, all of them football-related, and received a Software Engineering-related invite that I elected to ignore.
