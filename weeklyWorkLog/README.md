@@ -42,11 +42,11 @@ Created: {{ 2025-05-31 }}
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
 1. **Failure:** Doomscrolling.<br />
-**Lesson:** I’m tempted to think that not having an pressing matter to handle before noon leaves me preferring to snooze, drift in and out of sleep as I seek to get the 10 insights of my Dream analysis.
+**Lesson:** Stop scrolling come 9:30 PM.
 2. **Failure:** Regular sleep schedule.<br />
-**Lesson:** Bedtime, wake up time, 8 hours of sleep. I have it in me to be asleep for 10 hours, it has come out this week and I can’t help but wonder what’s up with that. Gym workouts requiring me to rest? Straight up laziness?
+**Lesson:** Step out of bed come the Dream Analysis alarm.
 3. **Failure:** Hip mobility routine.<br />
-**Lesson:** Yeah, this is not acceptable, a n*gga gotta spend 30 minutes stretching, it’s inexcusable.
+**Lesson:** Do it.
 
 ### 🌟 <b>Highlights of the Week</b>
 - <b>Memorable moment / breakthrough / proud event</b>: My neighbor of 7 years moved out on Tuesday. End of a cycle, beginning of a new one, I hit the body and spirit gym in Kahawa Sukari the same day and had me some fun working on my lower body, with a special focus on strengthening muscles tied to the health of my right knee.
@@ -99,7 +99,7 @@ Created: {{ 2025-05-31 }}
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
 1. **Failure:** Doomscrolling.<br />
-**Lesson:** I’m tempted to think that not having an pressing matter to handle before noon leaves me preferring to snooze, drift in and out of sleep as I seek to get the 10 insights of my Dream analysis.
+**Lesson:** I’m tempted to think that not having any pressing matter to handle before noon leaves me preferring to snooze, drift in and out of sleep as I seek to get the 10 insights of my Dream analysis.
 2. **Failure:** Regular sleep schedule.<br />
 **Lesson:** Bedtime, wake up time, 8 hours of sleep. I have it in me to be asleep for 10 hours, it has come out this week and I can’t help but wonder what’s up with that. Gym workouts requiring me to rest? Straight up laziness?
 3. **Failure:** Hip mobility routine.<br />
