@@ -22,6 +22,63 @@ Created: {{ 2025-05-31 }}
 
 ---
 
+## Week 55 — Sunday, 14th June 2026
+
+### 🌱 **What Was Worked On**
+
+- **Projects**
+	1. **Futtech-Django**: Refactored 'PlaylistItem' components to relie on video slugs, rather than video IDs, made primary investigation of failure to load videos on the watch page, as well as discarded playlist links from the User Profile.
+
+- **Learning & Growth**
+	1. Had to refresh my memory on what is a [Python Static Method](https://www.google.com/search?q=python+static+method) while debugging the user profile update workflow.
+
+- **Job hunting**
+	- Submitted 3 proposals, all of them football-related, and received a Software Engineering-related invite that I elected to ignore.
+
+### 🏆 <b>3 Wins and/or Achievements</b>
+1. Hitting the gym on two separate occasions, with the intention of discovering how to train upper and lower body, in a athletic manner, rather than a bodybuilding way, as it was the case before the Keruvim Performance experience.
+2. Making the 2.4M moves required for me to stay afloat, survive the week and maintain control over my mind during a short period of lack.
+3. Thinking up a way to use Google’s Gemini to clock in an hour per day where I learn German, idea which as helped greatly in my understanding of German sentence structures, number leading to a dozen, days of the week, how to tell time, and more.
+
+### 🔭 <b>3 Fails & Lessons Learned</b>
+1. **Failure:** Doomscrolling.<br />
+**Lesson:** I’m tempted to think that not having an pressing matter to handle before noon leaves me preferring to snooze, drift in and out of sleep as I seek to get the 10 insights of my Dream analysis.
+2. **Failure:** Regular sleep schedule.<br />
+**Lesson:** Bedtime, wake up time, 8 hours of sleep. I have it in me to be asleep for 10 hours, it has come out this week and I can’t help but wonder what’s up with that. Gym workouts requiring me to rest? Straight up laziness?
+3. **Failure:** Hip mobility routine.<br />
+**Lesson:** Yeah, this is not acceptable, a n*gga gotta spend 30 minutes stretching, it’s inexcusable.
+
+### 🌟 <b>Highlights of the Week</b>
+- <b>Memorable moment / breakthrough / proud event</b>: My neighbor of 7 years moved out on Tuesday. End of a cycle, beginning of a new one, I hit the body and spirit gym in Kahawa Sukari the same day and had me some fun working on my lower body, with a special focus on strengthening muscles tied to the health of my right knee.
+- <b>Quote, inspiration, or personal reflection</b>: “An ideal is a judge” — Whether be the idea version of oneself or an attractive women who will bring about feeling of inadequacies in men, cause them to be terrified by the projection they make on her; “She is great, she deserves the best this world has to offer, am I not the best this world has to offer, she deserves better.” The 30 jahr QLF project might turn out to be the way how I overcome the feeling of inadequacy and dive into the waters.
+
+---
+
+## 📅 <b>Coming Up Next Week, InshaAllah</b> - 8th to 14th June 2026
+- [ ] Be done eating by 7-8PM.
+- [ ] Be done with dream analysis come [8:20AM](https://www.youtube.com/watch?v=T4H7EC9j6mg).
+- [ ] Ensure to spend 30 minutes, [every day](https://www.youtube.com/shorts/mQcTJdyTFtA) going through the hip mobility routine.
+- [ ] Read, at least one page, of a physical book, every single day.
+
+---
+
+## 📈 <b>Meta</b>
+| Metric | This Week |
+| ------ | --------- |
+| GitHub Commits | 8 |
+| Job Application | 3 |
+| Sleep Avg (hrs) | 8 |
+| Total Coding Time (hrs) | 1 |
+| Training Sessions (Football) | 2 |
+
+---
+
+> _“Burning Bridges is Okay, I’d Rather Take the Long Way” — Drake, Iceman, “Burning bridges”._
+
+<!-- Let's update the log every Sunday. Let's Go! -->
+
+---
+
 ## Week 54 — Sunday, 7th June 2026
 
 ### 🌱 **What Was Worked On**
