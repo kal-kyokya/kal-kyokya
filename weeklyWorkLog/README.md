@@ -74,7 +74,7 @@ Created: {{ 2025-05-31 }}
 
 ---
 
-> _“Burning Bridges is Okay, I’d Rather Take the Long Way” — Drake, Iceman, “Burning bridges”._
+> _“What Does it Mean to Be Strong?” — Hajime No Ippo, Episode 75._
 
 <!-- Let's update the log every Sunday. Let's Go! -->
 
