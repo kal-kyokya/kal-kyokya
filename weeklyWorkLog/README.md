@@ -22,12 +22,70 @@ Created: {{ 2025-05-31 }}
 
 ---
 
+## Week 56 — Sunday, 21st June 2026
+
+### 🌱 **What Was Worked On**
+
+- **Projects**
+	1. **Futtech-Django**: Resolve backend view definition causing failure to authenticate user and load watch page, study the user login flow in hope of squezzing in more user details for user profile display and end up renaming the update button as also 'update/refresh'.
+
+- **Learning & Growth**
+	1. Come saturday, after having made use of the virtue of [Temperance](https://www.google.com/search?q=temperance+meaning) all week, I reinforce the notion that 'That Mode', whether under pulls or pushes, is valid.
+
+- **Job hunting**
+	- Negociated with a client interested in World Cup related video editing, although failed to seal the deal.
+
+### 🏆 <b>3 Wins and/or Achievements</b>
+1. Once again showing up at the gym, aiming to strengthen my right knee and utilize both gym for athletic movements and full body optimization.
+2. Graceful handling of delays in Safaricom Home-Fiber installation, rent payment, expected German language fees and low funds. No Pathos.
+3. Masterful embodiment of DLHI during navigation of the outside world, in search for Allah's bounty, through minimum amount of interaction, maximum impact.
+
+### 🔭 <b>3 Fails & Lessons Learned</b>
+1. **Failure:** Doomscrolling.<br />
+**Lesson:** Stop scrolling come 9:30 PM.
+2. **Failure:** Regular sleep schedule.<br />
+**Lesson:** Step out of bed come the Dream Analysis alarm.
+3. **Failure:** Hip mobility routine.<br />
+**Lesson:** Do it.
+
+### 🌟 <b>Highlights of the Week</b>
+- <b>Memorable moment / breakthrough / proud event</b>: Hitting the Gym and electing to be in 'That Mode' throughout the entirety of the session. The level of focus and commitment to excellence with every reps I get to experience inside a Gym is something that always is memorable to me.
+- <b>Quote, inspiration, or personal reflection</b>: "Present reality is a reflection of past choices" - The state of my world, as of today, encourages the manner in which I have decided to express myself verbally, the thinking habit I am cultivating and the actions I pose week-in and week-out. The interactions I have with others, and the lack thereof, also does it.
+
+---
+
+## 📅 <b>Coming Up Next Week, InshaAllah</b> - 15th to 21st June 2026
+- [ ] Be done eating by 7-8PM.
+- [ ] Be done with dream analysis come [9:20AM](https://www.youtube.com/watch?v=T4H7EC9j6mg).
+- [ ] Ensure to spend 30 minutes, [every day](https://www.youtube.com/shorts/mQcTJdyTFtA) going through the hip mobility routine.
+- [ ] Read, at least one page, of a physical book, every single day.
+- [ ] Average 1 hour a day of German language practice.
+
+---
+
+## 📈 <b>Meta</b>
+| Metric | This Week |
+| ------ | --------- |
+| GitHub Commits | 27 |
+| Job Application | N/A |
+| Sleep Avg (hrs) | 8 |
+| Total Coding Time (hrs) | 2 |
+| Training Sessions (Football) | 2 |
+
+---
+
+> _“What Does it Mean to Be Strong?” — Hajime No Ippo, Episode 75._
+
+<!-- Let's update the log every Sunday. Let's Go! -->
+
+---
+
 ## Week 55 — Sunday, 14th June 2026
 
 ### 🌱 **What Was Worked On**
 
 - **Projects**
-	1. **Futtech-Django**: Refactored 'PlaylistItem' components to relie on video slugs, rather than video IDs, made primary investigation of failure to load videos on the watch page, as well as discarded playlist links from the User Profile.
+	1. **Futtech-Django**: Refactored 'PlaylistItem' components to relie on video slugs rather than video IDs, made primary investigation of failure to load videos on the watch page, as well as discarded playlist links from the User Profile.
 
 - **Learning & Growth**
 	1. Come saturday, after having made use of the virtue of [Temperance](https://www.google.com/search?q=temperance+meaning) all week, I reinforce the notion that 'That Mode', whether under pulls or pushes, is valid.
