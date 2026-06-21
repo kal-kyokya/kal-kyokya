@@ -51,8 +51,8 @@ Created: {{ 2025-05-31 }}
 **Lesson:** Gave into scrolling Instagram and giving my attention to thirst-traps. Gotta scroll man, gotta scroll. Our algorithm is mostly sport and congolese content, therefore the occasional temptation needs to be scrolled past swiftly.
 
 ### 🌟 <b>Highlights of the Week</b>
-- <b>Memorable moment / breakthrough / proud event</b>: Hitting the Gym and electing to be in 'That Mode' throughout the entirety of the session. The level of focus and commitment to excellence with every reps I get to experience inside a Gym is something that always is memorable to me.
-- <b>Quote, inspiration, or personal reflection</b>: "Present reality is a reflection of past choices" - The state of my world, as of today, encourages the manner in which I have decided to express myself verbally, the thinking habit I am cultivating and the actions I pose week-in and week-out. The interactions I have with others, and the lack thereof, also does it.
+- <b>Memorable moment / breakthrough / proud event</b>: Getting on a voice call that turned into a video call with Dj mère, who later had both neuveux on, and showing all of them inside VA 308, as well as the yard/compound and empty bedsitter next door. 2+ hours; We had moment.
+- <b>Quote, inspiration, or personal reflection</b>: "Le père de mes enfants n'est pas mon enemi, mais un collbaborateur" - Dj Mère. Conflict resolution and the manner in which both individual conduct themselves contributes to the health and longevity of a couple.
 
 ---
 
