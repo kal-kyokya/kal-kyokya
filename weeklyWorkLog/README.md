@@ -38,9 +38,9 @@ Created: {{ 2025-05-31 }}
 	- Sent one proposal, for a "World Class Editor for Football Content" gig, for which I received no feedback.
 
 ### 🏆 <b>3 Wins and/or Achievements</b>
-1. Once again showing up at the gym, aiming to strengthen my right knee and utilize both gym for athletic movements and full body optimization.
-2. Graceful handling of delays in Safaricom Home-Fiber installation, rent payment, expected German language fees and low funds. No Pathos.
-3. Masterful embodiment of DLHI during navigation of the outside world, in search for Allah's bounty, through minimum amount of interaction, maximum impact.
+1. Getting in a couple home workouts sessions and actually feeling sore from them.
+2. Designing a 2.4M approach through which I can feed myself enough protein, while I weather the proverbial storm.
+3. Consistently engaging with the book "Software Engineering: A practictioner's approach" and writing down my thoughts on SWE and its relation to Futtech.
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
 1. **Failure:** Doomscrolling.<br />
