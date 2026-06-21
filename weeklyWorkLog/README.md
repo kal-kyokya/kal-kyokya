@@ -76,7 +76,7 @@ Created: {{ 2025-05-31 }}
 
 ---
 
-> _“What Does it Mean to Be Strong?” — Hajime No Ippo, Episode 75._
+> _“To those who have, more will be given. And to those with little, even that will be taken.” — Matthews' Principle, "The Holy Bible"._
 
 <!-- Let's update the log every Sunday. Let's Go! -->
 
