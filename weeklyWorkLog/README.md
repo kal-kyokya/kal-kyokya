@@ -43,12 +43,12 @@ Created: {{ 2025-05-31 }}
 3. Consistently engaging with the book "Software Engineering: A practictioner's approach" and writing down my thoughts on SWE and its relation to Futtech.
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
-1. **Failure:** Doomscrolling.<br />
-**Lesson:** Stop scrolling come 9:30 PM.
-2. **Failure:** Regular sleep schedule.<br />
-**Lesson:** Step out of bed come the Dream Analysis alarm.
-3. **Failure:** Hip mobility routine.<br />
-**Lesson:** Do it.
+1. **Failure:** Still on that: Doomscrolling.<br />
+**Lesson:** 'Stop scrolling come 9:30 PM'.
+2. **Failure:** Still on that: Regular sleep schedule.<br />
+**Lesson:** 'Step out of bed come the Dream Analysis alarm'.
+3. **Failure:** Lust.<br />
+**Lesson:** Gave into scrolling Instagram and giving my attention to thirst-traps. Gotta scroll man, gotta scroll. Our algorithm is mostly sport and congolese content, therefore the occasional temptation needs to be scrolled past swiftly.
 
 ### 🌟 <b>Highlights of the Week</b>
 - <b>Memorable moment / breakthrough / proud event</b>: Hitting the Gym and electing to be in 'That Mode' throughout the entirety of the session. The level of focus and commitment to excellence with every reps I get to experience inside a Gym is something that always is memorable to me.
