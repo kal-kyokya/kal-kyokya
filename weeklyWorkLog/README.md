@@ -35,7 +35,7 @@ Created: {{ 2025-05-31 }}
 	3. Fast forward Friday, as I sought to plan for 2 video edits based on DR Congo's ability to get a 1-1 draw against Cristiano Ronaldo's Portugal, I explored [Sofascore's game recap web pages](https://www.sofascore.com/football/match/dr-congo-portugal/eUbsyWb#tab:statistics) and was amazed at the many sections, graphics, charts, tables, and well detail data avail by the system. Can't help but wonder if working with/for them wouldn't teach me a thing or two.
 
 - **Job hunting**
-	- Negociated with a client interested in World Cup related video editing, although failed to seal the deal.
+	- Sent one proposal, for a "World Class Editor for Football Content" gig, for which I received no feedback.
 
 ### 🏆 <b>3 Wins and/or Achievements</b>
 1. Once again showing up at the gym, aiming to strengthen my right knee and utilize both gym for athletic movements and full body optimization.
