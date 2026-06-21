@@ -30,7 +30,9 @@ Created: {{ 2025-05-31 }}
 	1. **Futtech-Django**: Resolve backend view definition causing failure to authenticate user and load watch page, study the user login flow in hope of squezzing in more user details for user profile display and end up renaming the update button as also 'update/refresh'.
 
 - **Learning & Growth**
-	1. Come saturday, after having made use of the virtue of [Temperance](https://www.google.com/search?q=temperance+meaning) all week, I reinforce the notion that 'That Mode', whether under pulls or pushes, is valid.
+	1. First day of the week saw me look up [JavaScript Array filter's "index" and "all"](https://www.google.com/search?q=javascript+array+filter+index+and+all), filter() inputs that make it possible to track a particular's item index number and source array, respectively.
+	2. Come Tuesday, in response to a friend of mine attempting to reach out to me via the email linked in FUttech's public showcase, and failing to do so, I underwent the [Google's process through which one gets a 'Custom Email'](https://workspace.google.com/pricing/) and moved my primary email's name to [futtech@kalkyokya.tech](futtech@kalkyokya.tech).
+	3. Fast forward Friday, as I sought to plan for 2 video edits based on DR Congo's ability to get a 1-1 draw against Cristiano Ronaldo's Portugal, I explored [Sofascore's game recap web pages](https://www.sofascore.com/football/match/dr-congo-portugal/eUbsyWb#tab:statistics) and was amazed at the many sections, graphics, charts, tables, and well detail data avail by the system. Can't help but wonder if working with/for them wouldn't teach me a thing or two.
 
 - **Job hunting**
 	- Negociated with a client interested in World Cup related video editing, although failed to seal the deal.
