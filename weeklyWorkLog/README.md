@@ -42,9 +42,9 @@ Created: {{ 2025-05-31 }}
 	- Saturday, after an 8PM Goggle meet with a potential client, I got hired for a "Social Media Manager for Sports Prediction App — Daily Content + HeyGen Videos" hourly paid job, whose duration indeterminate.
 
 ### 🏆 <b>3 Wins and/or Achievements</b>
-1. Getting in a couple home workouts sessions and actually feeling sore from them.
-2. Designing a 2.4M approach through which I can feed myself enough protein, while I weather the proverbial storm.
-3. Consistently engaging with the book "Software Engineering: A practictioner's approach" and writing down my thoughts on SWE and its relation to Futtech.
+1. Getting a job, Alhamdulillah.
+2. Getting in 2 workout sessions, a home one and another in the gym.
+3. Establishment of the 'post storm', protein-rich, budget meal plan.
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
 1. **Failure:** Still on that: Doomscrolling.<br />
@@ -276,7 +276,7 @@ Created: {{ 2025-05-31 }}
 	4. Fast forward thursday, as I intended on transmitting some of the knowledge acquired during creation of my 'instagram viral reel', I found myself needing to know how to [loop an iFrame video from Bunny Stream in React](https://www.google.com/search?q=iframe+loop+video+React+bunny+stream), which I implemented on the auth and watch pages.
 
 - **Job hunting**
-	- Still on that: 'Was hired as a Twitter Engagement Assistant (Sports / Athlete Community) midweek and have accepted a month-long contract covering May, AlhamduliAllah'.
+	- Still on that: 'Was hired as a Twitter Engagement Assistant (Sports / Athlete Community) midweek and have accepted a month-long contract covering May, Alhamdulillah'.
 
 ### 🏆 <b>3 Wins and/or Achievements</b>
 1. Hitting the gym on saturday and using that session to strengthen my right knee.
@@ -334,7 +334,7 @@ Created: {{ 2025-05-31 }}
 	2. Saturday, at noon, as I redefined the CSS of the public showcase's watch pages, I needed to know what is the ['rgba() value of the Dimgrey color'](https://www.google.com/search?q=dimgrey+rgba+value) and googled it.
 
 - **Job hunting**
-	- Still on that: 'Was hired as a Twitter Engagement Assistant (Sports / Athlete Community) midweek and have accepted a month-long contract covering May, AlhamduliAllah'.
+	- Still on that: 'Was hired as a Twitter Engagement Assistant (Sports / Athlete Community) midweek and have accepted a month-long contract covering May, Alhamdulillah'.
 
 ### 🏆 <b>3 Wins and/or Achievements</b>
 1. Spent the week regularly stretching in the evening with no training or gym workouts, which as contributed to my right knee's discomfort to fade away.
@@ -350,7 +350,7 @@ Created: {{ 2025-05-31 }}
 **Lesson:** 'Increase sacrifice, or decrease desire', my food habit, food consumption has gone up, as I think myself needing to eat in proportion to the training I am doing with Keruvim Performance.
 
 ### 🌟 <b>Highlights of the Week</b>
-- <b>Memorable moment / breakthrough / proud event</b>: Me picking up a food delivery from Feat Food Restaurant, and being asked by two young men, aged 9 to 10, to play some rock-paper-scissor, through which I learned that the games is launched following the words: 'Rock, Paper, Scissors, Go!'. I naively asked if we could all 3 play at once, to which I was answered to by a call to play one-on-one. AlhamduliAllah.
+- <b>Memorable moment / breakthrough / proud event</b>: Me picking up a food delivery from Feat Food Restaurant, and being asked by two young men, aged 9 to 10, to play some rock-paper-scissor, through which I learned that the games is launched following the words: 'Rock, Paper, Scissors, Go!'. I naively asked if we could all 3 play at once, to which I was answered to by a call to play one-on-one. Alhamdulillah.
 - <b>Quote, inspiration, or personal reflection</b>: 2.4M, brother. I'm out there man, I truly am out there. Been making some mula for months now. Of course OG vieux père be coming in clutch on a regular, but, I've made the most mula ever over the past 9 months.
 
 ---
@@ -391,7 +391,7 @@ Created: {{ 2025-05-31 }}
 	1. Thursday evening, as I worked the Twitter Engagement gig, I sought to type down a comment, in french, that pointed out how versatile the subject player was; this led to my looking up ['versatilité'](https://www.google.com/search?q=versatilit%C3%A9), a word that doesn't exist in french, though. Polyvalence is the french equivalent, by the way.
 
 - **Job hunting**
-	- Still on that: 'Was hired as a Twitter Engagement Assistant (Sports / Athlete Community) midweek and have accepted a month-long contract covering May, AlhamduliAllah'.
+	- Still on that: 'Was hired as a Twitter Engagement Assistant (Sports / Athlete Community) midweek and have accepted a month-long contract covering May, Alhamdulillah'.
 
 ### 🏆 <b>3 Wins and/or Achievements</b>
 1. 'That Mode'; Showed up on Thursday, cold, stoic, focused, locked in. Put in a good shift, a angry one, an aggressive one, and lived up to the potential of DLHI, who goes out there, and gets the job done.
@@ -452,7 +452,7 @@ Created: {{ 2025-05-31 }}
 	3. The AI overview associated with the google search ['to free associate'](https://www.google.com/search?q=to+free+associate) provided me with a weekend read that helped consolidate the learning done via watching the 2017 Personality lectures by Jordan B. Peterson.
 
 - **Job hunting**
-	- Still on that: 'Was hired as a Twitter Engagement Assistant (Sports / Athlete Community) midweek and have accepted a month-long contract covering May, AlhamduliAllah'.
+	- Still on that: 'Was hired as a Twitter Engagement Assistant (Sports / Athlete Community) midweek and have accepted a month-long contract covering May, Alhamdulillah'.
 
 ### 🏆 <b>3 Wins and/or Achievements</b>
 1. Scored as many as 5 of 7 balls during this week's finishing drills, InshaAllah, this was me shaking the rust off and getting into rythm to regularly hit 7/7, week-in, week-out.
@@ -510,7 +510,7 @@ Created: {{ 2025-05-31 }}
 	2. Tuesday, as I sought to polish the appearance of video objects on the public showcase page, I started off by looking up ['How to add a thumbnail to an iFrame video in HTML'](https://www.google.com/search?q=add+thumbnail+to+iframe+video+html), before realizing that I could directly consume Bunny Stream's thumbnail URL as an API.
 
 - **Job hunting**
-	- Was hired as a Twitter Engagement Assistant (Sports / Athlete Community) midweek and have accepted a month-long contract covering May, AlhamduliAllah.
+	- Was hired as a Twitter Engagement Assistant (Sports / Athlete Community) midweek and have accepted a month-long contract covering May, Alhamdulillah.
 
 ### 🏆 <b>3 Wins and/or Achievements</b>
 1. Edited a 54 seconds video compiling the best of my football skills, executed during training sessions with Keruvim Performance, over the last 4 months.
@@ -640,7 +640,7 @@ Created: {{ 2025-05-31 }}
 **Lesson:** I fibbed on Friday morning, pinning my “exhaustion” on work-related stress, while the truth was that I got caught overextending the social media time at night. 9:30PM bana, let’s just stick to that.
 
 ### 🌟 <b>Highlights of the Week</b>
-- <b>Memorable moment / breakthrough / proud event</b>: Hosting OG Penesenga from the Airport and hanging out for more or less 10 hours. Being a decent host. AlhamduliAllah, I have set myself up to be able to embody someone I respect and admire, without strain. A nigga shows glimpses of being “like that”.
+- <b>Memorable moment / breakthrough / proud event</b>: Hosting OG Penesenga from the Airport and hanging out for more or less 10 hours. Being a decent host. Alhamdulillah, I have set myself up to be able to embody someone I respect and admire, without strain. A nigga shows glimpses of being “like that”.
 - <b>Quote, inspiration, or personal reflection</b>: Engaging OG vieux Père in a conversation potentially leading to a 2.4M move that involves territories outside Africa. Gotta dominate all the way through. Yesterday, today, tomorrow, next week, next month, next year, next years.
 
 ---
@@ -700,7 +700,7 @@ Created: {{ 2025-05-31 }}
 
 ### 🌟 <b>Highlights of the Week</b>
 - <b>Memorable moment / breakthrough / proud event</b>: The football game on saturday against Coach Ryan's academy did that thing where I wake up in the morning and my mind rushes into reminiscing the events of the that game. Requiring me to intentionally take my attention back to Dream Analysis and my morning prayer/morning routine. I had not played ball all year long. That was fun.
-- <b>Quote, inspiration, or personal reflection</b>: Having my uncle in Poland and a high school friend invite me to seek opportunities to go abroad, with Russia emerging as the prime option. Moved me a bit. The thought of leaving Kenya is one I might not be fully interested in. "Don't sacrifice who you could be for who you are". AlhamduliAllah.
+- <b>Quote, inspiration, or personal reflection</b>: Having my uncle in Poland and a high school friend invite me to seek opportunities to go abroad, with Russia emerging as the prime option. Moved me a bit. The thought of leaving Kenya is one I might not be fully interested in. "Don't sacrifice who you could be for who you are". Alhamdulillah.
 
 ---
 
@@ -819,7 +819,7 @@ Created: {{ 2025-05-31 }}
 
 ### 🌟 <b>Highlights of the Week</b>
 - <b>Memorable moment / breakthrough / proud event</b>: Spending a combined 10+ hours in USIU's library, generating proof of intelligence for my claim of aiming to be a football analyst. That right there is the kind of absorption I want to be subject to as often as healthily possible.
-- <b>Quote, inspiration, or personal reflection</b>: QLF coming through with 2.4M and having me, out here, freed from concern as to what the near future will be like, giving me the support and space to get creative as to how to move in order to penetrate the Football industry, AlhamduliAllah.
+- <b>Quote, inspiration, or personal reflection</b>: QLF coming through with 2.4M and having me, out here, freed from concern as to what the near future will be like, giving me the support and space to get creative as to how to move in order to penetrate the Football industry, Alhamdulillah.
 
 ---
 
@@ -866,7 +866,7 @@ Created: {{ 2025-05-31 }}
 ### 🏆 <b>3 Wins and/or Achievements</b>
 1. Being able to scaffold Futtech in a "coachkirubi.kalkyokya.tech" website, made me realize that I have developed a certain level of comfort with web development.
 2. My creative touch, in terms of IG video composition, leaves me more confident in my opinion and taste given how good, how 'true', genuine the videos I compile are.
-3. Consistently showing up for Keruvim performance since January 6, injury free, putting in the hours, again and again and again, AlhamduliAllah.
+3. Consistently showing up for Keruvim performance since January 6, injury free, putting in the hours, again and again and again, Alhamdulillah.
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
 1. **Failure:** Weekly work log.<br />
@@ -1172,7 +1172,7 @@ Created: {{ 2025-05-31 }}
 
 ### 🌟 <b>Highlights of the Week</b>
 - <b>Memorable moment / breakthrough / proud event</b>: Stepping into Naivas with Coach Kirubi and realizing just how socially skilled I have growned over the years of deliberate practice. I, low key, have something of a network and have acquired the skills required to display enough self-possession, observation and communication to not let my introversion limit me. Still got work to do though.
-- <b>Quote, inspiration, or personal reflection</b>: I have realized that my typical day feeds me on many level; 'Stoic Footballer', 'Impactful Software Engineer', 'EEE', 'DLHI' are built-in. The initial codebase off of which I currently am molding Futtech, has me thinking of the fact that over time, one moves faster because he is operating at 60-70% more than where a 'beginner' finds himself on the journey up the mountain. AlhamduliAllah.
+- <b>Quote, inspiration, or personal reflection</b>: I have realized that my typical day feeds me on many level; 'Stoic Footballer', 'Impactful Software Engineer', 'EEE', 'DLHI' are built-in. The initial codebase off of which I currently am molding Futtech, has me thinking of the fact that over time, one moves faster because he is operating at 60-70% more than where a 'beginner' finds himself on the journey up the mountain. Alhamdulillah.
 
 ---
 
@@ -1350,7 +1350,7 @@ Created: {{ 2025-05-31 }}
 **Lesson:** Although having practiced pointing toes towards the goal and noticed an improved aim, the rate at which I score goal per shots can, will and must be improved.
 
 ### 🌟 <b>Highlights of the Week</b>
-- <b>Memorable moment / breakthrough / proud event</b>: "How does one make people feel safe to share with him their pain and suffering? Is that something that everyone out there is getting more and more of?". AlhamduliAllah, 'solution guy' gets to be used as someone on whom people's thoughts can bounce. People's thoughts and Pathos; bouncing off, due to 'That Mode'.
+- <b>Memorable moment / breakthrough / proud event</b>: "How does one make people feel safe to share with him their pain and suffering? Is that something that everyone out there is getting more and more of?". Alhamdulillah, 'solution guy' gets to be used as someone on whom people's thoughts can bounce. People's thoughts and Pathos; bouncing off, due to 'That Mode'.
 - <b>Quote, inspiration, or personal reflection</b>: ```Practice reacting, not anticipating``` - Although a paraphrase of Coach Kirubi informing us of, who to be, how to think and what to do, as a footballer, on a football pitch. This can be tied to this week's shooting drill, as it creates a scenario where an attacking player fakes coming short for a pass, before pulling back, taking one touch in space and finishing, with a second touch, across his body, into the bottom corner. That same actions can be run, like a basketball play, on the pitch.
 
 ---
@@ -1648,7 +1648,7 @@ Created: {{ 2025-05-31 }}
 	- Still on that ; Learned that once one secures a job, especially one that picks his interest and demands time, effort and careful attention, he stops hunting. ```Just realized this also applies to romance```, lol.
 
 ### 🏆 <b>3 Wins and/or Achievements</b>
-1. Was out for hours, covered more than half a marathon for the third month running, 22.01 km, raw-d*gged, no music, no podcast, 'no nothing', another 'straight up thoughts and observation' long distance run, AlhamduliAllah.
+1. Was out for hours, covered more than half a marathon for the third month running, 22.01 km, raw-d*gged, no music, no podcast, 'no nothing', another 'straight up thoughts and observation' long distance run, Alhamdulillah.
 2. Saw myself having an easier time handling online processing of some of my banking details, simply due to the fact that I could make informed guesses as to what the system prompting me for credentials might be built like. Less speculation allows for less sensitivity to negative emotions.
 3. 'Please Allah, Challenge Dem, Server QLF': acted out the third element and proved myself of use to QLF, SubhanaAllah.
 
@@ -1712,8 +1712,8 @@ Created: {{ 2025-05-31 }}
 	- Still on that ; Learned that once one secures a job, especially one that picks his interest and demands time, effort and careful attention, he stops hunting. ```Just realized this also applies to romance```, lol.
 
 ### 🏆 <b>3 Wins and/or Achievements</b>
-1. "Self-Mastery, Observation, Communication": Observation and communication are getting easier, and I noticed that a couple times this week. Well, AlhamduliAllah, let's keep showing up and getting the job done.
-2. 9 weeks now, over 2 months of having 2.4M handled week in and week out. I used to pray for days like this, gotta be grateful, humbled and focus-prone for this, AlhamduliAllah.
+1. "Self-Mastery, Observation, Communication": Observation and communication are getting easier, and I noticed that a couple times this week. Well, Alhamdulillah, let's keep showing up and getting the job done.
+2. 9 weeks now, over 2 months of having 2.4M handled week in and week out. I used to pray for days like this, gotta be grateful, humbled and focus-prone for this, Alhamdulillah.
 3. Book read + Piano practice was much more consistent this week, I made progress and learned a lot about my relations with knowledge acquisition as well as the character traits most desirable by the ideal, for the ideal, DLHI.
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
@@ -1776,7 +1776,7 @@ Created: {{ 2025-05-31 }}
 
 ### 🏆 <b>3 Wins and/or Achievements</b>
 1. "Look good, do good, be good" ; The looking part is one I have access to, in the sense that I have seen myself dressing up for a flower-delivery gig I was assigned over the weekend and was reminded of how much planning and organizing I have invested in my appearance.
-2. 8 weeks, basically 2 months of having 2.4M handled week in and week out. I used to pray for days like this, gotta be grateful, humbled and focus-prone for this, AlhamduliAllah.
+2. 8 weeks, basically 2 months of having 2.4M handled week in and week out. I used to pray for days like this, gotta be grateful, humbled and focus-prone for this, Alhamdulillah.
 3. I was engaged in a 60 minutes+ exchange of ideas over the weekend and saw myself "listen to a brother hard enough so as to incite him to share knowledge I needed to be made aware of". Active listening, a tool in my Social skills toolkit.
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
@@ -1788,7 +1788,7 @@ Created: {{ 2025-05-31 }}
 **Lesson:** The whole of last week, I wrote zero lines of code and justified that to myself by whispering in my head that 2.4M takes precedence and is serving Futtech in the long-run. I gotta fix that up this week and ensure 2 hours a day on average for 6 days.
 
 ### 🌟 <b>Highlights of the Week</b>
-- <b>Memorable moment / breakthrough / proud event</b>: Like Kobe discussed the idea of having an Aim and having "reality" reveal itself differently to one as a result of a fully committed honest attempt at reaching it, Futtech, as my way of being a Stoic footballer and Ihsan Software Engineer, permeated the week's live autopsies and information gathering through interaction with life, AlhamduliAllah.
+- <b>Memorable moment / breakthrough / proud event</b>: Like Kobe discussed the idea of having an Aim and having "reality" reveal itself differently to one as a result of a fully committed honest attempt at reaching it, Futtech, as my way of being a Stoic footballer and Ihsan Software Engineer, permeated the week's live autopsies and information gathering through interaction with life, Alhamdulillah.
 - <b>Quote, inspiration, or personal reflection</b>: ```Selective Ignorance```. A brother, through the Islamic idea of "gaze control" from sinful desires (especially from men looking at women), has realized that beauty, although desirable for the eye, needs to be refrained from fully being transmitted to the mind, one needs to be content with seeing without looking, focusing one's attention on the Aim that guides the moment's investment of neural energy.
 
 ---
@@ -1958,7 +1958,7 @@ Created: {{ 2025-05-31 }}
 	2. Somewhere around 2:30 PM, I went ahead and plugged Codex onto the [Futtech-Django](https://github.com/kal-kyokya/Futtech-Django/tree/main) repository on GitHub, in anticipation of the finishing touches required to deployed the webapp this month.
 	3. Googling [Why is the Linux command called 'touch'](https://www.google.com/search?q=why+is+the+linux+command+called+touch) provided me with a moment of philosophical engagement with programming given the nature of what 'touching a file' means.
 	4. Tuesday began with my writing code intent on rewriting Futtech from scratch, which introduced me to the idea of setttig one's Django backend settings in a ```base/dev/prod``` structure. An idea that pleased me due to the level of orderliness it imposes on the project.
-	5. By 1:30 PM that day, I felt overwhelm by the realization that rewriting everything from scratch was prone to me being interested in many new ways of doing what I had already mostly done in previous attempts. That's when I drop the rewrite idea and used Codex to debug the [Futtech-Django](https://github.com/kal-kyokya/Futtech-Django/tree/main) repository, an idea for which I have nothing other than AlhamduliAllah.
+	5. By 1:30 PM that day, I felt overwhelm by the realization that rewriting everything from scratch was prone to me being interested in many new ways of doing what I had already mostly done in previous attempts. That's when I drop the rewrite idea and used Codex to debug the [Futtech-Django](https://github.com/kal-kyokya/Futtech-Django/tree/main) repository, an idea for which I have nothing other than Alhamdulillah.
 	6. Wednesday during my clean up of Futtech-Django, after having been patient long enough, I sought a solution to my 'jittery touchpad' and was pleased to learn that one can [disable a laptop's touchpad](https://www.computerhope.com/issues/ch001699.htm#:~:text=Or%2C%20press%20Windows%20key%20%2B%20I,switch%20to%20the%20Off%20position.), which I did as I used the bluetooth mouse I own.
 	7. Writing tests for the backend helped me realize that the one skill I truly am grateful I acquired via the 2 years I committed to [ALX Africa](https://www.alxafrica.com) is ```Learning how to learn anything```.
 
@@ -2031,7 +2031,7 @@ Created: {{ 2025-05-31 }}
 ### 🏆 <b>3 Wins and/or Achievements</b>
 1. On the back of the week with the highest number of submissions; this week's retained-submitted ratio was the highest ever from 33/51 for 62.7%.
 2. Realization of the consolidation of the 'Slower and more controlled movements' and 'Minimum amount of interaction maximum impact' Attitudes.
-3. Highest submission accepted implies, highest pay yet. AlhamduliAllah.
+3. Highest submission accepted implies, highest pay yet. Alhamdulillah.
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
 1. **Failure:** Second week running now; Food plan.<br />
@@ -2508,7 +2508,7 @@ Created: {{ 2025-05-31 }}
 ### 🏆 <b>3 Wins and/or Achievements</b>
 1. The ```depth``` to which I have gone in this week's learning sessions and the newfound ```willingness to seek``` long-format detailed explanations of concepts I need to be aware of as a Software Engineer as well as a lover of wisdom.
 2. ```Better execution``` of the food plan as well as ease of engagement in the 45-hour monthly fast.
-3. Remembrance to publicly say ```AlhamduliAllah``` and courage to do so.
+3. Remembrance to publicly say ```Alhamdulillah``` and courage to do so.
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
 1. **Failure:** Lies and deceptions.<br />
@@ -2715,7 +2715,7 @@ Created: {{ 2025-05-31 }}
 1. **Failure:** ```Micro transgression```! The little things like not being in bed by midnight, not exactly exactly executing the food plan, delays due to dream analysis.<br />
 **Lesson:** My missing the target stems from the moments under my influenced where I fail to exert my right to choose.
 2. **Failure:** I did ```give into Pathos``` as I watched Morocco's game against Tanzania and wished to see them knocked-out the competition.<br />
-**Lesson:** AlhamduliAllah, half-time, the break, a pause was used by me for Isha and through it I was able to see myself having been moved off the center and recalibrated immediately. Beware of old, unsconscious pattern of behavior regulating your emotions.
+**Lesson:** Alhamdulillah, half-time, the break, a pause was used by me for Isha and through it I was able to see myself having been moved off the center and recalibrated immediately. Beware of old, unsconscious pattern of behavior regulating your emotions.
 3. **Failure:** Guarding the heart, by ```controlling the gaze``` and ensuring Pathos-Ethos-Logos are in alignment.<br />
 **Lesson:** This is an art form I am new to and desires to refine so as to better know how to move from points A to points B.
 
@@ -2758,7 +2758,7 @@ Created: {{ 2025-05-31 }}
 
 - **Learning & Growth**
 	1. Here is a concept I needed to be introduced to but never knew: ["Perception Of Productivity"](https://www.youtube.com/watch?v=tfVhrDgFK70&list=TLPQMTIwODIwMjVPo7-yAK4nxQ&index=3). This idea according to which, people will sometimes choose the suboptimal choice simply because it involves 'much more movement: dynamic over static' was discovered on Tuesday night via Youtube and was immediately used as a heuristic in the days that followed.
-	2. On wednesday, my ability to watch [this 40-minute video](https://www.youtube.com/watch?v=kdPHcwPSGAI) exploring "The Tech Stack of an established company processing 4,000 transactions per second", provided me with proof for the growth experienced over the past two years. As I commented: "AlhamduliAllah, I have learned enough to watch this video and recognize the different concepts/principles regulating parts of the said Tech Stack. #DoHardThings".
+	2. On wednesday, my ability to watch [this 40-minute video](https://www.youtube.com/watch?v=kdPHcwPSGAI) exploring "The Tech Stack of an established company processing 4,000 transactions per second", provided me with proof for the growth experienced over the past two years. As I commented: "Alhamdulillah, I have learned enough to watch this video and recognize the different concepts/principles regulating parts of the said Tech Stack. #DoHardThings".
 	3. There is a web service named ["FutureMe"](https://www.futureme.org/) whose concept is storing of digital letters for as many as 10 years before sending them to the email of your choice. On thursday, I received a letter from 'past me' sent six months prior and wanted to use it again but didn't/couldn't pay the subscription fee associated with subsequent letters, therefore investigated my options, used "Gmail's scheduled" options and now wait to see how that will feel when, insha'Allah, I receive the letter/email.
 	4. Friday brought about the realization of the potency of the 'flex-direction' property embedded within a 'Media Query'. Use of this enabled refactor of the Desktop-first code used for [Futtech](https://futtech.kalkyokya.tech/about) to accomodate mobile size screens.
 	5. Saturday, while finishing refactor of Futtech in [Artcaffe](https://share.google/j2Ef12ysn1v6QphAz) and as a result of using it enough times for me to need to know how exactly flex-box properties 'justify-content' and 'align-items' differ, I executed this [Google search](https://www.google.com/search?q=justify+content+and+align+items+in+css&client=opera&hs=BjI&sca_esv=cb6d5bace73091a1&sxsrf=AE3TifPpRX28buX4-0_7sPrflEl-dS9mBQ%3A1755339162219&ei=mlmgaIGPDbibkdUPz-fUsQ0&oq=justify+content+and+al&gs_lp=Egxnd3Mtd2l6LXNlcnAiFmp1c3RpZnkgY29udGVudCBhbmQgYWwqAggBMgUQABiABDILEAAYgAQYkQIYigUyCxAAGIAEGJECGIoFMgUQABiABDIFEAAYgAQyBhAAGBYYHjIGEAAYFhgeMgYQABgWGB4yCBAAGBYYChgeMgYQABgWGB5IiyxQ4RVYthxwAXgBkAEAmAHNA6ABmhOqAQUzLTIuNLgBA8gBAPgBAZgCB6ACnRTCAgoQABiwAxjWBBhHwgINEAAYgAQYsAMYQxiKBcICChAAGIAEGBQYhwKYAwCIBgGQBgqSBwcxLjMtMi40oAeOJrIHBTMtMi40uAeBFMIHBTMtNS4yyAd2&sclient=gws-wiz-serp), read the AI overview, highlighted it and, proceeded with refactor of Futtech armed with a clearer understanding of what each of them do.
