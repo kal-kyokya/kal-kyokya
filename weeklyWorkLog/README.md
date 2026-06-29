@@ -80,7 +80,7 @@ Created: {{ 2025-05-31 }}
 
 ---
 
-> _“To those who have, more will be given. And to those with little, even that will be taken.” — Matthews' Principle, "The Holy Bible"._
+> _“To Be Rich is Knowing How NOT to Spend Money.” — Jean-Paul's saved posts on TikTok, "Decluttering discovery"._
 
 <!-- Let's update the log every Sunday. Let's Go! -->
 
