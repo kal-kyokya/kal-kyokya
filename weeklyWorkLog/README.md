@@ -31,9 +31,12 @@ Created: {{ 2025-05-31 }}
 	2. **Social Media Manager for Sports Prediction App — Daily Content + HeyGen Videos**: Made first attempt in learning the rops of the assumed role and submitted a poster of the FIFA World Cup 2026 round of 32 bracket.
 
 - **Learning & Growth**
-	1. First day of the week saw me look up [JavaScript Array filter's "index" and "all"](https://www.google.com/search?q=javascript+array+filter+index+and+all), filter() inputs that make it possible to track a particular's item index number and source array, respectively.
-	2. Come Tuesday, in response to a friend of mine attempting to reach out to me via the email linked in FUttech's public showcase, and failing to do so, I underwent the [Google's process through which one gets a 'Custom Email'](https://workspace.google.com/pricing/) and moved my primary email's name to [futtech@kalkyokya.tech](futtech@kalkyokya.tech).
-	3. Fast forward Friday, as I sought to plan for 2 video edits based on DR Congo's ability to get a 1-1 draw against Cristiano Ronaldo's Portugal, I explored [Sofascore's game recap web pages](https://www.sofascore.com/football/match/dr-congo-portugal/eUbsyWb#tab:statistics) and was amazed at the many sections, graphics, charts, tables, and well detail data avail by the system. Can't help but wonder if working with/for them wouldn't teach me a thing or two.
+	1. Monday, early night, as I was getting wind of ["What is happening at Meta?"](https://www.youtube.com/watch?v=OOCepY3H8k4), I found myself obligated to look up ['Lexical Error Programming'](https://www.google.com/search?q=lexical+error+programming) which to me sounds like a what I refer to as 'syntax error'.
+	2. Come tuesday, as I sought to beautify the Desktop look of Futtech's watch page, I required a reminder of what ['margin-inline' in CSS](https://www.google.com/search?client=opera&q=margin+inline+css) does.
+	3. Thursday afternoon, as a engaging with my current read, used google's AI summary to ensure I have an idea of what [The Law of Conservation of Organization Stability] is all about.
+	4. Later on, I realized that I was clueless as to [the meaning of Throttling in a programming context](https://www.google.com/search?client=opera&q=throttle+meaning+programming).
+	5. Checking out [Creatine on USN's Online Store](https://ke.usn.global/products/usn-pure-creatine-monohydrate?_pos=13&_sid=aa0e58eba&_ss=r) made me realize that pharmacies all around me can be thought of as resellers who make a profit by saving me the time to go physically pick the product at a cheaper price, just need to be careful not to be excessively charged for convenience.
+	6. Friday afternoon, in an attempt to resolve a disregulated sleep schedule, I plan and organize myself around [the price in Kenya of Melatonin for sleep](https://www.google.com/search?client=opera&q=melatonin+for+sleep+price+in+kenya).
 
 - **Job hunting**
 	- Sent one proposal, for a "World Class Editor for Football Content" gig, for which I received no feedback.
