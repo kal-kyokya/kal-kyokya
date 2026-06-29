@@ -47,12 +47,12 @@ Created: {{ 2025-05-31 }}
 3. Establishment of the 'post storm', protein-rich, budget meal plan.
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
-1. **Failure:** Still on that: Doomscrolling.<br />
+1. **Failure:** Was caught Doomscrolling.<br />
 **Lesson:** 'Stop scrolling come 9:30 PM'.
-2. **Failure:** Still on that: Regular sleep schedule.<br />
-**Lesson:** 'Step out of bed come the Dream Analysis alarm'.
-3. **Failure:** Lust.<br />
-**Lesson:** Gave into scrolling Instagram and giving my attention to thirst-traps. Gotta scroll man, gotta scroll. Our algorithm is mostly sport and congolese content, therefore the occasional temptation needs to be scrolled past swiftly.
+2. **Failure:** Didn't have a regular sleep schedule.<br />
+**Lesson:** Don't go back to bed after stopping the alarm.
+3. **Failure:** 'Unknown/Unconscious bias'.<br />
+**Lesson:** I am observing myself some more this week to see how harshly I judge African nations performing at the FIFA World Cup, and whether or not it is justified or I, unknowingly, am a harsh critic of my people who turn out to be my own (The self, family members, countrypeople, Africans).
 
 ### 🌟 <b>Highlights of the Week</b>
 - <b>Memorable moment / breakthrough / proud event</b>: Getting on a voice call that turned into a video call with Dj mère, who later had both neuveux on, and showing all of them inside VA 308, as well as the yard/compound and empty bedsitter next door. 2+ hours; We had moment.
