@@ -39,7 +39,7 @@ Created: {{ 2025-05-31 }}
 	6. Friday afternoon, in an attempt to resolve a disregulated sleep schedule, I plan and organize myself around [the price in Kenya of Melatonin for sleep](https://www.google.com/search?client=opera&q=melatonin+for+sleep+price+in+kenya).
 
 - **Job hunting**
-	- Sent one proposal, for a "World Class Editor for Football Content" gig, for which I received no feedback.
+	- Saturday, after an 8PM Goggle meet with a potential client, I got hired for a "Social Media Manager for Sports Prediction App — Daily Content + HeyGen Videos" hourly paid job, whose duration indeterminate.
 
 ### 🏆 <b>3 Wins and/or Achievements</b>
 1. Getting in a couple home workouts sessions and actually feeling sore from them.
