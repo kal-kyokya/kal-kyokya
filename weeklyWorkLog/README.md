@@ -39,7 +39,7 @@ Created: {{ 2025-05-31 }}
 	6. Friday afternoon, in an attempt to resolve a disregulated sleep schedule, I plan and organize myself around [the price in Kenya of Melatonin for sleep](https://www.google.com/search?client=opera&q=melatonin+for+sleep+price+in+kenya).
 
 - **Job hunting**
-	- Saturday, after an 8PM Goggle meet with a potential client, I got hired for a "Social Media Manager for Sports Prediction App — Daily Content + HeyGen Videos" hourly paid job, whose duration indeterminate.
+	- Saturday, after an 8PM Goggle meet with a potential client, my services were hired for a "Social Media Manager for Sports Prediction App — Daily Content + HeyGen Videos" hourly paid job, whose duration indeterminate.
 
 ### 🏆 <b>3 Wins and/or Achievements</b>
 1. Getting a job, Alhamdulillah.
@@ -55,8 +55,8 @@ Created: {{ 2025-05-31 }}
 **Lesson:** I am observing myself some more this week to see how harshly I judge African nations performing at the FIFA World Cup, and whether or not it is justified or I, unknowingly, am a harsh critic of my people who turn out to be my own (The self, family members, countrypeople, Africans).
 
 ### 🌟 <b>Highlights of the Week</b>
-- <b>Memorable moment / breakthrough / proud event</b>: Getting on a voice call that turned into a video call with Dj mère, who later had both neuveux on, and showing all of them inside VA 308, as well as the yard/compound and empty bedsitter next door. 2+ hours; We had moment.
-- <b>Quote, inspiration, or personal reflection</b>: "Le père de mes enfants n'est pas mon enemi, mais un collbaborateur" - Dj Mère. Conflict resolution and the manner in which both individual conduct themselves contributes to the health and longevity of a couple.
+- <b>Memorable moment / breakthrough / proud event</b>: The Google Meet through which I engaged with the client who hired my services is proof of the massive improvement I have made, over the last decade, in my ability to engage people in meaning conversations, and skillfully contribute to the creation of a rapport based on Trust between the world and my best attempt at being a Truthful and Justice-committed individual.
+- <b>Quote, inspiration, or personal reflection</b>: "We are killing ourselves for Africa" - Nicholas Jackson, 2024. This FIFA World Cup 2026 has seen 9 of the 10 African countries make it past the group stage with my D.R. Congo making a comeback win against Uzbekistan to qualify. As sense of pride, coming from seeing my nation get results on the biggest stage, spreads now to the Continental level where I now wish the ultimate success to an African country. Somebody, please, make me dream, bring a World Cup Trophy to the African continent.
 
 ---
 
@@ -115,7 +115,7 @@ Created: {{ 2025-05-31 }}
 **Lesson:** Gave into scrolling Instagram and giving my attention to thirst-traps. Gotta scroll man, gotta scroll. Our algorithm is mostly sport and congolese content, therefore the occasional temptation needs to be scrolled past swiftly.
 
 ### 🌟 <b>Highlights of the Week</b>
-- <b>Memorable moment / breakthrough / proud event</b>: Getting on a voice call that turned into a video call with Dj mère, who later had both neuveux on, and showing all of them inside VA 308, as well as the yard/compound and empty bedsitter next door. 2+ hours; We had moment.
+- <b>Memorable moment / breakthrough / proud event</b>: Getting on a voice call that turned into a video call with Dj mère, who later had both neuveux on. Showing them the insides of VA 308, as well as the compound and empty bedsitters next door. 2+ hours. We had moment.
 - <b>Quote, inspiration, or personal reflection</b>: "Le père de mes enfants n'est pas mon enemi, mais un collbaborateur" - Dj Mère. Conflict resolution and the manner in which both individual conduct themselves contributes to the health and longevity of a couple.
 
 ---
