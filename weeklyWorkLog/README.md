@@ -22,12 +22,73 @@ Created: {{ 2025-05-31 }}
 
 ---
 
+## Week 57 — Sunday, 28th June 2026
+
+### 🌱 **What Was Worked On**
+
+- **Projects**
+	1. **Futtech-Django**: Ensured backend logic limits home page playlist content to non-public showcase videos, changed display order of public showcase videos, removed the playback history tracking feature, ran a Futtech Repository Engineering Audit.
+	2. **Social Media Manager for Sports Prediction App — Daily Content + HeyGen Videos**: Made first attempt in learning the rops of the assumed role and submitted a poster of the FIFA World Cup 2026 round of 32 bracket.
+
+- **Learning & Growth**
+	1. First day of the week saw me look up [JavaScript Array filter's "index" and "all"](https://www.google.com/search?q=javascript+array+filter+index+and+all), filter() inputs that make it possible to track a particular's item index number and source array, respectively.
+	2. Come Tuesday, in response to a friend of mine attempting to reach out to me via the email linked in FUttech's public showcase, and failing to do so, I underwent the [Google's process through which one gets a 'Custom Email'](https://workspace.google.com/pricing/) and moved my primary email's name to [futtech@kalkyokya.tech](futtech@kalkyokya.tech).
+	3. Fast forward Friday, as I sought to plan for 2 video edits based on DR Congo's ability to get a 1-1 draw against Cristiano Ronaldo's Portugal, I explored [Sofascore's game recap web pages](https://www.sofascore.com/football/match/dr-congo-portugal/eUbsyWb#tab:statistics) and was amazed at the many sections, graphics, charts, tables, and well detail data avail by the system. Can't help but wonder if working with/for them wouldn't teach me a thing or two.
+
+- **Job hunting**
+	- Sent one proposal, for a "World Class Editor for Football Content" gig, for which I received no feedback.
+
+### 🏆 <b>3 Wins and/or Achievements</b>
+1. Getting in a couple home workouts sessions and actually feeling sore from them.
+2. Designing a 2.4M approach through which I can feed myself enough protein, while I weather the proverbial storm.
+3. Consistently engaging with the book "Software Engineering: A practictioner's approach" and writing down my thoughts on SWE and its relation to Futtech.
+
+### 🔭 <b>3 Fails & Lessons Learned</b>
+1. **Failure:** Still on that: Doomscrolling.<br />
+**Lesson:** 'Stop scrolling come 9:30 PM'.
+2. **Failure:** Still on that: Regular sleep schedule.<br />
+**Lesson:** 'Step out of bed come the Dream Analysis alarm'.
+3. **Failure:** Lust.<br />
+**Lesson:** Gave into scrolling Instagram and giving my attention to thirst-traps. Gotta scroll man, gotta scroll. Our algorithm is mostly sport and congolese content, therefore the occasional temptation needs to be scrolled past swiftly.
+
+### 🌟 <b>Highlights of the Week</b>
+- <b>Memorable moment / breakthrough / proud event</b>: Getting on a voice call that turned into a video call with Dj mère, who later had both neuveux on, and showing all of them inside VA 308, as well as the yard/compound and empty bedsitter next door. 2+ hours; We had moment.
+- <b>Quote, inspiration, or personal reflection</b>: "Le père de mes enfants n'est pas mon enemi, mais un collbaborateur" - Dj Mère. Conflict resolution and the manner in which both individual conduct themselves contributes to the health and longevity of a couple.
+
+---
+
+## 📅 <b>Coming Up Next Week, InshaAllah</b> - 22nd to 28th June 2026
+- [ ] Be done eating by 7-8PM.
+- [ ] Be done with dream analysis come [9:20AM](https://www.youtube.com/watch?v=T4H7EC9j6mg).
+- [ ] Ensure to spend 30 minutes, [every day](https://www.youtube.com/shorts/mQcTJdyTFtA) going through the hip mobility routine.
+- [ ] Read, at least one page, of a physical book, every single day.
+- [ ] Average 1 hour a day of German language practice.
+
+---
+
+## 📈 <b>Meta</b>
+| Metric | This Week |
+| ------ | --------- |
+| GitHub Commits | 24 |
+| Job Application | 1 |
+| Sleep Avg (hrs) | 8 |
+| Total Coding Time (hrs) | 3 |
+| Training Sessions (Football) | 2 |
+
+---
+
+> _“To those who have, more will be given. And to those with little, even that will be taken.” — Matthews' Principle, "The Holy Bible"._
+
+<!-- Let's update the log every Sunday. Let's Go! -->
+
+---
+
 ## Week 56 — Sunday, 21st June 2026
 
 ### 🌱 **What Was Worked On**
 
 - **Projects**
-	1. **Futtech-Django**: Resolve backend view definition causing failure to authenticate user and load watch page, study the user login flow in hope of squezzing in more user details for user profile display and end up renaming the update button as also 'update/refresh'.
+	1. **Futtech-Django**: Resolved backend view definition causing failure to authenticate user and load watch page, studied the user login flow in hope of squezzing in more user details for user profile display and ended up renaming the update button as also 'update/refresh'.
 
 - **Learning & Growth**
 	1. First day of the week saw me look up [JavaScript Array filter's "index" and "all"](https://www.google.com/search?q=javascript+array+filter+index+and+all), filter() inputs that make it possible to track a particular's item index number and source array, respectively.
