@@ -46,12 +46,12 @@ Created: {{ 2025-05-31 }}
 3. Generating a video edit, once every 2 days, for a total of 3, this week.
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
-1. **Failure:** Was caught Doomscrolling.<br />
-**Lesson:** 'Stop scrolling come 9:30 PM'.
-2. **Failure:** Didn't have a regular sleep schedule.<br />
-**Lesson:** Don't go back to bed after stopping the alarm.
-3. **Failure:** 'Unknown/Unconscious bias'.<br />
-**Lesson:** I am observing myself some more this week to see how harshly I judge African nations performing at the FIFA World Cup, and whether or not it is justified or I, unknowingly, am a harsh critic of my people who turn out to be my own (The self, family members, countrypeople, Africans).
+1. **Failure:** Trapped by Thirst.<br />
+**Lesson:** Instagram is where I get exposed to thirst-traps: scroll past them.
+2. **Failure:** 6/7 no snooze.<br />
+**Lesson:** Even sundays need to see me waking at 7AM and not hit snooze.
+3. **Failure:** Avoidance and Dominance disputes.<br />
+**Lesson:** Days-long late responses by clients need not be met with later replies, as is my habit, swallow that pride, reply immediately, don't be avoidant.
 
 ### 🌟 <b>Highlights of the Week</b>
 - <b>Memorable moment / breakthrough / proud event</b>: The Google Meet through which I engaged with the client who hired my services is proof of the massive improvement I have made, over the last decade, in my ability to engage people in meaning conversations, and skillfully contribute to the creation of a rapport based on Trust between the world and my best attempt at being a Truthful and Justice-committed individual.
@@ -115,7 +115,7 @@ Created: {{ 2025-05-31 }}
 2. **Failure:** Didn't have a regular sleep schedule.<br />
 **Lesson:** Don't go back to bed after stopping the alarm.
 3. **Failure:** 'Unknown/Unconscious bias'.<br />
-**Lesson:** I am observing myself some more this week to see how harshly I judge African nations performing at the FIFA World Cup, and whether or not it is justified or I, unknowingly, am a harsh critic of my people who turn out to be my own (The self, family members, countrypeople, Africans).
+**Lesson:** I am observing myself some more this week to see how harshly I judge African nations performing at the FIFA World Cup, and whether or not it is justified or I, unknowingly, am a harsh critic of my own people (The self, family members, countrypeople, Africans).
 
 ### 🌟 <b>Highlights of the Week</b>
 - <b>Memorable moment / breakthrough / proud event</b>: The Google Meet through which I engaged with the client who hired my services is proof of the massive improvement I have made, over the last decade, in my ability to engage people in meaning conversations, and skillfully contribute to the creation of a rapport based on Trust between the world and my best attempt at being a Truthful and Justice-committed individual.
