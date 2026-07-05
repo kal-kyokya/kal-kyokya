@@ -79,7 +79,7 @@ Created: {{ 2025-05-31 }}
 
 ---
 
-> _“To Be Rich is Knowing How NOT to Spend Money.” — Jean-Paul's saved posts on TikTok, "Decluttering discovery"._
+> _“Quality focus, processes, methods and tools.” — Software Engineering, A Practitioner's Approach, "Chapter 2.1. Software Engineering Layers"._
 
 <!-- Let's update the log every Sunday. Let's Go! -->
 
