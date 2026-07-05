@@ -28,15 +28,13 @@ Created: {{ 2025-05-31 }}
 
 - **Projects**
 	1. **Futtech-Django**: Began implementation of the fixes emerging from the full repository audit and implemented throttling for authenticated, as well as unauthenticated users/paths.
-	2. **Social Media Manager for Sports Prediction App — Daily Content + HeyGen Videos**: Generated 2 word cup video edits narrating events having happened during the round of 16, as well as 2 posters summarizing the group stage and inciting users to engage with the platform.
+	2. **Social Media Manager for Sports Prediction App — Daily Content + HeyGen Videos**: Generated 2 FIFA Word Cup 2026 video edits narrating events having happened during the round of 16, as well as 2 posters summarizing the group stage and inciting users to engage with the platform.
 
 - **Learning & Growth**
-	1. Monday, early night, as I was getting wind of ["What is happening at Meta?"](https://www.youtube.com/watch?v=OOCepY3H8k4), I found myself obligated to look up ['Lexical Error Programming'](https://www.google.com/search?q=lexical+error+programming) which to me sounds like a what I refer to as 'syntax error'.
-	2. Come tuesday, as I sought to beautify the Desktop look of Futtech's watch page, I required a reminder of what ['margin-inline' in CSS](https://www.google.com/search?client=opera&q=margin+inline+css) does.
-	3. Thursday afternoon, as a engaging with my current read, used google's AI summary to ensure I have an idea of what [The Law of Conservation of Organization Stability] is all about.
-	4. Later on, I realized that I was clueless as to [the meaning of Throttling in a programming context](https://www.google.com/search?client=opera&q=throttle+meaning+programming).
-	5. Checking out [Creatine on USN's Online Store](https://ke.usn.global/products/usn-pure-creatine-monohydrate?_pos=13&_sid=aa0e58eba&_ss=r) made me realize that pharmacies all around me can be thought of as resellers who make a profit by saving me the time to go physically pick the product at a cheaper price, just need to be careful not to be excessively charged for convenience.
-	6. Friday afternoon, in an attempt to resolve a disregulated sleep schedule, I plan and organize myself around [the price in Kenya of Melatonin for sleep](https://www.google.com/search?client=opera&q=melatonin+for+sleep+price+in+kenya).
+	1. Started the week seeking to understand via [HeyGen AI Video Tutorials](https://www.google.com/search?q=heygen+ai+video+generator+tutorial) how to answer to generate talking heads videos for the projects I got recently hired.
+	2. Come Tuesday morning, as a continuing attempt to generate a video edit narrating the FIFA World Cup 2026 events of the day, I looked up [Voice over AI tools](https://www.google.com/search?q=voice+over+ai) which I could use the read out the script I had.
+	3. Come afternoon, my focus shifted towards [free tools for addition of captions to videos](https://www.google.com/search?q=add+captions+to+video+online+free), a search that helped me discover [Riverside | An online video editor](https://riverside.com/) that does it, among other things.
+	4. Wednesday afternoon, as I made sure to also work on Futtech, I needed to ensure I have in mind the right [definition of Throttling](https://www.google.com/search?q=throttle+meaning). I know it as `Rate Limiting`.
 
 - **Job hunting**
 	- Saturday, after an 8PM Goggle meet with a potential client, my services were hired for a "Social Media Manager for Sports Prediction App — Daily Content + HeyGen Videos" hourly paid job, whose duration indeterminate.
