@@ -41,9 +41,9 @@ Created: {{ 2025-05-31 }}
 	- Submitted 2 proposals related to an Football app social media management and Football video editing (that was viewed by the client).
 
 ### 🏆 <b>3 Wins and/or Achievements</b>
-1. Getting a job, Alhamdulillah.
-2. Getting in 2 workout sessions, a home one and another in the gym.
-3. Establishment of the 'post storm', protein-rich, budget meal plan.
+1. Getting to hit the gym twice, and get to rejoice in next day soreness.
+2. Consistently executing the meal plan and bedtime routine.
+3. Generating a video edit, once every 2 days, for a total of 3, this week.
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
 1. **Failure:** Was caught Doomscrolling.<br />
