@@ -37,7 +37,8 @@ Created: {{ 2025-05-31 }}
 	4. Wednesday afternoon, as I made sure to also work on Futtech, I needed to ensure I have in mind the right [definition of Throttling](https://www.google.com/search?q=throttle+meaning). I know it as `Rate Limiting`.
 
 - **Job hunting**
-	- Saturday, after an 8PM Goggle meet with a potential client, my services were hired for a "Social Media Manager for Sports Prediction App — Daily Content + HeyGen Videos" hourly paid job, whose duration indeterminate.
+	- Worked the "Social Media Manager for Sports Prediction App — Daily Content + HeyGen Videos" hourly paid job.
+	- Submitted 2 proposals related to an Football app social media management and Football video editing (that was viewed by the client).
 
 ### 🏆 <b>3 Wins and/or Achievements</b>
 1. Getting a job, Alhamdulillah.
@@ -101,7 +102,7 @@ Created: {{ 2025-05-31 }}
 	6. Friday afternoon, in an attempt to resolve a disregulated sleep schedule, I plan and organize myself around [the price in Kenya of Melatonin for sleep](https://www.google.com/search?client=opera&q=melatonin+for+sleep+price+in+kenya).
 
 - **Job hunting**
-	- Saturday, after an 8PM Goggle meet with a potential client, my services were hired for a "Social Media Manager for Sports Prediction App — Daily Content + HeyGen Videos" hourly paid job, whose duration indeterminate.
+	- Saturday, after an 8PM Goggle meet with a potential client, my services were hired for a "Social Media Manager for Sports Prediction App — Daily Content + HeyGen Videos" hourly paid job, whose duration is indeterminate.
 
 ### 🏆 <b>3 Wins and/or Achievements</b>
 1. Getting a job, Alhamdulillah.
