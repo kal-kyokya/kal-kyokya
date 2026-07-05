@@ -22,6 +22,70 @@ Created: {{ 2025-05-31 }}
 
 ---
 
+## Week 58 — Sunday, 5th July 2026
+
+### 🌱 **What Was Worked On**
+
+- **Projects**
+	1. **Futtech-Django**: Began implementation of the fixes emerging from the full repository audit and implemented throttling for authenticated, as well as unauthenticated users/paths.
+	2. **Social Media Manager for Sports Prediction App — Daily Content + HeyGen Videos**: Generated 2 word cup video edits narrating events having happened during the round of 16, as well as 2 posters summarizing the group stage and inciting users to engage with the platform.
+
+- **Learning & Growth**
+	1. Monday, early night, as I was getting wind of ["What is happening at Meta?"](https://www.youtube.com/watch?v=OOCepY3H8k4), I found myself obligated to look up ['Lexical Error Programming'](https://www.google.com/search?q=lexical+error+programming) which to me sounds like a what I refer to as 'syntax error'.
+	2. Come tuesday, as I sought to beautify the Desktop look of Futtech's watch page, I required a reminder of what ['margin-inline' in CSS](https://www.google.com/search?client=opera&q=margin+inline+css) does.
+	3. Thursday afternoon, as a engaging with my current read, used google's AI summary to ensure I have an idea of what [The Law of Conservation of Organization Stability] is all about.
+	4. Later on, I realized that I was clueless as to [the meaning of Throttling in a programming context](https://www.google.com/search?client=opera&q=throttle+meaning+programming).
+	5. Checking out [Creatine on USN's Online Store](https://ke.usn.global/products/usn-pure-creatine-monohydrate?_pos=13&_sid=aa0e58eba&_ss=r) made me realize that pharmacies all around me can be thought of as resellers who make a profit by saving me the time to go physically pick the product at a cheaper price, just need to be careful not to be excessively charged for convenience.
+	6. Friday afternoon, in an attempt to resolve a disregulated sleep schedule, I plan and organize myself around [the price in Kenya of Melatonin for sleep](https://www.google.com/search?client=opera&q=melatonin+for+sleep+price+in+kenya).
+
+- **Job hunting**
+	- Saturday, after an 8PM Goggle meet with a potential client, my services were hired for a "Social Media Manager for Sports Prediction App — Daily Content + HeyGen Videos" hourly paid job, whose duration indeterminate.
+
+### 🏆 <b>3 Wins and/or Achievements</b>
+1. Getting a job, Alhamdulillah.
+2. Getting in 2 workout sessions, a home one and another in the gym.
+3. Establishment of the 'post storm', protein-rich, budget meal plan.
+
+### 🔭 <b>3 Fails & Lessons Learned</b>
+1. **Failure:** Was caught Doomscrolling.<br />
+**Lesson:** 'Stop scrolling come 9:30 PM'.
+2. **Failure:** Didn't have a regular sleep schedule.<br />
+**Lesson:** Don't go back to bed after stopping the alarm.
+3. **Failure:** 'Unknown/Unconscious bias'.<br />
+**Lesson:** I am observing myself some more this week to see how harshly I judge African nations performing at the FIFA World Cup, and whether or not it is justified or I, unknowingly, am a harsh critic of my people who turn out to be my own (The self, family members, countrypeople, Africans).
+
+### 🌟 <b>Highlights of the Week</b>
+- <b>Memorable moment / breakthrough / proud event</b>: The Google Meet through which I engaged with the client who hired my services is proof of the massive improvement I have made, over the last decade, in my ability to engage people in meaning conversations, and skillfully contribute to the creation of a rapport based on Trust between the world and my best attempt at being a Truthful and Justice-committed individual.
+- <b>Quote, inspiration, or personal reflection</b>: "We are killing ourselves for Africa" - Nicholas Jackson, 2024. This FIFA World Cup 2026 has seen 9 of the 10 African countries make it past the group stage with my D.R. Congo making a comeback win against Uzbekistan to qualify. As sense of pride, coming from seeing my nation get results on the biggest stage, spreads now to the Continental level where I now wish the ultimate success to an African country. Somebody, please, make me dream, bring a World Cup Trophy to the African continent.
+
+---
+
+## 📅 <b>Coming Up Next Week, InshaAllah</b> - June 29th to July 5th 2026
+- [ ] Be done eating by 7PM.
+- [ ] Stay out of bed come [7AM](https://www.youtube.com/watch?v=T4H7EC9j6mg).
+- [ ] Ensure to spend 30 minutes, [every day](https://www.youtube.com/shorts/mQcTJdyTFtA) going through the hip mobility routine.
+- [ ] Read, at least one page, of a physical book, every single day.
+- [ ] Average 1 hour a day of German language practice.
+
+---
+
+## 📈 <b>Meta</b>
+| Metric | This Week |
+| ------ | --------- |
+| GitHub Commits | 10 |
+| Job Application | 2 |
+| Sleep Avg (hrs) | 8 |
+| Total Coding Time (hrs) | 3 |
+| Training Sessions (Football) | 2 |
+
+---
+
+> _“To Be Rich is Knowing How NOT to Spend Money.” — Jean-Paul's saved posts on TikTok, "Decluttering discovery"._
+
+<!-- Let's update the log every Sunday. Let's Go! -->
+
+---
+
 ## Week 57 — Sunday, 28th June 2026
 
 ### 🌱 **What Was Worked On**
