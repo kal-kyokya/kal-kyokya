@@ -77,7 +77,7 @@ Created: {{ 2025-05-31 }}
 
 ---
 
-> _“Quality focus, processes, methods and tools.” — Software Engineering, A Practitioner's Approach, "Chapter 2.1. Software Engineering Layers"._
+> _“Under Pressure, You don't Rise to The Occasion. You Sink to The Level of Your Training.” — Heard from Coach Kibs, attributed to the "U.S. Navy Seals"._
 
 <!-- Let's update the log every Sunday. Let's Go! -->
 
