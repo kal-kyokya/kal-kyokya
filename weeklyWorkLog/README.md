@@ -44,12 +44,12 @@ Created: {{ 2025-05-31 }}
 3. Getting to work on a project centered around my leopards, D.R. Congo.
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
-1. **Failure:** Trapped by Thirst.<br />
-**Lesson:** Instagram is where I get exposed to thirst-traps: scroll past them.
-2. **Failure:** 6/7 no snooze.<br />
+1. **Failure:** Once again: '6/7 no snooze'.<br />
 **Lesson:** Even sundays need to see me waking at 7AM and not hit snooze.
+2. **Failure:** To a lesser degree: 'Trapped by Thirst'.<br />
+**Lesson:** Instagram is where I get exposed to thirst-traps: scroll past them.
 3. **Failure:** Avoidance and Dominance disputes.<br />
-**Lesson:** Days-long late responses by clients need not be met with later replies, as is my habit, swallow that pride, reply immediately, don't be avoidant.
+**Lesson:** Viewing the world through the lens of competition is tied to disagreableness. One needs to find a socially acceptable way of indulging in it.
 
 ### 🌟 <b>Highlights of the Week</b>
 - <b>Memorable moment / breakthrough / proud event</b>: Watching, live, D.R. Congo valiant play a knockout game at a FIFA World Cup and scoring within 7 minutes of the start of the game. I was shook. I was shaking. I was in disbelief. It took a moment for me to once again grab a hold of myself. I had stated before that the order of teams I support in football are: D.R. Congo, FC Barcelona and Arsenal. But that World Cup game made me realize just how far ahead, and how great my love and desire for Congo's success is.
