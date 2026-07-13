@@ -52,8 +52,8 @@ Created: {{ 2025-05-31 }}
 **Lesson:** Viewing the world through the lens of competition is tied to disagreableness. One needs to find a socially acceptable way of indulging in it.
 
 ### 🌟 <b>Highlights of the Week</b>
-- <b>Memorable moment / breakthrough / proud event</b>: Watching, live, D.R. Congo valiant play a knockout game at a FIFA World Cup and scoring within 7 minutes of the start of the game. I was shook. I was shaking. I was in disbelief. It took a moment for me to once again grab a hold of myself. I had stated before that the order of teams I support in football are: D.R. Congo, FC Barcelona and Arsenal. But that World Cup game made me realize just how far ahead, and how great my love and desire for Congo's success is.
-- <b>Quote, inspiration, or personal reflection</b>: "We are killing ourselves for Africa" - Nicholas Jackson, 2024. D.R. Congo had a performance that made the loss against England a more palatable experience. The next day, Cape Verde, against all odds, took Lionel Messi's Argentina to extra time. Africa proved itself to be worth consideration. I am looking forward to the next CHAN and AFCON.
+- <b>Memorable moment / breakthrough / proud event</b>: Decluttering my archives videos on TikTok and noticing how far back my desire to grow into DLHI goes, as well as the messages I once identified as worthwhile still are relevant to this day. `Who I am today, truly is a reflection of who I aimed at being`.
+- <b>Quote, inspiration, or personal reflection</b>: "You fall short in comparison to the absolute, but probably rank relatively high when compared to the actual competition" - Jordan B. Peterson, [2017 Maps of Meaning lecture 07](https://www.youtube.com/watch?v=F3n5qtj89QE). I am not the most skilled football analyst as well as video editor out there, but in comparison to any number of people who goes out there and claims to be one, I have with me [Futtech's public showcase](https://futtech.kalkyokya.tech/showcase) which displays the range of my work and my software engineering skills.
 
 ---
 
@@ -115,7 +115,7 @@ Created: {{ 2025-05-31 }}
 **Lesson:** Days-long late responses by clients need not be met with later replies, as is my habit, swallow that pride, reply immediately, don't be avoidant.
 
 ### 🌟 <b>Highlights of the Week</b>
-- <b>Memorable moment / breakthrough / proud event</b>: Watching, live, D.R. Congo valiant play a knockout game at a FIFA World Cup and scoring within 7 minutes of the start of the game. I was shook. I was shaking. I was in disbelief. It took a moment for me to once again grab a hold of myself. I had stated before that the order of teams I support in football are: D.R. Congo, FC Barcelona and Arsenal. But that World Cup game made me realize just how far ahead, and how great my love and desire for Congo's success is.
+- <b>Memorable moment / breakthrough / proud event</b>: Watching, live, D.R. Congo valiant play a knockout game at a FIFA World Cup and scoring within 7 minutes of the start of the game. I was shook. I was shaking. I was in disbelief. It took a moment for me to once again grab a hold of myself. I had stated before that the order of teams I support in football is: D.R. Congo, FC Barcelona and Arsenal. That World Cup game made me realize just how far ahead, and how great my love and desire for Congo's success is.
 - <b>Quote, inspiration, or personal reflection</b>: "We are killing ourselves for Africa" - Nicholas Jackson, 2024. D.R. Congo had a performance that made the loss against England a more palatable experience. The next day, Cape Verde, against all odds, took Lionel Messi's Argentina to extra time. Africa proved itself to be worth consideration. I am looking forward to the next CHAN and AFCON.
 
 ---
