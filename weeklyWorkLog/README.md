@@ -30,10 +30,10 @@ Created: {{ 2025-05-31 }}
 	1. **Futtech-Django**: Completed implementation of the fixes emerging from the full repository audit and redeployed both the front and back ends to avail the new project's version.
 
 - **Learning & Growth**
-	1. Started the week seeking to understand via [HeyGen AI Video Tutorials](https://www.google.com/search?q=heygen+ai+video+generator+tutorial) how to answer to generate talking heads videos for the projects I got recently hired.
-	2. Come Tuesday morning, as a continuing attempt to generate a video edit narrating the FIFA World Cup 2026 events of the day, I looked up [Voice over AI tools](https://www.google.com/search?q=voice+over+ai) which I could use the read out the script I had.
-	3. Come afternoon, my focus shifted towards [free tools for addition of captions to videos](https://www.google.com/search?q=add+captions+to+video+online+free), a search that helped me discover [Riverside | An online video editor](https://riverside.com/) that does it, among other things.
-	4. Wednesday afternoon, as I made sure to also work on Futtech, I needed to ensure I have in mind the right [definition of Throttling](https://www.google.com/search?q=throttle+meaning). I know it as `Rate Limiting`.
+	1. Tuesday morning, as I noticed the lack of video content delivery on Futtech's frontend, I set on a debugging process centered around `React-Vite and Django Logs`, which revealed, via the gunicorn service, that `one or more Django workers crashed during startup`.
+	2. Fast forward, thursday morning, I explored the possibility of generating the video edit on `How Congo tied Portugal to a 1-1 draw in its FIFA World Cup opening game` using an iphone 12 Pro Max and made significant progress.
+	3. Right after, I noted the importance and usefulness of [Sofascore](https://www.google.com/search?client=opera&q=sofascore) in getting match data for analysis.
+	4. Late at night, I sought to understand [How payments for hourly contracts work on Upwork](https://support.upwork.com/hc/en-us/articles/211063668-How-payments-for-hourly-contracts-work), as I felt bugged by my ignorance on the topic.
 
 - **Job hunting**
 	- Worked the "Social Media Manager for Sports Prediction App — Daily Content + HeyGen Videos" hourly paid job.
