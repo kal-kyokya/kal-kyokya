@@ -36,8 +36,7 @@ Created: {{ 2025-05-31 }}
 	4. Late at night, I sought to understand [How payments for hourly contracts work on Upwork](https://support.upwork.com/hc/en-us/articles/211063668-How-payments-for-hourly-contracts-work), as I felt bugged by my ignorance on the topic.
 
 - **Job hunting**
-	- Worked the "Social Media Manager for Sports Prediction App — Daily Content + HeyGen Videos" hourly paid job.
-	- Submitted 2 proposals related to an Football app social media management and Football video editing (that was viewed by the client).
+	- Submitted 10 proposals related to social media management (as an attempt in diversifying), Football and Sports video editing.
 
 ### 🏆 <b>3 Wins and/or Achievements</b>
 1. Getting to hit the gym twice, and get to rejoice in next day soreness.
