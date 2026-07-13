@@ -39,9 +39,9 @@ Created: {{ 2025-05-31 }}
 	- Submitted 10 proposals related to social media management (as an attempt in diversifying), Football and Sports video editing.
 
 ### 🏆 <b>3 Wins and/or Achievements</b>
-1. Getting to hit the gym twice, and get to rejoice in next day soreness.
-2. Consistently executing the meal plan and bedtime routine.
-3. Generating a video edit, once every 2 days, for a total of 3, this week.
+1. Getting paid for the hours invested the previous week via Upwork.
+2. Discovering that football video editing can be done on my phone.
+3. Getting to work on a project centered around my leopards, D.R. Congo.
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
 1. **Failure:** Trapped by Thirst.<br />
