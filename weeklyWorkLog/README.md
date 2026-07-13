@@ -22,6 +22,68 @@ Created: {{ 2025-05-31 }}
 
 ---
 
+## Week 59 — Sunday, 12th July 2026
+
+### 🌱 **What Was Worked On**
+
+- **Projects**
+	1. **Futtech-Django**: Completed implementation of the fixes emerging from the full repository audit and redeployed both the front and back ends to avail the new project's version.
+
+- **Learning & Growth**
+	1. Started the week seeking to understand via [HeyGen AI Video Tutorials](https://www.google.com/search?q=heygen+ai+video+generator+tutorial) how to answer to generate talking heads videos for the projects I got recently hired.
+	2. Come Tuesday morning, as a continuing attempt to generate a video edit narrating the FIFA World Cup 2026 events of the day, I looked up [Voice over AI tools](https://www.google.com/search?q=voice+over+ai) which I could use the read out the script I had.
+	3. Come afternoon, my focus shifted towards [free tools for addition of captions to videos](https://www.google.com/search?q=add+captions+to+video+online+free), a search that helped me discover [Riverside | An online video editor](https://riverside.com/) that does it, among other things.
+	4. Wednesday afternoon, as I made sure to also work on Futtech, I needed to ensure I have in mind the right [definition of Throttling](https://www.google.com/search?q=throttle+meaning). I know it as `Rate Limiting`.
+
+- **Job hunting**
+	- Worked the "Social Media Manager for Sports Prediction App — Daily Content + HeyGen Videos" hourly paid job.
+	- Submitted 2 proposals related to an Football app social media management and Football video editing (that was viewed by the client).
+
+### 🏆 <b>3 Wins and/or Achievements</b>
+1. Getting to hit the gym twice, and get to rejoice in next day soreness.
+2. Consistently executing the meal plan and bedtime routine.
+3. Generating a video edit, once every 2 days, for a total of 3, this week.
+
+### 🔭 <b>3 Fails & Lessons Learned</b>
+1. **Failure:** Trapped by Thirst.<br />
+**Lesson:** Instagram is where I get exposed to thirst-traps: scroll past them.
+2. **Failure:** 6/7 no snooze.<br />
+**Lesson:** Even sundays need to see me waking at 7AM and not hit snooze.
+3. **Failure:** Avoidance and Dominance disputes.<br />
+**Lesson:** Days-long late responses by clients need not be met with later replies, as is my habit, swallow that pride, reply immediately, don't be avoidant.
+
+### 🌟 <b>Highlights of the Week</b>
+- <b>Memorable moment / breakthrough / proud event</b>: Watching, live, D.R. Congo valiant play a knockout game at a FIFA World Cup and scoring within 7 minutes of the start of the game. I was shook. I was shaking. I was in disbelief. It took a moment for me to once again grab a hold of myself. I had stated before that the order of teams I support in football are: D.R. Congo, FC Barcelona and Arsenal. But that World Cup game made me realize just how far ahead, and how great my love and desire for Congo's success is.
+- <b>Quote, inspiration, or personal reflection</b>: "We are killing ourselves for Africa" - Nicholas Jackson, 2024. D.R. Congo had a performance that made the loss against England a more palatable experience. The next day, Cape Verde, against all odds, took Lionel Messi's Argentina to extra time. Africa proved itself to be worth consideration. I am looking forward to the next CHAN and AFCON.
+
+---
+
+## 📅 <b>Coming Up Next Week, InshaAllah</b> - July 6th to 12th 2026
+- [ ] Be done eating by 7PM.
+- [ ] Stay out of bed come [7AM](https://www.youtube.com/watch?v=T4H7EC9j6mg).
+- [ ] Ensure to spend 30 minutes, [every day](https://www.youtube.com/shorts/mQcTJdyTFtA) going through the hip mobility routine.
+- [ ] Read, at least one page, of a physical book, every single day.
+- [ ] Average 1 hour a day of German language practice.
+
+---
+
+## 📈 <b>Meta</b>
+| Metric | This Week |
+| ------ | --------- |
+| GitHub Commits | 23 |
+| Job Application | 2 |
+| Sleep Avg (hrs) | 8 |
+| Total Coding Time (hrs) | 1 |
+| Training Sessions (Football) | 2 |
+
+---
+
+> _“Quality focus, processes, methods and tools.” — Software Engineering, A Practitioner's Approach, "Chapter 2.1. Software Engineering Layers"._
+
+<!-- Let's update the log every Sunday. Let's Go! -->
+
+---
+
 ## Week 58 — Sunday, 5th July 2026
 
 ### 🌱 **What Was Worked On**
