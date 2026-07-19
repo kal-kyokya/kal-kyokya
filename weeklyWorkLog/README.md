@@ -39,9 +39,9 @@ Created: {{ 2025-05-31 }}
 	- Submitted 7 proposals related to social media management (as an attempt in diversifying), Football and Sports video editing.
 
 ### 🏆 <b>3 Wins and/or Achievements</b>
-1. Getting paid for the hours invested the previous week via Upwork.
-2. Discovering that football video editing can be done on my phone.
-3. Getting to work on a project centered around my leopards, D.R. Congo.
+1. Completing the phone-powered, video analysis of how Congo handled Portugal in their World Cup opening match, as well as near-completion of "The 7 minutes that broke England's Dream".
+2. Discovering the stages involved in using Adobe Premiere Pro to create football videos, and applying them, to some extent, using PhotoGrid on the iphone 12 Pro Max.
+3. The Nwarness with which DLHI navigates interactions with partial incarnations of `La Femme`.
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
 1. **Failure:** Once again: '6/7 no snooze'.<br />
