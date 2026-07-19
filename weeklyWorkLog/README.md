@@ -36,7 +36,7 @@ Created: {{ 2025-05-31 }}
 	4. The YouTube search above allowed [this hour-long tutorial](https://www.youtube.com/watch?v=FQmhWekLUH0) to emerge as information-rich and useful for anyone interested in Football video editing with Adobe Premiere Pro.
 
 - **Job hunting**
-	- Submitted 10 proposals related to social media management (as an attempt in diversifying), Football and Sports video editing.
+	- Submitted 7 proposals related to social media management (as an attempt in diversifying), Football and Sports video editing.
 
 ### 🏆 <b>3 Wins and/or Achievements</b>
 1. Getting paid for the hours invested the previous week via Upwork.
