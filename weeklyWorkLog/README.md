@@ -57,7 +57,7 @@ Created: {{ 2025-05-31 }}
 
 ---
 
-## 📅 <b>Coming Up Next Week, InshaAllah</b> - July 13th to 19th 2026
+## 📅 <b>Coming Up Next Week, InshaAllah</b> - July 20th to 26th 2026
 - [ ] Be done eating by 7PM.
 - [ ] Stay out of bed come [7AM](https://www.youtube.com/watch?v=T4H7EC9j6mg).
 - [ ] Ensure to spend 30 minutes, [every day](https://www.youtube.com/shorts/mQcTJdyTFtA) going through the hip mobility routine.
@@ -77,7 +77,7 @@ Created: {{ 2025-05-31 }}
 
 ---
 
-> _“Under Pressure, You don't Rise to The Occasion. You Sink to The Level of Your Training.” — Heard from Coach Kibs, attributed to the "U.S. Navy Seals"._
+> _“Do so much work it would be unreasonable that you don't succeed.” — Alex Hormozi, X via "@AlexHormozi"._
 
 <!-- Let's update the log every Sunday. Let's Go! -->
 
