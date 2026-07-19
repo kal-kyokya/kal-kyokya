@@ -30,10 +30,10 @@ Created: {{ 2025-05-31 }}
 	1. **Futtech-Django**: Implemented repository-wide improvements in the form of: hardened video authorization, centralized video query loading, improved frontend API client resilience, fixed malformed playlist-videos frontend URL, polished API-facing error messages for failed M-Pesa initiation responses, added backend paginated playlist-videos endpoint and related tests.
 
 - **Learning & Growth**
-	1. Tuesday morning, as I noticed the lack of video content delivery on Futtech's frontend, I set on a debugging process centered around `React-Vite and Django Logs`, which revealed, via the gunicorn service, that `one or more Django workers crashed during startup`.
-	2. Fast forward, thursday morning, I explored the possibility of generating the video edit on `How Congo tied Portugal to a 1-1 draw in its FIFA World Cup opening game` using an iphone 12 Pro Max and made significant progress.
-	3. Right after, I noted the importance and usefulness of [Sofascore](https://www.google.com/search?client=opera&q=sofascore) in getting match data for analysis.
-	4. Late at night, I sought to understand [How payments for hourly contracts work on Upwork](https://support.upwork.com/hc/en-us/articles/211063668-How-payments-for-hourly-contracts-work), as I felt bugged by my ignorance on the topic.
+	1. Monday, given that I keep on forgetting what the second 'E' in ['EEG'](https://www.google.com/search?q=eeg) stand for, I ensured to look up `ElectroEncephaloGram`.
+	2. Come Tuesday, as I implemented repository-wide improvements, I required a refreshed on [Django REST Framework's pagination](https://www.django-rest-framework.org/api-guide/pagination/#example), given my exposure to the ['paginate_queryset()' method](https://www.google.com/search?q=django+rest+framework+paginate_queryset).
+	3. Friday, early morning, as a result of exposure to well edited football video analysis on X, and demand for proficiency in tools such Adobe Premiere Pro, I search [Premiere Pro Football Video Tutorials on YouTube](https://www.youtube.com/watch?v=H5DFi8SKTVA&pp=ygUkYWRvYmUgcHJlbWllcmUgcHJvIHR1dG9yaWFsIGZvb3RiYWxs) and got to learn about concept such as scaling, grading, music synchronization, effects, overlays, copyrights checks, logo labeling and transitions: all of them contributing massively to the creation of captivating football video analysis and/or edits.
+	4. The YouTube search above allowed [this hour-long tutorial](https://www.youtube.com/watch?v=FQmhWekLUH0) to emerge as information-rich and useful for anyone interested in Football video editing with Adobe Premiere Pro.
 
 - **Job hunting**
 	- Submitted 10 proposals related to social media management (as an attempt in diversifying), Football and Sports video editing.
