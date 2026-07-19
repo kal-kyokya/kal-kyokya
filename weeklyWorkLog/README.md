@@ -52,8 +52,8 @@ Created: {{ 2025-05-31 }}
 **Lesson:** Viewing the world through the lens of competition is tied to disagreableness. One needs to find a socially acceptable way of indulging in it.
 
 ### 🌟 <b>Highlights of the Week</b>
-- <b>Memorable moment / breakthrough / proud event</b>: Decluttering my archives videos on TikTok and noticing how far back my desire to grow into DLHI goes, as well as the messages I once identified as worthwhile still are relevant to this day. `Who I am today, truly is a reflection of who I aimed at being`.
-- <b>Quote, inspiration, or personal reflection</b>: "You fall short in comparison to the absolute, but probably rank relatively high when compared to the actual competition" - Jordan B. Peterson, [2017 Maps of Meaning lecture 07](https://www.youtube.com/watch?v=F3n5qtj89QE). I am not the most skilled football analyst as well as video editor out there, but in comparison to any number of people who goes out there and claims to be one, I have with me [Futtech's public showcase](https://futtech.kalkyokya.tech/showcase) which displays the range of my work and my software engineering skills.
+- <b>Memorable moment / breakthrough / proud event</b>: Watching Argentina make a 7-minute comeback between the 85th and 92nd minute of their World Cup Semi-final against England, to see them head to the final, where Messi faces Lamine Yamal, truly made me happy. I was moved. I felt myself unwilling to do anything other than bask in the delight of having witness history and being on the winning side, among the supporters.
+- <b>Quote, inspiration, or personal reflection</b>: "I am going to be a Stoic Footballer..." - Jean-Paul De Marie KYOKYA Kalulu, Tuesday, April 16th 2024,  9:45 AM. The stoic bit is what is revealing itself to be the most important thing to embody in words, thoughts and actions. Every motivational bit I consume online seems to be pointing at 'That Mode', the Stoic Mode.
 
 ---
 
@@ -113,7 +113,7 @@ Created: {{ 2025-05-31 }}
 **Lesson:** Viewing the world through the lens of competition is tied to disagreableness. One needs to find a socially acceptable way of indulging in it.
 
 ### 🌟 <b>Highlights of the Week</b>
-- <b>Memorable moment / breakthrough / proud event</b>: Decluttering my archives videos on TikTok and noticing how far back my desire to grow into DLHI goes, as well as the messages I once identified as worthwhile still are relevant to this day. `Who I am today, truly is a reflection of who I aimed at being`.
+- <b>Memorable moment / breakthrough / proud event</b>: Decluttering my archives videos on TikTok and noticing how far back my desire to grow into DLHI goes, as well as the messages I once identified as worthwhile still being relevant. `Who I am today, truly is a reflection of who I aimed to be`.
 - <b>Quote, inspiration, or personal reflection</b>: "You fall short in comparison to the absolute, but probably rank relatively high when compared to the actual competition" - Jordan B. Peterson, [2017 Maps of Meaning lecture 07](https://www.youtube.com/watch?v=F3n5qtj89QE). I am not the most skilled football analyst as well as video editor out there, but in comparison to any number of people who goes out there and claims to be one, I have with me [Futtech's public showcase](https://futtech.kalkyokya.tech/showcase) which displays the range of my work and my software engineering skills.
 
 ---
