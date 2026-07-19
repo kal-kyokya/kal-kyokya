@@ -22,6 +22,67 @@ Created: {{ 2025-05-31 }}
 
 ---
 
+## Week 60 — Sunday, 19th July 2026
+
+### 🌱 **What Was Worked On**
+
+- **Projects**
+	1. **Futtech-Django**: Implemented repository-wide improvements in the form of: hardened video authorization, centralized video query loading, improved frontend API client resilience, fixed malformed playlist-videos frontend URL, polished API-facing error messages for failed M-Pesa initiation responses, added backend paginated playlist-videos endpoint and related tests.
+
+- **Learning & Growth**
+	1. Tuesday morning, as I noticed the lack of video content delivery on Futtech's frontend, I set on a debugging process centered around `React-Vite and Django Logs`, which revealed, via the gunicorn service, that `one or more Django workers crashed during startup`.
+	2. Fast forward, thursday morning, I explored the possibility of generating the video edit on `How Congo tied Portugal to a 1-1 draw in its FIFA World Cup opening game` using an iphone 12 Pro Max and made significant progress.
+	3. Right after, I noted the importance and usefulness of [Sofascore](https://www.google.com/search?client=opera&q=sofascore) in getting match data for analysis.
+	4. Late at night, I sought to understand [How payments for hourly contracts work on Upwork](https://support.upwork.com/hc/en-us/articles/211063668-How-payments-for-hourly-contracts-work), as I felt bugged by my ignorance on the topic.
+
+- **Job hunting**
+	- Submitted 10 proposals related to social media management (as an attempt in diversifying), Football and Sports video editing.
+
+### 🏆 <b>3 Wins and/or Achievements</b>
+1. Getting paid for the hours invested the previous week via Upwork.
+2. Discovering that football video editing can be done on my phone.
+3. Getting to work on a project centered around my leopards, D.R. Congo.
+
+### 🔭 <b>3 Fails & Lessons Learned</b>
+1. **Failure:** Once again: '6/7 no snooze'.<br />
+**Lesson:** Even sundays need to see me waking at 7AM and not hit snooze.
+2. **Failure:** To a lesser degree: 'Trapped by Thirst'.<br />
+**Lesson:** Instagram is where I get exposed to thirst-traps: scroll past them.
+3. **Failure:** Avoidance and Dominance disputes.<br />
+**Lesson:** Viewing the world through the lens of competition is tied to disagreableness. One needs to find a socially acceptable way of indulging in it.
+
+### 🌟 <b>Highlights of the Week</b>
+- <b>Memorable moment / breakthrough / proud event</b>: Decluttering my archives videos on TikTok and noticing how far back my desire to grow into DLHI goes, as well as the messages I once identified as worthwhile still are relevant to this day. `Who I am today, truly is a reflection of who I aimed at being`.
+- <b>Quote, inspiration, or personal reflection</b>: "You fall short in comparison to the absolute, but probably rank relatively high when compared to the actual competition" - Jordan B. Peterson, [2017 Maps of Meaning lecture 07](https://www.youtube.com/watch?v=F3n5qtj89QE). I am not the most skilled football analyst as well as video editor out there, but in comparison to any number of people who goes out there and claims to be one, I have with me [Futtech's public showcase](https://futtech.kalkyokya.tech/showcase) which displays the range of my work and my software engineering skills.
+
+---
+
+## 📅 <b>Coming Up Next Week, InshaAllah</b> - July 13th to 19th 2026
+- [ ] Be done eating by 7PM.
+- [ ] Stay out of bed come [7AM](https://www.youtube.com/watch?v=T4H7EC9j6mg).
+- [ ] Ensure to spend 30 minutes, [every day](https://www.youtube.com/shorts/mQcTJdyTFtA) going through the hip mobility routine.
+- [ ] Read, at least one page, of a physical book, every single day.
+- [ ] Average 1 hour a day of German language practice.
+
+---
+
+## 📈 <b>Meta</b>
+| Metric | This Week |
+| ------ | --------- |
+| GitHub Commits | 8 |
+| Job Application | 10 |
+| Sleep Avg (hrs) | 8 |
+| Total Coding Time (hrs) | 1 |
+| Training Sessions (Football) | 2 |
+
+---
+
+> _“Under Pressure, You don't Rise to The Occasion. You Sink to The Level of Your Training.” — Heard from Coach Kibs, attributed to the "U.S. Navy Seals"._
+
+<!-- Let's update the log every Sunday. Let's Go! -->
+
+---
+
 ## Week 59 — Sunday, 12th July 2026
 
 ### 🌱 **What Was Worked On**
