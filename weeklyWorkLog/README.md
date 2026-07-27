@@ -37,7 +37,7 @@ Created: {{ 2025-05-31 }}
 	5. As well as an overview of [Django usable and unusable password](https://www.google.com/search?q=django+usable+and+unusable+password), whose usage is meant to match usage of [Social Authentication services](https://www.google.com/search?q=Social+Authentication+%28OAuth%29).
 
 - **Job hunting**
-	- Submitted 7 proposals related to social media management (as an attempt in diversifying), Football and Sports video editing.
+	- Submitted 7 proposals, with a 100% 'viewed by client' rate, got interviewed 3 times, was hired for a paid trial by 1, for jobs related to Football, Sports and game footage analysis/editing.
 
 ### 🏆 <b>3 Wins and/or Achievements</b>
 1. Completing the phone-powered, video analysis of how Congo handled Portugal in their World Cup opening match, as well as near-completion of "The 7 minutes that broke England's Dream".
