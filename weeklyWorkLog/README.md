@@ -30,10 +30,11 @@ Created: {{ 2025-05-31 }}
 	1. **Futtech-Django**: Implemented Social Authorization via Google Sign-In, on both the register and login pages for greater user-retention/lower churn rate.
 
 - **Learning & Growth**
-	1. Monday, given that I keep on forgetting what the second 'E' in ['EEG'](https://www.google.com/search?q=eeg) stand for, I ensured to look up `ElectroEncephaloGram`.
-	2. Come Tuesday, as I implemented repository-wide improvements, I required a refreshed on [Django REST Framework's pagination](https://www.django-rest-framework.org/api-guide/pagination/#example), given my exposure to the ['paginate_queryset()' method](https://www.google.com/search?q=django+rest+framework+paginate_queryset).
-	3. Friday, early morning, as a result of exposure to well edited football video analysis on X, and demand for proficiency in tools such Adobe Premiere Pro, I search [Premiere Pro Football Video Tutorials on YouTube](https://www.youtube.com/watch?v=H5DFi8SKTVA&pp=ygUkYWRvYmUgcHJlbWllcmUgcHJvIHR1dG9yaWFsIGZvb3RiYWxs) and got to learn about concept such as scaling, grading, music synchronization, effects, overlays, copyrights checks, logo labeling and transitions: all of them contributing massively to the creation of captivating football video analysis and/or edits.
-	4. The YouTube search above allowed [this hour-long tutorial](https://www.youtube.com/watch?v=FQmhWekLUH0) to emerge as information-rich and useful for anyone interested in Football video editing with Adobe Premiere Pro.
+	1. Tuesday morning, as I set on implementing Social Authentication via Google Sign-In, I looked up ['Google Sign-In React Django Project'](https://www.youtube.com/results?search_query=google+sign+in+react+django+project), I invested time into watching this [Complete Django and react Authentication Tutorial: Social Login with Google](https://www.youtube.com/watch?v=38CflJ837xI).
+	2. With the creation of a 1-minute sample discussing `Nietzsche's take on Leo Messi` in-between, fast-forward Thursday, I watched the second and last part of the [Django and React Authentication Tutorial](https://www.youtube.com/watch?v=o-iGrZ7-Ckc) and considered myself ready to write code.
+	3. Friday, as I was hands-on, I found myself needing to be informed of the ['Sub' claim, in Google JWT payload](https://www.google.com/search?q=sub+claim+in+Google+JWT+payload) and liked the phrasing ["'sub', Google's permanent unique identifier for a Google Account"](https://www.google.com/search?q=sub+Google%27s+permanent+unique+identifier+for+a+Google+Account).
+	4. That was followed by a reminder of the usage of [Django 'select_related'](https://www.google.com/search?q=django+select_related).
+	5. As well as an overview of [Django usable and unusable password](https://www.google.com/search?q=django+usable+and+unusable+password), whose usage is meant to match usage of [Social Authentication services](https://www.google.com/search?q=Social+Authentication+%28OAuth%29).
 
 - **Job hunting**
 	- Submitted 7 proposals related to social media management (as an attempt in diversifying), Football and Sports video editing.
