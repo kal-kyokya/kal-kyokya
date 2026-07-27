@@ -78,7 +78,7 @@ Created: {{ 2025-05-31 }}
 
 ---
 
-> _“Do so much work it would be unreasonable that you don't succeed.” — Alex Hormozi, X via "@AlexHormozi"._
+> _“Every Tyrant in History started as a Man Who Told Himself: 'Just This Once'.” — YouTube, ["Machiavelli debates Marcus Aurelius' Stoicism"](https://www.youtube.com/watch?v=O0qmPdJX7sg)._
 
 <!-- Let's update the log every Sunday. Let's Go! -->
 
