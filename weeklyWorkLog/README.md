@@ -40,9 +40,9 @@ Created: {{ 2025-05-31 }}
 	- Submitted 7 proposals, with a 100% 'viewed by client' rate, got interviewed 3 times, was hired for a paid trial by 1, for jobs related to Football, Sports and game footage analysis/editing.
 
 ### 🏆 <b>3 Wins and/or Achievements</b>
-1. Completing the phone-powered, video analysis of how Congo handled Portugal in their World Cup opening match, as well as near-completion of "The 7 minutes that broke England's Dream".
-2. Discovering the stages involved in using Adobe Premiere Pro to create football videos, and applying them, to some extent, using PhotoGrid on the iphone 12 Pro Max.
-3. The Nwarness with which DLHI navigates interactions with partial incarnations of `La Femme`.
+1. Playing football, on two different occasion. First time in 2 months.
+2. Thinking my way through an 11-a-side game and recognizing the space.
+3. Completing 2 football video analysis centered around GOAT Leo and uploading them to Futtech.
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
 1. **Failure:** Once again: '6/7 no snooze'.<br />
