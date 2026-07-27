@@ -22,6 +22,67 @@ Created: {{ 2025-05-31 }}
 
 ---
 
+## Week 601— Sunday, 26th July 2026
+
+### 🌱 **What Was Worked On**
+
+- **Projects**
+	1. **Futtech-Django**: Implemented Social Authorization via Google Sign-In, on both the register and login pages for greater user-retention/lower churn rate.
+
+- **Learning & Growth**
+	1. Monday, given that I keep on forgetting what the second 'E' in ['EEG'](https://www.google.com/search?q=eeg) stand for, I ensured to look up `ElectroEncephaloGram`.
+	2. Come Tuesday, as I implemented repository-wide improvements, I required a refreshed on [Django REST Framework's pagination](https://www.django-rest-framework.org/api-guide/pagination/#example), given my exposure to the ['paginate_queryset()' method](https://www.google.com/search?q=django+rest+framework+paginate_queryset).
+	3. Friday, early morning, as a result of exposure to well edited football video analysis on X, and demand for proficiency in tools such Adobe Premiere Pro, I search [Premiere Pro Football Video Tutorials on YouTube](https://www.youtube.com/watch?v=H5DFi8SKTVA&pp=ygUkYWRvYmUgcHJlbWllcmUgcHJvIHR1dG9yaWFsIGZvb3RiYWxs) and got to learn about concept such as scaling, grading, music synchronization, effects, overlays, copyrights checks, logo labeling and transitions: all of them contributing massively to the creation of captivating football video analysis and/or edits.
+	4. The YouTube search above allowed [this hour-long tutorial](https://www.youtube.com/watch?v=FQmhWekLUH0) to emerge as information-rich and useful for anyone interested in Football video editing with Adobe Premiere Pro.
+
+- **Job hunting**
+	- Submitted 7 proposals related to social media management (as an attempt in diversifying), Football and Sports video editing.
+
+### 🏆 <b>3 Wins and/or Achievements</b>
+1. Completing the phone-powered, video analysis of how Congo handled Portugal in their World Cup opening match, as well as near-completion of "The 7 minutes that broke England's Dream".
+2. Discovering the stages involved in using Adobe Premiere Pro to create football videos, and applying them, to some extent, using PhotoGrid on the iphone 12 Pro Max.
+3. The Nwarness with which DLHI navigates interactions with partial incarnations of `La Femme`.
+
+### 🔭 <b>3 Fails & Lessons Learned</b>
+1. **Failure:** Once again: '6/7 no snooze'.<br />
+**Lesson:** Even sundays need to see me waking at 7AM and not hit snooze.
+2. **Failure:** To a lesser degree: 'Trapped by Thirst'.<br />
+**Lesson:** Instagram is where I get exposed to thirst-traps: scroll past them.
+3. **Failure:** Avoidance and Dominance disputes.<br />
+**Lesson:** Viewing the world through the lens of competition is tied to disagreableness. One needs to find a socially acceptable way of indulging in it.
+
+### 🌟 <b>Highlights of the Week</b>
+- <b>Memorable moment / breakthrough / proud event</b>: Watching Argentina make a 7-minute comeback between the 85th and 92nd minute of their World Cup Semi-final against England, to see them head to the final, where Messi faces Lamine Yamal, truly made me happy. I was moved. I felt myself unwilling to do anything other than bask in the delight of having witness history and being on the winning side, among the supporters.
+- <b>Quote, inspiration, or personal reflection</b>: "I am going to be a Stoic Footballer..." - Jean-Paul De Marie KYOKYA Kalulu, Tuesday, April 16th 2024,  9:45 AM. The stoic bit is what is revealing itself to be the most important thing to embody in words, thoughts and actions. Every motivational bit I consume online seems to be pointing at 'That Mode', the Stoic Mode.
+
+---
+
+## 📅 <b>Coming Up Next Week, InshaAllah</b> - July 20th to 26th 2026
+- [ ] Be done eating by 7PM.
+- [ ] Stay out of bed come [7AM](https://www.youtube.com/watch?v=T4H7EC9j6mg).
+- [ ] Ensure to spend 30 minutes, [every day](https://www.youtube.com/shorts/mQcTJdyTFtA) going through the hip mobility routine.
+- [ ] Read, at least one page, of a physical book, every single day.
+- [ ] Average 1 hour a day of German language practice.
+
+---
+
+## 📈 <b>Meta</b>
+| Metric | This Week |
+| ------ | --------- |
+| GitHub Commits | 26 |
+| Job Application | 7 |
+| Sleep Avg (hrs) | 8 |
+| Total Coding Time (hrs) | 1 |
+| Training Sessions (Football) | 2 |
+
+---
+
+> _“Do so much work it would be unreasonable that you don't succeed.” — Alex Hormozi, X via "@AlexHormozi"._
+
+<!-- Let's update the log every Sunday. Let's Go! -->
+
+---
+
 ## Week 60 — Sunday, 19th July 2026
 
 ### 🌱 **What Was Worked On**
