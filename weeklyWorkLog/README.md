@@ -45,12 +45,12 @@ Created: {{ 2025-05-31 }}
 3. Completing 2 football video analysis centered around GOAT Leo and uploading them to Futtech.
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
-1. **Failure:** Once again: '6/7 no snooze'.<br />
-**Lesson:** Even sundays need to see me waking at 7AM and not hit snooze.
-2. **Failure:** To a lesser degree: 'Trapped by Thirst'.<br />
-**Lesson:** Instagram is where I get exposed to thirst-traps: scroll past them.
-3. **Failure:** Avoidance and Dominance disputes.<br />
-**Lesson:** Viewing the world through the lens of competition is tied to disagreableness. One needs to find a socially acceptable way of indulging in it.
+1. **Failure:** 2.4M.<br />
+**Lesson:** Committing to Wagenge will require a financial investment for which my desired way forward is to 'ball'. Gotta make some mula, because I want to do it well.
+2. **Failure:** 'CPS' low on the ground.<br />
+**Lesson:** Every Control-Pass-Shoot needs to stay low on the ground, especially the shots, but most importantly the control and pass, because they set one up for the next step.
+3. **Failure:** Self-righteousness.<br />
+**Lesson:** The blind self. It could very well be doing work on, and I can't even tell. [`Audhu billahi minashaitanir rajeem`](https://www.google.com/search?q=audhu+billahi+minashaitanir+rajeem).
 
 ### 🌟 <b>Highlights of the Week</b>
 - <b>Memorable moment / breakthrough / proud event</b>: Watching Argentina make a 7-minute comeback between the 85th and 92nd minute of their World Cup Semi-final against England, to see them head to the final, where Messi faces Lamine Yamal, truly made me happy. I was moved. I felt myself unwilling to do anything other than bask in the delight of having witness history and being on the winning side, among the supporters.
