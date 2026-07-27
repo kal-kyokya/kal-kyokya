@@ -53,8 +53,8 @@ Created: {{ 2025-05-31 }}
 **Lesson:** The blind self. It could very well be doing work on, and I can't even tell. [`Audhu billahi minashaitanir rajeem`](https://www.google.com/search?q=audhu+billahi+minashaitanir+rajeem).
 
 ### 🌟 <b>Highlights of the Week</b>
-- <b>Memorable moment / breakthrough / proud event</b>: Watching Argentina make a 7-minute comeback between the 85th and 92nd minute of their World Cup Semi-final against England, to see them head to the final, where Messi faces Lamine Yamal, truly made me happy. I was moved. I felt myself unwilling to do anything other than bask in the delight of having witness history and being on the winning side, among the supporters.
-- <b>Quote, inspiration, or personal reflection</b>: "I am going to be a Stoic Footballer..." - Jean-Paul De Marie KYOKYA Kalulu, Tuesday, April 16th 2024,  9:45 AM. The stoic bit is what is revealing itself to be the most important thing to embody in words, thoughts and actions. Every motivational bit I consume online seems to be pointing at 'That Mode', the Stoic Mode.
+- <b>Memorable moment / breakthrough / proud event</b>: `Standing on Business` and not letting nobody punk The Dem. Didn't avoid conflict as a result of a teammate pushing his luck and expressing frustration with me during a moment of the game where the stakes were high. I withdrew from the game, said NO (i.e., 'There is nothing you can do or say to me that will make me change how I currently am acting'). Stood tall, and didn't budge, despite the pressure put on me by Coach Kirubi to join back the team. `I SAID 'NO'.`
+- <b>Quote, inspiration, or personal reflection</b>: "Trust your gut" - DJ Dem. Something felt off, I questioned the quality of the team I was about to train with, and have had Wagenge in the back of my mind for months, but given that I had not played ball in 2 months, my rustiness surely meant that I wasn't worthy of looking down on that particular team. I've learned a great lesson from that: On a Football field rustiness is real, proper communication and encouraging words and actions are a must.
 
 ---
 
@@ -114,7 +114,7 @@ Created: {{ 2025-05-31 }}
 **Lesson:** Viewing the world through the lens of competition is tied to disagreableness. One needs to find a socially acceptable way of indulging in it.
 
 ### 🌟 <b>Highlights of the Week</b>
-- <b>Memorable moment / breakthrough / proud event</b>: Watching Argentina make a 7-minute comeback between the 85th and 92nd minute of their World Cup Semi-final against England, to see them head to the final, where Messi faces Lamine Yamal, truly made me happy. I was moved. I felt myself unwilling to do anything other than bask in the delight of having witness history and being on the winning side, among the supporters.
+- <b>Memorable moment / breakthrough / proud event</b>: Watching Argentina make a 7-minute comeback between the 85th and 92nd minute of their World Cup Semi-final against England, to see them head to the final, where Messi faces Lamine Yamal, truly made me happy. I was moved. I felt myself unwilling to do anything other than bask in the delight of having witnessed history and being on the winning side, among the supporters.
 - <b>Quote, inspiration, or personal reflection</b>: "I am going to be a Stoic Footballer..." - Jean-Paul De Marie KYOKYA Kalulu, Tuesday, April 16th 2024,  9:45 AM. The stoic bit is what is revealing itself to be the most important thing to embody in words, thoughts and actions. Every motivational bit I consume online seems to be pointing at 'That Mode', the Stoic Mode.
 
 ---
