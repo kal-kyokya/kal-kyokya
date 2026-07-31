@@ -22,7 +22,7 @@ Created: {{ 2025-05-31 }}
 
 ---
 
-## Week 601— Sunday, 26th July 2026
+## Week 61 — Sunday, 26th July 2026
 
 ### 🌱 **What Was Worked On**
 
