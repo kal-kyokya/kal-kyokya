@@ -22,12 +22,74 @@ Created: {{ 2025-05-31 }}
 
 ---
 
+## Week 62 — Sunday, 2nd August 2026
+
+### 🌱 **What Was Worked On**
+
+- **Projects**
+	1. **[Futtech-Django](https://www.futtech.kalkyokya.tech/showcase)**: Expanded the project's video bank via addition of the narration of `the rise of the new World Cup King`, a 264 seconds video edit mixing curated music, clips, layered text and a voiceover.
+
+- **Learning & Growth**
+	1. Tuesday morning, as I set on implementing Social Authentication via Google Sign-In, I looked up ['Google Sign-In React Django Project'](https://www.youtube.com/results?search_query=google+sign+in+react+django+project), I invested time into watching this [Complete Django and react Authentication Tutorial: Social Login with Google](https://www.youtube.com/watch?v=38CflJ837xI).
+	2. With the creation of a 1-minute sample discussing `Nietzsche's take on Leo Messi` in-between, fast-forward Thursday, I watched the second and last part of the [Django and React Authentication Tutorial](https://www.youtube.com/watch?v=o-iGrZ7-Ckc) and considered myself ready to write code.
+	3. Friday, as I was hands-on, I found myself needing to be informed of the ['Sub' claim, in Google JWT payload](https://www.google.com/search?q=sub+claim+in+Google+JWT+payload) and liked the phrasing ["'sub', Google's permanent unique identifier for a Google Account"](https://www.google.com/search?q=sub+Google%27s+permanent+unique+identifier+for+a+Google+Account).
+	4. That was followed by a reminder of the usage of [Django 'select_related'](https://www.google.com/search?q=django+select_related).
+	5. As well as an overview of [Django usable and unusable password](https://www.google.com/search?q=django+usable+and+unusable+password), whose usage is meant to match usage of [Social Authentication services](https://www.google.com/search?q=Social+Authentication+%28OAuth%29).
+
+- **Job hunting**
+	- Submitted 7 proposals, with a 100% 'viewed by client' rate, got interviewed 3 times, was hired for a paid trial by 1, for jobs related to Football, Sports and game footage analysis/editing.
+
+### 🏆 <b>3 Wins and/or Achievements</b>
+1. Playing football, on two different occasion. First time in 2 months.
+2. Thinking my way through an 11-a-side game and recognizing the space.
+3. Completing 2 football video analysis centered around GOAT Leo and uploading them to Futtech.
+
+### 🔭 <b>3 Fails & Lessons Learned</b>
+1. **Failure:** 2.4M.<br />
+**Lesson:** Committing to Wagenge will require a financial investment for which my desired way forward is to 'ball'. Gotta make some mula, because I want to do it well.
+2. **Failure:** 'CPS' low on the ground.<br />
+**Lesson:** Every Control-Pass-Shoot needs to stay low on the ground, especially the shots, but most importantly the control and pass, because they set one up for the next step.
+3. **Failure:** Self-righteousness.<br />
+**Lesson:** The blind self. It could very well be doing work on, and I can't even tell. [`Audhu billahi minashaitanir rajeem`](https://www.google.com/search?q=audhu+billahi+minashaitanir+rajeem).
+
+### 🌟 <b>Highlights of the Week</b>
+- <b>Memorable moment / breakthrough / proud event</b>: `Standing on Business` and not letting nobody punk The Dem. Didn't avoid conflict as a result of a teammate pushing his luck and expressing frustration with me during a moment of the game where the stakes were high. I withdrew from the game, said NO (i.e., 'There is nothing you can do or say to me that will make me change how I currently am acting'). Stood tall, and didn't budge, despite the pressure put on me by Coach Kirubi to join back the team. `I SAID 'NO'.`
+- <b>Quote, inspiration, or personal reflection</b>: "Trust your gut" - DJ Dem. Something felt off, I questioned the quality of the team I was about to train with, and have had Wagenge in the back of my mind for months, but given that I had not played ball in 2 months, my rustiness surely meant that I wasn't worthy of looking down on that particular team. I've learned a great lesson from that: On a Football field rustiness is real, proper communication and encouraging words and actions are a must.
+
+---
+
+## 📅 <b>Coming Up Next Week, InshaAllah</b> - July 27th to August 2nd 2026
+- [ ] Be done eating by 7PM.
+- [ ] Stay out of bed come [7AM](https://www.youtube.com/watch?v=T4H7EC9j6mg).
+- [ ] Ensure to spend 30 minutes, [every day](https://www.youtube.com/shorts/mQcTJdyTFtA) going through the hip mobility routine.
+- [ ] Read, at least one page, of a physical book, every single day.
+- [ ] Average 1 hour a day of German language practice.
+
+---
+
+## 📈 <b>Meta</b>
+| Metric | This Week |
+| ------ | --------- |
+| GitHub Commits | 21 |
+| Job Application | 7 |
+| Sleep Avg (hrs) | 8 |
+| Total Coding Time (hrs) | 9 |
+| Training Sessions (Football) | 3 |
+
+---
+
+> _“Every Tyrant in History started as a Man Who Told Himself: 'Just This Once'.” — YouTube, ["Machiavelli debates Marcus Aurelius' Stoicism"](https://www.youtube.com/watch?v=O0qmPdJX7sg)._
+
+<!-- Let's update the log every Sunday. Let's Go! -->
+
+---
+
 ## Week 61 — Sunday, 26th July 2026
 
 ### 🌱 **What Was Worked On**
 
 - **Projects**
-	1. **Futtech-Django**: Implemented Social Authorization via Google Sign-In, on both the register and login pages for greater user-retention/lower churn rate.
+	1. **[Futtech-Django](https://www.futtech.kalkyokya.tech/showcase)**: Implemented Social Authorization via Google Sign-In, on both the register and login pages for greater user-retention/lower churn rate.
 
 - **Learning & Growth**
 	1. Tuesday morning, as I set on implementing Social Authentication via Google Sign-In, I looked up ['Google Sign-In React Django Project'](https://www.youtube.com/results?search_query=google+sign+in+react+django+project), I invested time into watching this [Complete Django and react Authentication Tutorial: Social Login with Google](https://www.youtube.com/watch?v=38CflJ837xI).
@@ -89,7 +151,7 @@ Created: {{ 2025-05-31 }}
 ### 🌱 **What Was Worked On**
 
 - **Projects**
-	1. **Futtech-Django**: Implemented repository-wide improvements in the form of: hardened video authorization, centralized video query loading, improved frontend API client resilience, fixed malformed playlist-videos frontend URL, polished API-facing error messages for failed M-Pesa initiation responses, added backend paginated playlist-videos endpoint and related tests.
+	1. **[Futtech-Django](https://www.futtech.kalkyokya.tech/showcase)**: Implemented repository-wide improvements in the form of: hardened video authorization, centralized video query loading, improved frontend API client resilience, fixed malformed playlist-videos frontend URL, polished API-facing error messages for failed M-Pesa initiation responses, added backend paginated playlist-videos endpoint and related tests.
 
 - **Learning & Growth**
 	1. Monday, given that I keep on forgetting what the second 'E' in ['EEG'](https://www.google.com/search?q=eeg) stand for, I ensured to look up `ElectroEncephaloGram`.
@@ -150,7 +212,7 @@ Created: {{ 2025-05-31 }}
 ### 🌱 **What Was Worked On**
 
 - **Projects**
-	1. **Futtech-Django**: Completed implementation of the fixes emerging from the full repository audit and redeployed both the front and back ends to avail the new project's version.
+	1. **[Futtech-Django](https://www.futtech.kalkyokya.tech/showcase)**: Completed implementation of the fixes emerging from the full repository audit and redeployed both the front and back ends to avail the new project's version.
 
 - **Learning & Growth**
 	1. Tuesday morning, as I noticed the lack of video content delivery on Futtech's frontend, I set on a debugging process centered around `React-Vite and Django Logs`, which revealed, via the gunicorn service, that `one or more Django workers crashed during startup`.
@@ -211,7 +273,7 @@ Created: {{ 2025-05-31 }}
 ### 🌱 **What Was Worked On**
 
 - **Projects**
-	1. **Futtech-Django**: Began implementation of the fixes emerging from the full repository audit and implemented throttling for authenticated, as well as unauthenticated users/paths.
+	1. **[Futtech-Django](https://www.futtech.kalkyokya.tech/showcase)**: Began implementation of the fixes emerging from the full repository audit and implemented throttling for authenticated, as well as unauthenticated users/paths.
 	2. **Social Media Manager for Sports Prediction App — Daily Content + HeyGen Videos**: Generated 2 FIFA Word Cup 2026 video edits narrating events having happened during the round of 16, as well as 2 posters summarizing the group stage and inciting users to engage with the platform.
 
 - **Learning & Growth**
@@ -274,7 +336,7 @@ Created: {{ 2025-05-31 }}
 ### 🌱 **What Was Worked On**
 
 - **Projects**
-	1. **Futtech-Django**: Ensured backend logic limits home page playlist content to non-public showcase videos, changed display order of public showcase videos, removed the playback history tracking feature, ran a Futtech Repository Engineering Audit.
+	1. **[Futtech-Django](https://www.futtech.kalkyokya.tech/showcase)**: Ensured backend logic limits home page playlist content to non-public showcase videos, changed display order of public showcase videos, removed the playback history tracking feature, ran a Futtech Repository Engineering Audit.
 	2. **Social Media Manager for Sports Prediction App — Daily Content + HeyGen Videos**: Made first attempt in learning the rops of the assumed role and submitted a poster of the FIFA World Cup 2026 round of 32 bracket.
 
 - **Learning & Growth**
@@ -338,7 +400,7 @@ Created: {{ 2025-05-31 }}
 ### 🌱 **What Was Worked On**
 
 - **Projects**
-	1. **Futtech-Django**: Resolved backend view definition causing failure to authenticate user and load watch page, studied the user login flow in hope of squezzing in more user details for user profile display and ended up renaming the update button as also 'update/refresh'.
+	1. **[Futtech-Django](https://www.futtech.kalkyokya.tech/showcase)**: Resolved backend view definition causing failure to authenticate user and load watch page, studied the user login flow in hope of squezzing in more user details for user profile display and ended up renaming the update button as also 'update/refresh'.
 
 - **Learning & Growth**
 	1. First day of the week saw me look up [JavaScript Array filter's "index" and "all"](https://www.google.com/search?q=javascript+array+filter+index+and+all), filter() inputs that make it possible to track a particular's item index number and source array, respectively.
@@ -398,7 +460,7 @@ Created: {{ 2025-05-31 }}
 ### 🌱 **What Was Worked On**
 
 - **Projects**
-	1. **Futtech-Django**: Refactored 'PlaylistItem' components to relie on video slugs rather than video IDs, made primary investigation of failure to load videos on the watch page, as well as discarded playlist links from the User Profile.
+	1. **[Futtech-Django](https://www.futtech.kalkyokya.tech/showcase)**: Refactored 'PlaylistItem' components to relie on video slugs rather than video IDs, made primary investigation of failure to load videos on the watch page, as well as discarded playlist links from the User Profile.
 
 - **Learning & Growth**
 	1. Come saturday, after having made use of the virtue of [Temperance](https://www.google.com/search?q=temperance+meaning) all week, I reinforce the notion that 'That Mode', whether under pulls or pushes, is valid.
@@ -456,7 +518,7 @@ Created: {{ 2025-05-31 }}
 ### 🌱 **What Was Worked On**
 
 - **Projects**
-	1. **Futtech-Django**: Debugged the profile update workflow, converted the “Position” input from a string to a selected set of options and removed the playlist icon from the sidebar.
+	1. **[Futtech-Django](https://www.futtech.kalkyokya.tech/showcase)**: Debugged the profile update workflow, converted the “Position” input from a string to a selected set of options and removed the playlist icon from the sidebar.
 
 - **Learning & Growth**
 	1. Had to refresh my memory on what is a [Python Static Method](https://www.google.com/search?q=python+static+method) while debugging the user profile update workflow.
@@ -514,7 +576,7 @@ Created: {{ 2025-05-31 }}
 ### 🌱 **What Was Worked On**
 
 - **Projects**
-	1. **Futtech-Django**: Debugged the user updation workflow, investigating the HTTP 500 status code returned upon user profile updates. Change the login page's hero section's video and expanded the public showcase selection via creation of a new video object.
+	1. **[Futtech-Django](https://www.futtech.kalkyokya.tech/showcase)**: Debugged the user updation workflow, investigating the HTTP 500 status code returned upon user profile updates. Change the login page's hero section's video and expanded the public showcase selection via creation of a new video object.
 
 - **Learning & Growth**
 	1. Starting monday, as I reviewed the backend codebase handling user updates, I looked up the function `normalize_email()` which as the name suggest ensures email inputs are standardized before recorded in the database, here is [the actual google search](https://www.google.com/search?q=normalize+email+django).
@@ -574,7 +636,7 @@ Created: {{ 2025-05-31 }}
 ### 🌱 **What Was Worked On**
 
 - **Projects**
-	1. **Futtech-Django**: Redefined the frontend's post-login routing and refined the watch page and public showcase's cascading style sheet.
+	1. **[Futtech-Django](https://www.futtech.kalkyokya.tech/showcase)**: Redefined the frontend's post-login routing and refined the watch page and public showcase's cascading style sheet.
 
 - **Learning & Growth**
 	1. Friday, midday, as I debugged the React frontend's app routing, I found myself obligated to look up what a ['React Router DOM Outlet component'](https://www.google.com/search?q=react+router+dom+outlet+component) is, given that I wrongfully suspect it to be causing failure to go past the 'Loading page...' notification.
@@ -632,7 +694,7 @@ Created: {{ 2025-05-31 }}
 ### 🌱 **What Was Worked On**
 
 - **Projects**
-	1. **Futtech-Django**: Enabled back the login button and refactored the project's codebase to reflect deletion of the frontend video upload workflow, as well as, video management functionality.
+	1. **[Futtech-Django](https://www.futtech.kalkyokya.tech/showcase)**: Enabled back the login button and refactored the project's codebase to reflect deletion of the frontend video upload workflow, as well as, video management functionality.
 
 - **Learning & Growth**
 	1. Thursday evening, as I worked the Twitter Engagement gig, I sought to type down a comment, in french, that pointed out how versatile the subject player was; this led to my looking up ['versatilité'](https://www.google.com/search?q=versatilit%C3%A9), a word that doesn't exist in french, though. Polyvalence is the french equivalent, by the way.
@@ -689,7 +751,7 @@ Created: {{ 2025-05-31 }}
 ### 🌱 **What Was Worked On**
 
 - **Projects**
-	1. **Futtech-Django**: Disabled the login button to block access to Futtech's internal structure as I build it and direct traffic towards the public showcase implemented last week.
+	1. **[Futtech-Django](https://www.futtech.kalkyokya.tech/showcase)**: Disabled the login button to block access to Futtech's internal structure as I build it and direct traffic towards the public showcase implemented last week.
 	2. **Personal Professional Portfolio Website**: Redefine the copyright section of the website for succintness.
 	3. **GitHub README**: Updated the "special repository's README" with informations reflecting the progress made over the weeks and the current aims.
 
@@ -750,7 +812,7 @@ Created: {{ 2025-05-31 }}
 ### 🌱 **What Was Worked On**
 
 - **Projects**
-	1. **Futtech-Django**: Redefined the style sheets of the public header, as well as the video player for mobile responsiveness.
+	1. **[Futtech-Django](https://www.futtech.kalkyokya.tech/showcase)**: Redefined the style sheets of the public header, as well as the video player for mobile responsiveness.
 
 - **Learning & Growth**
 	1. Starting Monday, as I set on adding a [transform effect](https://www.google.com/search?q=transform+css+property) on thumbnail images displayed in the public showcase section of Futtech, I lookedup the 'Transform CSS property' to refresh my memory on how exactly to implement the said effect.
@@ -808,7 +870,7 @@ Created: {{ 2025-05-31 }}
 ### 🌱 **What Was Worked On**
 
 - **Projects**
-	1. **Futtech-Django**: Established the frontend and backend structures required for creation of a public showcase section of the Futtech App, whose core is a curated list of videos providing users with an insight into the football analysis, video editing, strength and conditioning claims, as well as, football training claims made on the landing page.
+	1. **[Futtech-Django](https://www.futtech.kalkyokya.tech/showcase)**: Established the frontend and backend structures required for creation of a public showcase section of the Futtech App, whose core is a curated list of videos providing users with an insight into the football analysis, video editing, strength and conditioning claims, as well as, football training claims made on the landing page.
 
 - **Learning & Growth**
 	1. Starting Monday, as a result of having, more than once, mentioned the concept of a 'USP' in the research I made regarding a Football Degree Pathway, I looked up the meaning of [a Unique Selling Proposition/Point](https://www.google.com/search?q=usp+meaning) to clarify what the 'S' and especially the 'P' stand for.
@@ -923,7 +985,7 @@ Created: {{ 2025-05-31 }}
 
 - **Projects**
 	1. **Keruvim Performance's web app**: Resolve failure to login admin users and availed a demo program for client-side display.
-	2. **Futtech Debugging**: Committed changes made the previous week to GitHub, of Futtech's landing page's content and styling.
+	2. **[Futtech Debugging](https://www.futtech.kalkyokya.tech/showcase)**: Committed changes made the previous week to GitHub, of Futtech's landing page's content and styling.
 
 - **Learning & Growth**
 	1. Monday, at noon, as I sought to resolve failure of admin users to login, I looked up `how to` [check](https://www.google.com/search?q=check+django+superuser+password) and [change](https://www.google.com/search?q=change+django+superuser+password) `a Django superuser's password`, and was reintroduced to the idea of password salting and their irreversible nature, which requires knowing the pre-salted version, so as to facilitate checking.
@@ -982,7 +1044,7 @@ Created: {{ 2025-05-31 }}
 
 - **Projects**
 	1. **Keruvim Performance's web app**: Built the React + Vite as frontend and deployed a beta version using Nginx and Gunicorn.
-	2. **Futtech Debugging**: Refactored the registration page into a rich landing page, introducing users to the Futtech universe, and football video analysis nature of the project.
+	2. **[Futtech Debugging](https://www.futtech.kalkyokya.tech/showcase)**: Refactored the registration page into a rich landing page, introducing users to the Futtech universe, and football video analysis nature of the project.
 
 - **Learning & Growth**
 	1. Tuesday around noon, as I set on engineering Coach Kirubi's frontend, found myself looking up ['Creating a React App with Vite'](https://www.google.com/search?q=creating+a+react+app+with+vite), an operation I had not done since the creation of Futtech's frontend, a year ago.
@@ -1042,7 +1104,7 @@ Created: {{ 2025-05-31 }}
 
 - **Projects**
 	1. **Keruvim Performance's web app**: Completed structuring of the backend infrastructure using Django and DRF for storing of data related to orders, programs, payment events, etc.
-	2. **Futtech Debugging**: Generated via LiveTagPro a video analysis of the RMCRD Elastico and embedded it on the registration page.
+	2. **[Futtech Debugging](https://www.futtech.kalkyokya.tech/showcase)**: Generated via LiveTagPro a video analysis of the RMCRD Elastico and embedded it on the registration page.
 
 - **Learning & Growth**
 	1. Thursday late afternoon, as I set on beginning creation of Keruvim Performance's backend, I found myself requiring to look up ['How to create a Django project'](https://www.google.com/search?q=creating+a+django+project), which I had lost sight of, given the irregularity with which I found myself creating new ones.
@@ -1100,7 +1162,7 @@ Created: {{ 2025-05-31 }}
 ### 🌱 **What Was Worked On**
 
 - **Projects**
-	1. **Futtech Debugging**: Attempted to implement a multi-tenant architecture before rolling every change back and electing to refactor the project's frontend styling for maintainability and reworked to the playlist items JSX and SCSS files to better its display given new VPaaS (Bunny Stream) that doesn't rely on thumbnail.
+	1. **[Futtech Debugging](https://www.futtech.kalkyokya.tech/showcase)**: Attempted to implement a multi-tenant architecture before rolling every change back and electing to refactor the project's frontend styling for maintainability and reworked to the playlist items JSX and SCSS files to better its display given new VPaaS (Bunny Stream) that doesn't rely on thumbnail.
 
 - **Learning & Growth**
 	1. Monday, 9th March, was marked by my discovery of the concept of ['developer velocity'](https://www.google.com/search?q=developer+velocity), a term that enriches my thinking of software development lifecycles.
@@ -1159,7 +1221,7 @@ Created: {{ 2025-05-31 }}
 ### 🌱 **What Was Worked On**
 
 - **Projects**
-	1. **Futtech Debugging**: Completed implementation of a payment system primarily relying on Safaricom's M-Pesa, and Stripe as fallback, as well as refactoring the auth pages to include a product preview video hosted on Bunny Stream.
+	1. **[Futtech Debugging](https://www.futtech.kalkyokya.tech/showcase)**: Completed implementation of a payment system primarily relying on Safaricom's M-Pesa, and Stripe as fallback, as well as refactoring the auth pages to include a product preview video hosted on Bunny Stream.
 
 - **Learning & Growth**
 	1. Tuesday afternoon, while looking at [Lipa Na M-Pesa's sequence diagram](https://developer.safaricom.co.ke/docs/images/lipa-na-mpesa-sequence-diagram.png), I learned of [ACK responses](https://www.google.com/search?q=ack+response) and the [HTTP 202 status code] involved in request-response cycles that do not resolve immediately.
@@ -1218,7 +1280,7 @@ Created: {{ 2025-05-31 }}
 ### 🌱 **What Was Worked On**
 
 - **Projects**
-	1. **Futtech Debugging**: Continued implementation of a payment system primarily relying on Safaricom's M-Pesa, and Stripe as fallback.
+	1. **[Futtech Debugging](https://www.futtech.kalkyokya.tech/showcase)**: Continued implementation of a payment system primarily relying on Safaricom's M-Pesa, and Stripe as fallback.
 
 - **Learning & Growth**
 	1. Wednesday afternoon, through this YouTuve video titled ['MPESA APIs Integration | Expert Bytes Session'](https://www.youtube.com/watch?v=wdb-pTDSLSk), got a comprehensive understanding of what adding M-Pesa to Futtech means and looks like.
@@ -1275,7 +1337,7 @@ Created: {{ 2025-05-31 }}
 ### 🌱 **What Was Worked On**
 
 - **Projects**
-	1. **Futtech Debugging**: Switched VPaaS via transition from Mux to Bunny Stream, and began implementation of a payment system primarily relying on Safaricom's M-Pesa, and Stripe as fallback.
+	1. **[Futtech Debugging](https://www.futtech.kalkyokya.tech/showcase)**: Switched VPaaS via transition from Mux to Bunny Stream, and began implementation of a payment system primarily relying on Safaricom's M-Pesa, and Stripe as fallback.
 
 - **Learning & Growth**
 	1. Wednesday morning, as I refactored the Django backend, I learned of the ['raise_for_status()'](https://www.google.com/search?q=response+raise_for_status+()+meaning) method attached to response objects which, in case of a 4xx or 5xx status code, will notify the developer of the failure that occured.
@@ -1336,7 +1398,7 @@ Created: {{ 2025-05-31 }}
 ### 🌱 **What Was Worked On**
 
 - **Projects**
-	1. **Futtech Debugging**: Rewrote and enhanced the project's documentation and module's comments for newcomers and future me to easily understand the functioning of the Futtech project.
+	1. **[Futtech Debugging](https://www.futtech.kalkyokya.tech/showcase)**: Rewrote and enhanced the project's documentation and module's comments for newcomers and future me to easily understand the functioning of the Futtech project.
 
 - **Learning & Growth**
 	1. As a result of an inquiry made by a potential client, I finished tuesday looking up how to [integrate M-Pesa to a website](https://www.youtube.com/results?search_query=integrate+mpesa+to+website), which led to my wondering what the meaning of [STK push](https://www.google.com/search?q=stk+push) is.
@@ -1394,7 +1456,7 @@ Created: {{ 2025-05-31 }}
 ### 🌱 **What Was Worked On**
 
 - **Projects**
-	1. **Futtech Debugging**: Generated tests for the playlist CRUD operations across the entire tech stack, refactored modules causing test failures, and appended a mermaid flowchart representing playlist operations from the client to the server and back.
+	1. **[Futtech Debugging](https://www.futtech.kalkyokya.tech/showcase)**: Generated tests for the playlist CRUD operations across the entire tech stack, refactored modules causing test failures, and appended a mermaid flowchart representing playlist operations from the client to the server and back.
 
 - **Learning & Growth**
 	1. Starting monday evening, as I executed a ['Whois Domain Lookup'](https://www.google.com/search?q=whois+lookup) for `futtech-africa.com`, I was pleased to see my subdomain futtech.kalkyokya.tech appear on the first result page and noticed that the domain naming is more or less up for grabs. This had me thinking that maybe this is where I 'invest in real estate' and buy domain names as if it was land.
@@ -1453,7 +1515,7 @@ Created: {{ 2025-05-31 }}
 ### 🌱 **What Was Worked On**
 
 - **Projects**
-	1. **Futtech Debugging**: Having completed unit, as well as, integration tests for the auth-flow, I set out to finalize refactor of the auth-related frontend functionality and prepare refactor of the playlist CRUD operations.
+	1. **[Futtech Debugging](https://www.futtech.kalkyokya.tech/showcase)**: Having completed unit, as well as, integration tests for the auth-flow, I set out to finalize refactor of the auth-related frontend functionality and prepare refactor of the playlist CRUD operations.
 
 - **Learning & Growth**
 	1. Starting Friday, late night, I took the time to investigate [Game Theory: Players, Strategy, Rules and Incentives/Payoffs](https://www.google.com/search?q=game+theory+player+rule+and+incentives), a mental framework facilitating analysis of human interactions.
@@ -1512,7 +1574,7 @@ Created: {{ 2025-05-31 }}
 
 - **Projects**
 	1. **Recherche pour une plateforme d'innovation mondiale**: 'For the sixteenth week running' ; In order to earn what would cover Futtech's costs of operation, I submitted 72 entries (worldwide, monetizable, novel ideas having emerged over the last 12 months).
-	2. **Futtech Debugging**: After having resolved the errors leading to failed test cases, a desire to comprehensively understand the authentication and authorization flow, from the client, to the server, and back to the client led to my laying down 4 [mermaid flowcharts](https://www.google.com/search?q=Mermaid+flowchart) detailing it.
+	2. **[Futtech Debugging](https://www.futtech.kalkyokya.tech/showcase)**: After having resolved the errors leading to failed test cases, a desire to comprehensively understand the authentication and authorization flow, from the client, to the server, and back to the client led to my laying down 4 [mermaid flowcharts](https://www.google.com/search?q=Mermaid+flowchart) detailing it.
 
 - **Learning & Growth**
 	1. Tuesday morning, as I set on acquiring comprehensive understanding of the data flow from the client to the server, I was introduced to the idea of a [mermaid flowcharts](https://www.google.com/search?q=Mermaid+flowchart) and how to create one iside a '.md' file.
@@ -1573,7 +1635,7 @@ Created: {{ 2025-05-31 }}
 
 - **Projects**
 	1. **Recherche pour une plateforme d'innovation mondiale**: 'For the fifthteenth week running' ; In order to earn what would cover Futtech's costs of operation, I submitted 46 entries (worldwide, monetizable, novel ideas having emerged over the last 12 months).
-	2. **Futtech Debugging**: A set of tests were created for the React App to ensure proper understanding of the React app serving as frontend as well as its appropriate functioning.
+	2. **[Futtech Debugging](https://www.futtech.kalkyokya.tech/showcase)**: A set of tests were created for the React App to ensure proper understanding of the React app serving as frontend as well as its appropriate functioning.
 
 - **Learning & Growth**
 	1. This is a first one; although highly productive a week it was, the first noteworthy bit of learning occured on Saturday morning, as I sought clarification on the use of ['min-width' in CSS Media Queries](https://www.google.com/search?q=min-width+css+media+query).
@@ -1633,7 +1695,7 @@ Created: {{ 2025-05-31 }}
 
 - **Projects**
 	1. **Recherche pour une plateforme d'innovation mondiale**: 'For the fourteenth week running' ; In order to earn what would cover Futtech's costs of operation, I submitted 44 entries (worldwide, monetizable, novel ideas having emerged over the last 12 months).
-	2. **Futtech Debugging**: 75% of the week was used to differentiate errors from failures, and resolve their emergence upon testing of the 'user_auth' app, on the backend. The remaining percentage was used to familiarize oneself with the paradigm used to generate test for the frontend, a React App.
+	2. **[Futtech Debugging](https://www.futtech.kalkyokya.tech/showcase)**: 75% of the week was used to differentiate errors from failures, and resolve their emergence upon testing of the 'user_auth' app, on the backend. The remaining percentage was used to familiarize oneself with the paradigm used to generate test for the frontend, a React App.
 
 - **Learning & Growth**
 	1. An eventful week, it was, although the first bit of noteworthy learning occured on Wednesday, as I resolved errors and failures raised during testing of the 'user_auth' Django app on the backend; What does it mean ['to err'](https://www.google.com/search?q=to+err+meaning).
@@ -1694,7 +1756,7 @@ Created: {{ 2025-05-31 }}
 
 - **Projects**
 	1. **Recherche pour une plateforme d'innovation mondiale**: 'For the thirteenth week running' ; In order to earn what would cover Futtech's costs of operation, I submitted 40 entries (worldwide, monetizable, novel ideas having emerged over the last 12 months).
-	2. **Futtech Debugging**: While establishing a robust and reliable error handling/display flow, the realization that write tests for the registration-login-logout flow helps better understand the system as whole led to the expansion of the test file inside 'user_auth'.
+	2. **[Futtech Debugging](https://www.futtech.kalkyokya.tech/showcase)**: While establishing a robust and reliable error handling/display flow, the realization that write tests for the registration-login-logout flow helps better understand the system as whole led to the expansion of the test file inside 'user_auth'.
 
 - **Learning & Growth**
 	1. Although up and running since Monday, the first bit of worthwhile learning was occuring on tuesday, in the form of an investigation of [React's useRouteError](https://www.google.com/search?q=react+userouteerror).
@@ -1757,7 +1819,7 @@ Created: {{ 2025-05-31 }}
 
 - **Projects**
 	1. **Recherche pour une plateforme d'innovation mondiale**: 'For the twelveth week running' ; In order to earn what would cover Futtech's costs of operation, I submitted 29 entries (worldwide, monetizable, novel ideas having emerged over the last 12 months).
-	2. **Futtech Debugging**: Having established a consistent registration-login-logout flow, I endeavored to make the process leading to display of error messages robust and reliable across the full stack.
+	2. **[Futtech Debugging](https://www.futtech.kalkyokya.tech/showcase)**: Having established a consistent registration-login-logout flow, I endeavored to make the process leading to display of error messages robust and reliable across the full stack.
 	3. **Researcher's Notebook**: Having noticed the amount of exposure I get, via my research assistant role in the previously mentioned job, I ensured to fuel my [Researcher's Notebook](https://github.com/kal-kyokya/kal-kyokya/blob/main/upWork/Chercheur%20pour%20une%20plateforme%20d'innovation%20mondiale/Researcher%20Notebook.md), a side-project through which I extract knowledge from the world's ingenuity.
 
 - **Learning & Growth**
@@ -1820,7 +1882,7 @@ Created: {{ 2025-05-31 }}
 
 - **Projects**
 	1. **Recherche pour une plateforme d'innovation mondiale**: 'For the eleventh week running' ; In order to earn what would cover Futtech's costs of operation, I submitted 79 entries (worldwide, monetizable, novel ideas having emerged over the last 12 months).
-	2. **Futtech Debugging**: Having deployed Futtech, and attempted to go through the User Journey, I have found myself recalibrating everything and resolving issues that obstruct the journey, with this week's efforts aimed at the React App's utilization of the backend generated access token in order to allow authenticated users to navigate across the frontend's defined endpoints.
+	2. **[Futtech Debugging](https://www.futtech.kalkyokya.tech/showcase)**: Having deployed Futtech, and attempted to go through the User Journey, I have found myself recalibrating everything and resolving issues that obstruct the journey, with this week's efforts aimed at the React App's utilization of the backend generated access token in order to allow authenticated users to navigate across the frontend's defined endpoints.
 
 - **Learning & Growth**
 	1. Although active since Monday, the first note-worthy learning occured on Tuesday, as I endeavor to continue my work on Futtech-Django and found myself in need to reassert my understanding of Django's Serializers and how best to think of them, i.e. [an illustration](https://www.google.com/search?q=python+django+serializer+illustration).
@@ -1881,7 +1943,7 @@ Created: {{ 2025-05-31 }}
 
 - **Projects**
 	1. **Recherche pour une plateforme d'innovation mondiale**: 'For the tenth week running' ; In order to earn what would cover Futtech's costs of operation, I submitted 29 entries (worldwide, monetizable, novel ideas having emerged over the last 12 months).
-	2. **Futtech Debugging**: Having deployed Futtech, and attempted to go through the User Journey, I have found myself recalibrating everything and resolving issues that obstruct the journey, with this week's efforts aimed at post-login home page redirect and rendering (after successfully handling User Login).
+	2. **[Futtech Debugging](https://www.futtech.kalkyokya.tech/showcase)**: Having deployed Futtech, and attempted to go through the User Journey, I have found myself recalibrating everything and resolving issues that obstruct the journey, with this week's efforts aimed at post-login home page redirect and rendering (after successfully handling User Login).
 	3. **Researcher's Notebook**: Having noticed the amount of exposure I get, via my research assistant role in the previously mentioned job, I ensured to fuel my [Researcher's Notebook](https://github.com/kal-kyokya/kal-kyokya/blob/main/upWork/Chercheur%20pour%20une%20plateforme%20d'innovation%20mondiale/Researcher%20Notebook.md), a side-project through which I extract knowledge from the world's ingenuity.
 
 - **Learning & Growth**
@@ -1944,7 +2006,7 @@ Created: {{ 2025-05-31 }}
 
 - **Projects**
 	1. **Recherche pour une plateforme d'innovation mondiale**: 'For the nineth week running' ; In order to earn what would cover Futtech's costs of operation, I submitted 31 entries (worldwide, monetizable, novel ideas having emerged over the last 12 months).
-	2. **Futtech Debugging**: Having deployed Futtech, and attempted to go through the User Journey, I have found myself recalibrating everything and resolving issues that obstruct the journey, with this week's efforts aimed at the User Login (after successfully handling User Registration).
+	2. **[Futtech Debugging](https://www.futtech.kalkyokya.tech/showcase)**: Having deployed Futtech, and attempted to go through the User Journey, I have found myself recalibrating everything and resolving issues that obstruct the journey, with this week's efforts aimed at the User Login (after successfully handling User Registration).
 	3. **Researcher's Notebook**: Having noticed the amount of exposure I get, via my research assistant role in the previously mentioned job, I ensured to fuel my [Researcher's Notebook](https://github.com/kal-kyokya/kal-kyokya/blob/main/upWork/Chercheur%20pour%20une%20plateforme%20d'innovation%20mondiale/Researcher%20Notebook.md), a side-project through which I extract knowledge from the world's ingenuity.
 
 - **Learning & Growth**
