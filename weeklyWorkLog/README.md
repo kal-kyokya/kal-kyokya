@@ -27,14 +27,10 @@ Created: {{ 2025-05-31 }}
 ### 🌱 **What Was Worked On**
 
 - **Projects**
-	1. **[Futtech-Django](https://www.futtech.kalkyokya.tech/showcase)**: Expanded the project's video bank via addition of the narration of `the rise of the new World Cup King`, a 264 seconds video edit mixing curated music, clips, layered text and a voiceover.
+	1. **[Futtech-Django](https://www.futtech.kalkyokya.tech/showcase)**: Expanded the project's video bank via addition of the narration of `the rise of the new World Cup King`, a 264 seconds video edit mixing specific and curated music, clips, layered text and a voiceover.
 
 - **Learning & Growth**
-	1. Tuesday morning, as I set on implementing Social Authentication via Google Sign-In, I looked up ['Google Sign-In React Django Project'](https://www.youtube.com/results?search_query=google+sign+in+react+django+project), I invested time into watching this [Complete Django and react Authentication Tutorial: Social Login with Google](https://www.youtube.com/watch?v=38CflJ837xI).
-	2. With the creation of a 1-minute sample discussing `Nietzsche's take on Leo Messi` in-between, fast-forward Thursday, I watched the second and last part of the [Django and React Authentication Tutorial](https://www.youtube.com/watch?v=o-iGrZ7-Ckc) and considered myself ready to write code.
-	3. Friday, as I was hands-on, I found myself needing to be informed of the ['Sub' claim, in Google JWT payload](https://www.google.com/search?q=sub+claim+in+Google+JWT+payload) and liked the phrasing ["'sub', Google's permanent unique identifier for a Google Account"](https://www.google.com/search?q=sub+Google%27s+permanent+unique+identifier+for+a+Google+Account).
-	4. That was followed by a reminder of the usage of [Django 'select_related'](https://www.google.com/search?q=django+select_related).
-	5. As well as an overview of [Django usable and unusable password](https://www.google.com/search?q=django+usable+and+unusable+password), whose usage is meant to match usage of [Social Authentication services](https://www.google.com/search?q=Social+Authentication+%28OAuth%29).
+	1. Tuesday morning, as I sought to generate the video narration mentioned in the 'projects' section, I looked a the [Brusher font](https://www.google.com/search?q=Brusher+font), to see images that would guide my selection for the layered texts strategically added across the video.
 
 - **Job hunting**
 	- Submitted 7 proposals, with a 100% 'viewed by client' rate, got interviewed 3 times, was hired for a paid trial by 1, for jobs related to Football, Sports and game footage analysis/editing.
