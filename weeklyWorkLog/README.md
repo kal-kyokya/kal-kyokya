@@ -49,8 +49,8 @@ Created: {{ 2025-05-31 }}
 **Lesson:** I average 2-3 hours a day across X, TikTok, Instagram, Snapchat and WhatsApp. Insisting on spending that much amount of time, on days where I was 'out and about', results in doomscrolling, missing bed time and not necessarily use this apps as source of useful information.
 
 ### 🌟 <b>Highlights of the Week</b>
-- <b>Memorable moment / breakthrough / proud event</b>: `Standing on Business` and not letting nobody punk The Dem. Didn't avoid conflict as a result of a teammate pushing his luck and expressing frustration with me during a moment of the game where the stakes were high. I withdrew from the game, said NO (i.e., 'There is nothing you can do or say to me that will make me change how I currently am acting'). Stood tall, and didn't budge, despite the pressure put on me by Coach Kirubi to join back the team. `I SAID 'NO'.`
-- <b>Quote, inspiration, or personal reflection</b>: "Trust your gut" - DJ Dem. Something felt off, I questioned the quality of the team I was about to train with, and have had Wagenge in the back of my mind for months, but given that I had not played ball in 2 months, my rustiness surely meant that I wasn't worthy of looking down on that particular team. I've learned a great lesson from that: On a Football field rustiness is real, proper communication and encouraging words and actions are a must.
+- <b>Memorable moment / breakthrough / proud event</b>: Training on Friday, at Kahawa Sports Arena, running into a yound lady I last met, physically, about 2 years ago, who was there to join the same session, and with whom I got the chance to use some of the ball mastery drills I repeatedly used about a year ago. That warmup, and the fact that my mind was focused on someone other than myself, contributed to the quality of the training session that ensued.
+- <b>Quote, inspiration, or personal reflection</b>: I have 'dribbling in my bag', it's a matter of time, intention, effort and repetition before I figure out how to balance 'pass and moves' and 'takeons'.
 
 ---
 
