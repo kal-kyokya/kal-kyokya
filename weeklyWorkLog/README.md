@@ -74,7 +74,7 @@ Created: {{ 2025-05-31 }}
 
 ---
 
-> _“Every Tyrant in History started as a Man Who Told Himself: 'Just This Once'.” — YouTube, ["Machiavelli debates Marcus Aurelius' Stoicism"](https://www.youtube.com/watch?v=O0qmPdJX7sg)._
+> _“Determine That Today You Will Overcome Yourself of the Day Before, Tomorrow You Will Win Over Those of Lesser Skill, And Later You Will Win Over Those of Greater Skill.” — Miyamoto Musashi._
 
 <!-- Let's update the log every Sunday. Let's Go! -->
 
