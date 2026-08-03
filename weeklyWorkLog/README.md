@@ -66,11 +66,11 @@ Created: {{ 2025-05-31 }}
 ## 📈 <b>Meta</b>
 | Metric | This Week |
 | ------ | --------- |
-| GitHub Commits | 21 |
-| Job Application | 7 |
+| GitHub Commits | 13 |
+| Job Application | 2 |
 | Sleep Avg (hrs) | 8 |
-| Total Coding Time (hrs) | 9 |
-| Training Sessions (Football) | 3 |
+| Total Coding Time (hrs) | N/A |
+| Training Sessions (Football) | 2 |
 
 ---
 
