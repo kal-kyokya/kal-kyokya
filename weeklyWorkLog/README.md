@@ -41,12 +41,12 @@ Created: {{ 2025-05-31 }}
 3. Realizing that I desperately need to improve my cardio, now that I'm back.
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
-1. **Failure:** 2.4M.<br />
-**Lesson:** Committing to Wagenge will require a financial investment for which my desired way forward is to 'ball'. Gotta make some mula, because I want to do it well.
-2. **Failure:** 'CPS' low on the ground.<br />
-**Lesson:** Every Control-Pass-Shoot needs to stay low on the ground, especially the shots, but most importantly the control and pass, because they set one up for the next step.
-3. **Failure:** Self-righteousness.<br />
-**Lesson:** The blind self. It could very well be doing work on, and I can't even tell. [`Audhu billahi minashaitanir rajeem`](https://www.google.com/search?q=audhu+billahi+minashaitanir+rajeem).
+1. **Failure:** Delayed Work Log.<br />
+**Lesson:** Getting involved with Wagenge, on sundays, results in my coming back home late, which is in no way enough reason for me not to take 40-60 minutes to log the week's work.
+2. **Failure:** Early wake.<br />
+**Lesson:** Training, on fridays, past midnight, makes the idea of still waking up at 7 AM of lesser quality than seeking to have 7-8 hours of sleep (in and around 10 AM). Let's do saturday: 10AM, sunday: back to 7.
+3. **Failure:** Social media exposure.<br />
+**Lesson:** I average 2-3 hours a day across X, TikTok, Instagram, Snapchat and WhatsApp. Insisting on spending that much amount of time, on days where I was 'out and about', results in doomscrolling, missing bed time and not necessarily use this apps as source of useful information.
 
 ### 🌟 <b>Highlights of the Week</b>
 - <b>Memorable moment / breakthrough / proud event</b>: `Standing on Business` and not letting nobody punk The Dem. Didn't avoid conflict as a result of a teammate pushing his luck and expressing frustration with me during a moment of the game where the stakes were high. I withdrew from the game, said NO (i.e., 'There is nothing you can do or say to me that will make me change how I currently am acting'). Stood tall, and didn't budge, despite the pressure put on me by Coach Kirubi to join back the team. `I SAID 'NO'.`
@@ -108,7 +108,7 @@ Created: {{ 2025-05-31 }}
 2. **Failure:** 'CPS' low on the ground.<br />
 **Lesson:** Every Control-Pass-Shoot needs to stay low on the ground, especially the shots, but most importantly the control and pass, because they set one up for the next step.
 3. **Failure:** Self-righteousness.<br />
-**Lesson:** The blind self. It could very well be doing work on, and I can't even tell. [`Audhu billahi minashaitanir rajeem`](https://www.google.com/search?q=audhu+billahi+minashaitanir+rajeem).
+**Lesson:** The blind self. It could very well be doing work on me, and I can't even tell. [`Audhu billahi minashaitanir rajeem`](https://www.google.com/search?q=audhu+billahi+minashaitanir+rajeem).
 
 ### 🌟 <b>Highlights of the Week</b>
 - <b>Memorable moment / breakthrough / proud event</b>: `Standing on Business` and not letting nobody punk The Dem. Didn't avoid conflict as a result of a teammate pushing his luck and expressing frustration with me during a moment of the game where the stakes were high. I withdrew from the game, said NO (i.e., 'There is nothing you can do or say to me that will make me change how I currently am acting'). Stood tall, and didn't budge, despite the pressure put on me by Coach Kirubi to join back the team. `I SAID 'NO'.`
