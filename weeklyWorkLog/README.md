@@ -36,9 +36,9 @@ Created: {{ 2025-05-31 }}
 	- Submitted 2 proposals, with a 50% 'viewed by client' rate, got interviewed, or hired by none, for jobs related to Football, Sports and game footage analysis/editing.
 
 ### 🏆 <b>3 Wins and/or Achievements</b>
-1. Playing football, on two different occasion. First time in 2 months.
-2. Thinking my way through an 11-a-side game and recognizing the space.
-3. Completing 2 football video analysis centered around GOAT Leo and uploading them to Futtech.
+1. Being in attendance for all activities planned by my new football team.
+2. Completing creation of yet another football video for Futtech.
+3. Realizing that I desperately need to improve my cardio, now that I'm back.
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
 1. **Failure:** 2.4M.<br />
@@ -98,7 +98,7 @@ Created: {{ 2025-05-31 }}
 	- Submitted 7 proposals, with a 100% 'viewed by client' rate, got interviewed 3 times, was hired for a paid trial by 1, for jobs related to Football, Sports and game footage analysis/editing.
 
 ### 🏆 <b>3 Wins and/or Achievements</b>
-1. Playing football, on two different occasion. First time in 2 months.
+1. Playing football, on two different occasions. First time in 2 months.
 2. Thinking my way through an 11-a-side game and recognizing the space.
 3. Completing 2 football video analysis centered around GOAT Leo and uploading them to Futtech.
 
