@@ -34,7 +34,7 @@ Created: {{ 2025-05-31 }}
 	1. Tuesday morning, as I sought to generate the video narration mentioned in the 'projects' section, I looked a the [Brusher font](https://www.google.com/search?q=Brusher+font), to see images that would guide my selection for the layered texts strategically added across the video.
 
 - **Job hunting**
-	- Submitted 2 proposals, with a 50% 'viewed by client' rate, got interviewed, or hired by none, for jobs related to Football, Sports and game footage analysis/editing.
+	- Submitted 1 proposal, with a 0% 'viewed by client' rate, got interviewed, or hired by none, for jobs related to Football, Sports and game footage analysis/editing.
 
 ### 🏆 <b>3 Wins and/or Achievements</b>
 1. Being in attendance for all activities planned by my new football team.
