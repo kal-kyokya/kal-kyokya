@@ -22,6 +22,65 @@ Created: {{ 2025-05-31 }}
 
 ---
 
+## Week 63 — Sunday, 9th August 2026
+
+### 🌱 **What Was Worked On**
+
+- **Projects**
+	1. **[Futtech-Django](https://www.futtech.kalkyokya.tech/showcase)**: Temporarily disabled the Google Single Sign-on feature, as we resolve bug blocking its usage.
+	2. **[Almafrica MVP Project](https://www.almafrica.kalkyokya.tech/)**: In 48 hours, developed, debugged and deployed an Minimum Viable Product displaying ones understanding of technical problems as well as efficient resolution of them. The features to be shipped were authentication, authorization, welcome email and image uploads.
+
+- **Learning & Growth**
+	1. Tuesday morning, as I sought to generate the video narration mentioned in the 'projects' section, I looked a the [Brusher font](https://www.google.com/search?q=Brusher+font), to see images that would guide my selection for the layered texts strategically added across the video.
+
+- **Job hunting**
+	- Submitted 2 proposals, with a 50% 'viewed by client' rate, got interviewed, or hired by none, for jobs related to Football, Sports and game footage analysis/editing.
+
+### 🏆 <b>3 Wins and/or Achievements</b>
+1. Being in attendance for all activities planned by my new football team.
+2. Completing creation of yet another football video for Futtech.
+3. Realizing that I desperately need to improve my cardio, now that I'm back.
+
+### 🔭 <b>3 Fails & Lessons Learned</b>
+1. **Failure:** Delayed Work Log.<br />
+**Lesson:** Getting involved with Wagenge, on sundays, results in my coming back home late, which is in no way enough reason for me not to take 40-60 minutes to log the week's work.
+2. **Failure:** Early wake.<br />
+**Lesson:** Training, on fridays, past midnight, makes the idea of still waking up at 7 AM of lesser quality than seeking to have 7-8 hours of sleep (in and around 10 AM). Let's do saturday: 10AM, sunday: back to 7.
+3. **Failure:** Social media exposure.<br />
+**Lesson:** I average 2-3 hours a day across X, TikTok, Instagram, Snapchat and WhatsApp. Insisting on spending that much amount of time, on days where I was 'out and about', results in doomscrolling, missing bed time and not necessarily use this apps as source of useful information.
+
+### 🌟 <b>Highlights of the Week</b>
+- <b>Memorable moment / breakthrough / proud event</b>: Training on Friday, at Kahawa Sports Arena, running into a yound lady I last met, physically, about 2 years ago, who was there to join the same session, and with whom I got the chance to use some of the ball mastery drills I repeatedly used about a year ago. That warmup, and the fact that my mind was focused on someone other than myself, contributed to the quality of the training session that ensued.
+- <b>Quote, inspiration, or personal reflection</b>: I have 'dribbling in my bag', it's a matter of time, intention, effort and repetition before I figure out how to balance 'pass and moves' and 'takeons'.
+
+---
+
+## 📅 <b>Coming Up Next Week, InshaAllah</b> - August 3rd to 9th 2026
+- [ ] Be done eating by 7PM.
+- [ ] Stay out of bed come [7AM](https://www.youtube.com/watch?v=T4H7EC9j6mg).
+- [ ] Ensure to spend 30 minutes, [every day](https://www.youtube.com/shorts/mQcTJdyTFtA) going through the hip mobility routine.
+- [ ] Read, at least one page, of a physical book, every single day.
+- [ ] Average 1 hour a day of German language practice.
+
+---
+
+## 📈 <b>Meta</b>
+| Metric | This Week |
+| ------ | --------- |
+| GitHub Commits | 13 |
+| Job Application | 2 |
+| Sleep Avg (hrs) | 8 |
+| Total Coding Time (hrs) | N/A |
+| Training Sessions (Football) | 2 |
+
+---
+
+> _“Determine That Today You Will Overcome Yourself of the Day Before, Tomorrow You Will Win Over Those of Lesser Skill, And Later You Will Win Over Those of Greater Skill.” — Miyamoto Musashi._
+
+<!-- Let's update the log every Sunday. Let's Go! -->
+
+---
+
 ## Week 62 — Sunday, 2nd August 2026
 
 ### 🌱 **What Was Worked On**
