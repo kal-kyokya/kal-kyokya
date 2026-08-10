@@ -80,7 +80,7 @@ Created: {{ 2025-05-31 }}
 
 ---
 
-> _“Determine That Today You Will Overcome Yourself of the Day Before, Tomorrow You Will Win Over Those of Lesser Skill, And Later You Will Win Over Those of Greater Skill.” — Miyamoto Musashi._
+> _“Give me six hours to chop down a tree, and I will spend the first four sharpening the axe.” — Abraham Lincoln._
 
 <!-- Let's update the log every Sunday. Let's Go! -->
 
