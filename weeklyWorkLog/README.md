@@ -37,9 +37,9 @@ Created: {{ 2025-05-31 }}
 	- Submitted 1 proposal, with a 0% 'viewed by client' rate, got interviewed, or hired by none, for jobs related to Football, Sports and game footage analysis/editing.
 
 ### 🏆 <b>3 Wins and/or Achievements</b>
-1. Being in attendance for all activities planned by my new football team.
-2. Completing creation of yet another football video for Futtech.
-3. Realizing that I desperately need to improve my cardio, now that I'm back.
+1. For the second week running; being in attendance for all activities planned by my new football team.
+2. Completing creation of 3 football video edits in less than 3 days.
+3. Discovering myself to be both young and fast. An Athletic Stoic Footballer.
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
 1. **Failure:** Delayed Work Log.<br />
