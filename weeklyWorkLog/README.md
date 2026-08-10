@@ -42,12 +42,12 @@ Created: {{ 2025-05-31 }}
 3. Discovering myself to be both young and fast. An Athletic Stoic Footballer.
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
-1. **Failure:** Delayed Work Log.<br />
-**Lesson:** Getting involved with Wagenge, on sundays, results in my coming back home late, which is in no way enough reason for me not to take 40-60 minutes to log the week's work.
-2. **Failure:** Early wake.<br />
-**Lesson:** Training, on fridays, past midnight, makes the idea of still waking up at 7 AM of lesser quality than seeking to have 7-8 hours of sleep (in and around 10 AM). Let's do saturday: 10AM, sunday: back to 7.
-3. **Failure:** Social media exposure.<br />
-**Lesson:** I average 2-3 hours a day across X, TikTok, Instagram, Snapchat and WhatsApp. Insisting on spending that much amount of time, on days where I was 'out and about', results in doomscrolling, missing bed time and not necessarily use this apps as source of useful information.
+1. **Failure:** Shooting range.<br />
+**Lesson:** More than once did I make a run, and received the pass that got me through on goal: I released my shots too early. I was too far from goal. I could have, should have, must have carried ball past the penalty spot and as close to the goalkeeper as possible. Carry, shield, look up, close enough? Finish.
+2. **Failure:** Back foot receivals.<br />
+**Lesson:** I need to do a better job finding pockets of space, allowing my defense to break the press, the team to progress, the oppositio to commit, the spaces to open up and the game to change. A lot happens, can happen, the moment I control that ball, and face the opposition's defense.
+3. **Failure:** 'Delayed Work Log'.<br />
+**Lesson:** For the second week running; 'Getting involved with Wagenge, on sundays, results in my coming back home late, which is, in no way, enough reason for me not to take 40-60 minutes to log the week's work.' Let's log the on Mondays, given how jittery and hyped up I am, after Sunday's games/trainings.
 
 ### 🌟 <b>Highlights of the Week</b>
 - <b>Memorable moment / breakthrough / proud event</b>: Training on Friday, at Kahawa Sports Arena, running into a yound lady I last met, physically, about 2 years ago, who was there to join the same session, and with whom I got the chance to use some of the ball mastery drills I repeatedly used about a year ago. That warmup, and the fact that my mind was focused on someone other than myself, contributed to the quality of the training session that ensued.
@@ -101,7 +101,7 @@ Created: {{ 2025-05-31 }}
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
 1. **Failure:** Delayed Work Log.<br />
-**Lesson:** Getting involved with Wagenge, on sundays, results in my coming back home late, which is in no way enough reason for me not to take 40-60 minutes to log the week's work.
+**Lesson:** Getting involved with Wagenge, on sundays, results in my coming back home late, which is, in no way, enough reason for me not to take 40-60 minutes to log the week's work.
 2. **Failure:** Early wake.<br />
 **Lesson:** Training, on fridays, past midnight, makes the idea of still waking up at 7 AM of lesser quality than seeking to have 7-8 hours of sleep (in and around 10 AM). Let's do saturday: 10AM, sunday: back to 7.
 3. **Failure:** Social media exposure.<br />
