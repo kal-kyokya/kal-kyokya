@@ -55,8 +55,8 @@ Created: {{ 2025-05-31 }}
 **Lesson:** For the second week running; 'Getting involved with Wagenge, on sundays, results in my coming back home late, which is, in no way, enough reason for me not to take 40-60 minutes to log the week's work.' Let's log the on Mondays, given how jittery and hyped up I am, after Sunday's games/trainings.
 
 ### 🌟 <b>Highlights of the Week</b>
-- <b>Memorable moment / breakthrough / proud event</b>: Training on Friday, at Kahawa Sports Arena, running into a yound lady I last met, physically, about 2 years ago, who was there to join the same session, and with whom I got the chance to use some of the ball mastery drills I repeatedly used about a year ago. That warmup, and the fact that my mind was focused on someone other than myself, contributed to the quality of the training session that ensued.
-- <b>Quote, inspiration, or personal reflection</b>: I have 'dribbling in my bag', it's a matter of time, intention, effort and repetition before I figure out how to balance 'pass and moves' and 'takeons'.
+- <b>Memorable moment / breakthrough / proud event</b>: Sunday with Wagenge, playing a 'training game', us versus us game, where I score the opening goal of the game, with one close range header that gave the keeper no chance to make a save. A high xG game for me as an individual, where I could, and maybe even should had had at least 2 goals. The discovery that had marked me the most is my sprinting ability and how fast I was. I can take on defenders and have it in me to throw step-overs in the mix, I just didn't know how much I have grown into a speedy striker.
+- <b>Quote, inspiration, or personal reflection</b>: Big shoutout to Keruvim Performance. I'm sure the program helped me unlock this speed I noticed on sunday. It's now a matter of having proper recoveery, hitting the gym to strengthen the body, and increase the maximum number of sprints, we can clock, in per game.
 
 ---
 
