@@ -22,6 +22,69 @@ Created: {{ 2025-05-31 }}
 
 ---
 
+## Week 64 — Sunday, 16th August 2026
+
+### 🌱 **What Was Worked On**
+
+- **Projects**
+	1. **[Futtech-Django](https://www.futtech.kalkyokya.tech/showcase)**: Enabled the Google Single Sign-on feature, after having resolved the lack of frontend auth endpoint coverage and backend decoding of Google's JWKS configuration bug blocking its usage.
+
+- **Learning & Growth**
+	1. Tuesday late morning, after having been interviewed for a software engineering job, where I was asked to define an `Array`, I found myself googling [What is an array in programming](https://www.google.com/search?q=what+is+array+in+programming), to clear up the doubts I had with regard to the answer I articulated.
+	2. Wednesday was all about preparing the GitHub repository of the [Almafrica MVP Project](https://www.almafrica.kalkyokya.tech/), which brought about the need to look up [How to create Git branches](https://www.google.com/search?q=create+branch+in+git+repository), as well as [Git branch naming conventions](https://www.google.com/search?q=git+branch+naming+conventions).
+	3. Creating the repository's README led to my revision of the following concepts: [Churn rate](https://www.google.com/search?q=churn+rate), [User retention](https://www.google.com/search?q=user+retention), [Google Single Sign-on](https://www.google.com/search?q=google+single+sign+on), [Hero section of a Website](https://www.google.com/search?q=hero+section+of+a+website).
+	4. Fast forward thursday, as I set on generating the codebase, reading about the [Python 'partition()' String method](https://www.google.com/search?q=python+string+partition%28%29+method).
+	5. From deciding what the infrastructure was going to be like emerged exploration of the [comparison of REST and GraphQL](https://www.google.com/search?q=rest+vs+graphql), but also a overview of the [difference between Monolithic and Microservices architecture](https://www.google.com/search?q=monolithic+vs+microservices+architecture).
+	6. Requiring to detail the steps taken in creating the project, I made sure to revise how [create a new Django project on Ubuntu](https://www.google.com/search?q=create+new+django+project+ubuntu), [create new React app with Vite and SASS on Ubuntu](https://www.google.com/search?q=create+new+react+app+with+vite+ubuntu+sass), [Happy path vs Unhappy path testing](https://www.google.com/search?q=happy+path+vs+unhappy+path+testing), [Test suites](https://www.google.com/search?q=test+suites).
+
+- **Job hunting**
+	- Submitted 1 proposal, with a 0% 'viewed by client' rate, got interviewed, or hired by none, for jobs related to Football, Sports and game footage analysis/editing.
+
+### 🏆 <b>3 Wins and/or Achievements</b>
+1. For the second week running; being in attendance for all activities planned by my new football team.
+2. Completing creation of 3 football video edits in less than 3 days.
+3. Discovering myself to be both young and fast. An Athletic Stoic Footballer.
+
+### 🔭 <b>3 Fails & Lessons Learned</b>
+1. **Failure:** Shooting range.<br />
+**Lesson:** More than once did I make a run, and received the pass that got me through on goal: I released my shots too early. I was too far from goal. I could have, should have, must have carried ball past the penalty spot and as close to the goalkeeper as possible. Carry, shield, look up, close enough? Finish.
+2. **Failure:** Back foot receivals.<br />
+**Lesson:** I need to do a better job finding pockets of space, allowing my defense to break the press, the team to progress, the oppositio to commit, the spaces to open up and the game to change. A lot happens, can happen, the moment I control that ball, and face the opposition's defense.
+3. **Failure:** 'Delayed Work Log'.<br />
+**Lesson:** For the second week running; 'Getting involved with Wagenge, on sundays, results in my coming back home late, which is, in no way, enough reason for me not to take 40-60 minutes to log the week's work.' Let's log the on Mondays, given how jittery and hyped up I am, after Sunday's games/trainings.
+
+### 🌟 <b>Highlights of the Week</b>
+- <b>Memorable moment / breakthrough / proud event</b>: Sunday with Wagenge, playing a 'training game', us versus us game, where I score the opening goal of the game, with one close range header that gave the keeper no chance to make a save. A high xG game for me as an individual, where I could, and maybe even should had had at least 2 goals. The discovery that had marked me the most is my sprinting ability and how fast I was. I can take on defenders and have it in me to throw step-overs in the mix, I just didn't know how much I have grown into a speedy striker.
+- <b>Quote, inspiration, or personal reflection</b>: Big shoutout to Keruvim Performance. I'm sure the program helped me unlock this speed I noticed on sunday. It's now a matter of having proper recoveery, hitting the gym to strengthen the body, and increase the maximum number of sprints, we can clock, in per game.
+
+---
+
+## 📅 <b>Coming Up Next Week, InshaAllah</b> - August 10th to 16th 2026
+- [ ] Be done eating by 7PM.
+- [ ] Stay out of bed come [7AM](https://www.youtube.com/watch?v=T4H7EC9j6mg).
+- [ ] Ensure to spend 30 minutes, [every day](https://www.youtube.com/shorts/mQcTJdyTFtA) going through the hip mobility routine.
+- [ ] Read, at least one page, of a physical book, every single day.
+- [ ] Average 1 hour a day of German language practice.
+
+---
+
+## 📈 <b>Meta</b>
+| Metric | This Week |
+| ------ | --------- |
+| GitHub Commits | 101 |
+| Job Application | 1 |
+| Sleep Avg (hrs) | 8 |
+| Total Coding Time (hrs) | 17 |
+| Training Sessions (Football) | 4 |
+
+---
+
+> _“Give me six hours to chop down a tree, and I will spend the first four sharpening the axe.” — Abraham Lincoln._
+
+<!-- Let's update the log every Sunday. Let's Go! -->
+
+---
+
 ## Week 63 — Sunday, 9th August 2026
 
 ### 🌱 **What Was Worked On**
