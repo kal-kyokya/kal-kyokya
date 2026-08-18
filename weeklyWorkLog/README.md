@@ -34,7 +34,8 @@ Created: {{ 2025-05-31 }}
 	2. With that sorted, the frontend could now overcome the ["Google credential is invalid or expired"](https://www.google.com/search?q=Google+credential+is+invalid+or+expired) error which kept being displayed upon Social Authentication attempts.
 
 - **Job hunting**
-	- Submitted 1 proposal, with a 0% 'viewed by client' rate, got interviewed, or hired by none, for jobs related to Football, Sports and game footage analysis/editing.
+	- Submitted 3 proposal, with a 67% 'viewed by client' rate, got interviewed for 2, and was hired by one, for jobs related to Football, Sports and game footage analysis/editing.
+	- The current Job contract being for a job titled "Video Editor For Short Football Memes."
 
 ### 🏆 <b>3 Wins and/or Achievements</b>
 1. For the second week running; being in attendance for all activities planned by my new football team.
