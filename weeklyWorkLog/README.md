@@ -56,10 +56,10 @@ Created: {{ 2025-05-31 }}
 
 ---
 
-## 📅 <b>Coming Up Next Week, InshaAllah</b> - August 10th to 16th 2026
+## 📅 <b>Coming Up Next Week, InshaAllah</b> - August 17th to 23rd 2026
 - [ ] Be done eating by 7PM.
 - [ ] Stay out of bed come [7AM](https://www.youtube.com/watch?v=T4H7EC9j6mg).
-- [ ] Ensure to spend 30 minutes, [every day](https://www.youtube.com/shorts/mQcTJdyTFtA) going through the hip mobility routine.
+- [ ] Ensure to spend 30 minutes, [every day](https://www.youtube.com/shorts/mQcTJdyTFtA) going through the [Hip Mobility Routine for Athletes](https://www.youtube.com/watch?v=x-uNaley_O8).
 - [ ] Read, at least one page, of a physical book, every single day.
 - [ ] Average 1 hour a day of German language practice.
 
@@ -123,7 +123,7 @@ Created: {{ 2025-05-31 }}
 ## 📅 <b>Coming Up Next Week, InshaAllah</b> - August 10th to 16th 2026
 - [ ] Be done eating by 7PM.
 - [ ] Stay out of bed come [7AM](https://www.youtube.com/watch?v=T4H7EC9j6mg).
-- [ ] Ensure to spend 30 minutes, [every day](https://www.youtube.com/shorts/mQcTJdyTFtA) going through the hip mobility routine.
+- [ ] Ensure to spend 30 minutes, [every day](https://www.youtube.com/shorts/mQcTJdyTFtA) going through the [Hip Mobility Routine for Athletes](https://www.youtube.com/watch?v=x-uNaley_O8).
 - [ ] Read, at least one page, of a physical book, every single day.
 - [ ] Average 1 hour a day of German language practice.
 
@@ -181,7 +181,7 @@ Created: {{ 2025-05-31 }}
 ## 📅 <b>Coming Up Next Week, InshaAllah</b> - August 3rd to 9th 2026
 - [ ] Be done eating by 7PM.
 - [ ] Stay out of bed come [7AM](https://www.youtube.com/watch?v=T4H7EC9j6mg).
-- [ ] Ensure to spend 30 minutes, [every day](https://www.youtube.com/shorts/mQcTJdyTFtA) going through the hip mobility routine.
+- [ ] Ensure to spend 30 minutes, [every day](https://www.youtube.com/shorts/mQcTJdyTFtA) going through the [Hip Mobility Routine for Athletes](https://www.youtube.com/watch?v=x-uNaley_O8).
 - [ ] Read, at least one page, of a physical book, every single day.
 - [ ] Average 1 hour a day of German language practice.
 
@@ -243,7 +243,7 @@ Created: {{ 2025-05-31 }}
 ## 📅 <b>Coming Up Next Week, InshaAllah</b> - July 27th to August 2nd 2026
 - [ ] Be done eating by 7PM.
 - [ ] Stay out of bed come [7AM](https://www.youtube.com/watch?v=T4H7EC9j6mg).
-- [ ] Ensure to spend 30 minutes, [every day](https://www.youtube.com/shorts/mQcTJdyTFtA) going through the hip mobility routine.
+- [ ] Ensure to spend 30 minutes, [every day](https://www.youtube.com/shorts/mQcTJdyTFtA) going through the [Hip Mobility Routine for Athletes](https://www.youtube.com/watch?v=x-uNaley_O8).
 - [ ] Read, at least one page, of a physical book, every single day.
 - [ ] Average 1 hour a day of German language practice.
 
@@ -304,7 +304,7 @@ Created: {{ 2025-05-31 }}
 ## 📅 <b>Coming Up Next Week, InshaAllah</b> - July 20th to 26th 2026
 - [ ] Be done eating by 7PM.
 - [ ] Stay out of bed come [7AM](https://www.youtube.com/watch?v=T4H7EC9j6mg).
-- [ ] Ensure to spend 30 minutes, [every day](https://www.youtube.com/shorts/mQcTJdyTFtA) going through the hip mobility routine.
+- [ ] Ensure to spend 30 minutes, [every day](https://www.youtube.com/shorts/mQcTJdyTFtA) going through the [Hip Mobility Routine for Athletes](https://www.youtube.com/watch?v=x-uNaley_O8).
 - [ ] Read, at least one page, of a physical book, every single day.
 - [ ] Average 1 hour a day of German language practice.
 
@@ -365,7 +365,7 @@ Created: {{ 2025-05-31 }}
 ## 📅 <b>Coming Up Next Week, InshaAllah</b> - July 13th to 19th 2026
 - [ ] Be done eating by 7PM.
 - [ ] Stay out of bed come [7AM](https://www.youtube.com/watch?v=T4H7EC9j6mg).
-- [ ] Ensure to spend 30 minutes, [every day](https://www.youtube.com/shorts/mQcTJdyTFtA) going through the hip mobility routine.
+- [ ] Ensure to spend 30 minutes, [every day](https://www.youtube.com/shorts/mQcTJdyTFtA) going through the [Hip Mobility Routine for Athletes](https://www.youtube.com/watch?v=x-uNaley_O8).
 - [ ] Read, at least one page, of a physical book, every single day.
 - [ ] Average 1 hour a day of German language practice.
 
@@ -428,7 +428,7 @@ Created: {{ 2025-05-31 }}
 ## 📅 <b>Coming Up Next Week, InshaAllah</b> - July 6th to 12th 2026
 - [ ] Be done eating by 7PM.
 - [ ] Stay out of bed come [7AM](https://www.youtube.com/watch?v=T4H7EC9j6mg).
-- [ ] Ensure to spend 30 minutes, [every day](https://www.youtube.com/shorts/mQcTJdyTFtA) going through the hip mobility routine.
+- [ ] Ensure to spend 30 minutes, [every day](https://www.youtube.com/shorts/mQcTJdyTFtA) going through the [Hip Mobility Routine for Athletes](https://www.youtube.com/watch?v=x-uNaley_O8).
 - [ ] Read, at least one page, of a physical book, every single day.
 - [ ] Average 1 hour a day of German language practice.
 
@@ -492,7 +492,7 @@ Created: {{ 2025-05-31 }}
 ## 📅 <b>Coming Up Next Week, InshaAllah</b> - June 29th to July 5th 2026
 - [ ] Be done eating by 7PM.
 - [ ] Stay out of bed come [7AM](https://www.youtube.com/watch?v=T4H7EC9j6mg).
-- [ ] Ensure to spend 30 minutes, [every day](https://www.youtube.com/shorts/mQcTJdyTFtA) going through the hip mobility routine.
+- [ ] Ensure to spend 30 minutes, [every day](https://www.youtube.com/shorts/mQcTJdyTFtA) going through the [Hip Mobility Routine for Athletes](https://www.youtube.com/watch?v=x-uNaley_O8).
 - [ ] Read, at least one page, of a physical book, every single day.
 - [ ] Average 1 hour a day of German language practice.
 
@@ -552,7 +552,7 @@ Created: {{ 2025-05-31 }}
 ## 📅 <b>Coming Up Next Week, InshaAllah</b> - 22nd to 28th June 2026
 - [ ] Be done eating by 7-8PM.
 - [ ] Be done with dream analysis come [9:20AM](https://www.youtube.com/watch?v=T4H7EC9j6mg).
-- [ ] Ensure to spend 30 minutes, [every day](https://www.youtube.com/shorts/mQcTJdyTFtA) going through the hip mobility routine.
+- [ ] Ensure to spend 30 minutes, [every day](https://www.youtube.com/shorts/mQcTJdyTFtA) going through the [Hip Mobility Routine for Athletes](https://www.youtube.com/watch?v=x-uNaley_O8).
 - [ ] Read, at least one page, of a physical book, every single day.
 - [ ] Average 1 hour a day of German language practice.
 
@@ -598,7 +598,7 @@ Created: {{ 2025-05-31 }}
 **Lesson:** Stop scrolling come 9:30 PM.
 2. **Failure:** Regular sleep schedule.<br />
 **Lesson:** Step out of bed come the Dream Analysis alarm.
-3. **Failure:** Hip mobility routine.<br />
+3. **Failure:** [Hip Mobility Routine for Athletes](https://www.youtube.com/watch?v=x-uNaley_O8).<br />
 **Lesson:** Do it.
 
 ### 🌟 <b>Highlights of the Week</b>
@@ -610,7 +610,7 @@ Created: {{ 2025-05-31 }}
 ## 📅 <b>Coming Up Next Week, InshaAllah</b> - 15th to 21st June 2026
 - [ ] Be done eating by 7-8PM.
 - [ ] Be done with dream analysis come [9:20AM](https://www.youtube.com/watch?v=T4H7EC9j6mg).
-- [ ] Ensure to spend 30 minutes, [every day](https://www.youtube.com/shorts/mQcTJdyTFtA) going through the hip mobility routine.
+- [ ] Ensure to spend 30 minutes, [every day](https://www.youtube.com/shorts/mQcTJdyTFtA) going through the [Hip Mobility Routine for Athletes](https://www.youtube.com/watch?v=x-uNaley_O8).
 - [ ] Read, at least one page, of a physical book, every single day.
 - [ ] Average 1 hour a day of German language practice.
 
@@ -656,7 +656,7 @@ Created: {{ 2025-05-31 }}
 **Lesson:** I’m tempted to think that not having any pressing matter to handle before noon leaves me preferring to snooze, drift in and out of sleep as I seek to get the 10 insights of my Dream analysis.
 2. **Failure:** Regular sleep schedule.<br />
 **Lesson:** Bedtime, wake up time, 8 hours of sleep. I have it in me to be asleep for 10 hours, it has come out this week and I can’t help but wonder what’s up with that. Gym workouts requiring me to rest? Straight up laziness?
-3. **Failure:** Hip mobility routine.<br />
+3. **Failure:** [Hip Mobility Routine for Athletes](https://www.youtube.com/watch?v=x-uNaley_O8).<br />
 **Lesson:** Yeah, this is not acceptable, a n*gga gotta spend 30 minutes stretching, it’s inexcusable.
 
 ### 🌟 <b>Highlights of the Week</b>
@@ -668,7 +668,7 @@ Created: {{ 2025-05-31 }}
 ## 📅 <b>Coming Up Next Week, InshaAllah</b> - 8th to 14th June 2026
 - [ ] Be done eating by 7-8PM.
 - [ ] Be done with dream analysis come [8:20AM](https://www.youtube.com/watch?v=T4H7EC9j6mg).
-- [ ] Ensure to spend 30 minutes, [every day](https://www.youtube.com/shorts/mQcTJdyTFtA) going through the hip mobility routine.
+- [ ] Ensure to spend 30 minutes, [every day](https://www.youtube.com/shorts/mQcTJdyTFtA) going through the [Hip Mobility Routine for Athletes](https://www.youtube.com/watch?v=x-uNaley_O8).
 - [ ] Read, at least one page, of a physical book, every single day.
 - [ ] Average 1 hour a day of German language practice.
 
@@ -729,7 +729,7 @@ Created: {{ 2025-05-31 }}
 ## 📅 <b>Coming Up Next Week, InshaAllah</b> - 1st to 7th June 2026
 - [ ] Be done eating by 7-8PM.
 - [ ] Be done with dream analysis come [8:20AM](https://www.youtube.com/watch?v=T4H7EC9j6mg).
-- [ ] Ensure to spend 30 minutes, [every day](https://www.youtube.com/shorts/mQcTJdyTFtA) going through the hip mobility routine.
+- [ ] Ensure to spend 30 minutes, [every day](https://www.youtube.com/shorts/mQcTJdyTFtA) going through the [Hip Mobility Routine for Athletes](https://www.youtube.com/watch?v=x-uNaley_O8).
 - [ ] Read, at least one page, of a physical book, every single day.
 
 ---
@@ -787,7 +787,7 @@ Created: {{ 2025-05-31 }}
 ## 📅 <b>Coming Up Next Week, InshaAllah</b> - 25th to 31st May 2026
 - [ ] Be done eating by 7-8PM.
 - [ ] Be done with dream analysis come [8:20AM](https://www.youtube.com/watch?v=T4H7EC9j6mg).
-- [ ] Ensure to spend 30 minutes, [every day](https://www.youtube.com/shorts/mQcTJdyTFtA) going through the hip mobility routine.
+- [ ] Ensure to spend 30 minutes, [every day](https://www.youtube.com/shorts/mQcTJdyTFtA) going through the [Hip Mobility Routine for Athletes](https://www.youtube.com/watch?v=x-uNaley_O8).
 - [ ] Read at least one page of a book every single day.
 
 ---
@@ -844,7 +844,7 @@ Created: {{ 2025-05-31 }}
 ## 📅 <b>Coming Up Next Week, InshaAllah</b> - 18th to 24th May 2026
 - [ ] Be done eating by 7-8PM.
 - [ ] Be done with dream analysis come [7:45AM](https://www.youtube.com/watch?v=T4H7EC9j6mg).
-- [ ] Ensure to spend 30 minutes, [every day](https://www.youtube.com/shorts/mQcTJdyTFtA) going through the hip mobility routine.
+- [ ] Ensure to spend 30 minutes, [every day](https://www.youtube.com/shorts/mQcTJdyTFtA) going through the [Hip Mobility Routine for Athletes](https://www.youtube.com/watch?v=x-uNaley_O8).
 - [ ] Read at least one page of a book every single day.
 
 ---
@@ -905,7 +905,7 @@ Created: {{ 2025-05-31 }}
 ## 📅 <b>Coming Up Next Week, InshaAllah</b> - 11th to 17th May 2026
 - [ ] Be done eating by 7-8PM.
 - [ ] Be done with dream analysis come [8:15AM](https://www.youtube.com/watch?v=T4H7EC9j6mg).
-- [ ] Ensure to spend 30 minutes, [every day](https://www.youtube.com/shorts/mQcTJdyTFtA) going through the hip mobility routine.
+- [ ] Ensure to spend 30 minutes, [every day](https://www.youtube.com/shorts/mQcTJdyTFtA) going through the [Hip Mobility Routine for Athletes](https://www.youtube.com/watch?v=x-uNaley_O8).
 - [ ] Read at least one page of a book every single day.
 
 ---
@@ -963,7 +963,7 @@ Created: {{ 2025-05-31 }}
 ## 📅 <b>Coming Up Next Week, InshaAllah</b> - 4th to 10th May 2026
 - [ ] Be done eating by 7-8PM.
 - [ ] Be done with dream analysis come [7:45AM](https://www.youtube.com/watch?v=T4H7EC9j6mg).
-- [ ] Ensure to spend 30 minutes, [every day](https://www.youtube.com/shorts/mQcTJdyTFtA) going through the hip mobility routine.
+- [ ] Ensure to spend 30 minutes, [every day](https://www.youtube.com/shorts/mQcTJdyTFtA) going through the [Hip Mobility Routine for Athletes](https://www.youtube.com/watch?v=x-uNaley_O8).
 - [ ] Read at least one page of a book every single day.
 
 ---
@@ -1021,7 +1021,7 @@ Created: {{ 2025-05-31 }}
 ## 📅 <b>Coming Up Next Week, InshaAllah</b> - 27th April to 3rd May 2026
 - [ ] Be done eating by 7-8PM.
 - [ ] Be done with dream analysis come 7:45AM.
-- [ ] Ensure to spend 30 minutes, [every day](https://www.youtube.com/shorts/mQcTJdyTFtA) going through the hip mobility routine.
+- [ ] Ensure to spend 30 minutes, [every day](https://www.youtube.com/shorts/mQcTJdyTFtA) going through the [Hip Mobility Routine for Athletes](https://www.youtube.com/watch?v=x-uNaley_O8).
 
 ---
 
@@ -1077,7 +1077,7 @@ Created: {{ 2025-05-31 }}
 ## 📅 <b>Coming Up Next Week, InshaAllah</b> - 20th to 26th April 2026
 - [ ] Be done eating by 7-8PM.
 - [ ] Be done with dream analysis come 7:45AM.
-- [ ] Ensure to spend 30 minutes, [every day](https://www.youtube.com/shorts/mQcTJdyTFtA) going through the hip mobility routine.
+- [ ] Ensure to spend 30 minutes, [every day](https://www.youtube.com/shorts/mQcTJdyTFtA) going through the [Hip Mobility Routine for Athletes](https://www.youtube.com/watch?v=x-uNaley_O8).
 - [ ] Read 27-72 pages, [every day](https://www.youtube.com/shorts/mQcTJdyTFtA).
 
 ---
@@ -1136,7 +1136,7 @@ Created: {{ 2025-05-31 }}
 ## 📅 <b>Coming Up Next Week, InshaAllah</b> - 13th to 19th April 2026
 - [ ] Be done eating by 7-8PM.
 - [ ] Be done with dream analysis come 7:45AM.
-- [ ] Ensure to spend 30 minutes, [every day](https://www.youtube.com/shorts/mQcTJdyTFtA) going through the hip mobility routine.
+- [ ] Ensure to spend 30 minutes, [every day](https://www.youtube.com/shorts/mQcTJdyTFtA) going through the [Hip Mobility Routine for Athletes](https://www.youtube.com/watch?v=x-uNaley_O8).
 - [ ] Read 27-72 pages, [every day](https://www.youtube.com/shorts/mQcTJdyTFtA).
 
 ---
@@ -1196,7 +1196,7 @@ Created: {{ 2025-05-31 }}
 ## 📅 <b>Coming Up Next Week, InshaAllah</b> - 6th to 12th April 2026
 - [ ] Be done eating by 7-8PM.
 - [ ] Be done with dream analysis come 7:45AM.
-- [ ] Ensure to spend 30 minutes, [every day](https://www.youtube.com/shorts/mQcTJdyTFtA) going through the hip mobility routine.
+- [ ] Ensure to spend 30 minutes, [every day](https://www.youtube.com/shorts/mQcTJdyTFtA) going through the [Hip Mobility Routine for Athletes](https://www.youtube.com/watch?v=x-uNaley_O8).
 - [ ] Read 27-72 pages, [every day](https://www.youtube.com/shorts/mQcTJdyTFtA).
 
 ---
@@ -1255,7 +1255,7 @@ Created: {{ 2025-05-31 }}
 ## 📅 <b>Coming Up Next Week, InshaAllah</b> - 30th March to 5th April 2026
 - [ ] Be done eating by 7-8PM.
 - [ ] Be done with dream analysis come 7:45AM.
-- [ ] Ensure to spend 30 minutes, [every day](https://www.youtube.com/shorts/mQcTJdyTFtA) going through the hip mobility routine.
+- [ ] Ensure to spend 30 minutes, [every day](https://www.youtube.com/shorts/mQcTJdyTFtA) going through the [Hip Mobility Routine for Athletes](https://www.youtube.com/watch?v=x-uNaley_O8).
 - [ ] Read 27-72 pages, [every day](https://www.youtube.com/shorts/mQcTJdyTFtA).
 
 ---
@@ -1314,7 +1314,7 @@ Created: {{ 2025-05-31 }}
 ## 📅 <b>Coming Up Next Week, InshaAllah</b> - 23rd to 29th March 2026
 - [ ] Be done eating by 7-8PM.
 - [ ] Be done with dream analysis come 7:45AM.
-- [ ] Ensure to spend 30 minutes, [every day](https://www.youtube.com/shorts/mQcTJdyTFtA) going through the hip mobility routine.
+- [ ] Ensure to spend 30 minutes, [every day](https://www.youtube.com/shorts/mQcTJdyTFtA) going through the [Hip Mobility Routine for Athletes](https://www.youtube.com/watch?v=x-uNaley_O8).
 - [ ] Read 27-72 pages, [every day](https://www.youtube.com/shorts/mQcTJdyTFtA).
 
 ---
@@ -1359,7 +1359,7 @@ Created: {{ 2025-05-31 }}
 ### 🔭 <b>3 Fails & Lessons Learned</b>
 1. **Failure:** Eating window.<br />
 **Lesson:** What I have learned over the last 14 days is that it works best if I aim at breaking my first at 1PM and ensure that I do not eat past 8 PM no matter what. 11PM bedtime would guarantee 3 hours of digestion.
-2. **Failure:** Hip mobility routine.<br />
+2. **Failure:** [Hip Mobility Routine for Athletes](https://www.youtube.com/watch?v=x-uNaley_O8).<br />
 **Lesson:** Still on that: I am not doing it excellently, which robs me of the benefit I could get if I did so. I’m giving into laziness, and the weakness that thinks of 30 minutes of stretching as long. "Stay hard", we’ve come a long way and can’t afford to get too comfortable now.
 3. **Failure:** Discipline.<br />
 **Lesson:** Executing plans: Bedtime, wake up time, training start time, these 3 gotta be better handled this week 42.
@@ -1373,7 +1373,7 @@ Created: {{ 2025-05-31 }}
 ## 📅 <b>Coming Up Next Week, InshaAllah</b> - 9th to 15th March 2026
 - [ ] Be done eating by 7-8PM.
 - [ ] Be done with dream analysis come 7:25AM.
-- [ ] Ensure to spend 30 minutes, [every day](https://www.youtube.com/shorts/mQcTJdyTFtA) going through the hip mobility routine.
+- [ ] Ensure to spend 30 minutes, [every day](https://www.youtube.com/shorts/mQcTJdyTFtA) going through the [Hip Mobility Routine for Athletes](https://www.youtube.com/watch?v=x-uNaley_O8).
 - [ ] Read 72-100 pages, [every day](https://www.youtube.com/shorts/mQcTJdyTFtA).
 
 ---
@@ -1416,7 +1416,7 @@ Created: {{ 2025-05-31 }}
 ### 🔭 <b>3 Fails & Lessons Learned</b>
 1. **Failure:** Eating window.<br />
 **Lesson:** My new aim is to have my first meal at 1PM and last one, in and around 7PM, a 6 hours eating period and 18 hours fasting. Gotta be better organized to make that happen.
-2. **Failure:** Hip mobility routine.<br />
+2. **Failure:** [Hip Mobility Routine for Athletes](https://www.youtube.com/watch?v=x-uNaley_O8).<br />
 **Lesson:** I am not doing it excellently, which robs me of the benefit I could get if I did so. I’m giving into laziness, and the weakness that thinks of 30 minutes of stretching as long. "Stay hard", we’ve come a long way and can’t afford to get too comfortable now.
 3. **Failure:** Financial discipline.<br />
 **Lesson:** Money came in, a brother made a couple good moves here and there, but, but, but, he has no job, no income, and therefore ain’t in a position to let his desire to “what would you do if you had money?” get in the way of establishing a plan and executing it. I need to stick to the code.
@@ -1430,7 +1430,7 @@ Created: {{ 2025-05-31 }}
 ## 📅 <b>Coming Up Next Week, InshaAllah</b> - 2nd to 8th March 2026
 - [ ] Be done eating by 7:00PM.
 - [ ] Be done with dream analysis come 7:25AM.
-- [ ] Ensure to spend 30 minutes, [every day](https://www.youtube.com/shorts/mQcTJdyTFtA) going through the hip mobility routine.
+- [ ] Ensure to spend 30 minutes, [every day](https://www.youtube.com/shorts/mQcTJdyTFtA) going through the [Hip Mobility Routine for Athletes](https://www.youtube.com/watch?v=x-uNaley_O8).
 - [ ] Read 72-100 pages, [every day](https://www.youtube.com/shorts/mQcTJdyTFtA).
 
 ---
@@ -1491,7 +1491,7 @@ Created: {{ 2025-05-31 }}
 ## 📅 <b>Coming Up Next Week, InshaAllah</b> - 23rd February to 1st March 2026
 - [ ] Be done eating by 8:00PM.
 - [ ] Be done with dream analysis come 7:25AM.
-- [ ] Ensure to spend 30 minutes, [every day](https://www.youtube.com/shorts/mQcTJdyTFtA) going through the hip mobility routine.
+- [ ] Ensure to spend 30 minutes, [every day](https://www.youtube.com/shorts/mQcTJdyTFtA) going through the [Hip Mobility Routine for Athletes](https://www.youtube.com/watch?v=x-uNaley_O8).
 - [ ] Read 72-100 pages, [every day](https://www.youtube.com/shorts/mQcTJdyTFtA).
 
 ---
@@ -1549,7 +1549,7 @@ Created: {{ 2025-05-31 }}
 ## 📅 <b>Coming Up Next Week, InshaAllah</b> - 16th to 22nd February 2026
 - [ ] Be done eating by 8:00PM.
 - [ ] Be done with dream analysis come 7:45AM.
-- [ ] Ensure to spend 30 minutes, [every day](https://www.youtube.com/shorts/mQcTJdyTFtA) going through the hip mobility routine.
+- [ ] Ensure to spend 30 minutes, [every day](https://www.youtube.com/shorts/mQcTJdyTFtA) going through the [Hip Mobility Routine for Athletes](https://www.youtube.com/watch?v=x-uNaley_O8).
 - [ ] Read 72-100 pages, [every day](https://www.youtube.com/shorts/mQcTJdyTFtA).
 
 ---
@@ -1608,7 +1608,7 @@ Created: {{ 2025-05-31 }}
 ## 📅 <b>Coming Up Next Week, InshaAllah</b> - 9th to 15th February 2026
 - [ ] Be done eating by 8:00PM.
 - [ ] Be done with dream analysis come 8:00AM.
-- [ ] Ensure to spend 30 minutes, [every day](https://www.youtube.com/shorts/mQcTJdyTFtA) going through the hip mobility routine.
+- [ ] Ensure to spend 30 minutes, [every day](https://www.youtube.com/shorts/mQcTJdyTFtA) going through the [Hip Mobility Routine for Athletes](https://www.youtube.com/watch?v=x-uNaley_O8).
 - [ ] Read 72-100 pages, [every day](https://www.youtube.com/shorts/mQcTJdyTFtA).
 
 ---
