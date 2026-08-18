@@ -43,12 +43,12 @@ Created: {{ 2025-05-31 }}
 3. 'That Mode' as I watched Wagenge play against a league game vs Essar.
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
-1. **Failure:** Shooting range.<br />
-**Lesson:** More than once did I make a run, and received the pass that got me through on goal: I released my shots too early. I was too far from goal. I could have, should have, must have carried ball past the penalty spot and as close to the goalkeeper as possible. Carry, shield, look up, close enough? Finish.
-2. **Failure:** Back foot receivals.<br />
-**Lesson:** I need to do a better job finding pockets of space, allowing my defense to break the press, the team to progress, the oppositio to commit, the spaces to open up and the game to change. A lot happens, can happen, the moment I control that ball, and face the opposition's defense.
+1. **Failure:** One touch pass.<br />
+**Lesson:** During a pass and move drill, I repeatedly failed to hit the target, as I played a one touch pass to the man who came short for the pass. All my passes went right, which means I kept on hitting the ball leftwards. Next time I struggle with any drill, I need to slow down, take any extra touch necessary, and complete the drill. No need to "practice doing the wrong thing". Training is for learning.
+2. **Failure:** 2.4M.<br />
+**Lesson:** Training 3-4 times a week increases my appetite. I blew past my food budget numerous time. The solution is to work longer hours, earn enough, in order to afford training even harder.
 3. **Failure:** 'Delayed Work Log'.<br />
-**Lesson:** For the second week running; 'Getting involved with Wagenge, on sundays, results in my coming back home late, which is, in no way, enough reason for me not to take 40-60 minutes to log the week's work.' Let's log the on Mondays, given how jittery and hyped up I am, after Sunday's games/trainings.
+**Lesson:** For the third week running; 'Getting involved with Wagenge, on sundays, results in my late home return, which is, in no way, enough reason for me not to take 40-60 minutes to log the week's work.' Let's log the weeks on Mondays, given how jittery and hyped up I am, after Sunday's games/trainings.
 
 ### 🌟 <b>Highlights of the Week</b>
 - <b>Memorable moment / breakthrough / proud event</b>: Sunday with Wagenge, playing a 'training game', us versus us game, where I score the opening goal of the game, with one close range header that gave the keeper no chance to make a save. A high xG game for me as an individual, where I could, and maybe even should had had at least 2 goals. The discovery that had marked me the most is my sprinting ability and how fast I was. I can take on defenders and have it in me to throw step-overs in the mix, I just didn't know how much I have grown into a speedy striker.
@@ -110,7 +110,7 @@ Created: {{ 2025-05-31 }}
 1. **Failure:** Shooting range.<br />
 **Lesson:** More than once did I make a run, and received the pass that got me through on goal: I released my shots too early. I was too far from goal. I could have, should have, must have carried ball past the penalty spot and as close to the goalkeeper as possible. Carry, shield, look up, close enough? Finish.
 2. **Failure:** Back foot receivals.<br />
-**Lesson:** I need to do a better job finding pockets of space, allowing my defense to break the press, the team to progress, the oppositio to commit, the spaces to open up and the game to change. A lot happens, can happen, the moment I control that ball, and face the opposition's defense.
+**Lesson:** I need to do a better job finding pockets of space, allowing my defense to break the press, the team to progress, the opposition to commit, the spaces to open up and the game to change. A lot happens, can happen, the moment I control that ball, and face the opposition's defense.
 3. **Failure:** 'Delayed Work Log'.<br />
 **Lesson:** For the second week running; 'Getting involved with Wagenge, on sundays, results in my coming back home late, which is, in no way, enough reason for me not to take 40-60 minutes to log the week's work.' Let's log the on Mondays, given how jittery and hyped up I am, after Sunday's games/trainings.
 
