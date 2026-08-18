@@ -38,9 +38,9 @@ Created: {{ 2025-05-31 }}
 	- The current Job contract being for a job titled "Video Editor For Short Football Memes."
 
 ### 🏆 <b>3 Wins and/or Achievements</b>
-1. For the second week running; being in attendance for all activities planned by my new football team.
-2. Completing creation of 3 football video edits in less than 3 days.
-3. Discovering myself to be both young and fast. An Athletic Stoic Footballer.
+1. Training with Wagenge, from 7AM, at Karura Forest, 3 days in a row.
+2. Finding it easy to wake up at 6AM. We've come a long.
+3. 'That Mode' as I watched Wagenge play against a league game vs Essar.
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
 1. **Failure:** Shooting range.<br />
