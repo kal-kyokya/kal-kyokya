@@ -51,8 +51,8 @@ Created: {{ 2025-05-31 }}
 **Lesson:** For the third week running; 'Getting involved with Wagenge, on sundays, results in my late home return, which is, in no way, enough reason for me not to take 40-60 minutes to log the week's work.' Let's log the weeks on Mondays, given how jittery and hyped up I am, after Sunday's games/trainings.
 
 ### 🌟 <b>Highlights of the Week</b>
-- <b>Memorable moment / breakthrough / proud event</b>: Sunday with Wagenge, playing a 'training game', us versus us game, where I score the opening goal of the game, with one close range header that gave the keeper no chance to make a save. A high xG game for me as an individual, where I could, and maybe even should had had at least 2 goals. The discovery that had marked me the most is my sprinting ability and how fast I was. I can take on defenders and have it in me to throw step-overs in the mix, I just didn't know how much I have grown into a speedy striker.
-- <b>Quote, inspiration, or personal reflection</b>: Big shoutout to Keruvim Performance. I'm sure the program helped me unlock this speed I noticed on sunday. It's now a matter of having proper recoveery, hitting the gym to strengthen the body, and increase the maximum number of sprints, we can clock, in per game.
+- <b>Memorable moment / breakthrough / proud event</b>: Yet another sunday with Wagenge. Showing up earlier than everyone and watching the other league games. Recording the team during warmup and halftime talk. Seeking to assist, despite being off the pitch. The sense of belonging, the desire to create, contribute, compete, collaborate. InshaAllah, I can engage with that.
+- <b>Quote, inspiration, or personal reflection</b>: Wagenge's number 10 did not allow me to dap him up and say that he had a good game. He heard me say "Good game", and he said, shaking his head, "NO". I like that. The standard he has for himself are high. He is honest enough to not just nod and move on, but to state it "The only thing that work out, for me today, were take ons." He wants to impact the game: Goals and assists. InshaAllah, I help raise the team's standard even higher.
 
 ---
 
@@ -115,7 +115,7 @@ Created: {{ 2025-05-31 }}
 **Lesson:** For the second week running; 'Getting involved with Wagenge, on sundays, results in my coming back home late, which is, in no way, enough reason for me not to take 40-60 minutes to log the week's work.' Let's log the on Mondays, given how jittery and hyped up I am, after Sunday's games/trainings.
 
 ### 🌟 <b>Highlights of the Week</b>
-- <b>Memorable moment / breakthrough / proud event</b>: Sunday with Wagenge, playing a 'training game', us versus us game, where I score the opening goal of the game, with one close range header that gave the keeper no chance to make a save. A high xG game for me as an individual, where I could, and maybe even should had had at least 2 goals. The discovery that had marked me the most is my sprinting ability and how fast I was. I can take on defenders and have it in me to throw step-overs in the mix, I just didn't know how much I have grown into a speedy striker.
+- <b>Memorable moment / breakthrough / proud event</b>: Sunday with Wagenge, playing a 'training game', us versus us, where I scored the opening goal; a close range header that gave the keeper no chance to make a save. A high xG game for me as an individual, where I could, and maybe even should had had at least 2 goals. I've discovered that I have speed and repeated sprinting ability. I can take on defenders, and have it in me to throw step-overs in the mix, I just didn't know how much I have grown into a speedy striker.
 - <b>Quote, inspiration, or personal reflection</b>: Big shoutout to Keruvim Performance. I'm sure the program helped me unlock this speed I noticed on sunday. It's now a matter of having proper recoveery, hitting the gym to strengthen the body, and increase the maximum number of sprints, we can clock, in per game.
 
 ---
