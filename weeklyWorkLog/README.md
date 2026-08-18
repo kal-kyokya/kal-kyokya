@@ -76,7 +76,7 @@ Created: {{ 2025-05-31 }}
 
 ---
 
-> _“Give me six hours to chop down a tree, and I will spend the first four sharpening the axe.” — Abraham Lincoln._
+> _“Football fans feel their way through a game, Football players Think their way through it. No Pathos, Dem!” — Jean-Paul De Marie KYOKYA Kalulu's, "Football Observations"._
 
 <!-- Let's update the log every Sunday. Let's Go! -->
 
