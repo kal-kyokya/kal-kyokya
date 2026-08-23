@@ -32,6 +32,7 @@ Created: {{ 2025-05-31 }}
 - **Learning & Growth**
 	1. In an attempt to link this work log to the online resources I utilize the most, Tuesday noon saw me locate the [Hip Mobility Routine for Athletes \ Overtime Athletes](https://www.youtube.com/watch?v=x-uNaley_O8) I am committed to going through religiously.
 	2. Fast forward, Saturday, seeking to collect an order of Whey Protein and Creatine I had placed earlier at [USN | Ultimate Sports Nutrition](https://ke.usn.global/), I practiced navigating the Matatu networks in Kenya and have a clearer idea on where [Limuru Road](https://www.google.com/search?q=limuru+road+map) is, how to get to [Karura Forest](https://www.google.com/search?q=karura+forest+directions), as well as the [Kenya School of TVET](https://www.google.com/search?q=tvet+college+directions).
+	3. All this, while expanding my video editing skills, by learning to use superposition and create object tracking effects in CapCut. Making videos more complex and dynamic.
 
 - **Job hunting**
 	- Submitted 3 proposal, with a 67% 'viewed by client' rate, got interviewed for 2, and was hired by one, for jobs related to Football, Sports and game footage analysis/editing.
