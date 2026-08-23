@@ -22,6 +22,66 @@ Created: {{ 2025-05-31 }}
 
 ---
 
+## Week 65 — Sunday, 23rd August 2026
+
+### 🌱 **What Was Worked On**
+
+- **Projects**
+	1. **[Futtech-Django](https://www.futtech.kalkyokya.tech/showcase)**: Began implementation of the automated welcome email delivery upon new user registration.
+
+- **Learning & Growth**
+	1. During a week where most of my learning was done on a football pitch, saturday morning, as I set on completing implementation of Google Single Sign-On, I got exposed to the idea of a [Google JWKS - JSON Web Key Set](https://www.google.com/search?q=google+jwks), a piece of data that Futtech wasn't equipped to decode.
+	2. With that sorted, the frontend could now overcome the ["Google credential is invalid or expired"](https://www.google.com/search?q=Google+credential+is+invalid+or+expired) error which kept being displayed upon Social Authentication attempts.
+
+- **Job hunting**
+	- Submitted 3 proposal, with a 67% 'viewed by client' rate, got interviewed for 2, and was hired by one, for jobs related to Football, Sports and game footage analysis/editing.
+	- The current Job contract being for a job titled "Video Editor For Short Football Memes."
+
+### 🏆 <b>3 Wins and/or Achievements</b>
+1. Training with Wagenge, from 7AM, at Karura Forest, 3 days in a row.
+2. Finding it easy to wake up at 6AM. We've come a long.
+3. 'That Mode' as I watched Wagenge play against a league game vs Essar.
+
+### 🔭 <b>3 Fails & Lessons Learned</b>
+1. **Failure:** One touch pass.<br />
+**Lesson:** During a pass and move drill, I repeatedly failed to hit the target, as I played a one touch pass to the man who came short for the pass. All my passes went right, which means I kept on hitting the ball leftwards. Next time I struggle with any drill, I need to slow down, take any extra touch necessary, and complete the drill. No need to "practice doing the wrong thing". Training is for learning.
+2. **Failure:** 2.4M.<br />
+**Lesson:** Training 3-4 times a week increases my appetite. I blew past my food budget numerous time. The solution is to work longer hours, earn enough, in order to afford training even harder.
+3. **Failure:** 'Delayed Work Log'.<br />
+**Lesson:** For the third week running; 'Getting involved with Wagenge, on sundays, results in my late home return, which is, in no way, enough reason for me not to take 40-60 minutes to log the week's work.' Let's log the weeks on Mondays, given how jittery and hyped up I am, after Sunday's games/trainings.
+
+### 🌟 <b>Highlights of the Week</b>
+- <b>Memorable moment / breakthrough / proud event</b>: Yet another sunday with Wagenge. Showing up earlier than everyone and watching the other league games. Recording the team during warmup and halftime talk. Seeking to assist, despite being off the pitch. The sense of belonging, the desire to create, contribute, compete, collaborate. InshaAllah, I can engage with that.
+- <b>Quote, inspiration, or personal reflection</b>: Wagenge's number 10 did not allow me to dap him up and say that he had a good game. He heard me say "Good game", and he said, shaking his head, "NO". I like that. The standard he has for himself are high. He is honest enough to not just nod and move on, but to state it "The only thing that work out, for me today, were take ons." He wants to impact the game: Goals and assists. InshaAllah, I help raise the team's standard even higher.
+
+---
+
+## 📅 <b>Coming Up Next Week, InshaAllah</b> - August 17th to 23rd 2026
+- [ ] Be done eating by 7PM.
+- [ ] Stay out of bed come [7AM](https://www.youtube.com/watch?v=T4H7EC9j6mg).
+- [ ] Ensure to spend 30 minutes, [every day](https://www.youtube.com/shorts/mQcTJdyTFtA) going through the [Hip Mobility Routine for Athletes](https://www.youtube.com/watch?v=x-uNaley_O8).
+- [ ] Read, at least one page, of a physical book, every single day.
+- [ ] Average 1 hour a day of German language practice.
+
+---
+
+## 📈 <b>Meta</b>
+| Metric | This Week |
+| ------ | --------- |
+| GitHub Commits | 20 |
+| Job Application | 3 |
+| Sleep Avg (hrs) | 7 |
+| Total Coding Time (hrs) | 2 |
+| Training Sessions (Football) | 4 |
+
+---
+
+> _“Football fans Feel their way through a game. Football players Think their way through it. No Pathos, Dem!” — Jean-Paul De Marie KYOKYA Kalulu's, "Football Observations"._
+
+<!-- Let's update the log every Sunday. Let's Go! -->
+
+---
+
 ## Week 64 — Sunday, 16th August 2026
 
 ### 🌱 **What Was Worked On**
