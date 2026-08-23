@@ -30,8 +30,8 @@ Created: {{ 2025-05-31 }}
 	1. **[Futtech-Django](https://www.futtech.kalkyokya.tech/showcase)**: Began implementation of the automated welcome email delivery upon new user registration.
 
 - **Learning & Growth**
-	1. During a week where most of my learning was done on a football pitch, saturday morning, as I set on completing implementation of Google Single Sign-On, I got exposed to the idea of a [Google JWKS - JSON Web Key Set](https://www.google.com/search?q=google+jwks), a piece of data that Futtech wasn't equipped to decode.
-	2. With that sorted, the frontend could now overcome the ["Google credential is invalid or expired"](https://www.google.com/search?q=Google+credential+is+invalid+or+expired) error which kept being displayed upon Social Authentication attempts.
+	1. In an attempt to link this work log to the online resources I utilize the most, Tuesday noon saw me locate the [Hip Mobility Routine for Athletes \ Overtime Athletes](https://www.youtube.com/watch?v=x-uNaley_O8) I am committed to going through religiously.
+	2. Fast forward, Saturday, seeking to collect an order of Whey Protein and Creatine I had placed earlier at [USN | Ultimate Sports Nutrition](https://ke.usn.global/), I practiced navigating the Matatu networks in Kenya and have a clearer idea on where [Limuru Road](https://www.google.com/search?q=limuru+road+map) is, how to get to [Karura Forest](https://www.google.com/search?q=karura+forest+directions), as well as the [Kenya School of TVET](https://www.google.com/search?q=tvet+college+directions).
 
 - **Job hunting**
 	- Submitted 3 proposal, with a 67% 'viewed by client' rate, got interviewed for 2, and was hired by one, for jobs related to Football, Sports and game footage analysis/editing.
