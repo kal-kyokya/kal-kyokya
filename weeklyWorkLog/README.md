@@ -52,8 +52,8 @@ Created: {{ 2025-05-31 }}
 **Lesson:** I get it, I have the pace to run in behind. Spamming that for 45 minutes straight is not a good idea. I need to be willing to come short and play a one touch pass that helps the team beat the press, progress the ball, or win a set-piece.
 
 ### 🌟 <b>Highlights of the Week</b>
-- <b>Memorable moment / breakthrough / proud event</b>: Yet another sunday with Wagenge. Showing up earlier than everyone and watching the other league games. Recording the team during warmup and halftime talk. Seeking to assist, despite being off the pitch. The sense of belonging, the desire to create, contribute, compete, collaborate. InshaAllah, I can engage with that.
-- <b>Quote, inspiration, or personal reflection</b>: Wagenge's number 10 did not allow me to dap him up and say that he had a good game. He heard me say "Good game", and he said, shaking his head, "NO". I like that. The standard he has for himself are high. He is honest enough to not just nod and move on, but to state it "The only thing that work out, for me today, were take ons." He wants to impact the game: Goals and assists. InshaAllah, I help raise the team's standard even higher.
+- <b>Memorable moment / breakthrough / proud event</b>: Getting to edit a 4 minutes, Joga Bonito themed, mini-documentary of Wagenge's warm-up before its game against Essar, sharing it with the team, as well as uploading it to Futtech, where it currently is part of the public showcase. Increases my sense of belonging and represents my first interaction between Wagenge and Futtech.
+- <b>Quote, inspiration, or personal reflection</b>: "Beauty". Beautiful actions are the result of beautiful thoughts. A well put together product, object and person, all provide one with this delightful exposure to Ihsan, Excellence, Beauty. Beauty is Excellence. Excellence is Beautiful. I was to be aesthetically pleasing as both a football player and video editing software engineer.
 
 ---
 
@@ -112,8 +112,8 @@ Created: {{ 2025-05-31 }}
 **Lesson:** For the third week running; 'Getting involved with Wagenge, on sundays, results in my late home return, which is, in no way, enough reason for me not to take 40-60 minutes to log the week's work.' Let's log the weeks on Mondays, given how jittery and hyped up I am, after Sunday's games/trainings.
 
 ### 🌟 <b>Highlights of the Week</b>
-- <b>Memorable moment / breakthrough / proud event</b>: Yet another sunday with Wagenge. Showing up earlier than everyone and watching the other league games. Recording the team during warmup and halftime talk. Seeking to assist, despite being off the pitch. The sense of belonging, the desire to create, contribute, compete, collaborate. InshaAllah, I can engage with that.
-- <b>Quote, inspiration, or personal reflection</b>: Wagenge's number 10 did not allow me to dap him up and say that he had a good game. He heard me say "Good game", and he said, shaking his head, "NO". I like that. The standard he has for himself are high. He is honest enough to not just nod and move on, but to state it "The only thing that work out, for me today, were take ons." He wants to impact the game: Goals and assists. InshaAllah, I help raise the team's standard even higher.
+- <b>Memorable moment / breakthrough / proud event</b>: Yet another sunday with Wagenge. Showing up earlier than everyone and watching the other league games. Recording the team during warm-up and pregame talk. Seeking to assist, despite being off the pitch. The sense of belonging, the desire to create, contribute, compete, collaborate. InshaAllah, I can engage with that.
+- <b>Quote, inspiration, or personal reflection</b>: Wagenge's number 10 did not allow me to dap him up and say that he had a good game. He heard me say "Good game", and he said, shaking his head, "No". I like that. The standard he has for himself are high. He is honest enough to not just nod and move on, but to state it "The only thing that work out, for me today, were take-ons." He wants to impact the game: Goals and assists. InshaAllah, I help raise the team's standard even higher.
 
 ---
 
@@ -234,7 +234,7 @@ Created: {{ 2025-05-31 }}
 **Lesson:** I average 2-3 hours a day across X, TikTok, Instagram, Snapchat and WhatsApp. Insisting on spending that much amount of time, on days where I was 'out and about', results in doomscrolling, missing bed time and not necessarily use this apps as source of useful information.
 
 ### 🌟 <b>Highlights of the Week</b>
-- <b>Memorable moment / breakthrough / proud event</b>: Training on Friday, at Kahawa Sports Arena, running into a yound lady I last met, physically, about 2 years ago, who was there to join the same session, and with whom I got the chance to use some of the ball mastery drills I repeatedly used about a year ago. That warmup, and the fact that my mind was focused on someone other than myself, contributed to the quality of the training session that ensued.
+- <b>Memorable moment / breakthrough / proud event</b>: Training on Friday, at Kahawa Sports Arena, running into a yound lady I last met, physically, about 2 years ago, who was there to join the same session, and with whom I got the chance to use some of the ball mastery drills I repeatedly used about a year ago. That warm-up, and the fact that my mind was focused on someone other than myself, contributed to the quality of the training session that ensued.
 - <b>Quote, inspiration, or personal reflection</b>: I have 'dribbling in my bag', it's a matter of time, intention, effort and repetition before I figure out how to balance 'pass and moves' and 'takeons'.
 
 ---
