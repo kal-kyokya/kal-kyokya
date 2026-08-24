@@ -39,9 +39,9 @@ Created: {{ 2025-05-31 }}
 	- The current Job contract being for a job titled "Video Editor For Short Football Memes."
 
 ### 🏆 <b>3 Wins and/or Achievements</b>
-1. Training with Wagenge, from 7AM, at Karura Forest, 3 days in a row.
-2. Finding it easy to wake up at 6AM. We've come a long.
-3. 'That Mode' as I watched Wagenge play against a league game vs Essar.
+1. Practicing running behind a defense during Wagenge's Sunday game, in Juja.
+2. Learning to use superposition to implement image tracking in video edits.
+3. Navigating Kenya's matatu network in search for an unknown location.
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
 1. **Failure:** One touch pass.<br />
@@ -101,7 +101,7 @@ Created: {{ 2025-05-31 }}
 ### 🏆 <b>3 Wins and/or Achievements</b>
 1. Training with Wagenge, from 7AM, at Karura Forest, 3 days in a row.
 2. Finding it easy to wake up at 6AM. We've come a long.
-3. 'That Mode' as I watched Wagenge play against a league game vs Essar.
+3. 'That Mode' as I watched Wagenge play a league game vs Essar.
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
 1. **Failure:** One touch pass.<br />
