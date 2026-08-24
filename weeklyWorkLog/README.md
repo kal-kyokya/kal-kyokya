@@ -35,7 +35,7 @@ Created: {{ 2025-05-31 }}
 	3. All this, while expanding my video editing skills, by learning to use superposition and create object tracking effects in CapCut. Making videos more complex and dynamic.
 
 - **Job hunting**
-	- Submitted 3 proposal, with a 67% 'viewed by client' rate, got interviewed for 2, and was hired by one, for jobs related to Football, Sports and game footage analysis/editing.
+	- Submitted 1 proposal, with a 0% 'viewed by client' rate, got interviewed for none, and was hired by none, for a job related to Football, Sports and game footage analysis/editing.
 	- The current Job contract being for a job titled "Video Editor For Short Football Memes."
 
 ### 🏆 <b>3 Wins and/or Achievements</b>
