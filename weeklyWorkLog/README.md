@@ -27,7 +27,7 @@ Created: {{ 2025-05-31 }}
 ### 🌱 **What Was Worked On**
 
 - **Projects**
-	1. **[Futtech-Django](https://www.futtech.kalkyokya.tech/showcase)**: Began implementation of the automated welcome email delivery upon new user registration.
+	1. **[Futtech-Django](https://www.futtech.kalkyokya.tech/showcase)**: Began implementation of automated welcome emails, sent upon new user registrations.
 
 - **Learning & Growth**
 	1. In an attempt to link this work log to the online resources I utilize the most, Tuesday noon saw me locate the [Hip Mobility Routine for Athletes \ Overtime Athletes](https://www.youtube.com/watch?v=x-uNaley_O8) I am committed to going through religiously.
@@ -41,7 +41,7 @@ Created: {{ 2025-05-31 }}
 ### 🏆 <b>3 Wins and/or Achievements</b>
 1. Practicing running behind a defense during Wagenge's Sunday game, in Juja.
 2. Learning to use superposition to implement image tracking in video edits.
-3. Navigating Kenya's matatu network in search for an unknown location.
+3. Navigating Kenya's matatu network to get to where I want to be.
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
 1. **Failure:** 2.4M.<br />
@@ -52,8 +52,8 @@ Created: {{ 2025-05-31 }}
 **Lesson:** I get it, I have the pace to run in behind. Spamming that for 45 minutes straight is not a good idea. I need to be willing to come short and play a one touch pass that helps the team beat the press, progress the ball, or win a set-piece.
 
 ### 🌟 <b>Highlights of the Week</b>
-- <b>Memorable moment / breakthrough / proud event</b>: Getting to edit a 4 minutes, Joga Bonito themed, mini-documentary of Wagenge's warm-up before its game against Essar, sharing it with the team, as well as uploading it to Futtech, where it currently is part of the public showcase. Increases my sense of belonging and represents my first interaction between Wagenge and Futtech.
-- <b>Quote, inspiration, or personal reflection</b>: "Beauty". Beautiful actions are the result of beautiful thoughts. A well put together product, object and person, all provide one with this delightful exposure to Ihsan, Excellence, Beauty. Beauty is Excellence. Excellence is Beautiful. I was to be aesthetically pleasing as both a football player and video editing software engineer.
+- <b>Memorable moment / breakthrough / proud event</b>: Getting to edit a 4 minutes, Joga Bonito themed, mini-documentary of Wagenge's warm-up before its game against Essar. Sharing it with the team, as well as uploading it to Futtech, where it currently is part of the public showcase. This increases my sense of belonging, and represents my first interaction between Wagenge and Futtech.
+- <b>Quote, inspiration, or personal reflection</b>: "Beauty". Beautiful actions are the result of beautiful thoughts. A well put together product, object and person, all provide one with this delightful exposure to Ihsan, Excellence, Beauty. Beauty is Excellence. Excellence is Beautiful. I want to be aesthetically pleasing: both as a Football Player and a Video Editing Software Engineer.
 
 ---
 
