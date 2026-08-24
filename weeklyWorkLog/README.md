@@ -77,7 +77,7 @@ Created: {{ 2025-05-31 }}
 
 ---
 
-> _“Football fans Feel their way through a game. Football players Think their way through it. No Pathos, Dem!” — Jean-Paul De Marie KYOKYA Kalulu's, "Football Observations"._
+> _“If you're gonna do it, do it. Say what you can do. Do what you say. If you can't do it, don't say you can do it” — Matthew McConaughey, "Don't half-ass it" philosophy._
 
 <!-- Let's update the log every Sunday. Let's Go! -->
 
