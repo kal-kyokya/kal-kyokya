@@ -44,12 +44,12 @@ Created: {{ 2025-05-31 }}
 3. Navigating Kenya's matatu network in search for an unknown location.
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
-1. **Failure:** One touch pass.<br />
-**Lesson:** During a pass and move drill, I repeatedly failed to hit the target, as I played a one touch pass to the man who came short for the pass. All my passes went right, which means I kept on hitting the ball leftwards. Next time I struggle with any drill, I need to slow down, take any extra touch necessary, and complete the drill. No need to "practice doing the wrong thing". Training is for learning.
-2. **Failure:** 2.4M.<br />
-**Lesson:** Training 3-4 times a week increases my appetite. I blew past my food budget numerous time. The solution is to work longer hours, earn enough, in order to afford training even harder.
-3. **Failure:** 'Delayed Work Log'.<br />
-**Lesson:** For the third week running; 'Getting involved with Wagenge, on sundays, results in my late home return, which is, in no way, enough reason for me not to take 40-60 minutes to log the week's work.' Let's log the weeks on Mondays, given how jittery and hyped up I am, after Sunday's games/trainings.
+1. **Failure:** 2.4M.<br />
+**Lesson:** 'Reduce desire or increase sacrifice'. What is necessary? What is essential? What must be done? How do I perform? What can I do without? I want to travel with Wagenge to Western Kenya, I want to supplement on Creatine and Whey Protein, I want to look good when I step on the pitch, I want to perform and stay injury-free, which all benefit from my hitting the gym: Travel, Supplement, 'Looku', Performance. That's all I want. But I got  bills to pay though.
+2. **Failure:** Reaction to the ball.<br />
+**Lesson:** Not fighting to win back possesion when a pass directed my way fails to reach me was pointed out as an area of improvement in my game. Always remember: 'Reaction to the ball'.
+3. **Failure:** Not coming short.<br />
+**Lesson:** I get it, I have the pace to run in behind. Spamming that for 45 minutes straight is not a good idea. I need to be willing to come short and play a one touch pass that helps the team beat the press, progress the ball, or win a set-piece.
 
 ### 🌟 <b>Highlights of the Week</b>
 - <b>Memorable moment / breakthrough / proud event</b>: Yet another sunday with Wagenge. Showing up earlier than everyone and watching the other league games. Recording the team during warmup and halftime talk. Seeking to assist, despite being off the pitch. The sense of belonging, the desire to create, contribute, compete, collaborate. InshaAllah, I can engage with that.
