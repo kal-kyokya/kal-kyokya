@@ -43,12 +43,12 @@ Created: {{ 2025-05-31 }}
 3. Getting officially welcomed on Wagenge's Instagram page.
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
-1. **Failure:** 2.4M.<br />
-**Lesson:** 'Reduce desire or increase sacrifice'. What is necessary? What is essential? What must be done? How do I perform? What can I do without? I want to travel with Wagenge to Western Kenya, I want to supplement on Creatine and Whey Protein, I want to look good when I step on the pitch, I want to perform and stay injury-free, which all benefit from my hitting the gym: Travel, Supplement, 'Looku', Performance. That's all I want. But I got  bills to pay though.
-2. **Failure:** Reaction to the ball.<br />
-**Lesson:** Not fighting to win back possesion when a pass directed my way fails to reach me was pointed out as an area of improvement in my game. Always remember: 'Reaction to the ball'.
-3. **Failure:** Not coming short.<br />
-**Lesson:** I get it, I have the pace to run in behind. Spamming that for 45 minutes straight is not a good idea. I need to be willing to come short and play a one touch pass that helps the team beat the press, progress the ball, or win a set-piece.
+1. **Failure:** 'End product'.<br />
+**Lesson:** Falling prey to the desire to spam running in behind, and take-on people with nothing other than pace. It was pointed out to me that I could benefit greatly from faking cutting inside, where the striker is available for a pass, before going down the flank.
+2. **Failure:** Game involvement.<br />
+**Lesson:** I need to vary my runs, some of them away from the ball to create a through pass scenario, some other towards it, in order to create a overload which helps the team get out. Let's start with these two.
+3. **Failure:** Hold up play.<br />
+**Lesson:** Playing as a striker requires an ability to trap the ball and help the team move higher up the pitch. My first touch and decision-making get me there.
 
 ### 🌟 <b>Highlights of the Week</b>
 - <b>Memorable moment / breakthrough / proud event</b>: Getting to edit a 4 minutes, Joga Bonito themed, mini-documentary of Wagenge's warm-up before its game against Essar. Sharing it with the team, as well as uploading it to Futtech, where it currently is part of the public showcase. This increases my sense of belonging, and represents my first interaction between Wagenge and Futtech.
