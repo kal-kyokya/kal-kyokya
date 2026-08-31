@@ -76,7 +76,7 @@ Created: {{ 2025-05-31 }}
 
 ---
 
-> _“If you're gonna do it, do it. Say what you can do. Do what you say. If you can't do it, don't say you can do it” — Matthew McConaughey, "Don't half-ass it" philosophy._
+> _“Tunaifanya bila pressure, bad man, bududum keng. Adi sijaanza kuroga na kuna rapper ametense.” — Toxic Lyrikali, "Step Sana"._
 
 <!-- Let's update the log every Sunday. Let's Go! -->
 
