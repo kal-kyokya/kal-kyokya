@@ -30,9 +30,9 @@ Created: {{ 2025-05-31 }}
 	1. **[Futtech-Django](https://www.futtech.kalkyokya.tech/showcase)**: Continued implementation of the welcome email feature via addition of both the HTML and TXT email templates, as well as expanding the user_auth's tests module to cover email paths.
 
 - **Learning & Growth**
-	1. In an attempt to link this work log to the online resources I utilize the most, Tuesday noon saw me locate the [Hip Mobility Routine for Athletes \ Overtime Athletes](https://www.youtube.com/watch?v=x-uNaley_O8) I am committed to going through religiously.
-	2. Fast forward, Saturday, seeking to collect an order of Whey Protein and Creatine I had placed earlier at [USN | Ultimate Sports Nutrition](https://ke.usn.global/), I practiced navigating the Matatu networks in Kenya and have a clearer idea on where [Limuru Road](https://www.google.com/search?q=limuru+road+map) is, how to get to [Karura Forest](https://www.google.com/search?q=karura+forest+directions), as well as the [Kenya School of TVET](https://www.google.com/search?q=tvet+college+directions).
-	3. All this, while expanding my video editing skills, by learning to use superposition and create object tracking effects in CapCut. Making videos more complex and dynamic.
+	1. Wednesday morning as I set on creating `Matchday Damage`, I learned of the story of ['The Math Lady meme'](https://www.google.com/search?q=The+Math+Lady+meme), a picture used as profile picture on all its social media.
+	2. Sunday, with Wagenge, I got to practice making runs as a striker, behind both CBs, which makes it more likely that I recognize the right space to attack in order to get a tap in.
+	3. I also found out that dropping deep to receive the ball involves me a lot more in the game and has me feeling like I am having a much better game than when I continuously make runs in behind.
 
 - **Job hunting**
 	- Submitted 1 proposal, with a 0% 'viewed by client' rate, got interviewed for none, and was hired by none, for a job related to Football, Sports and game footage analysis/editing.
