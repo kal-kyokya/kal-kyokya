@@ -51,8 +51,8 @@ Created: {{ 2025-05-31 }}
 **Lesson:** Playing as a striker requires an ability to trap the ball and help the team move higher up the pitch. My first touch and decision-making get me there.
 
 ### 🌟 <b>Highlights of the Week</b>
-- <b>Memorable moment / breakthrough / proud event</b>: Getting to edit a 4 minutes, Joga Bonito themed, mini-documentary of Wagenge's warm-up before its game against Essar. Sharing it with the team, as well as uploading it to Futtech, where it currently is part of the public showcase. This increases my sense of belonging, and represents my first interaction between Wagenge and Futtech.
-- <b>Quote, inspiration, or personal reflection</b>: "Beauty". Beautiful actions are the result of beautiful thoughts. A well put together product, object and person, all provide one with this delightful exposure to Ihsan, Excellence, Beauty. Beauty is Excellence. Excellence is Beautiful. I want to be aesthetically pleasing: both as a Football Player and a Video Editing Software Engineer.
+- <b>Memorable moment / breakthrough / proud event</b>: Playing for Wagenge on Sunday and further figuring out my football identity and the required style of play that will bring the best out of myself, and by consequence, improve the team. `Receiving deep`. I can, I will, I must come and receive the ball deep. I have the quality to beat the press and find the pass. I relieve the pressure on the ball carrier and progress the play. Occasionally receiving deep is the way forward.
+- <b>Quote, inspiration, or personal reflection</b>: "Hatutaki watu wa potential" was jokingly said to me by having-scored-one-goal Striker Kubai. `ROGER THAT`. I will deliver, next Sunday, InshaAllah.
 
 ---
 
@@ -112,7 +112,7 @@ Created: {{ 2025-05-31 }}
 **Lesson:** I get it, I have the pace to run in behind. Spamming that for 45 minutes straight is not a good idea. I need to be willing to come short and play a one touch pass that helps the team beat the press, progress the ball, or win a set-piece.
 
 ### 🌟 <b>Highlights of the Week</b>
-- <b>Memorable moment / breakthrough / proud event</b>: Getting to edit a 4 minutes, Joga Bonito themed, mini-documentary of Wagenge's warm-up before its game against Essar. Sharing it with the team, as well as uploading it to Futtech, where it currently is part of the public showcase. This increases my sense of belonging, and represents my first interaction between Wagenge and Futtech.
+- <b>Memorable moment / breakthrough / proud event</b>: Getting to edit a 4 minutes, Joga Bonito themed, mini-documentary of Wagenge's warm-up before its game against Essar. Sharing it with the team, as well as uploading it to Futtech, where it currently is part of the public showcase. This increases my sense of belonging, and represents the first interaction between Wagenge and Futtech.
 - <b>Quote, inspiration, or personal reflection</b>: "Beauty". Beautiful actions are the result of beautiful thoughts. A well put together product, object and person, all provide one with this delightful exposure to Ihsan, Excellence, Beauty. Beauty is Excellence. Excellence is Beautiful. I want to be aesthetically pleasing: both as a Football Player and a Video Editing Software Engineer.
 
 ---
