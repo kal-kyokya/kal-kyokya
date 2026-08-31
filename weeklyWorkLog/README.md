@@ -22,6 +22,67 @@ Created: {{ 2025-05-31 }}
 
 ---
 
+## Week 66 — Sunday, 30th August 2026
+
+### 🌱 **What Was Worked On**
+
+- **Projects**
+	1. **[Futtech-Django](https://www.futtech.kalkyokya.tech/showcase)**: Continued implementation of the welcome email feature via addition of both the HTML and TXT email templates, as well as expanding the user_auth's tests module to cover email paths.
+
+- **Learning & Growth**
+	1. In an attempt to link this work log to the online resources I utilize the most, Tuesday noon saw me locate the [Hip Mobility Routine for Athletes \ Overtime Athletes](https://www.youtube.com/watch?v=x-uNaley_O8) I am committed to going through religiously.
+	2. Fast forward, Saturday, seeking to collect an order of Whey Protein and Creatine I had placed earlier at [USN | Ultimate Sports Nutrition](https://ke.usn.global/), I practiced navigating the Matatu networks in Kenya and have a clearer idea on where [Limuru Road](https://www.google.com/search?q=limuru+road+map) is, how to get to [Karura Forest](https://www.google.com/search?q=karura+forest+directions), as well as the [Kenya School of TVET](https://www.google.com/search?q=tvet+college+directions).
+	3. All this, while expanding my video editing skills, by learning to use superposition and create object tracking effects in CapCut. Making videos more complex and dynamic.
+
+- **Job hunting**
+	- Submitted 1 proposal, with a 0% 'viewed by client' rate, got interviewed for none, and was hired by none, for a job related to Football, Sports and game footage analysis/editing.
+	- The current Job contract being for a job titled "Video Editor For Short Football Memes."
+
+### 🏆 <b>3 Wins and/or Achievements</b>
+1. Practicing running behind a defense during Wagenge's Sunday game, in Juja.
+2. Learning to use superposition to implement image tracking in video edits.
+3. Navigating Kenya's matatu network to get to where I want to be.
+
+### 🔭 <b>3 Fails & Lessons Learned</b>
+1. **Failure:** 2.4M.<br />
+**Lesson:** 'Reduce desire or increase sacrifice'. What is necessary? What is essential? What must be done? How do I perform? What can I do without? I want to travel with Wagenge to Western Kenya, I want to supplement on Creatine and Whey Protein, I want to look good when I step on the pitch, I want to perform and stay injury-free, which all benefit from my hitting the gym: Travel, Supplement, 'Looku', Performance. That's all I want. But I got  bills to pay though.
+2. **Failure:** Reaction to the ball.<br />
+**Lesson:** Not fighting to win back possesion when a pass directed my way fails to reach me was pointed out as an area of improvement in my game. Always remember: 'Reaction to the ball'.
+3. **Failure:** Not coming short.<br />
+**Lesson:** I get it, I have the pace to run in behind. Spamming that for 45 minutes straight is not a good idea. I need to be willing to come short and play a one touch pass that helps the team beat the press, progress the ball, or win a set-piece.
+
+### 🌟 <b>Highlights of the Week</b>
+- <b>Memorable moment / breakthrough / proud event</b>: Getting to edit a 4 minutes, Joga Bonito themed, mini-documentary of Wagenge's warm-up before its game against Essar. Sharing it with the team, as well as uploading it to Futtech, where it currently is part of the public showcase. This increases my sense of belonging, and represents my first interaction between Wagenge and Futtech.
+- <b>Quote, inspiration, or personal reflection</b>: "Beauty". Beautiful actions are the result of beautiful thoughts. A well put together product, object and person, all provide one with this delightful exposure to Ihsan, Excellence, Beauty. Beauty is Excellence. Excellence is Beautiful. I want to be aesthetically pleasing: both as a Football Player and a Video Editing Software Engineer.
+
+---
+
+## 📅 <b>Coming Up Next Week, InshaAllah</b> - August 24th to 30th 2026
+- [ ] Be done eating by 7PM.
+- [ ] Stay out of bed come [7AM](https://www.youtube.com/watch?v=T4H7EC9j6mg).
+- [ ] Ensure to spend 30 minutes, [every day](https://www.youtube.com/shorts/mQcTJdyTFtA) going through the [Hip Mobility Routine for Athletes](https://www.youtube.com/watch?v=x-uNaley_O8).
+- [ ] Read, at least one page, of a physical book, every single day.
+- [ ] Average 1 hour a day of German language practice.
+
+---
+
+## 📈 <b>Meta</b>
+| Metric | This Week |
+| ------ | --------- |
+| GitHub Commits | 20 |
+| Job Application | 1 |
+| Sleep Avg (hrs) | 8 |
+| Total Coding Time (hrs) | 1 |
+| Training Sessions (Football) | 3 |
+
+---
+
+> _“If you're gonna do it, do it. Say what you can do. Do what you say. If you can't do it, don't say you can do it” — Matthew McConaughey, "Don't half-ass it" philosophy._
+
+<!-- Let's update the log every Sunday. Let's Go! -->
+
+---
+
 ## Week 65 — Sunday, 23rd August 2026
 
 ### 🌱 **What Was Worked On**
