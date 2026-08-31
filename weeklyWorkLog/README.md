@@ -38,9 +38,9 @@ Created: {{ 2025-05-31 }}
 	- Submitted 2 proposals, with a 100% 'viewed by client' rate, got interviewed for both, and was hired by none, for jobs related to Football, Sports and game footage analysis/editing.
 
 ### 🏆 <b>3 Wins and/or Achievements</b>
-1. Practicing running behind a defense during Wagenge's Sunday game, in Juja.
-2. Learning to use superposition to implement image tracking in video edits.
-3. Navigating Kenya's matatu network to get to where I want to be.
+1. Creating Matchday Damage, a football meme video channel across social media.
+2. Realizing that my runs needn't only be behind the defense, I can come short.
+3. Getting officially welcomed on Wagenge's Instagram page.
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
 1. **Failure:** 2.4M.<br />
