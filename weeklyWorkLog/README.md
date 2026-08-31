@@ -35,8 +35,7 @@ Created: {{ 2025-05-31 }}
 	3. I also found out that dropping deep to receive the ball involves me a lot more in the game and has me feeling like I am having a much better game than when I continuously make runs in behind.
 
 - **Job hunting**
-	- Submitted 1 proposal, with a 0% 'viewed by client' rate, got interviewed for none, and was hired by none, for a job related to Football, Sports and game footage analysis/editing.
-	- The current Job contract being for a job titled "Video Editor For Short Football Memes."
+	- Submitted 2 proposals, with a 100% 'viewed by client' rate, got interviewed for both, and was hired by none, for jobs related to Football, Sports and game footage analysis/editing.
 
 ### 🏆 <b>3 Wins and/or Achievements</b>
 1. Practicing running behind a defense during Wagenge's Sunday game, in Juja.
