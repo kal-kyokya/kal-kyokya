@@ -22,6 +22,66 @@ Created: {{ 2025-05-31 }}
 
 ---
 
+## Week 67 — Sunday, 6th September 2026
+
+### 🌱 **What Was Worked On**
+
+- **Projects**
+	1. **[Futtech-Django](https://www.futtech.kalkyokya.tech/showcase)**: Completed implementation of the welcome email feature via extension of the user_auth's views module to cover email delivery.
+
+- **Learning & Growth**
+	1. Wednesday morning as I set on creating `Matchday Damage`, I learned of the story of ['The Math Lady meme'](https://www.google.com/search?q=The+Math+Lady+meme), a picture used as profile picture on all its social media.
+	2. Sunday, with Wagenge, I got to practice making runs as a striker, behind both CBs, which makes it more likely that I recognize the right space to attack in order to get a tap in.
+	3. I also found out that dropping deep to receive the ball involves me a lot more in the game and has me feeling like I am having a much better game than when I continuously make runs in behind.
+
+- **Job hunting**
+	- Submitted 2 proposals, with a 100% 'viewed by client' rate, got interviewed for both, and was hired by none, for jobs related to Football, Sports and game footage analysis/editing.
+
+### 🏆 <b>3 Wins and/or Achievements</b>
+1. Creating Matchday Damage, a football meme video channel across social media.
+2. Realizing that my runs needn't only be behind the defense, I can come short.
+3. Getting officially welcomed on Wagenge's Instagram page.
+
+### 🔭 <b>3 Fails & Lessons Learned</b>
+1. **Failure:** 'End product'.<br />
+**Lesson:** Falling prey to the desire to spam running in behind, and take-on people with nothing other than pace. It was pointed out to me that I could benefit greatly from faking cutting inside, where the striker is available for a pass, before going down the flank.
+2. **Failure:** Game involvement.<br />
+**Lesson:** I need to vary my runs, some of them away from the ball to create a through pass scenario, some other towards it, in order to create a overload which helps the team get out. Let's start with these two.
+3. **Failure:** Hold up play.<br />
+**Lesson:** Playing as a striker requires an ability to trap the ball and help the team move higher up the pitch. My first touch and decision-making get me there.
+
+### 🌟 <b>Highlights of the Week</b>
+- <b>Memorable moment / breakthrough / proud event</b>: Playing for Wagenge on Sunday and further figuring out my football identity and the required style of play that will bring the best out of myself, and by consequence, improve the team. `Receiving deep`. I can, I will, I must come and receive the ball deep. I have the quality to beat the press and find the pass. I relieve the pressure on the ball carrier and progress the play. Occasionally receiving deep is the way forward.
+- <b>Quote, inspiration, or personal reflection</b>: "Hatutaki watu wa potential" was jokingly said to me by having-scored-one-goal Striker Kubai. `ROGER THAT`. I will deliver, next Sunday, InshaAllah.
+
+---
+
+## 📅 <b>Coming Up Next Week, InshaAllah</b> - August 31st to September 6th 2026
+- [ ] Be done eating by 7PM.
+- [ ] Stay out of bed come [7AM](https://www.youtube.com/watch?v=T4H7EC9j6mg).
+- [ ] Ensure to spend 30 minutes, [every day](https://www.youtube.com/shorts/mQcTJdyTFtA) going through the [Hip Mobility Routine for Athletes](https://www.youtube.com/watch?v=x-uNaley_O8).
+- [ ] Read, at least one page, of a physical book, every single day.
+- [ ] Average 1 hour a day of German language practice.
+
+---
+
+## 📈 <b>Meta</b>
+| Metric | This Week |
+| ------ | --------- |
+| GitHub Commits | 11 |
+| Job Application | 2 |
+| Sleep Avg (hrs) | 8 |
+| Total Coding Time (hrs) | 1 |
+| Training Sessions (Football) | 3 |
+
+---
+
+> _“Tunaifanya bila pressure, bad man, bududum keng. Adi sijaanza kuroga na kuna rapper ametense.” — Toxic Lyrikali, "Step Sana"._
+
+<!-- Let's update the log every Sunday. Let's Go! -->
+
+---
+
 ## Week 66 — Sunday, 30th August 2026
 
 ### 🌱 **What Was Worked On**
