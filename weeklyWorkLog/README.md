@@ -76,7 +76,7 @@ Created: {{ 2025-05-31 }}
 
 ---
 
-> _“Tunaifanya bila pressure, bad man, bududum keng. Adi sijaanza kuroga na kuna rapper ametense.” — Toxic Lyrikali, "Step Sana"._
+> _“Problems are a feature of life, not a bug.” — Chris Williamson, "Diary of a CEO x Modern Wisdom"._
 
 <!-- Let's update the log every Sunday. Let's Go! -->
 
