@@ -35,7 +35,7 @@ Created: {{ 2025-05-31 }}
 	3. On the same day, after having read an AI overview of NestJS, I took time to watch and learn from these videos: [Every NestJS Concept in 9 Minutes](https://www.youtube.com/watch?v=IdsBwplQAMw), [NestJS in 100 seconds](https://www.youtube.com/watch?v=0M8AYU_hPas) and [NestJS Crash Course: Learn in 25 Minutes](https://www.youtube.com/watch?v=2gtiffE3__U).
 
 - **Job hunting**
-	- Submitted 2 proposals, with a 100% 'viewed by client' rate, got interviewed for both, and was hired by none, for jobs related to Football, Sports and game footage analysis/editing.
+	- Submitted 7 proposals, with a 50% 'viewed by client' rate, got interviewed for none and hired by none, for jobs related to Football, Sports and game footage analysis/editing.
 
 ### 🏆 <b>3 Wins and/or Achievements</b>
 1. Creating Matchday Damage, a football meme video channel across social media.
