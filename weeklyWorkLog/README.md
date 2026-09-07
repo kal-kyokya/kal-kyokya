@@ -51,8 +51,8 @@ Created: {{ 2025-05-31 }}
 **Lesson:** Not owning up to my story. Fear of judgement. Fear of being thought of as less. Desire to be thought as more. Shame. Just gotta work towards a better future, increase the distance between my past failures and I.
 
 ### 🌟 <b>Highlights of the Week</b>
-- <b>Memorable moment / breakthrough / proud event</b>: Playing for Wagenge on Sunday and further figuring out my football identity and the required style of play that will bring the best out of myself, and by consequence, improve the team. `Receiving deep`. I can, I will, I must come and receive the ball deep. I have the quality to beat the press and find the pass. I relieve the pressure on the ball carrier and progress the play. Occasionally receiving deep is the way forward.
-- <b>Quote, inspiration, or personal reflection</b>: "Hatutaki watu wa potential" was jokingly said to me by having-scored-one-goal Striker Kubai. `ROGER THAT`. I will deliver, next Sunday, InshaAllah.
+- <b>Memorable moment / breakthrough / proud event</b>: The 2-hours long drives to-and-from Kangema, where Wagenge had a double game. The talking, the exchange of information, autobiographical informations, to be precise, the laughing, the teasing, the fatigue. Such a wholesome experience.
+- <b>Quote, inspiration, or personal reflection</b>: It will take more more than 4 weeks, as initially estimated, to acquire the playing experience required to consistently have 10/10 performances against weaker oppositions and 9/10 when I step out to face tougher opponents.
 
 ---
 
