@@ -38,9 +38,9 @@ Created: {{ 2025-05-31 }}
 	- Submitted 7 proposals, with a 50% 'viewed by client' rate, got interviewed for none and hired by none, for jobs related to Football, Sports and game footage analysis/editing.
 
 ### 🏆 <b>3 Wins and/or Achievements</b>
-1. Creating Matchday Damage, a football meme video channel across social media.
-2. Realizing that my runs needn't only be behind the defense, I can come short.
-3. Getting officially welcomed on Wagenge's Instagram page.
+1. Learning about NestJS, in anticipation for a project collab with a friend.
+2. Hitting 1k views on YouTube consistently, and learning about copyrights.
+3. Learning about Wagenge's way of winger's off-the-ball movement patterns.
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
 1. **Failure:** 'End product'.<br />
