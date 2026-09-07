@@ -43,12 +43,12 @@ Created: {{ 2025-05-31 }}
 3. Learning about Wagenge's way of winger's off-the-ball movement patterns.
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
-1. **Failure:** 'End product'.<br />
-**Lesson:** Falling prey to the desire to spam running in behind, and take-on people with nothing other than pace. It was pointed out to me that I could benefit greatly from faking cutting inside, where the striker is available for a pass, before going down the flank.
-2. **Failure:** Game involvement.<br />
-**Lesson:** I need to vary my runs, some of them away from the ball to create a through pass scenario, some other towards it, in order to create a overload which helps the team get out. Let's start with these two.
-3. **Failure:** Hold up play.<br />
-**Lesson:** Playing as a striker requires an ability to trap the ball and help the team move higher up the pitch. My first touch and decision-making get me there.
+1. **Failure:** Delaying the passes.<br />
+**Lesson:** It was pointed out to me that pressure in put on "the next pass" as I take a fraction of a second too long to release the ball. Know where your next pass is. Play with urgency, but do not be in a hurry.
+2. **Failure:** Pass-and-Move.<br />
+**Lesson:** It was pointed out to me that the most enjoyable football is the one where everyone releases the ball quickly and leans not towards one-v-one football. To the team's moral, losing the ball while trying to build a possesion phase feels different than doing so after having ignored an outlet pass.
+3. **Failure:** The truth.<br />
+**Lesson:** Not owning up to my story. Fear of judgement. Fear of being thought of as less. Desire to be thought as more. Shame. Just gotta work towards a better future, increase the distance between my past failures and I.
 
 ### 🌟 <b>Highlights of the Week</b>
 - <b>Memorable moment / breakthrough / proud event</b>: Playing for Wagenge on Sunday and further figuring out my football identity and the required style of play that will bring the best out of myself, and by consequence, improve the team. `Receiving deep`. I can, I will, I must come and receive the ball deep. I have the quality to beat the press and find the pass. I relieve the pressure on the ball carrier and progress the play. Occasionally receiving deep is the way forward.
@@ -104,7 +104,7 @@ Created: {{ 2025-05-31 }}
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
 1. **Failure:** 'End product'.<br />
-**Lesson:** Falling prey to the desire to spam running in behind, and take-on people with nothing other than pace. It was pointed out to me that I could benefit greatly from faking cutting inside, where the striker is available for a pass, before going down the flank.
+**Lesson:** Falling prey to the desire to spam running in behind, and taking people on with nothing other than pace. It was pointed out to me that I could benefit greatly from faking cutting inside, where the striker is available for a pass, before going down the flank.
 2. **Failure:** Game involvement.<br />
 **Lesson:** I need to vary my runs, some of them away from the ball to create a through pass scenario, some other towards it, in order to create a overload which helps the team get out. Let's start with these two.
 3. **Failure:** Hold up play.<br />
