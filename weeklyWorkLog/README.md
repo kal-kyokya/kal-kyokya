@@ -36,7 +36,7 @@ Created: {{ 2025-05-31 }}
 	4. Followed, thirty minutes later with a google search of the meaning of an object or system that is [deterministic](https://www.google.com/search?q=deterministic+meaning).
 
 - **Job hunting**
-	- Submitted 7 proposals, with a 50% 'viewed by client' rate, got interviewed for none and hired by none, for jobs related to Football, Sports and game footage analysis/editing.
+	- Submitted 2 proposals, with a 50% 'viewed by client' rate, got interviewed for none and hired by none, for jobs related to Football, Sports and game footage analysis/editing.
 
 ### 🏆 <b>3 Wins and/or Achievements</b>
 1. Learning about NestJS, in anticipation for a project collab with a friend.
