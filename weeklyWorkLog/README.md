@@ -22,6 +22,66 @@ Created: {{ 2025-05-31 }}
 
 ---
 
+## Week 68 — Sunday, 13th September 2026
+
+### 🌱 **What Was Worked On**
+
+- **Projects**
+	1. **[Futtech-Django](https://www.futtech.kalkyokya.tech/showcase)**: Deployed a demo version of the Futtech XI feature, an intelligent, online, football analysis department capable of doing research, tactical analysis, content idea strategy proposals and quality assurance before report creation.
+
+- **Learning & Growth**
+	1. Wednesday, as I set on learning NestJS for a project I have been requested to work on, I looked up [NestJS DTO (Data Transfer Object)](https://www.google.com/search?q=nestjs+dto).
+	2. Thursday morning, as I continued with my NestJS learning, I used [Python decorator chaining](https://www.google.com/search?q=python+decorator+chaining) as a helper for the use of NestJS class, method and argument decorators.
+	3. On the same day, after having read an AI overview of NestJS, I took time to watch and learn from these videos: [Every NestJS Concept in 9 Minutes](https://www.youtube.com/watch?v=IdsBwplQAMw), [NestJS in 100 seconds](https://www.youtube.com/watch?v=0M8AYU_hPas) and [NestJS Crash Course: Learn in 25 Minutes](https://www.youtube.com/watch?v=2gtiffE3__U).
+
+- **Job hunting**
+	- Submitted 7 proposals, with a 50% 'viewed by client' rate, got interviewed for none and hired by none, for jobs related to Football, Sports and game footage analysis/editing.
+
+### 🏆 <b>3 Wins and/or Achievements</b>
+1. Learning about NestJS, in anticipation for a project collab with a friend.
+2. Hitting 1k views on YouTube consistently, and learning about copyrights.
+3. Learning about Wagenge's way of winger's off-the-ball movement patterns.
+
+### 🔭 <b>3 Fails & Lessons Learned</b>
+1. **Failure:** Delaying the passes.<br />
+**Lesson:** It was pointed out to me that pressure in put on "the next pass" as I take a fraction of a second too long to release the ball. Know where your next pass is. Play with urgency, but do not be in a hurry.
+2. **Failure:** Pass-and-Move.<br />
+**Lesson:** It was pointed out to me that the most enjoyable football is the one where everyone releases the ball quickly and leans not towards one-v-one football. To the team's moral, losing the ball while trying to build a possesion phase feels different than doing so after having ignored an outlet pass.
+3. **Failure:** The truth.<br />
+**Lesson:** Not owning up to my story. Fear of judgement. Fear of being thought of as less. Desire to be thought as more. Shame. Just gotta work towards a better future, increase the distance between my past failures and I.
+
+### 🌟 <b>Highlights of the Week</b>
+- <b>Memorable moment / breakthrough / proud event</b>: The 2-hours long drives to-and-from Kangema, where Wagenge had a double game. The talking, the exchange of information, autobiographical informations, to be precise, the laughing, the teasing, the fatigue. Such a wholesome experience.
+- <b>Quote, inspiration, or personal reflection</b>: It will take more more than 4 weeks, as initially estimated, to acquire the playing experience required to consistently have 10/10 performances against weaker oppositions and 9/10 when I step out to face tougher opponents.
+
+---
+
+## 📅 <b>Coming Up Next Week, InshaAllah</b> - September 7th to 13th 2026
+- [ ] Be done eating by 7PM.
+- [ ] Stay out of bed come [7AM](https://www.youtube.com/watch?v=T4H7EC9j6mg).
+- [ ] Ensure to spend 30 minutes, [every day](https://www.youtube.com/shorts/mQcTJdyTFtA) going through the [Hip Mobility Routine for Athletes](https://www.youtube.com/watch?v=x-uNaley_O8).
+- [ ] Read, at least one page, of a physical book, every single day.
+- [ ] Average 1 hour a day of German language practice.
+
+---
+
+## 📈 <b>Meta</b>
+| Metric | This Week |
+| ------ | --------- |
+| GitHub Commits | 16 |
+| Job Application | 7 |
+| Sleep Avg (hrs) | 7 |
+| Total Coding Time (hrs) | 1 |
+| Training Sessions (Football) | 2 |
+
+---
+
+> _“Problems are a feature of life, not a bug.” — Chris Williamson, "Diary of a CEO x Modern Wisdom"._
+
+<!-- Let's update the log every Sunday. Let's Go! -->
+
+---
+
 ## Week 67 — Sunday, 6th September 2026
 
 ### 🌱 **What Was Worked On**
