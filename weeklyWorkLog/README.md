@@ -53,8 +53,8 @@ Created: {{ 2025-05-31 }}
 **Lesson:** Fot the second week running: "Not owning up to my story. Fear of judgement. Fear of being thought of as less. Desire to be thought as more. Shame. Just gotta work towards a better future, increase the distance between my past failures and I".
 
 ### 🌟 <b>Highlights of the Week</b>
-- <b>Memorable moment / breakthrough / proud event</b>: The 2-hours long drives to-and-from Kangema, where Wagenge had a double game. The talking, the exchange of information, autobiographical informations, to be precise, the laughing, the teasing, the fatigue. Such a wholesome experience.
-- <b>Quote, inspiration, or personal reflection</b>: It will take more more than 4 weeks, as initially estimated, to acquire the playing experience required to consistently have 10/10 performances against weaker oppositions and 9/10 when I step out to face tougher opponents.
+- <b>Memorable moment / breakthrough / proud event</b>: Having a 3 hour long call with a familiar stranger who has ties with South Africa and Ivory Coast, although born in deux cent quarante trois. Autobiographical information was shared, each of us got to articulate our beings, the narrative structure of our lives and directions that led to that moment. I don't do that often. That was enjoyable.
+- <b>Quote, inspiration, or personal reflection</b>: "Truth is discovered, not conceived", Orb - On the Movements of the Earth. This applies to the greatness and excellency of one's life too. Truth and Justice are to be encountered, as one walks THE Path.
 
 ---
 
