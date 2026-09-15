@@ -30,9 +30,10 @@ Created: {{ 2025-05-31 }}
 	1. **[Futtech-Django](https://www.futtech.kalkyokya.tech/showcase)**: Deployed a demo version of the Futtech XI feature, an intelligent, online, football analysis department capable of doing research, tactical analysis, content idea strategy proposals and quality assurance before report creation.
 
 - **Learning & Growth**
-	1. Wednesday, as I set on learning NestJS for a project I have been requested to work on, I looked up [NestJS DTO (Data Transfer Object)](https://www.google.com/search?q=nestjs+dto).
-	2. Thursday morning, as I continued with my NestJS learning, I used [Python decorator chaining](https://www.google.com/search?q=python+decorator+chaining) as a helper for the use of NestJS class, method and argument decorators.
-	3. On the same day, after having read an AI overview of NestJS, I took time to watch and learn from these videos: [Every NestJS Concept in 9 Minutes](https://www.youtube.com/watch?v=IdsBwplQAMw), [NestJS in 100 seconds](https://www.youtube.com/watch?v=0M8AYU_hPas) and [NestJS Crash Course: Learn in 25 Minutes](https://www.youtube.com/watch?v=2gtiffE3__U).
+	1. Thursday afternoon, as I read [JavisCore's documentation](https://jarviscore.developers.prescottdata.io/concepts/), the concept of a [Mesh network](https://www.google.com/search?q=mesh+network) revealed itself as in need to be looked up to better understand how created agents 'communicate'.
+	2. Saturday early morning, as I was hands-on with creation of Futtech XI, I wondered how [React imports 'fetch()'](https://www.google.com/search?q=react+import+fetch+function). Which as it turns out it doesn't, given that fetch is a built-in function.
+	3. In the hour after this, I required a reminder of how the [CSS clamp function](https://www.google.com/search?q=css+clamp+function) works.
+	4. Followed, thirty minutes later with a google search of the meaning of an object or system that is [deterministic](https://www.google.com/search?q=deterministic+meaning).
 
 - **Job hunting**
 	- Submitted 7 proposals, with a 50% 'viewed by client' rate, got interviewed for none and hired by none, for jobs related to Football, Sports and game footage analysis/editing.
