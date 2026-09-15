@@ -45,12 +45,12 @@ Created: {{ 2025-05-31 }}
 3. Being assertive enough to schedule a worthwhile, weekend call to Ivory Coast.
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
-1. **Failure:** Delaying the passes.<br />
-**Lesson:** It was pointed out to me that pressure in put on "the next pass" as I take a fraction of a second too long to release the ball. Know where your next pass is. Play with urgency, but do not be in a hurry.
-2. **Failure:** Pass-and-Move.<br />
-**Lesson:** It was pointed out to me that the most enjoyable football is the one where everyone releases the ball quickly and leans not towards one-v-one football. To the team's moral, losing the ball while trying to build a possesion phase feels different than doing so after having ignored an outlet pass.
-3. **Failure:** The truth.<br />
-**Lesson:** Not owning up to my story. Fear of judgement. Fear of being thought of as less. Desire to be thought as more. Shame. Just gotta work towards a better future, increase the distance between my past failures and I.
+1. **Failure:** Shooting on target.<br />
+**Lesson:** I did a good job with my off-the-ball movement to find myself in positions where I could take uncontested shots. I also was able to hit the ball with conviction. Being on target is the next step. We can increase the likely of this happening by driving goalwards the next time.
+2. **Failure:** Delaying the passes.<br />
+**Lesson:** Playing as a striker requires quick turns or one touch passes back to the direct option. Otherwise the CBs and CDM can come from any direction and tackle.
+3. **Failure:** 'The truth'.<br />
+**Lesson:** Fot the second week running: "Not owning up to my story. Fear of judgement. Fear of being thought of as less. Desire to be thought as more. Shame. Just gotta work towards a better future, increase the distance between my past failures and I".
 
 ### 🌟 <b>Highlights of the Week</b>
 - <b>Memorable moment / breakthrough / proud event</b>: The 2-hours long drives to-and-from Kangema, where Wagenge had a double game. The talking, the exchange of information, autobiographical informations, to be precise, the laughing, the teasing, the fatigue. Such a wholesome experience.
