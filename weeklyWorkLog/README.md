@@ -40,6 +40,9 @@ Created: {{ 2025-05-31 }}
 	- Receiving a Pre-incorporation Founders Agreement contract offer to work on/for a FinTech Remittance company.
 
 ### 🏆 <b>3 Wins and/or Achievements</b>
+1. Learning of JavisCore & cloud agents, tools for creating 'Ndoto the analyst'.
+2. Playing as a Striker for Wagenge and moving well enough to be a goal-threat.
+3. Being assertive enough to schedule a worthwhile, weekend call to Ivory Coast.
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
 1. **Failure:** Delaying the passes.<br />
