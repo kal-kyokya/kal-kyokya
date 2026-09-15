@@ -78,7 +78,7 @@ Created: {{ 2025-05-31 }}
 
 ---
 
-> _“Problems are a feature of life, not a bug.” — Chris Williamson, "Diary of a CEO x Modern Wisdom"._
+> _“Le Seigneur saura comment te faire bénéficier de ton diplôme d'ingénieur. Cependant, il faut pas accepter d'être asservi.” — Didier KYOKYA Bonge, "Revision d'une offre d'emploi"._
 
 <!-- Let's update the log every Sunday. Let's Go! -->
 
