@@ -37,11 +37,9 @@ Created: {{ 2025-05-31 }}
 
 - **Job hunting**
 	- Submitted 2 proposals, with a 50% 'viewed by client' rate, got interviewed for none and hired by none, for jobs related to Football, Sports and game footage analysis/editing.
+	- Receiving a Pre-incorporation Founders Agreement contract offer to work on/for a FinTech Remittance company.
 
 ### 🏆 <b>3 Wins and/or Achievements</b>
-1. Learning about NestJS, in anticipation for a project collab with a friend.
-2. Hitting 1k views on YouTube consistently, and learning about copyrights.
-3. Learning about Wagenge's way of winger's off-the-ball movement patterns.
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
 1. **Failure:** Delaying the passes.<br />
