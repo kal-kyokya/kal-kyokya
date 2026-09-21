@@ -63,7 +63,7 @@ Created: {{ 2025-05-31 }}
 - [ ] Be done eating by 7PM.
 - [ ] Stay out of bed come [7AM](https://www.youtube.com/watch?v=T4H7EC9j6mg).
 - [ ] Ensure to spend 30 minutes, [every day](https://www.youtube.com/shorts/mQcTJdyTFtA) going through the [Hip Mobility Routine for Athletes](https://www.youtube.com/watch?v=x-uNaley_O8).
-- [ ] Read, at least one page, of a physical book, every single day.
+- [ ] Complete at least 50% of Matchday Damage's upload by monday.
 - [ ] Average 1 hour a day of German language practice.
 
 ---
