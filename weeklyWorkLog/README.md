@@ -36,8 +36,9 @@ Created: {{ 2025-05-31 }}
 	4. Wednesday started with a quick look up of [the meaning of SMTP](https://www.google.com/search?q=smtp+meaning). An important thing for anyone implementing an email feature to be aware of.
 
 - **Job hunting**
-	- Submitted 2 proposals, with a 50% 'viewed by client' rate, got interviewed for none and hired by none, for jobs related to Football, Sports and game footage analysis/editing.
-	- Receiving a Pre-incorporation Founders Agreement contract offer to work on/for a FinTech Remittance company.
+	- I was hired for a paid-test french football video editing job titled 'YouTube Football Video Editor – French Channel | AI Voice + Visuals + Editing.'
+	- Submitted 1 proposal, with a 0% 'viewed by client' rate, got interviewed for none and hired by none, for jobs related to Football, Sports and game footage analysis/editing.
+	- Signing the 2 years Pre-incorporation Founders Agreement contract offer to work on/for a Congolese FinTech Remittance company that ties D.R. Congo and Kenya.
 
 ### 🏆 <b>3 Wins and/or Achievements</b>
 1. Learning of JavisCore & cloud agents, tools for creating 'Ndoto the analyst'.
