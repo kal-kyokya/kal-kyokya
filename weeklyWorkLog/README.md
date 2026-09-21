@@ -27,13 +27,13 @@ Created: {{ 2025-05-31 }}
 ### 🌱 **What Was Worked On**
 
 - **Projects**
-	1. **[Futtech-Django](https://www.futtech.kalkyokya.tech/showcase)**: Use [My domain provider; Get.tech](get.tech) in order to establish a third-party email host responsible for sending Futtech's email notifications. Renamed 'Futtech XI' to Futtech Cloud, and brushed up the demo version for reliability; by adding an extensive test suite and ensuring API resolution.
+	1. **[Futtech-Django](https://www.futtech.kalkyokya.tech/showcase)**: Use [My domain provider; Get.tech](https://get.tech/) in order to establish a third-party email host responsible for sending Futtech's email notifications. Renamed 'Futtech XI' to Futtech Cloud, and brushed up the demo version for reliability; by adding an extensive test suite and ensuring API resolution.
 
 - **Learning & Growth**
-	1. Thursday afternoon, as I read [JavisCore's documentation](https://jarviscore.developers.prescottdata.io/concepts/), the concept of a [Mesh network](https://www.google.com/search?q=mesh+network) revealed itself as in need to be looked up to better understand how created agents 'communicate'.
-	2. Saturday early morning, as I was hands-on with creation of Futtech XI, I wondered how [React imports 'fetch()'](https://www.google.com/search?q=react+import+fetch+function). Which as it turns out it doesn't, given that fetch is a built-in function.
-	3. In the hour after this, I required a reminder of how the [CSS clamp function](https://www.google.com/search?q=css+clamp+function) works.
-	4. Followed, thirty minutes later with a google search of the meaning of an object or system that is [deterministic](https://www.google.com/search?q=deterministic+meaning).
+	1. Ever wondered ["How to wash off super glue?"](https://www.google.com/search?q=wash+off+super+glue), well, me too. It happened on Tuesday, early morning I set on glueing parts of my table that have once again collapse, not even a week after.
+	2. Later on that morning, as I set on ensuring Futtech was able to send email notifications, I discovered that get.tech partnered with [Titan.email](https://titan.email/) - A customer-centric Professional Business Email Platform, which facilitates implementation of features such as I sought.
+	3. In the afternoon hours, linking of Futtech (Linode Akamai's VPS), get.tech (kalkyokya.tech DNS) and titan.email ([Titan's SMTP server](https://www.google.com/search?q=Titan%27s+SMTP+server)) led to my learning about [Linode's Docs for Running a Mail Server](https://www.akamai.com/cloud/topresults/?tags=email).
+	4. Wednesday started with a quick look up of [the meaning of SMTP](https://www.google.com/search?q=smtp+meaning). An important thing for anyone implementing an email feature to be aware of.
 
 - **Job hunting**
 	- Submitted 2 proposals, with a 50% 'viewed by client' rate, got interviewed for none and hired by none, for jobs related to Football, Sports and game footage analysis/editing.
