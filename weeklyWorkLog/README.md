@@ -22,6 +22,68 @@ Created: {{ 2025-05-31 }}
 
 ---
 
+## Week 69 — Sunday, 20th September 2026
+
+### 🌱 **What Was Worked On**
+
+- **Projects**
+	1. **[Futtech-Django](https://www.futtech.kalkyokya.tech/showcase)**: Use [My domain provider; Get.tech](get.tech) in order to establish a third-party email host responsible for sending Futtech's email notifications. Renamed 'Futtech XI' to Futtech Cloud, and brushed up the demo version for reliability; by adding an extensive test suite and ensuring API resolution.
+
+- **Learning & Growth**
+	1. Thursday afternoon, as I read [JavisCore's documentation](https://jarviscore.developers.prescottdata.io/concepts/), the concept of a [Mesh network](https://www.google.com/search?q=mesh+network) revealed itself as in need to be looked up to better understand how created agents 'communicate'.
+	2. Saturday early morning, as I was hands-on with creation of Futtech XI, I wondered how [React imports 'fetch()'](https://www.google.com/search?q=react+import+fetch+function). Which as it turns out it doesn't, given that fetch is a built-in function.
+	3. In the hour after this, I required a reminder of how the [CSS clamp function](https://www.google.com/search?q=css+clamp+function) works.
+	4. Followed, thirty minutes later with a google search of the meaning of an object or system that is [deterministic](https://www.google.com/search?q=deterministic+meaning).
+
+- **Job hunting**
+	- Submitted 2 proposals, with a 50% 'viewed by client' rate, got interviewed for none and hired by none, for jobs related to Football, Sports and game footage analysis/editing.
+	- Receiving a Pre-incorporation Founders Agreement contract offer to work on/for a FinTech Remittance company.
+
+### 🏆 <b>3 Wins and/or Achievements</b>
+1. Learning of JavisCore & cloud agents, tools for creating 'Ndoto the analyst'.
+2. Playing as a Striker for Wagenge and moving well enough to be a goal-threat.
+3. Being assertive enough to schedule a worthwhile, weekend call to Ivory Coast.
+
+### 🔭 <b>3 Fails & Lessons Learned</b>
+1. **Failure:** Shooting on target.<br />
+**Lesson:** I did a good job with my off-the-ball movement to find myself in positions where I could take uncontested shots. I also was able to hit the ball with conviction. Being on target is the next step. We can increase the likely of this happening by driving goalwards the next time.
+2. **Failure:** Delaying the passes.<br />
+**Lesson:** Playing as a striker requires quick turns or one touch passes back to the direct option. Otherwise the CBs and CDM can come from any direction and tackle.
+3. **Failure:** 'The truth'.<br />
+**Lesson:** Fot the second week running: "Not owning up to my story. Fear of judgement. Fear of being thought of as less. Desire to be thought as more. Shame. Just gotta work towards a better future, increase the distance between my past failures and I".
+
+### 🌟 <b>Highlights of the Week</b>
+- <b>Memorable moment / breakthrough / proud event</b>: Having a 3 hour long call with a familiar stranger who has ties with South Africa and Ivory Coast, although born in deux cent quarante trois. Autobiographical information was shared, each of us got to articulate our beings, the narrative structure of our lives and directions that led to that moment. I don't do that often. That was enjoyable.
+- <b>Quote, inspiration, or personal reflection</b>: "Truth is discovered, not conceived", Orb - On the Movements of the Earth. This applies to the greatness and excellency of one's life too. Truth and Justice are to be encountered, as one walks THE Path.
+
+---
+
+## 📅 <b>Coming Up Next Week, InshaAllah</b> - September 14th to 20th 2026
+- [ ] Be done eating by 7PM.
+- [ ] Stay out of bed come [7AM](https://www.youtube.com/watch?v=T4H7EC9j6mg).
+- [ ] Ensure to spend 30 minutes, [every day](https://www.youtube.com/shorts/mQcTJdyTFtA) going through the [Hip Mobility Routine for Athletes](https://www.youtube.com/watch?v=x-uNaley_O8).
+- [ ] Read, at least one page, of a physical book, every single day.
+- [ ] Average 1 hour a day of German language practice.
+
+---
+
+## 📈 <b>Meta</b>
+| Metric | This Week |
+| ------ | --------- |
+| GitHub Commits | 33 |
+| Job Application | 2 |
+| Sleep Avg (hrs) | 8 |
+| Total Coding Time (hrs) | 8 |
+| Training Sessions (Football) | 2 |
+
+---
+
+> _“Le Seigneur saura comment te faire bénéficier de ton diplôme d'ingénieur. Cependant, il faut pas accepter d'être asservi.” — Didier KYOKYA Bonge, "Revision d'une offre d'emploi"._
+
+<!-- Let's update the log every Sunday. Let's Go! -->
+
+---
+
 ## Week 68 — Sunday, 13th September 2026
 
 ### 🌱 **What Was Worked On**
