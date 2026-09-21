@@ -54,8 +54,8 @@ Created: {{ 2025-05-31 }}
 **Lesson:** "Consistency, consistency, consistency. That's the name of the game." You win the day, by winning the night. You win the night, by winning the day. You win the day by praying, you win the night by going to bed early.
 
 ### 🌟 <b>Highlights of the Week</b>
-- <b>Memorable moment / breakthrough / proud event</b>: Having a 3 hour long call with a familiar stranger who has ties with South Africa and Ivory Coast, although born in deux cent quarante trois. Autobiographical information was shared, each of us got to articulate our beings, the narrative structure of our lives and directions that led to that moment. I don't do that often. That was enjoyable.
-- <b>Quote, inspiration, or personal reflection</b>: "Truth is discovered, not conceived", Orb - On the Movements of the Earth. This applies to the greatness and excellency of one's life too. Truth and Justice are to be encountered, as one walks THE Path.
+- <b>Memorable moment / breakthrough / proud event</b>: Getting to hop into a 30 minutes Google meet with the Google Cloud Developer who introduced me to JarvisCore and be subject to a flow of multiple emergent thoughts, ideas, proposition and realization that had both of share autobiographical information that left me feeling like there is potential in a collaboration between our two worlds.
+- <b>Quote, inspiration, or personal reflection</b>: A brother is biased towards the 243. La femme. One who has those roots? Maybe. I don't know, man. It's a lifetime commitment, better take the time to ponder, to reflect.
 
 ---
 
