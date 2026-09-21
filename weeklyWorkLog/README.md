@@ -79,7 +79,7 @@ Created: {{ 2025-05-31 }}
 
 ---
 
-> _“Le Seigneur saura comment te faire bénéficier de ton diplôme d'ingénieur. Cependant, il faut pas accepter d'être asservi.” — Didier KYOKYA Bonge, "Revision d'une offre d'emploi"._
+> _“Consistency, consistency, man, that's the name of the game, bro. Don't get much simpler than that.” — Dami Onakoya, "Damii"._
 
 <!-- Let's update the log every Sunday. Let's Go! -->
 
