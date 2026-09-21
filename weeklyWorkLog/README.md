@@ -41,17 +41,17 @@ Created: {{ 2025-05-31 }}
 	- Signing the 2 years Pre-incorporation Founders Agreement contract offer to work on/for a Congolese FinTech Remittance company that ties D.R. Congo and Kenya.
 
 ### 🏆 <b>3 Wins and/or Achievements</b>
-1. Learning of JavisCore & cloud agents, tools for creating 'Ndoto the analyst'.
-2. Playing as a Striker for Wagenge and moving well enough to be a goal-threat.
-3. Being assertive enough to schedule a worthwhile, weekend call to Ivory Coast.
+1. Learning of YouTube Audio Library to find copyright-free music for videos.
+2. Going on a journey of discovery leading to a new Naivas branch near me.
+3. Supporting Wagenge as a fan during its sunday's league game loss to Survey.
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
-1. **Failure:** Shooting on target.<br />
-**Lesson:** I did a good job with my off-the-ball movement to find myself in positions where I could take uncontested shots. I also was able to hit the ball with conviction. Being on target is the next step. We can increase the likely of this happening by driving goalwards the next time.
-2. **Failure:** Delaying the passes.<br />
-**Lesson:** Playing as a striker requires quick turns or one touch passes back to the direct option. Otherwise the CBs and CDM can come from any direction and tackle.
-3. **Failure:** 'The truth'.<br />
-**Lesson:** Fot the second week running: "Not owning up to my story. Fear of judgement. Fear of being thought of as less. Desire to be thought as more. Shame. Just gotta work towards a better future, increase the distance between my past failures and I".
+1. **Failure:** Reduce Desire or increase Sacrifice.<br />
+**Lesson:** I insist on asserting my being, my taste, my preference. I am willing to pay extra for the convenience of having my own space during Wagenge's Kakamega trip. That expenditure demands a serious consideration in the hours I HAVE to invest seeking the income to balance my spending-sheet.
+2. **Failure:** 2.4M.<br />
+**Lesson:** I can't help feel like "I need to do more". Although, funny enough, I currently have 2 jobs. How do I increase my income? Is this a time for patience, as things slowly but surely are falling in place? Gotta keep making moves, that's it.
+3. **Failure:** Praying and sleeping on time.<br />
+**Lesson:** "Consistency, consistency, consistency. That's the name of the game." You win the day, by winning the night. You win the night, by winning the day. You win the day by praying, you win the night by going to bed early.
 
 ### 🌟 <b>Highlights of the Week</b>
 - <b>Memorable moment / breakthrough / proud event</b>: Having a 3 hour long call with a familiar stranger who has ties with South Africa and Ivory Coast, although born in deux cent quarante trois. Autobiographical information was shared, each of us got to articulate our beings, the narrative structure of our lives and directions that led to that moment. I don't do that often. That was enjoyable.
