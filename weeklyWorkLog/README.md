@@ -57,8 +57,8 @@ Updated: {{ 28-Sep-26 }}
 **Lesson:** For the second week running: "Consistency, consistency, consistency. That's the name of the game." You win the day, by winning the night. You win the night, by winning the day. You win the day by praying, you win the night by going to bed early.
 
 ### 🌟 <b>Highlights of the Week</b>
-- <b>Memorable moment / breakthrough / proud event</b>: Getting to hop into a 30 minutes Google meet with the Google Cloud Developer who introduced me to JarvisCore and be subject to a flow of multiple emergent thoughts, ideas, proposition and realization that had both of share autobiographical information that left me feeling like there is potential in a collaboration between our two worlds.
-- <b>Quote, inspiration, or personal reflection</b>: A brother is biased towards the 243. La femme. One who has those roots? Maybe. I don't know, man. It's a lifetime commitment, better take the time to ponder, to reflect.
+- <b>Memorable moment / breakthrough / proud event</b>: The 0 G/A game played with Wagenge on Sunday was quite the event. I didn't play to score. I played to take on my defender and, when my team got me the ball, had me some fun. Big shoutout to the brother who ask of me to "express myself". That guided the approach I ended up taking in the game.
+- <b>Quote, inspiration, or personal reflection</b>: "Be you, the world will adjust." — This is in relation to the message that was given to me before the game on Sunday. Show the team what kind of player you are, they will play to your strengths and bring the best out of you. Be You.
 
 ---
 
