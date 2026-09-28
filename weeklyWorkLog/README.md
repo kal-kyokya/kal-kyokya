@@ -41,9 +41,7 @@ Updated: {{ 28-Sep-26 }}
 	8. Exploration of these documentations led to these couple google search; [Docker compose](https://www.google.com/search?q=docker+compose) as well as [Prisma upsert].
 
 - **Job hunting**
-	- I was hired for a paid-test french football video editing job titled 'YouTube Football Video Editor – French Channel | AI Voice + Visuals + Editing.'
-	- Submitted 1 proposal, with a 0% 'viewed by client' rate, got interviewed for none and hired by none, for jobs related to Football, Sports and game footage analysis/editing.
-	- Signing the 2 years Pre-incorporation Founders Agreement contract offer to work on/for a Congolese FinTech Remittance company that ties D.R. Congo and Kenya.
+	- Submitted 3 proposals, with a 0% 'viewed by client' rate, got interviewed and hired by none, for jobs related to Football, Sports and game footage analysis/editing.
 
 ### 🏆 <b>3 Wins and/or Achievements</b>
 1. Learning of YouTube Audio Library to find copyright-free music for videos.
