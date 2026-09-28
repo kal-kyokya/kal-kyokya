@@ -44,9 +44,9 @@ Updated: {{ 28-Sep-26 }}
 	- Submitted 3 proposals, with a 0% 'viewed by client' rate, got interviewed and hired by none, for jobs related to Football, Sports and game footage analysis/editing.
 
 ### 🏆 <b>3 Wins and/or Achievements</b>
-1. Learning of YouTube Audio Library to find copyright-free music for videos.
-2. Going on a journey of discovery leading to a new Naivas branch near me.
-3. Supporting Wagenge as a fan during its sunday's league game loss to Survey.
+1. Realizing the ease of understanding software found in reading the docs.
+2. Extracting content from the international break for Matchday Damage.
+3. 2.4M moves and staying afloat long enough to find a way to win the game.
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
 1. **Failure:** Reduce Desire or increase Sacrifice.<br />
