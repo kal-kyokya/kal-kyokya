@@ -49,12 +49,12 @@ Updated: {{ 28-Sep-26 }}
 3. 2.4M moves and staying afloat long enough to find a way to win the game.
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
-1. **Failure:** Reduce Desire or increase Sacrifice.<br />
-**Lesson:** I insist on asserting my being, my taste, my preference. I am willing to pay extra for the convenience of having my own space during Wagenge's Kakamega trip. That expenditure demands a serious consideration in the hours I HAVE to invest seeking the income to balance my spending-sheet.
-2. **Failure:** 2.4M.<br />
-**Lesson:** I can't help feel like "I need to do more". Although, funny enough, I currently have 2 jobs. How do I increase my income? Is this a time for patience, as things slowly but surely are falling in place? Gotta keep making moves, that's it.
+1. **Failure:** Dribble mode On, Finishing mode Off.<br />
+**Lesson:** On a weekend where I was prompted to 'express myself', and took on people more than once, I failed to register a single attempt on goal, although I got inside the penalty box more than once, and attempted cutbacks. Stay in take on mode, add "low, hard finishes far post".
+2. **Failure:** "Una dribble sana".<br />
+**Lesson:** Balance dribbling and passing. Let's lay that down at the feet of intention and a bit more experience. Intend on being efficient, let the passage of time see you grow in efficiency.
 3. **Failure:** Praying and sleeping on time.<br />
-**Lesson:** "Consistency, consistency, consistency. That's the name of the game." You win the day, by winning the night. You win the night, by winning the day. You win the day by praying, you win the night by going to bed early.
+**Lesson:** For the second week running: "Consistency, consistency, consistency. That's the name of the game." You win the day, by winning the night. You win the night, by winning the day. You win the day by praying, you win the night by going to bed early.
 
 ### 🌟 <b>Highlights of the Week</b>
 - <b>Memorable moment / breakthrough / proud event</b>: Getting to hop into a 30 minutes Google meet with the Google Cloud Developer who introduced me to JarvisCore and be subject to a flow of multiple emergent thoughts, ideas, proposition and realization that had both of share autobiographical information that left me feeling like there is potential in a collaboration between our two worlds.
