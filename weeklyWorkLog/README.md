@@ -1,14 +1,14 @@
 <!--
 Jean-Paul KYOKYA — Weekly Work Log (Brag List)
 Repository: kal-kyokya
-Created: {{ 2025-05-31 }}
-Updated: {{ 2026-09-26 }}
+Created: {{ 31-May-25 }}
+Updated: {{ 28-Sep-26 }}
 -->
 
 # Jean-Paul KYOKYA — Weekly Work Log
-<b>Start Date:</b> Saturday, May 31, 2025<br />
+<b>Start Date:</b> Saturday, May 31st, 2025<br />
 <b>Location:</b> Nairobi, Kenya<br />
-<b>Title:</b> Software Engineering Student - [USIU-Africa](https://www.usiu.ac.ke) | Tech Founder ([Futtech](https://www.futtech.kalkyokya.tech/about) & Everything-IoT) | [ALX](https://www.alxafrica.com) Graduate | Embedded Systems Aspirant<br />
+<b>Titles:</b> Tech Founder of ([Futtech](https://www.futtech.kalkyokya.tech/about) & Everything-IoT) | Striker at [Wagenge FC](https://wagengefc.karinova.io) | Founding Engineer at Zongo | [ALX](https://www.alxafrica.com) Graduate | Software Engineering Student - [USIU-Africa](https://www.usiu.ac.ke) | Football Video Analyst.<br />
 <b>Mission:</b> Build impactful tech products at the intersection of software, hardware, and football development in Africa.
 
 ---
@@ -17,7 +17,7 @@ Updated: {{ 2026-09-26 }}
 
 🔹 What was worked on.<br />
 🔹 Bugs encountered and resolution.<br />
-🔹 What was achieved.<br />
+🔹 What was achieved; personally and professionally.<br />
 🔹 What didn’t go well — and what was learned.<br />
 🔹 Any standout moments or breakthroughs.
 
