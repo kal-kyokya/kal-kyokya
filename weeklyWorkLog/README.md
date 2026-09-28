@@ -23,6 +23,69 @@ Updated: {{ 28-Sep-26 }}
 
 ---
 
+## Week 70 — Sunday, 27th September 2026
+
+### 🌱 **What Was Worked On**
+
+- **Projects**
+	1. **[Futtech-Django](https://www.futtech.kalkyokya.tech/showcase)**: Expanded the social media extension of Futtech: [Matchday Damage](https://www.youtube.com/@MatchdayDamage)'s video list with humorous edits covering both the EPL's top 6 and FC Barcelona, as well as Spain's first international break game, from a Barcelona fan's perspective.
+
+- **Learning & Growth**
+	1. Ever wondered ["How to wash off super glue?"](https://www.google.com/search?q=wash+off+super+glue), well, me too. It happened on Tuesday, early morning I set on glueing parts of my table that have once again collapse, not even a week after.
+	2. Later on that morning, as I set on ensuring Futtech was able to send email notifications, I discovered that get.tech partnered with [Titan.email](https://titan.email/) - A customer-centric Professional Business Email Platform, which facilitates implementation of features such as I sought.
+	3. In the afternoon hours, linking of Futtech (Linode Akamai's VPS), get.tech (kalkyokya.tech DNS) and titan.email ([Titan's SMTP server](https://www.google.com/search?q=Titan%27s+SMTP+server)) led to my learning about [Linode's Docs for Running a Mail Server](https://www.akamai.com/cloud/topresults/?tags=email).
+	4. Wednesday started with a quick look up of [the meaning of SMTP](https://www.google.com/search?q=smtp+meaning). An important thing for anyone implementing an email feature to be aware of.
+
+- **Job hunting**
+	- I was hired for a paid-test french football video editing job titled 'YouTube Football Video Editor – French Channel | AI Voice + Visuals + Editing.'
+	- Submitted 1 proposal, with a 0% 'viewed by client' rate, got interviewed for none and hired by none, for jobs related to Football, Sports and game footage analysis/editing.
+	- Signing the 2 years Pre-incorporation Founders Agreement contract offer to work on/for a Congolese FinTech Remittance company that ties D.R. Congo and Kenya.
+
+### 🏆 <b>3 Wins and/or Achievements</b>
+1. Learning of YouTube Audio Library to find copyright-free music for videos.
+2. Going on a journey of discovery leading to a new Naivas branch near me.
+3. Supporting Wagenge as a fan during its sunday's league game loss to Survey.
+
+### 🔭 <b>3 Fails & Lessons Learned</b>
+1. **Failure:** Reduce Desire or increase Sacrifice.<br />
+**Lesson:** I insist on asserting my being, my taste, my preference. I am willing to pay extra for the convenience of having my own space during Wagenge's Kakamega trip. That expenditure demands a serious consideration in the hours I HAVE to invest seeking the income to balance my spending-sheet.
+2. **Failure:** 2.4M.<br />
+**Lesson:** I can't help feel like "I need to do more". Although, funny enough, I currently have 2 jobs. How do I increase my income? Is this a time for patience, as things slowly but surely are falling in place? Gotta keep making moves, that's it.
+3. **Failure:** Praying and sleeping on time.<br />
+**Lesson:** "Consistency, consistency, consistency. That's the name of the game." You win the day, by winning the night. You win the night, by winning the day. You win the day by praying, you win the night by going to bed early.
+
+### 🌟 <b>Highlights of the Week</b>
+- <b>Memorable moment / breakthrough / proud event</b>: Getting to hop into a 30 minutes Google meet with the Google Cloud Developer who introduced me to JarvisCore and be subject to a flow of multiple emergent thoughts, ideas, proposition and realization that had both of share autobiographical information that left me feeling like there is potential in a collaboration between our two worlds.
+- <b>Quote, inspiration, or personal reflection</b>: A brother is biased towards the 243. La femme. One who has those roots? Maybe. I don't know, man. It's a lifetime commitment, better take the time to ponder, to reflect.
+
+---
+
+## 📅 <b>Coming Up Next Week, InshaAllah</b> - September 21st to 27th 2026
+- [ ] Be done eating by 7PM.
+- [ ] Stay out of bed come [7AM](https://www.youtube.com/watch?v=T4H7EC9j6mg).
+- [ ] Ensure to spend 30 minutes, [every day](https://www.youtube.com/shorts/mQcTJdyTFtA) going through the [Hip Mobility Routine for Athletes](https://www.youtube.com/watch?v=x-uNaley_O8).
+- [ ] Complete at least 50% of [Matchday Damage](https://www.youtube.com/@MatchdayDamage)'s upload by monday.
+- [ ] Average 1 hour a day of German language practice.
+
+---
+
+## 📈 <b>Meta</b>
+| Metric | This Week |
+| ------ | --------- |
+| GitHub Commits | 14 |
+| Job Application | 1 |
+| Sleep Avg (hrs) | 7 |
+| Total Coding Time (hrs) | 4 |
+| Training Sessions (Football) | 1 |
+
+---
+
+> _“Consistency, consistency, man, that's the name of the game, bro. Don't get much simpler than that.” — Dami Onakoya, "Damii"._
+
+<!-- Let's update the log every Sunday. Let's Go! -->
+
+---
+
 ## Week 69 — Sunday, 20th September 2026
 
 ### 🌱 **What Was Worked On**
@@ -64,7 +127,7 @@ Updated: {{ 28-Sep-26 }}
 - [ ] Be done eating by 7PM.
 - [ ] Stay out of bed come [7AM](https://www.youtube.com/watch?v=T4H7EC9j6mg).
 - [ ] Ensure to spend 30 minutes, [every day](https://www.youtube.com/shorts/mQcTJdyTFtA) going through the [Hip Mobility Routine for Athletes](https://www.youtube.com/watch?v=x-uNaley_O8).
-- [ ] Complete at least 50% of Matchday Damage's upload by monday.
+- [ ] Complete at least 50% of [Matchday Damage](https://www.youtube.com/@MatchdayDamage)'s upload by monday.
 - [ ] Average 1 hour a day of German language practice.
 
 ---
@@ -216,7 +279,7 @@ Updated: {{ 28-Sep-26 }}
 	1. **[Futtech-Django](https://www.futtech.kalkyokya.tech/showcase)**: Continued implementation of the welcome email feature via addition of both the HTML and TXT email templates, as well as expanding the user_auth's tests module to cover email paths.
 
 - **Learning & Growth**
-	1. Wednesday morning as I set on creating `Matchday Damage`, I learned of the story of ['The Math Lady meme'](https://www.google.com/search?q=The+Math+Lady+meme), a picture used as profile picture on all its social media.
+	1. Wednesday morning as I set on creating `[Matchday Damage](https://www.youtube.com/@MatchdayDamage)`, I learned of the story of ['The Math Lady meme'](https://www.google.com/search?q=The+Math+Lady+meme), a picture used as profile picture on all its social media.
 	2. Sunday, with Wagenge, I got to practice making runs as a striker, behind both CBs, which makes it more likely that I recognize the right space to attack in order to get a tap in.
 	3. I also found out that dropping deep to receive the ball involves me a lot more in the game and has me feeling like I am having a much better game than when I continuously make runs in behind.
 
@@ -224,7 +287,7 @@ Updated: {{ 28-Sep-26 }}
 	- Submitted 2 proposals, with a 100% 'viewed by client' rate, got interviewed for both, and was hired by none, for jobs related to Football, Sports and game footage analysis/editing.
 
 ### 🏆 <b>3 Wins and/or Achievements</b>
-1. Creating Matchday Damage, a football meme video channel across social media.
+1. Creating [Matchday Damage](https://www.youtube.com/@MatchdayDamage), a football meme video channel across social media.
 2. Realizing that my runs needn't only be behind the defense, I can come short.
 3. Getting officially welcomed on Wagenge's Instagram page.
 
