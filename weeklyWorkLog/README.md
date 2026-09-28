@@ -82,7 +82,7 @@ Updated: {{ 28-Sep-26 }}
 
 ---
 
-> _“Consistency, consistency, man, that's the name of the game, bro. Don't get much simpler than that.” — Dami Onakoya, "Damii"._
+> _“Scrolling is fake curiosity, gambling is fake risk taking.” — Carl Jin'sidea that "All Addiction is a Low Level Search for God", via @benkingmind on Instagram._
 
 <!-- Let's update the log every Sunday. Let's Go! -->
 
