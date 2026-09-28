@@ -8,7 +8,7 @@ Updated: {{ 28-Sep-26 }}
 # Jean-Paul KYOKYA — Weekly Work Log
 <b>Start Date:</b> Saturday, May 31st, 2025<br />
 <b>Location:</b> Nairobi, Kenya<br />
-<b>Titles:</b> Tech Founder of ([Futtech](https://www.futtech.kalkyokya.tech/about) & Everything-IoT) | Striker at [Wagenge FC](https://wagengefc.karinova.io) | Founding Engineer at Zongo | [ALX](https://www.alxafrica.com) Graduate | Software Engineering Student - [USIU-Africa](https://www.usiu.ac.ke) | Football Video Analyst.<br />
+<b>Titles:</b> Tech Founder of ([Futtech](https://www.futtech.kalkyokya.tech/about) & Everything-IoT) | Striker at [Wagenge FC](https://wagengefc.karinova.io) | Founding Engineer at [Zongo](https://github.com/MutabPato/Zongo_v2) | [ALX](https://www.alxafrica.com) Graduate | Software Engineering Student - [USIU-Africa](https://www.usiu.ac.ke) | Football Video Analyst.<br />
 <b>Mission:</b> Build impactful tech products at the intersection of software, hardware, and football development in Africa.
 
 ---
@@ -31,10 +31,14 @@ Updated: {{ 28-Sep-26 }}
 	1. **[Futtech-Django](https://www.futtech.kalkyokya.tech/showcase)**: Expanded the social media extension of Futtech: [Matchday Damage](https://www.youtube.com/@MatchdayDamage)'s video list with humorous edits covering both the EPL's top 6 and FC Barcelona, as well as Spain's first international break game, from a Barcelona fan's perspective.
 
 - **Learning & Growth**
-	1. Ever wondered ["How to wash off super glue?"](https://www.google.com/search?q=wash+off+super+glue), well, me too. It happened on Tuesday, early morning I set on glueing parts of my table that have once again collapse, not even a week after.
-	2. Later on that morning, as I set on ensuring Futtech was able to send email notifications, I discovered that get.tech partnered with [Titan.email](https://titan.email/) - A customer-centric Professional Business Email Platform, which facilitates implementation of features such as I sought.
-	3. In the afternoon hours, linking of Futtech (Linode Akamai's VPS), get.tech (kalkyokya.tech DNS) and titan.email ([Titan's SMTP server](https://www.google.com/search?q=Titan%27s+SMTP+server)) led to my learning about [Linode's Docs for Running a Mail Server](https://www.akamai.com/cloud/topresults/?tags=email).
-	4. Wednesday started with a quick look up of [the meaning of SMTP](https://www.google.com/search?q=smtp+meaning). An important thing for anyone implementing an email feature to be aware of.
+	1. Thursday afternoon, in a week dominated by video editing workflows, I set on traversing [Zongo](https://github.com/MutabPato/Zongo_v2) and ensuring my access as a contributor was up and running; this led to a false commits that prompted me to look up [How to delete a git commit](https://www.google.com/search?q=delete+git+commit).
+	2. Friday was a goog one. I started, early in the morning by storing [Mitchell Hashimoto's Whiteboard Defense Tweet](https://www.google.com/search?q=mitchell+hashimoto+whiteboard+defense+tweet) on disc. A concept I was introduced to by [This video by ThePrimeagen](https://www.youtube.com/watch?v=iuccfEQgIeY) that contains guidance on `responsible usage of AI`.
+	3. Come afternoon, as I investigated Zongo's architecture, I looked into [Pretium](https://www.google.com/search?q=pretium), a payment infrastructure using stable coins and founded in Kenya that is to be used to avail remittance services between D.R. Congo and Kenya.
+	4. Within an hour, I found myself requiring refreshers on [JavaScript's Array findIndex method](https://www.google.com/search?q=array+find+index), as well as [Array Splice](https://www.google.com/search?q=array+splice+javascript). Two method I encountered while reading a software's documentation.
+	5. Important to not that this YouTube tutorial titled [The Only Docker Tutorial You Need To Get Started](https://www.youtube.com/watch?v=DQdB7wFEygo), worked for me, in helping me better understand Docker. It is sped up and requires one to slow it down to ~0.7x.
+	6. Saturday saw me realize the importance of reading, rather than watching Tutorials.
+	7. As I sought to finish the week having a better understanding of what `Prisma` was (It's an Object Relational Mapper aka ORM), inside a NestJS context, I found myself investing 120 minutes of my time, reading these two tutorials; [NestJS + PostgreSQL + Prisma: Full-Stack API Tutorial – Djamware](https://www.djamware.com/post/nestjs-postgresql-prisma-full-stack-api-tutorial), and then, [Build a REST API with NestJS, Prisma 7, PostgreSQL and Swagger](https://www.prisma.io/blog/nestjs-prisma-rest-api-7D056s1BmOL0).
+	8. Exploration of these documentations led to these couple google search; [Docker compose](https://www.google.com/search?q=docker+compose) as well as [Prisma upsert].
 
 - **Job hunting**
 	- I was hired for a paid-test french football video editing job titled 'YouTube Football Video Editor – French Channel | AI Voice + Visuals + Editing.'
