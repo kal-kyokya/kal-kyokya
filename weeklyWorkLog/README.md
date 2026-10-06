@@ -23,6 +23,71 @@ Updated: {{ 28-Sep-26 }}
 
 ---
 
+## Week 71 — Sunday, 4th October 2026
+
+### 🌱 **What Was Worked On**
+
+- **Projects**
+	1. **[Futtech-Django](https://www.futtech.kalkyokya.tech/showcase)**: Ensured the registration flow directs new users to the login page, redesigned the mobile's navigation bars to utilize a hamburger menu and restructured the landing page's hero section headers to smaller fonts, for symmetry.
+
+- **Learning & Growth**
+	1. Thursday afternoon, in a week dominated by video editing workflows, I set on traversing [Zongo](https://github.com/MutabPato/Zongo_v2) and ensuring my access as a contributor was up and running; this led to a false commits that prompted me to look up [How to delete a git commit](https://www.google.com/search?q=delete+git+commit).
+	2. Friday was a goog one. I started, early in the morning by storing [Mitchell Hashimoto's Whiteboard Defense Tweet](https://www.google.com/search?q=mitchell+hashimoto+whiteboard+defense+tweet) on disc. A concept I was introduced to by [This video by ThePrimeagen](https://www.youtube.com/watch?v=iuccfEQgIeY) that contains guidance on `responsible usage of AI`.
+	3. Come afternoon, as I investigated Zongo's architecture, I looked into [Pretium](https://www.google.com/search?q=pretium), a payment infrastructure using stable coins and founded in Kenya that is to be used to avail remittance services between D.R. Congo and Kenya.
+	4. Within an hour, I found myself requiring refreshers on [JavaScript's Array findIndex method](https://www.google.com/search?q=array+find+index), as well as [Array Splice](https://www.google.com/search?q=array+splice+javascript). Two method I encountered while reading a software's documentation.
+	5. Important to not that this YouTube tutorial titled [The Only Docker Tutorial You Need To Get Started](https://www.youtube.com/watch?v=DQdB7wFEygo), worked for me, in helping me better understand Docker. It is sped up and requires one to slow it down to ~0.7x.
+	6. Saturday saw me realize the importance of reading, rather than watching Tutorials.
+	7. As I sought to finish the week having a better understanding of what `Prisma` was (It's an Object Relational Mapper aka ORM), inside a NestJS context, I found myself investing 120 minutes of my time, reading these two tutorials; [NestJS + PostgreSQL + Prisma: Full-Stack API Tutorial – Djamware](https://www.djamware.com/post/nestjs-postgresql-prisma-full-stack-api-tutorial), and then, [Build a REST API with NestJS, Prisma 7, PostgreSQL and Swagger](https://www.prisma.io/blog/nestjs-prisma-rest-api-7D056s1BmOL0).
+	8. Exploration of these documentations led to these couple google search; [Docker compose](https://www.google.com/search?q=docker+compose) as well as [Prisma upsert].
+
+- **Job hunting**
+	- Submitted 3 proposals, with a 0% 'viewed by client' rate, got interviewed and hired by none, for jobs related to Football, Sports and game footage analysis/editing.
+
+### 🏆 <b>3 Wins and/or Achievements</b>
+1. Realizing the ease of understanding software found in reading the docs.
+2. Extracting content from the international break for Matchday Damage.
+3. 2.4M moves and staying afloat long enough to find a way to win the game.
+
+### 🔭 <b>3 Fails & Lessons Learned</b>
+1. **Failure:** Dribble mode On, Finishing mode Off.<br />
+**Lesson:** On a weekend where I was prompted to 'express myself', and took on people more than once, I failed to register a single attempt on goal, although I got inside the penalty box more than once, and attempted cutbacks. Stay in take on mode, add "low, hard finishes far post".
+2. **Failure:** "Una dribble sana".<br />
+**Lesson:** Balance dribbling and passing. Let's lay that down at the feet of intention and a bit more experience. Intend on being efficient, let the passage of time see you grow in efficiency.
+3. **Failure:** Praying and sleeping on time.<br />
+**Lesson:** For the second week running: "Consistency, consistency, consistency. That's the name of the game." You win the day, by winning the night. You win the night, by winning the day. You win the day by praying, you win the night by going to bed early.
+
+### 🌟 <b>Highlights of the Week</b>
+- <b>Memorable moment / breakthrough / proud event</b>: The 0 G/A game played with Wagenge on Sunday was quite the event. I didn't play to score. I played to take on my defender and, when my team got me the ball, had me some fun. Big shoutout to the brother who ask of me to "express myself". That guided the approach I ended up taking in the game.
+- <b>Quote, inspiration, or personal reflection</b>: "Be you, the world will adjust." — This is in relation to the message that was given to me before the game on Sunday. Show the team what kind of player you are, they will play to your strengths and bring the best out of you. Be You.
+
+---
+
+## 📅 <b>Coming Up Next Week, InshaAllah</b> - September 28th to October 4th 2026
+- [ ] Be done eating by 7PM.
+- [ ] Stay out of bed come [7:05AM](https://www.youtube.com/watch?v=T4H7EC9j6mg).
+- [ ] Ensure to spend 30 minutes, [every day](https://www.youtube.com/shorts/mQcTJdyTFtA) going through the [Hip Mobility Routine for Athletes](https://www.youtube.com/watch?v=x-uNaley_O8).
+- [ ] Extract at least 1 idea for [Matchday Damage](https://www.youtube.com/@MatchdayDamage) from this week's international break games.
+- [ ] Average 1 hour a day of German language practice.
+
+---
+
+## 📈 <b>Meta</b>
+| Metric | This Week |
+| ------ | --------- |
+| GitHub Commits | 13 |
+| Job Application | 3 |
+| Sleep Avg (hrs) | 7 |
+| Total Coding Time (hrs) | N/A |
+| Training Sessions (Football) | 3 |
+
+---
+
+> _“Scrolling is fake curiosity, gambling is fake risk taking.” — Carl Jin'sidea that "All Addiction is a Low Level Search for God", via @benkingmind on Instagram._
+
+<!-- Let's update the log every Sunday. Let's Go! -->
+
+---
+
 ## Week 70 — Sunday, 27th September 2026
 
 ### 🌱 **What Was Worked On**
