@@ -50,12 +50,12 @@ Updated: {{ 28-Sep-26 }}
 3. Communicating actively during Wagenge's sunday training and scoring.
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
-1. **Failure:** Dribble mode On, Finishing mode Off.<br />
-**Lesson:** On a weekend where I was prompted to 'express myself', and took on people more than once, I failed to register a single attempt on goal, although I got inside the penalty box more than once, and attempted cutbacks. Stay in take on mode, add "low, hard finishes far post".
-2. **Failure:** "Una dribble sana".<br />
-**Lesson:** Balance dribbling and passing. Let's lay that down at the feet of intention and a bit more experience. Intend on being efficient, let the passage of time see you grow in efficiency.
+1. **Failure:** Loss of concentration.<br />
+**Lesson:** Messing up a simple pass is a "No, No!", the simplest of tap-ins, passes and dribbles must not be missed out on. Set yourself up to have the highest level of focus come game time.
+2. **Failure:** Weekly work log.<br />
+**Lesson:** With Wagenge's Sunday's commitment, it is important that I dedicate an hour and a half on Mondays to log the previous' week work. It is my monday's priority.
 3. **Failure:** Praying and sleeping on time.<br />
-**Lesson:** For the second week running: "Consistency, consistency, consistency. That's the name of the game." You win the day, by winning the night. You win the night, by winning the day. You win the day by praying, you win the night by going to bed early.
+**Lesson:** For the third week running: "Consistency, consistency, consistency. That's the name of the game." You win the day, by winning the night. You win the night, by winning the day. You win the day by praying, you win the night by going to bed early.
 
 ### 🌟 <b>Highlights of the Week</b>
 - <b>Memorable moment / breakthrough / proud event</b>: The 0 G/A game played with Wagenge on Sunday was quite the event. I didn't play to score. I played to take on my defender and, when my team got me the ball, had me some fun. Big shoutout to the brother who ask of me to "express myself". That guided the approach I ended up taking in the game.
