@@ -31,14 +31,14 @@ Updated: {{ 28-Sep-26 }}
 	1. **[Futtech-Django](https://www.futtech.kalkyokya.tech/showcase)**: Ensured the registration flow directs new users to the login page, redesigned the mobile's navigation bars to utilize a hamburger menu and restructured the landing page's hero section headers to smaller fonts, for symmetry.
 
 - **Learning & Growth**
-	1. Thursday afternoon, in a week dominated by video editing workflows, I set on traversing [Zongo](https://github.com/MutabPato/Zongo_v2) and ensuring my access as a contributor was up and running; this led to a false commits that prompted me to look up [How to delete a git commit](https://www.google.com/search?q=delete+git+commit).
-	2. Friday was a goog one. I started, early in the morning by storing [Mitchell Hashimoto's Whiteboard Defense Tweet](https://www.google.com/search?q=mitchell+hashimoto+whiteboard+defense+tweet) on disc. A concept I was introduced to by [This video by ThePrimeagen](https://www.youtube.com/watch?v=iuccfEQgIeY) that contains guidance on `responsible usage of AI`.
-	3. Come afternoon, as I investigated Zongo's architecture, I looked into [Pretium](https://www.google.com/search?q=pretium), a payment infrastructure using stable coins and founded in Kenya that is to be used to avail remittance services between D.R. Congo and Kenya.
-	4. Within an hour, I found myself requiring refreshers on [JavaScript's Array findIndex method](https://www.google.com/search?q=array+find+index), as well as [Array Splice](https://www.google.com/search?q=array+splice+javascript). Two method I encountered while reading a software's documentation.
-	5. Important to not that this YouTube tutorial titled [The Only Docker Tutorial You Need To Get Started](https://www.youtube.com/watch?v=DQdB7wFEygo), worked for me, in helping me better understand Docker. It is sped up and requires one to slow it down to ~0.7x.
-	6. Saturday saw me realize the importance of reading, rather than watching Tutorials.
-	7. As I sought to finish the week having a better understanding of what `Prisma` was (It's an Object Relational Mapper aka ORM), inside a NestJS context, I found myself investing 120 minutes of my time, reading these two tutorials; [NestJS + PostgreSQL + Prisma: Full-Stack API Tutorial – Djamware](https://www.djamware.com/post/nestjs-postgresql-prisma-full-stack-api-tutorial), and then, [Build a REST API with NestJS, Prisma 7, PostgreSQL and Swagger](https://www.prisma.io/blog/nestjs-prisma-rest-api-7D056s1BmOL0).
-	8. Exploration of these documentations led to these couple google search; [Docker compose](https://www.google.com/search?q=docker+compose) as well as [Prisma upsert].
+	1. Monday morning saw me googling up [Remittance](https://www.google.com/search?q=remittance), a concept tightly related to the Zongo project, for which I am the Founding Engineer.
+	2. Within the hour, I learned that [JBP's age](https://www.google.com/search?q=jordan+peterson+age) is greater than [his wife's](https://www.google.com/search?q=jordan+peterson+wife+age) by 3. My attempt at looking into age gaps in marriage.
+	3. Invested 1 hour+ of wednesday's morning into long form YouTube tutorials helping me visualize, and better conceptualize, NestJS + BullMQ usage to build Queue-Worker flows for background jobs. Here are the tutorials: [1](https://www.youtube.com/watch?v=vFI_Nf2PWFQ), [2](https://www.youtube.com/watch?v=xs98bmeb-LQ), [3](https://www.youtube.com/watch?v=BkaNpM7CqWM).
+	4. Thursday, in the earliest of morning, as I assessed my fit for a sport-related gig, I got to learn about [B-roll clips](https://www.google.com/search?q=what+is+a+b+roll+clip).
+	5. Later on, still in the morning, I sought to visualize the [flow of Prisma ORM](https://www.google.com/search?q=Prisma+orm+workflow) and browsed through a collection of publicly available diagram helping me "see" the request-response cycles. I attempted to do the same with [BullMQ](https://www.google.com/search?q=how+bullmq+works).
+	6. Thursday afternoon, saw me consume a list of YouTube Tutorials meant to familiarize me with usage of `WhatsApp Business API`.
+	7. Friday morning served as continuation for Thursday's WhatsApp-related learning, as I accessed [WhatsApp's Cloud API's dev docs](https://developers.facebook.com/documentation/business-messaging/whatsapp/get-started) to read more on the topic and move on with the rest of Zongo's architecture.
+	8. Given the FinTech nature of Zongo, I had to look up [the meaning of 'Debit and Credit'](https://www.google.com/search?q=debit+and+credit+meaning). Ensuring I understand that they change based on context.
 
 - **Job hunting**
 	- Submitted 3 proposals, with a 0% 'viewed by client' rate, got interviewed and hired by none, for jobs related to Football, Sports and game footage analysis/editing.
@@ -103,7 +103,7 @@ Updated: {{ 28-Sep-26 }}
 	5. Important to not that this YouTube tutorial titled [The Only Docker Tutorial You Need To Get Started](https://www.youtube.com/watch?v=DQdB7wFEygo), worked for me, in helping me better understand Docker. It is sped up and requires one to slow it down to ~0.7x.
 	6. Saturday saw me realize the importance of reading, rather than watching Tutorials.
 	7. As I sought to finish the week having a better understanding of what `Prisma` was (It's an Object Relational Mapper aka ORM), inside a NestJS context, I found myself investing 120 minutes of my time, reading these two tutorials; [NestJS + PostgreSQL + Prisma: Full-Stack API Tutorial – Djamware](https://www.djamware.com/post/nestjs-postgresql-prisma-full-stack-api-tutorial), and then, [Build a REST API with NestJS, Prisma 7, PostgreSQL and Swagger](https://www.prisma.io/blog/nestjs-prisma-rest-api-7D056s1BmOL0).
-	8. Exploration of these documentations led to these couple google search; [Docker compose](https://www.google.com/search?q=docker+compose) as well as [Prisma upsert].
+	8. Exploration of these documentations led to these couple google search; [Docker compose](https://www.google.com/search?q=docker+compose) as well as [Prisma upsert](https://www.google.com/search?q=prisma+upsert).
 
 - **Job hunting**
 	- Submitted 3 proposals, with a 0% 'viewed by client' rate, got interviewed and hired by none, for jobs related to Football, Sports and game footage analysis/editing.
