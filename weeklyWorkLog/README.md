@@ -41,7 +41,8 @@ Updated: {{ 28-Sep-26 }}
 	8. Given the FinTech nature of Zongo, I had to look up [the meaning of 'Debit and Credit'](https://www.google.com/search?q=debit+and+credit+meaning). Ensuring I understand that they change based on context.
 
 - **Job hunting**
-	- Submitted 3 proposals, with a 0% 'viewed by client' rate, got interviewed and hired by none, for jobs related to Football, Sports and game footage analysis/editing.
+	- Submitted 2 proposals, with a 100% 'viewed by client' rate, got interviewed by 1 and hired by none, for jobs related to Football, Sports and game footage analysis/editing.
+	- Was hired over, the weekend, for "Content & Social Media Manager for Football Podcast" role, on a 1-month contract.
 
 ### 🏆 <b>3 Wins and/or Achievements</b>
 1. Realizing the ease of understanding software found in reading the docs.
