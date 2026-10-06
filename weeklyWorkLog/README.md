@@ -58,8 +58,8 @@ Updated: {{ 28-Sep-26 }}
 **Lesson:** For the third week running: "Consistency, consistency, consistency. That's the name of the game." You win the day, by winning the night. You win the night, by winning the day. You win the day by praying, you win the night by going to bed early.
 
 ### 🌟 <b>Highlights of the Week</b>
-- <b>Memorable moment / breakthrough / proud event</b>: The 0 G/A game played with Wagenge on Sunday was quite the event. I didn't play to score. I played to take on my defender and, when my team got me the ball, had me some fun. Big shoutout to the brother who ask of me to "express myself". That guided the approach I ended up taking in the game.
-- <b>Quote, inspiration, or personal reflection</b>: "Be you, the world will adjust." — This is in relation to the message that was given to me before the game on Sunday. Show the team what kind of player you are, they will play to your strengths and bring the best out of you. Be You.
+- <b>Memorable moment / breakthrough / proud event</b>: Using Upwork's "schedule meeting" feature to have a relatively lengthy call with Matchday Tribunal's recruiter, through which I got to put in perspective the amount of growth I have reached as a Football video analyst/editor, as well as, secure this gig that now gives me things to do with my time.
+- <b>Quote, inspiration, or personal reflection</b>: "Marriage takes practive" — Jordan B. Peterson. Gotta prepare myself for the time I will have to choose a partner.
 
 ---
 
