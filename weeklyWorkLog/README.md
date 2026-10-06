@@ -45,9 +45,9 @@ Updated: {{ 28-Sep-26 }}
 	- Was hired over, the weekend, for "Content & Social Media Manager for Football Podcast" role, on a 1-month contract.
 
 ### 🏆 <b>3 Wins and/or Achievements</b>
-1. Realizing the ease of understanding software found in reading the docs.
-2. Extracting content from the international break for Matchday Damage.
-3. 2.4M moves and staying afloat long enough to find a way to win the game.
+1. Getting a longer term, football-related gig.
+2. Balancing learning and growing Zongo, Matchday Damage, Futtech and Wagenge.
+3. Communicating actively during Wagenge's sunday training and scoring.
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
 1. **Failure:** Dribble mode On, Finishing mode Off.<br />
