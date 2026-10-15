@@ -29,17 +29,11 @@ Updated: {{ 28-Sep-26 }}
 
 - **Projects**
 	1. **[Futtech-Django](https://www.futtech.kalkyokya.tech/showcase)**: Expanded the social media extension of Futtech: [Matchday Damage](https://www.youtube.com/@MatchdayDamage)'s video list with humorous edits covering the weekend's EPL's top 6 games.
-	2. **[Matchday Tribunal](https://www.youtube.com/@MatchdayTribunal)**: Generated a football-related, Youtube shorts-like, short form video edit on how to beat Arsenal; marrying Matchday Damage's style to the podcast environment of MDT..
+	2. **[Matchday Tribunal](https://www.youtube.com/@MatchdayTribunal)**: Generated a football-related, Youtube shorts-like, short form video edit on how to beat Arsenal; marrying Matchday Damage's style to the podcast environment of MDT.
 
 - **Learning & Growth**
-	1. Monday morning saw me googling up [Remittance](https://www.google.com/search?q=remittance), a concept tightly related to the Zongo project, for which I am the Founding Engineer.
-	2. Within the hour, I learned that [JBP's age](https://www.google.com/search?q=jordan+peterson+age) is greater than [his wife's](https://www.google.com/search?q=jordan+peterson+wife+age) by 3. My attempt at looking into age gaps in marriage.
-	3. Invested 1 hour+ of wednesday's morning into long form YouTube tutorials helping me visualize, and better conceptualize, NestJS + BullMQ usage to build Queue-Worker flows for background jobs. Here are the tutorials: [1](https://www.youtube.com/watch?v=vFI_Nf2PWFQ), [2](https://www.youtube.com/watch?v=xs98bmeb-LQ), [3](https://www.youtube.com/watch?v=BkaNpM7CqWM).
-	4. Thursday, in the earliest of morning, as I assessed my fit for a sport-related gig, I got to learn about [B-roll clips](https://www.google.com/search?q=what+is+a+b+roll+clip).
-	5. Later on, still in the morning, I sought to visualize the [flow of Prisma ORM](https://www.google.com/search?q=Prisma+orm+workflow) and browsed through a collection of publicly available diagram helping me "see" the request-response cycles. I attempted to do the same with [BullMQ](https://www.google.com/search?q=how+bullmq+works).
-	6. Thursday afternoon, saw me consume a list of YouTube Tutorials meant to familiarize me with usage of `WhatsApp Business API`.
-	7. Friday morning served as continuation for Thursday's WhatsApp-related learning, as I accessed [WhatsApp's Cloud API's dev docs](https://developers.facebook.com/documentation/business-messaging/whatsapp/get-started) to read more on the topic and move on with the rest of Zongo's architecture.
-	8. Given the FinTech nature of Zongo, I had to look up [the meaning of 'Debit and Credit'](https://www.google.com/search?q=debit+and+credit+meaning). Ensuring I understand that they change based on context.
+	1. Started the week learning that, although both being audio format, [WAV to MP3](https://www.google.com/search?q=wav+to+mp3) is a crucial operation that facilitates editing of the football-related video I generate regularly.
+	2. Fast forward thursday, as I sought to work on Futtech, I learned that [ChatGPT's Codex's](https://www.google.com/search?q=chatgpt+codex) cloud version was now only available to pro members, and had to think of the implications of that news.
 
 - **Job hunting**
 	- Submitted 2 proposals, with a 100% 'viewed by client' rate, got interviewed by 1 and hired by none, for jobs related to Football, Sports and game footage analysis/editing.
