@@ -23,6 +23,73 @@ Updated: {{ 28-Sep-26 }}
 
 ---
 
+## Week 72 — Sunday, 11th October 2026
+
+### 🌱 **What Was Worked On**
+
+- **Projects**
+	1. **[Futtech-Django](https://www.futtech.kalkyokya.tech/showcase)**: Expanded the social media extension of Futtech: [Matchday Damage](https://www.youtube.com/@MatchdayDamage)'s video list with humorous edits covering the weekend's EPL's top 6 games.
+	2. **[Matchday Tribunal](https://www.youtube.com/@MatchdayTribunal)**: Generated a football-related, Youtube shorts-like, short form video edit on how to beat Arsenal; marrying Matchday Damage's style to the podcast environment of MDT..
+
+- **Learning & Growth**
+	1. Monday morning saw me googling up [Remittance](https://www.google.com/search?q=remittance), a concept tightly related to the Zongo project, for which I am the Founding Engineer.
+	2. Within the hour, I learned that [JBP's age](https://www.google.com/search?q=jordan+peterson+age) is greater than [his wife's](https://www.google.com/search?q=jordan+peterson+wife+age) by 3. My attempt at looking into age gaps in marriage.
+	3. Invested 1 hour+ of wednesday's morning into long form YouTube tutorials helping me visualize, and better conceptualize, NestJS + BullMQ usage to build Queue-Worker flows for background jobs. Here are the tutorials: [1](https://www.youtube.com/watch?v=vFI_Nf2PWFQ), [2](https://www.youtube.com/watch?v=xs98bmeb-LQ), [3](https://www.youtube.com/watch?v=BkaNpM7CqWM).
+	4. Thursday, in the earliest of morning, as I assessed my fit for a sport-related gig, I got to learn about [B-roll clips](https://www.google.com/search?q=what+is+a+b+roll+clip).
+	5. Later on, still in the morning, I sought to visualize the [flow of Prisma ORM](https://www.google.com/search?q=Prisma+orm+workflow) and browsed through a collection of publicly available diagram helping me "see" the request-response cycles. I attempted to do the same with [BullMQ](https://www.google.com/search?q=how+bullmq+works).
+	6. Thursday afternoon, saw me consume a list of YouTube Tutorials meant to familiarize me with usage of `WhatsApp Business API`.
+	7. Friday morning served as continuation for Thursday's WhatsApp-related learning, as I accessed [WhatsApp's Cloud API's dev docs](https://developers.facebook.com/documentation/business-messaging/whatsapp/get-started) to read more on the topic and move on with the rest of Zongo's architecture.
+	8. Given the FinTech nature of Zongo, I had to look up [the meaning of 'Debit and Credit'](https://www.google.com/search?q=debit+and+credit+meaning). Ensuring I understand that they change based on context.
+
+- **Job hunting**
+	- Submitted 2 proposals, with a 100% 'viewed by client' rate, got interviewed by 1 and hired by none, for jobs related to Football, Sports and game footage analysis/editing.
+	- Was hired over, the weekend, for "Content & Social Media Manager for Football Podcast" role, on a 1-month contract.
+
+### 🏆 <b>3 Wins and/or Achievements</b>
+1. Getting a longer term, football-related gig.
+2. Balancing learning and growing Zongo, Matchday Damage, Futtech and Wagenge.
+3. Communicating actively during Wagenge's sunday training and scoring.
+
+### 🔭 <b>3 Fails & Lessons Learned</b>
+1. **Failure:** Loss of concentration.<br />
+**Lesson:** Messing up a simple pass is a "No, No!", the simplest of tap-ins, passes and dribbles must not be missed out on. Set yourself up to have the highest level of focus come game time.
+2. **Failure:** Weekly work log.<br />
+**Lesson:** With Wagenge's Sunday's commitment, it is important that I dedicate an hour and a half on Mondays to log the previous' week work. It is my monday's priority.
+3. **Failure:** Praying and sleeping on time.<br />
+**Lesson:** For the third week running: "Consistency, consistency, consistency. That's the name of the game." You win the day, by winning the night. You win the night, by winning the day. You win the day by praying, you win the night by going to bed early.
+
+### 🌟 <b>Highlights of the Week</b>
+- <b>Memorable moment / breakthrough / proud event</b>: Using Upwork's "schedule meeting" feature to have a relatively lengthy call with Matchday Tribunal's recruiter, through which I got to put in perspective the amount of growth I have reached as a Football video analyst/editor, as well as, secure this gig that now gives me things to do with my time.
+- <b>Quote, inspiration, or personal reflection</b>: "Marriage takes practive" — Jordan B. Peterson. Gotta prepare myself for the time I will have to choose a partner.
+
+---
+
+## 📅 <b>Coming Up Next Week, InshaAllah</b> - October 5th to 11th 2026
+- [ ] Be done eating by 7PM.
+- [ ] Stay out of bed come [7:05AM](https://www.youtube.com/watch?v=T4H7EC9j6mg).
+- [ ] Ensure to spend 30 minutes, [every day](https://www.youtube.com/shorts/mQcTJdyTFtA) going through the [Hip Mobility Routine for Athletes](https://www.youtube.com/watch?v=x-uNaley_O8).
+- [ ] Complete uploads to [Matchday Damage](https://www.youtube.com/@MatchdayDamage) not more than 24 hours after the subject games.
+- [ ] Average 1 hour a day of German language practice.
+
+---
+
+## 📈 <b>Meta</b>
+| Metric | This Week |
+| ------ | --------- |
+| GitHub Commits | 18 |
+| Job Application | 2 |
+| Sleep Avg (hrs) | 7 |
+| Total Coding Time (hrs) | 3 |
+| Training Sessions (Football) | 2 |
+
+---
+
+> _“...y a encore du boulot.” — Ninho, "M.I.L.S. 3 - Intro"._
+
+<!-- Let's update the log every Sunday. Let's Go! -->
+
+---
+
 ## Week 71 — Sunday, 4th October 2026
 
 ### 🌱 **What Was Worked On**
@@ -83,7 +150,7 @@ Updated: {{ 28-Sep-26 }}
 
 ---
 
-> _“Scrolling is fake curiosity, gambling is fake risk taking.” — Carl Jin'sidea that "All Addiction is a Low Level Search for God", via @benkingmind on Instagram._
+> _“...y a encore du boulot.” — Ninho, "M.I.L.S. 3 - Intro"._
 
 <!-- Let's update the log every Sunday. Let's Go! -->
 
