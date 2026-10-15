@@ -29,15 +29,15 @@ Updated: {{ 28-Sep-26 }}
 
 - **Projects**
 	1. **[Futtech-Django](https://www.futtech.kalkyokya.tech/showcase)**: Expanded the social media extension of Futtech: [Matchday Damage](https://www.youtube.com/@MatchdayDamage)'s video list with humorous edits covering the weekend's EPL's top 6 games.
-	2. **[Matchday Tribunal](https://www.youtube.com/@MatchdayTribunal)**: Generated a football-related, Youtube shorts-like, short form video edit on how to beat Arsenal; marrying Matchday Damage's style to the podcast environment of MDT.
+	2. **Content & Social Media Manager for Football Podcast**: Generated a football-related, Youtube shorts-like, short form video edit on how to beat Arsenal; marrying Matchday Damage's style to the podcast environment of [Matchday Tribunal](https://www.youtube.com/@MatchdayTribunal).
 
 - **Learning & Growth**
 	1. Started the week learning that, although both being audio format, [WAV to MP3](https://www.google.com/search?q=wav+to+mp3) is a crucial operation that facilitates editing of the football-related video I generate regularly.
 	2. Fast forward thursday, as I sought to work on Futtech, I learned that [ChatGPT's Codex's](https://www.google.com/search?q=chatgpt+codex) cloud version was now only available to pro members, and had to think of the implications of that news.
 
 - **Job hunting**
-	- Submitted 2 proposals, with a 100% 'viewed by client' rate, got interviewed by 1 and hired by none, for jobs related to Football, Sports and game footage analysis/editing.
-	- Was hired over, the weekend, for "Content & Social Media Manager for Football Podcast" role, on a 1-month contract.
+	- Was invited to send a proposal for a Congo-related gig, which I did and haven't heard from the client.
+	- Submitted 1 proposal, with a 100% 'viewed by client' rate, got interviewed by none and hired by none, for jobs related to Football, Sports and game footage analysis/editing.
 
 ### 🏆 <b>3 Wins and/or Achievements</b>
 1. Getting a longer term, football-related gig.
