@@ -40,9 +40,9 @@ Updated: {{ 28-Sep-26 }}
 	- Submitted 1 proposal, with a 100% 'viewed by client' rate, got interviewed by none and hired by none, for jobs related to Football, Sports and game footage analysis/editing.
 
 ### 🏆 <b>3 Wins and/or Achievements</b>
-1. Getting a longer term, football-related gig.
-2. Balancing learning and growing Zongo, Matchday Damage, Futtech and Wagenge.
-3. Communicating actively during Wagenge's sunday training and scoring.
+1. Balancing working on Zongo, Matchday Damage, Futtech, Freelance and Wagenge.
+2. While in Kakamega, hearing "autobiographical descriptions" from "Tech bros".
+3. 2.4M discipline despite 2 nights and 3 days away from VA 308.
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
 1. **Failure:** Loss of concentration.<br />
