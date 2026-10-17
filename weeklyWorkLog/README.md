@@ -53,8 +53,8 @@ Updated: {{ 28-Sep-26 }}
 **Lesson:** For the fourth week running: "Consistency, consistency, consistency. That's the name of the game." You win the day, by winning the night. You win the night, by winning the day. You win the day by praying, you win the night by going to bed early.
 
 ### 🌟 <b>Highlights of the Week</b>
-- <b>Memorable moment / breakthrough / proud event</b>: Using Upwork's "schedule meeting" feature to have a relatively lengthy call with Matchday Tribunal's recruiter, through which I got to put in perspective the amount of growth I have reached as a Football video analyst/editor, as well as, secure this gig that now gives me things to do with my time.
-- <b>Quote, inspiration, or personal reflection</b>: "Marriage takes practive" — Jordan B. Peterson. Gotta prepare myself for the time I will have to choose a partner.
+- <b>Memorable moment / breakthrough / proud event</b>: Traveling outside Nairobi, with Wagenge, in a bus, passing through Kapsabet, Nakuru, Kisumu, eating chapo mayai na chai, Big fish, sukuma na Ugali, tender beef with chapati, Nduma, Njugu, Boiled eggs, Mandazi. Damn, a brother is only thinking of food. Wow.
+- <b>Quote, inspiration, or personal reflection</b>: "Put in the hours, you can learn from Wagenge's senior, about Football, as well as Life." — 'Access', man. 2.4M, Football skills, social skills. 2 solid years. Give it 2 solid years. InshaAllah.
 
 ---
 
