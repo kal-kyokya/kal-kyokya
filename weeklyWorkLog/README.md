@@ -45,12 +45,12 @@ Updated: {{ 28-Sep-26 }}
 3. 2.4M discipline despite 2 nights and 3 days away from VA 308.
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
-1. **Failure:** Loss of concentration.<br />
-**Lesson:** Messing up a simple pass is a "No, No!", the simplest of tap-ins, passes and dribbles must not be missed out on. Set yourself up to have the highest level of focus come game time.
+1. **Failure:** 'Loss of concentration'.<br />
+**Lesson:** Second week running; Messing up a simple pass is a "No, No!", the simplest of tap-ins, passes and dribbles must not be missed out on. Set yourself up to have the highest level of focus come game time.
 2. **Failure:** Weekly work log.<br />
-**Lesson:** With Wagenge's Sunday's commitment, it is important that I dedicate an hour and a half on Mondays to log the previous' week work. It is my monday's priority.
+**Lesson:** This time round, it was after Kakamega's trip that I failed to dedicate an hour and a half on Monday to log the previous' week work. It is my monday's priority.
 3. **Failure:** Praying and sleeping on time.<br />
-**Lesson:** For the third week running: "Consistency, consistency, consistency. That's the name of the game." You win the day, by winning the night. You win the night, by winning the day. You win the day by praying, you win the night by going to bed early.
+**Lesson:** For the fourth week running: "Consistency, consistency, consistency. That's the name of the game." You win the day, by winning the night. You win the night, by winning the day. You win the day by praying, you win the night by going to bed early.
 
 ### 🌟 <b>Highlights of the Week</b>
 - <b>Memorable moment / breakthrough / proud event</b>: Using Upwork's "schedule meeting" feature to have a relatively lengthy call with Matchday Tribunal's recruiter, through which I got to put in perspective the amount of growth I have reached as a Football video analyst/editor, as well as, secure this gig that now gives me things to do with my time.
