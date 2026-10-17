@@ -58,11 +58,11 @@ Updated: {{ 28-Sep-26 }}
 
 ---
 
-## 📅 <b>Coming Up Next Week, InshaAllah</b> - October 5th to 11th 2026
+## 📅 <b>Coming Up Next Week, InshaAllah</b> - October 12th to 18th 2026
 - [ ] Be done eating by 7PM.
 - [ ] Stay out of bed come [7:05AM](https://www.youtube.com/watch?v=T4H7EC9j6mg).
 - [ ] Ensure to spend 30 minutes, [every day](https://www.youtube.com/shorts/mQcTJdyTFtA) going through the [Hip Mobility Routine for Athletes](https://www.youtube.com/watch?v=x-uNaley_O8).
-- [ ] Complete uploads to [Matchday Damage](https://www.youtube.com/@MatchdayDamage) not more than 24 hours after the subject games.
+- [ ] Complete uploads to [Matchday Damage](https://www.youtube.com/@MatchdayDamage) not more than 24 hours after each game's fulltime.
 - [ ] Average 1 hour a day of German language practice.
 
 ---
