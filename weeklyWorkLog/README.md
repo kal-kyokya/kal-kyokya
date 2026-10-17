@@ -78,7 +78,7 @@ Updated: {{ 28-Sep-26 }}
 
 ---
 
-> _“...y a encore du boulot.” — Ninho, "M.I.L.S. 3 - Intro"._
+> _“Your clothes shoud support your personality, not replace it.” — Jaye Alexander, "How To Dress To Get EVERY Girl (Science Based , Swag Guide)"._
 
 <!-- Let's update the log every Sunday. Let's Go! -->
 
