@@ -70,10 +70,10 @@ Updated: {{ 28-Sep-26 }}
 ## 📈 <b>Meta</b>
 | Metric | This Week |
 | ------ | --------- |
-| GitHub Commits | 18 |
-| Job Application | 2 |
+| GitHub Commits | 8 |
+| Job Applications | 3 |
 | Sleep Avg (hrs) | 7 |
-| Total Coding Time (hrs) | 3 |
+| Total Coding Time (hrs) | N/A |
 | Training Sessions (Football) | 2 |
 
 ---
@@ -137,7 +137,7 @@ Updated: {{ 28-Sep-26 }}
 | Metric | This Week |
 | ------ | --------- |
 | GitHub Commits | 18 |
-| Job Application | 2 |
+| Job Applications | 2 |
 | Sleep Avg (hrs) | 7 |
 | Total Coding Time (hrs) | 3 |
 | Training Sessions (Football) | 2 |
@@ -202,7 +202,7 @@ Updated: {{ 28-Sep-26 }}
 | Metric | This Week |
 | ------ | --------- |
 | GitHub Commits | 13 |
-| Job Application | 3 |
+| Job Applications | 3 |
 | Sleep Avg (hrs) | 7 |
 | Total Coding Time (hrs) | N/A |
 | Training Sessions (Football) | 3 |
@@ -265,7 +265,7 @@ Updated: {{ 28-Sep-26 }}
 | Metric | This Week |
 | ------ | --------- |
 | GitHub Commits | 14 |
-| Job Application | 1 |
+| Job Applications | 1 |
 | Sleep Avg (hrs) | 7 |
 | Total Coding Time (hrs) | 4 |
 | Training Sessions (Football) | 1 |
@@ -327,7 +327,7 @@ Updated: {{ 28-Sep-26 }}
 | Metric | This Week |
 | ------ | --------- |
 | GitHub Commits | 33 |
-| Job Application | 2 |
+| Job Applications | 2 |
 | Sleep Avg (hrs) | 8 |
 | Total Coding Time (hrs) | 8 |
 | Training Sessions (Football) | 2 |
@@ -387,7 +387,7 @@ Updated: {{ 28-Sep-26 }}
 | Metric | This Week |
 | ------ | --------- |
 | GitHub Commits | 16 |
-| Job Application | 7 |
+| Job Applications | 7 |
 | Sleep Avg (hrs) | 7 |
 | Total Coding Time (hrs) | 1 |
 | Training Sessions (Football) | 2 |
@@ -447,7 +447,7 @@ Updated: {{ 28-Sep-26 }}
 | Metric | This Week |
 | ------ | --------- |
 | GitHub Commits | 11 |
-| Job Application | 2 |
+| Job Applications | 2 |
 | Sleep Avg (hrs) | 8 |
 | Total Coding Time (hrs) | 1 |
 | Training Sessions (Football) | 3 |
@@ -508,7 +508,7 @@ Updated: {{ 28-Sep-26 }}
 | Metric | This Week |
 | ------ | --------- |
 | GitHub Commits | 20 |
-| Job Application | 1 |
+| Job Applications | 1 |
 | Sleep Avg (hrs) | 8 |
 | Total Coding Time (hrs) | 1 |
 | Training Sessions (Football) | 3 |
@@ -568,7 +568,7 @@ Updated: {{ 28-Sep-26 }}
 | Metric | This Week |
 | ------ | --------- |
 | GitHub Commits | 20 |
-| Job Application | 3 |
+| Job Applications | 3 |
 | Sleep Avg (hrs) | 7 |
 | Total Coding Time (hrs) | 2 |
 | Training Sessions (Football) | 4 |
@@ -632,7 +632,7 @@ Updated: {{ 28-Sep-26 }}
 | Metric | This Week |
 | ------ | --------- |
 | GitHub Commits | 101 |
-| Job Application | 1 |
+| Job Applications | 1 |
 | Sleep Avg (hrs) | 8 |
 | Total Coding Time (hrs) | 17 |
 | Training Sessions (Football) | 4 |
@@ -690,7 +690,7 @@ Updated: {{ 28-Sep-26 }}
 | Metric | This Week |
 | ------ | --------- |
 | GitHub Commits | 13 |
-| Job Application | 2 |
+| Job Applications | 2 |
 | Sleep Avg (hrs) | 8 |
 | Total Coding Time (hrs) | N/A |
 | Training Sessions (Football) | 2 |
@@ -752,7 +752,7 @@ Updated: {{ 28-Sep-26 }}
 | Metric | This Week |
 | ------ | --------- |
 | GitHub Commits | 21 |
-| Job Application | 7 |
+| Job Applications | 7 |
 | Sleep Avg (hrs) | 8 |
 | Total Coding Time (hrs) | 9 |
 | Training Sessions (Football) | 3 |
@@ -813,7 +813,7 @@ Updated: {{ 28-Sep-26 }}
 | Metric | This Week |
 | ------ | --------- |
 | GitHub Commits | 26 |
-| Job Application | 7 |
+| Job Applications | 7 |
 | Sleep Avg (hrs) | 8 |
 | Total Coding Time (hrs) | 1 |
 | Training Sessions (Football) | 2 |
@@ -874,7 +874,7 @@ Updated: {{ 28-Sep-26 }}
 | Metric | This Week |
 | ------ | --------- |
 | GitHub Commits | 8 |
-| Job Application | 10 |
+| Job Applications | 10 |
 | Sleep Avg (hrs) | 8 |
 | Total Coding Time (hrs) | 1 |
 | Training Sessions (Football) | 2 |
@@ -937,7 +937,7 @@ Updated: {{ 28-Sep-26 }}
 | Metric | This Week |
 | ------ | --------- |
 | GitHub Commits | 23 |
-| Job Application | 2 |
+| Job Applications | 2 |
 | Sleep Avg (hrs) | 8 |
 | Total Coding Time (hrs) | 1 |
 | Training Sessions (Football) | 2 |
@@ -1001,7 +1001,7 @@ Updated: {{ 28-Sep-26 }}
 | Metric | This Week |
 | ------ | --------- |
 | GitHub Commits | 10 |
-| Job Application | 2 |
+| Job Applications | 2 |
 | Sleep Avg (hrs) | 8 |
 | Total Coding Time (hrs) | 3 |
 | Training Sessions (Football) | 2 |
@@ -1061,7 +1061,7 @@ Updated: {{ 28-Sep-26 }}
 | Metric | This Week |
 | ------ | --------- |
 | GitHub Commits | 24 |
-| Job Application | 1 |
+| Job Applications | 1 |
 | Sleep Avg (hrs) | 8 |
 | Total Coding Time (hrs) | 3 |
 | Training Sessions (Football) | 2 |
@@ -1119,7 +1119,7 @@ Updated: {{ 28-Sep-26 }}
 | Metric | This Week |
 | ------ | --------- |
 | GitHub Commits | 27 |
-| Job Application | N/A |
+| Job Applications | N/A |
 | Sleep Avg (hrs) | 8 |
 | Total Coding Time (hrs) | 2 |
 | Training Sessions (Football) | 2 |
@@ -1177,7 +1177,7 @@ Updated: {{ 28-Sep-26 }}
 | Metric | This Week |
 | ------ | --------- |
 | GitHub Commits | 8 |
-| Job Application | 3 |
+| Job Applications | 3 |
 | Sleep Avg (hrs) | 8 |
 | Total Coding Time (hrs) | 1 |
 | Training Sessions (Football) | 2 |
@@ -1237,7 +1237,7 @@ Updated: {{ 28-Sep-26 }}
 | Metric | This Week |
 | ------ | --------- |
 | GitHub Commits | 23 |
-| Job Application | N/A |
+| Job Applications | N/A |
 | Sleep Avg (hrs) | 8 |
 | Total Coding Time (hrs) | 2 |
 | Training Sessions (Football) | 1 |
@@ -1295,7 +1295,7 @@ Updated: {{ 28-Sep-26 }}
 | Metric | This Week |
 | ------ | --------- |
 | GitHub Commits | 31 |
-| Job Application | N/A |
+| Job Applications | N/A |
 | Sleep Avg (hrs) | 8 |
 | Total Coding Time (hrs) | 4 |
 | Training Sessions (Football) | N/A |
@@ -1352,7 +1352,7 @@ Updated: {{ 28-Sep-26 }}
 | Metric | This Week |
 | ------ | --------- |
 | GitHub Commits | 40 |
-| Job Application | N/A |
+| Job Applications | N/A |
 | Sleep Avg (hrs) | 8 |
 | Total Coding Time (hrs) | 1 |
 | Training Sessions (Football) | 3 |
@@ -1413,7 +1413,7 @@ Updated: {{ 28-Sep-26 }}
 | Metric | This Week |
 | ------ | --------- |
 | GitHub Commits | 25 |
-| Job Application | N/A |
+| Job Applications | N/A |
 | Sleep Avg (hrs) | 8 |
 | Total Coding Time (hrs) | N/A |
 | Training Sessions (Football) | 3 |
@@ -1471,7 +1471,7 @@ Updated: {{ 28-Sep-26 }}
 | Metric | This Week |
 | ------ | --------- |
 | GitHub Commits | 21 |
-| Job Application | 2 |
+| Job Applications | 2 |
 | Sleep Avg (hrs) | 8 |
 | Total Coding Time (hrs) | 1 |
 | Training Sessions (Football) | 2 |
@@ -1528,7 +1528,7 @@ Updated: {{ 28-Sep-26 }}
 | Metric | This Week |
 | ------ | --------- |
 | GitHub Commits | 33 |
-| Job Application | N/A |
+| Job Applications | N/A |
 | Sleep Avg (hrs) | 7 |
 | Total Coding Time (hrs) | 2 |
 | Training Sessions (Football) | 3 |
@@ -1585,7 +1585,7 @@ Updated: {{ 28-Sep-26 }}
 | Metric | This Week |
 | ------ | --------- |
 | GitHub Commits | 14 |
-| Job Application | N/A |
+| Job Applications | N/A |
 | Sleep Avg (hrs) | 7 |
 | Total Coding Time (hrs) | N/A |
 | Training Sessions (Football) | 3 |
@@ -1644,7 +1644,7 @@ Updated: {{ 28-Sep-26 }}
 | Metric | This Week |
 | ------ | --------- |
 | GitHub Commits | 5 |
-| Job Application | 4 |
+| Job Applications | 4 |
 | Sleep Avg (hrs) | 7 |
 | Total Coding Time (hrs) | N/A |
 | Training Sessions (Football) | 4 |
