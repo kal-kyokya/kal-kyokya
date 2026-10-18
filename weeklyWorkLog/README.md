@@ -79,7 +79,7 @@ Updated: {{ 28-Sep-26 }}
 
 ---
 
-> _“Your clothes shoud support your personality, not replace it.” — Jaye Alexander, "How To Dress To Get EVERY Girl (Science Based , Swag Guide)"._
+> _“L'excellence c'est dans la capacité à pouvoir influencer, et impacter la vie de ceux qui vous entourent; et votre propre vie.” — Ibrahim Traore, "L'urgence de l'industrialisation et l'impératif des fillières scientifiques."_
 
 <!-- Let's update the log every Sunday. Let's Go! -->
 
