@@ -29,11 +29,13 @@ Updated: {{ 28-Sep-26 }}
 
 - **Projects**
 	1. **Content & Social Media Manager for Football Podcast**: Week 2 of working with [Matchday Tribunal](https://www.youtube.com/@MatchdayTribunal), this week seeing the completion of 5 video projects covering the ~2 hour-long podcast episode recorded over the weekend.
-	2. **[Futtech-Django](https://www.futtech.kalkyokya.tech/showcase)**: Kept expanding the [Matchday Damage](https://www.youtube.com/@MatchdayDamage) video library (The social media extension of Futtech) with humorous edits covering the weekend's EPL's top 6 games and both Barcelona's UCL and La Liga fixtures.
+	2. **[Futtech-Django](https://www.futtech.kalkyokya.tech/showcase)**: Ensured Futtech Cloud's page displays a notification informing users of the Demo states of the feature. Also, kept expanding the [Matchday Damage](https://www.youtube.com/@MatchdayDamage) video library (The social media extension of Futtech) with humorous edits covering the weekend's EPL's top 6 games and both Barcelona's UCL and La Liga fixtures.
 
 - **Learning & Growth**
-	1. Started the week learning that, although both being audio format, [WAV to MP3](https://www.google.com/search?q=wav+to+mp3) is a crucial operation that facilitates editing of the football-related video I generate regularly.
-	2. Fast forward thursday, as I sought to work on Futtech, I learned that [ChatGPT's Codex's](https://www.google.com/search?q=chatgpt+codex) cloud version was now only available to pro members, and had to think of the implications of that news.
+	1. Starting on Tuesday morning, looking up the [meaning of a Ledge in FinTech](https://www.google.com/search?q=ledger+meaning+in+fintech) guided my thinking as I sought to reinforce Zongo's mental model.
+	2. Same day, early afternoon, as I organized job hunting efforts, the need to understand what [motion graphics](https://www.google.com/search?q=motion+graphics) are led me to understand just how much I have grown as a football video editor but, most importantly, how much more there is to learn.
+	3. Later on, in the same afternoon, I took to YouTube, searching long form tutorials to help me grasp a concept I believe only belonged to NestJS; [Dependency Injection](https://www.youtube.com/results?search_query=dependency+injection).
+	4. Fast forward Saturday, seeking to stop users from editing the demo question sent by Futtech Cloud, I found myself googling how to [disable textarea input](https://www.google.com/search?q=disable+textarea+input).
 
 - **Job hunting**
 	- Was invited to send a proposal for a Congo-related gig, which I did and haven't heard from the client.
