@@ -23,6 +23,67 @@ Updated: {{ 28-Sep-26 }}
 
 ---
 
+## Week 73 — Sunday, 18th October 2026
+
+### 🌱 **What Was Worked On**
+
+- **Projects**
+	1. **Content & Social Media Manager for Football Podcast**: Week 2 of working with [Matchday Tribunal](https://www.youtube.com/@MatchdayTribunal), this week seeing the completion of 5 video projects covering the ~2 hour-long podcast episode recorded over the weekend.
+	2. **[Futtech-Django](https://www.futtech.kalkyokya.tech/showcase)**: Kept expanding the [Matchday Damage](https://www.youtube.com/@MatchdayDamage) video library (The social media extension of Futtech) with humorous edits covering the weekend's EPL's top 6 games and both Barcelona's UCL and La Liga fixtures.
+
+- **Learning & Growth**
+	1. Started the week learning that, although both being audio format, [WAV to MP3](https://www.google.com/search?q=wav+to+mp3) is a crucial operation that facilitates editing of the football-related video I generate regularly.
+	2. Fast forward thursday, as I sought to work on Futtech, I learned that [ChatGPT's Codex's](https://www.google.com/search?q=chatgpt+codex) cloud version was now only available to pro members, and had to think of the implications of that news.
+
+- **Job hunting**
+	- Was invited to send a proposal for a Congo-related gig, which I did and haven't heard from the client.
+	- Submitted 1 proposal, with a 100% 'viewed by client' rate, got interviewed by none and hired by none, for jobs related to Football, Sports and game footage analysis/editing.
+
+### 🏆 <b>3 Wins and/or Achievements</b>
+1. Balancing working on Zongo, Matchday Damage, Futtech, Freelance and Wagenge.
+2. While in Kakamega, hearing "autobiographical descriptions" from "Tech bros".
+3. 2.4M discipline despite 2 nights and 3 days away from VA 308.
+
+### 🔭 <b>3 Fails & Lessons Learned</b>
+1. **Failure:** 'Loss of concentration'.<br />
+**Lesson:** Second week running; Messing up a simple pass is a "No, No!", the simplest of tap-ins, passes and dribbles must not be missed out on. Set yourself up to have the highest level of focus come game time.
+2. **Failure:** Weekly work log.<br />
+**Lesson:** This time round, it was after Kakamega's trip that I failed to dedicate an hour and a half on Monday to log the previous' week work. It is my monday's priority.
+3. **Failure:** Praying and sleeping on time.<br />
+**Lesson:** For the fourth week running: "Consistency, consistency, consistency. That's the name of the game." You win the day, by winning the night. You win the night, by winning the day. You win the day by praying, you win the night by going to bed early.
+
+### 🌟 <b>Highlights of the Week</b>
+- <b>Memorable moment / breakthrough / proud event</b>: Traveling outside Nairobi, with Wagenge, in a bus, passing through Kapsabet, Nakuru, Kisumu, eating chapo mayai na chai, Big fish, sukuma na Ugali, tender beef with chapati, Nduma, Njugu, Boiled eggs, Mandazi. Damn, a brother is only thinking of food. Wow.
+- <b>Quote, inspiration, or personal reflection</b>: "Put in the hours, you can learn from Wagenge's senior, about Football, as well as Life." — 'Access', man. 2.4M, Football skills, social skills. 2 solid years. Give it 2 solid years. InshaAllah.
+
+---
+
+## 📅 <b>Coming Up Next Week, InshaAllah</b> - October 12th to 18th 2026
+- [ ] Be done eating by 7PM.
+- [ ] Stay out of bed come [7:05AM](https://www.youtube.com/watch?v=T4H7EC9j6mg).
+- [ ] Ensure to spend 30 minutes, [every day](https://www.youtube.com/shorts/mQcTJdyTFtA) going through the [Hip Mobility Routine for Athletes](https://www.youtube.com/watch?v=x-uNaley_O8).
+- [ ] Complete uploads to [Matchday Damage](https://www.youtube.com/@MatchdayDamage) not more than 24 hours after each game's fulltime.
+- [ ] Average 1 hour a day of German language practice.
+
+---
+
+## 📈 <b>Meta</b>
+| Metric | This Week |
+| ------ | --------- |
+| GitHub Commits | 8 |
+| Job Applications | 3 |
+| Sleep Avg (hrs) | 7 |
+| Total Coding Time (hrs) | N/A |
+| Training Sessions (Football) | 2 |
+
+---
+
+> _“Your clothes shoud support your personality, not replace it.” — Jaye Alexander, "How To Dress To Get EVERY Girl (Science Based , Swag Guide)"._
+
+<!-- Let's update the log every Sunday. Let's Go! -->
+
+---
+
 ## Week 72 — Sunday, 11th October 2026
 
 ### 🌱 **What Was Worked On**
