@@ -32,7 +32,7 @@ Updated: {{ 28-Sep-26 }}
 	2. **[Futtech-Django](https://www.futtech.kalkyokya.tech/showcase)**: Ensured Futtech Cloud's page displays a notification informing users of the Demo states of the feature. Also, kept expanding the [Matchday Damage](https://www.youtube.com/@MatchdayDamage) video library (The social media extension of Futtech) with humorous edits covering the weekend's EPL's top 6 games and both Barcelona's UCL and La Liga fixtures.
 
 - **Learning & Growth**
-	1. Starting on Tuesday morning, looking up the [meaning of a Ledge in FinTech](https://www.google.com/search?q=ledger+meaning+in+fintech) guided my thinking as I sought to reinforce Zongo's mental model.
+	1. Starting on Tuesday morning, looking up the [meaning of a Ledger in FinTech](https://www.google.com/search?q=ledger+meaning+in+fintech) guided my thinking as I sought to reinforce Zongo's mental model.
 	2. Same day, early afternoon, as I organized job hunting efforts, the need to understand what [motion graphics](https://www.google.com/search?q=motion+graphics) are led me to understand just how much I have grown as a football video editor but, most importantly, how much more there is to learn.
 	3. Later on, in the same afternoon, I took to YouTube, searching long form tutorials to help me grasp a concept I believe only belonged to NestJS; [Dependency Injection](https://www.youtube.com/results?search_query=dependency+injection).
 	4. Fast forward Saturday, seeking to stop users from editing the demo question sent by Futtech Cloud, I found myself googling how to [disable textarea input](https://www.google.com/search?q=disable+textarea+input).
@@ -41,9 +41,9 @@ Updated: {{ 28-Sep-26 }}
 	- Submitted 3 proposals, with a 67% 'viewed by client' rate, got interviewed by 1 and hired by none, for jobs related to Football, Sports and game footage analysis/editing.
 
 ### 🏆 <b>3 Wins and/or Achievements</b>
-1. Balancing working on Zongo, Matchday Damage, Futtech, Freelance and Wagenge.
-2. While in Kakamega, hearing "autobiographical descriptions" from "Tech bros".
-3. 2.4M discipline despite 2 nights and 3 days away from VA 308.
+1. Training with Wagenge, in Karura, and displaying the tricks I practiced late 2025 in VA 308.
+2. Uploading Matchday Damage's content within hours of game's final whistles..
+3. 2.4M survival for yet another week, through Canada's plug.
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
 1. **Failure:** 'Loss of concentration'.<br />
