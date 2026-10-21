@@ -54,8 +54,8 @@ Updated: {{ 28-Sep-26 }}
 **Lesson:** 5PM, we go through the hip mobility routine, 5:30PM, we start eating, 7PM latest, we start the digestion process, 4 hours before the 11PM bedtime.
 
 ### 🌟 <b>Highlights of the Week</b>
-- <b>Memorable moment / breakthrough / proud event</b>: Traveling outside Nairobi, with Wagenge, in a bus, passing through Kapsabet, Nakuru, Kisumu, eating chapo mayai na chai, Big fish, sukuma na Ugali, tender beef with chapati, Nduma, Njugu, Boiled eggs, Mandazi. Damn, a brother is only thinking of food. Wow.
-- <b>Quote, inspiration, or personal reflection</b>: "Put in the hours, you can learn from Wagenge's senior, about Football, as well as Life." — 'Access', man. 2.4M, Football skills, social skills. 2 solid years. Give it 2 solid years. InshaAllah.
+- <b>Memorable moment / breakthrough / proud event</b>: Breakthrough; Increasing the efficiency with which I process MDTs video edit project, thanks to the many reps I have had to put in over the past 2 weeks.
+- <b>Quote, inspiration, or personal reflection</b>: "Volume negates Luck." — Alex Hormozi. That's a personal classic—video editor does what video editors do, he edits videos. Do it again, and again, and again, and again. Eventually, something will stick.
 
 ---
 
