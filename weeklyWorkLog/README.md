@@ -42,16 +42,16 @@ Updated: {{ 28-Sep-26 }}
 
 ### 🏆 <b>3 Wins and/or Achievements</b>
 1. Training with Wagenge, in Karura, and displaying the tricks I practiced late 2025 in VA 308.
-2. Uploading Matchday Damage's content within hours of game's final whistles..
+2. Uploading Matchday Damage's content within hours of game's final whistles.
 3. 2.4M survival for yet another week, through Canada's plug.
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
-1. **Failure:** 'Loss of concentration'.<br />
-**Lesson:** Second week running; Messing up a simple pass is a "No, No!", the simplest of tap-ins, passes and dribbles must not be missed out on. Set yourself up to have the highest level of focus come game time.
-2. **Failure:** Weekly work log.<br />
-**Lesson:** This time round, it was after Kakamega's trip that I failed to dedicate an hour and a half on Monday to log the previous' week work. It is my monday's priority.
-3. **Failure:** Praying and sleeping on time.<br />
-**Lesson:** For the fourth week running: "Consistency, consistency, consistency. That's the name of the game." You win the day, by winning the night. You win the night, by winning the day. You win the day by praying, you win the night by going to bed early.
+1. **Failure:** Weekly work log.<br />
+**Lesson:** Monday, first thing in the morning, after the morning routine, an assessment of the previous week, otherwise I find myself completing on Wednesday, like today.
+2. **Failure:** Praying and waking up on time.<br />
+**Lesson:** For the fifth week running: "Consistency, consistency, consistency. That's the name of the game." You win the day, by winning the night. You win the night, by winning the day. You win the day by praying, you win the night by waking up at 7:05AM.
+3. **Failure:** Stretch-Eat evening sequence.<br />
+**Lesson:** 5PM, we go through the hip mobility routine, 5:30PM, we start eating, 7PM latest, we start the digestion process, 4 hours before the 11PM bedtime.
 
 ### 🌟 <b>Highlights of the Week</b>
 - <b>Memorable moment / breakthrough / proud event</b>: Traveling outside Nairobi, with Wagenge, in a bus, passing through Kapsabet, Nakuru, Kisumu, eating chapo mayai na chai, Big fish, sukuma na Ugali, tender beef with chapati, Nduma, Njugu, Boiled eggs, Mandazi. Damn, a brother is only thinking of food. Wow.
