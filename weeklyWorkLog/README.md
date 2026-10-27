@@ -40,9 +40,9 @@ Updated: {{ 28-Sep-26 }}
 	- Submitted 1 proposal, with a 100% 'viewed by client' rate, got interviewed by 1 and hired by none, for a job related to Football, Sports and game footage analysis/editing.
 
 ### 🏆 <b>3 Wins and/or Achievements</b>
-1. Training with Wagenge, in Karura, and displaying the tricks I practiced late 2025 in VA 308.
-2. Uploading Matchday Damage's content within hours of game's final whistles.
-3. 2.4M survival for yet another week, through Canada's plug.
+1. Having Matchday Damage swiftly cover Barcelona's games.
+2. Attending Wagenge's training in Makuyu and not being press resistant enough.
+3. 2.4M survival promise for yet another week, through Poland's plug.
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
 1. **Failure:** Weekly work log.<br />
