@@ -78,7 +78,7 @@ Updated: {{ 28-Sep-26 }}
 
 ---
 
-> _“L'excellence c'est dans la capacité à pouvoir influencer, et impacter la vie de ceux qui vous entourent; et votre propre vie.” — Ibrahim Traore, "L'urgence de l'industrialisation et l'impératif des fillières scientifiques."_
+> _“The curse of discipline is that every day looks the same. The curse of indiscipline is that every year does.” — Hemant Mohapatra, "On X."_
 
 <!-- Let's update the log every Sunday. Let's Go! -->
 
