@@ -53,8 +53,8 @@ Updated: {{ 28-Sep-26 }}
 **Lesson:** 5PM, we go through the hip mobility routine, 5:30PM, we start eating, 7PM latest, we start the digestion process, 4 hours before the 11PM bedtime.
 
 ### 🌟 <b>Highlights of the Week</b>
-- <b>Memorable moment / breakthrough / proud event</b>: Breakthrough; Increasing the efficiency with which I process MDTs video edit projects, thanks to the many reps I have had to put in over the past 2 weeks.
-- <b>Quote, inspiration, or personal reflection</b>: "Volume negates Luck." — Alex Hormozi. A personal classic. Video editor does what video editors do, he edits videos. Do it again, and again, and again, and again. Eventually, something will stick.
+- <b>Memorable moment / breakthrough / proud event</b>: Staying on the pitch upon completion of Wagenge's training session and receiving the opportunity to take, maybe, 100 shots at goal, from a distance, most likely, outside the box, with rotating keepers of different heights that had me thinking of the best way to beat them.
+- <b>Quote, inspiration, or personal reflection</b>: "Express Yourself." — Coach Kirubi. Flashes of greatness. Moments of quality, where a brother will hog the ball and take on people, absorb pressure. I just don't quite know how to pick the time to give into individualism and collective play. That's where being part of a Team comes in. We can learn. We will Learn. We must learn.
 
 ---
 
