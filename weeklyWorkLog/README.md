@@ -32,10 +32,9 @@ Updated: {{ 28-Sep-26 }}
 	2. **[Futtech-Django](https://www.futtech.kalkyokya.tech/showcase)**: Revised implementation of Futtech Cloud's page displaying a notification informing users of the Demo states of the feature, as well as the mobile hamburger menu that unneccesarily stretched the UI. Also, kept expanding the [Matchday Damage](https://www.youtube.com/@MatchdayDamage) video library (The social media extension of Futtech) with humorous edits covering the weekend's EPL's top 6 games and both Barcelona's UCL and La Liga fixtures.
 
 - **Learning & Growth**
-	1. Starting on Tuesday morning, looking up the [meaning of a Ledger in FinTech](https://www.google.com/search?q=ledger+meaning+in+fintech) guided my thinking as I sought to reinforce Zongo's mental model.
-	2. Same day, early afternoon, as I organized job hunting efforts, the need to understand what [motion graphics](https://www.google.com/search?q=motion+graphics) are led me to understand just how much I have grown as a football video editor but, most importantly, how much more there is to learn.
-	3. Later on, in the same afternoon, I took to YouTube, searching long form tutorials to help me grasp a concept I believe only belonged to NestJS; [Dependency Injection](https://www.youtube.com/results?search_query=dependency+injection).
-	4. Fast forward Saturday, seeking to stop users from editing the demo question sent by Futtech Cloud, I found myself googling how to [disable textarea input](https://www.google.com/search?q=disable+textarea+input).
+	1. Monday noon, as I sought to overcome Codex Cloud only being available for Pro users, I learned that my laptop is running an old version of windows that doesn't support ChatGPT for windows.
+	2. Wednesday, late in the evening, working on Zongo, [Sargo IO's Terms of Services](https://sargo.io/terms/) exposed me to the idea of financial products needing to have clear utilization terms.
+	3. Thursday saw me furthering the idea of reading FinTech product's terms of services and saw me look into [Shwary's](https://shwary.com/) and [Pretium](https://pretium.africa/).
 
 - **Job hunting**
 	- Submitted 3 proposals, with a 67% 'viewed by client' rate, got interviewed by 1 and hired by none, for jobs related to Football, Sports and game footage analysis/editing.
