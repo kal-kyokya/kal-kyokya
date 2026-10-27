@@ -58,7 +58,7 @@ Updated: {{ 28-Sep-26 }}
 
 ---
 
-## 📅 <b>Coming Up Next Week, InshaAllah</b> - October 18th to 24th 2026
+## 📅 <b>Coming Up Next Week, InshaAllah</b> - October 26th to November 1st 2026
 - [ ] Be done eating by 7PM.
 - [ ] Stay out of bed come [7:05AM](https://www.youtube.com/watch?v=T4H7EC9j6mg).
 - [ ] Ensure to spend 30 minutes, [every day](https://www.youtube.com/shorts/mQcTJdyTFtA) going through the [Hip Mobility Routine for Athletes](https://www.youtube.com/watch?v=x-uNaley_O8).
