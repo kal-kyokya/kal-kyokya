@@ -37,7 +37,7 @@ Updated: {{ 28-Sep-26 }}
 	3. Thursday saw me furthering the idea of reading FinTech product's terms of services and saw me look into [Shwary's](https://shwary.com/) and [Pretium](https://pretium.africa/).
 
 - **Job hunting**
-	- Submitted 3 proposals, with a 67% 'viewed by client' rate, got interviewed by 1 and hired by none, for jobs related to Football, Sports and game footage analysis/editing.
+	- Submitted 1 proposal, with a 100% 'viewed by client' rate, got interviewed by 1 and hired by none, for a job related to Football, Sports and game footage analysis/editing.
 
 ### 🏆 <b>3 Wins and/or Achievements</b>
 1. Training with Wagenge, in Karura, and displaying the tricks I practiced late 2025 in VA 308.
