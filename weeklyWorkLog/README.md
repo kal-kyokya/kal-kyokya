@@ -70,11 +70,11 @@ Updated: {{ 28-Sep-26 }}
 ## 📈 <b>Meta</b>
 | Metric | This Week |
 | ------ | --------- |
-| GitHub Commits | 8 |
-| Job Applications | 3 |
+| GitHub Commits | 9 |
+| Job Applications | 1 |
 | Sleep Avg (hrs) | 7 |
-| Total Coding Time (hrs) | N/A |
-| Training Sessions (Football) | 2 |
+| Total Coding Time (hrs) | 1 |
+| Training Sessions (Football) | 1 |
 
 ---
 
