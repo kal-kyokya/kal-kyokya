@@ -46,9 +46,9 @@ Updated: {{ 28-Sep-26 }}
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
 1. **Failure:** Weekly work log.<br />
-**Lesson:** Monday, first thing in the morning, after the morning routine, an assessment of the previous week, otherwise I find myself completing on Wednesday, like today.
+**Lesson:** "Monday, first thing in the morning, after the morning routine, an assessment of the previous week, otherwise I find myself completing on Wednesday, like today".
 2. **Failure:** Praying and waking up on time.<br />
-**Lesson:** For the fifth week running: "Consistency, consistency, consistency. That's the name of the game." You win the day, by winning the night. You win the night, by winning the day. You win the day by praying, you win the night by waking up at 7:05AM.
+**Lesson:** I bought Melatonin today, 3 tablets to cure this sixth week running issue: "Consistency, consistency, consistency. That's the name of the game." You win the day, by winning the night. You win the night, by winning the day. You win the day by praying, you win the night by waking up at 7:05AM.
 3. **Failure:** Stretch-Eat evening sequence.<br />
 **Lesson:** 5PM, we go through the hip mobility routine, 5:30PM, we start eating, 7PM latest, we start the digestion process, 4 hours before the 11PM bedtime.
 
