@@ -23,6 +23,68 @@ Updated: {{ 28-Sep-26 }}
 
 ---
 
+## Week 74 — Sunday, 25th October 2026
+
+### 🌱 **What Was Worked On**
+
+- **Projects**
+	1. **Content & Social Media Manager for Football Podcast**: Week 3 of working with [Matchday Tribunal](https://www.youtube.com/@MatchdayTribunal), this week seeing the completion of 4 video projects covering the ~2 hour-long podcast episode recorded over the weekend.
+	2. **[Futtech-Django](https://www.futtech.kalkyokya.tech/showcase)**: Revised implementation of Futtech Cloud's page displaying a notification informing users of the Demo states of the feature, as well as the mobile hamburger menu that unneccesarily stretched the UI. Also, kept expanding the [Matchday Damage](https://www.youtube.com/@MatchdayDamage) video library (The social media extension of Futtech) with humorous edits covering the weekend's EPL's top 6 games and both Barcelona's UCL and La Liga fixtures.
+
+- **Learning & Growth**
+	1. Starting on Tuesday morning, looking up the [meaning of a Ledger in FinTech](https://www.google.com/search?q=ledger+meaning+in+fintech) guided my thinking as I sought to reinforce Zongo's mental model.
+	2. Same day, early afternoon, as I organized job hunting efforts, the need to understand what [motion graphics](https://www.google.com/search?q=motion+graphics) are led me to understand just how much I have grown as a football video editor but, most importantly, how much more there is to learn.
+	3. Later on, in the same afternoon, I took to YouTube, searching long form tutorials to help me grasp a concept I believe only belonged to NestJS; [Dependency Injection](https://www.youtube.com/results?search_query=dependency+injection).
+	4. Fast forward Saturday, seeking to stop users from editing the demo question sent by Futtech Cloud, I found myself googling how to [disable textarea input](https://www.google.com/search?q=disable+textarea+input).
+
+- **Job hunting**
+	- Submitted 3 proposals, with a 67% 'viewed by client' rate, got interviewed by 1 and hired by none, for jobs related to Football, Sports and game footage analysis/editing.
+
+### 🏆 <b>3 Wins and/or Achievements</b>
+1. Training with Wagenge, in Karura, and displaying the tricks I practiced late 2025 in VA 308.
+2. Uploading Matchday Damage's content within hours of game's final whistles.
+3. 2.4M survival for yet another week, through Canada's plug.
+
+### 🔭 <b>3 Fails & Lessons Learned</b>
+1. **Failure:** Weekly work log.<br />
+**Lesson:** Monday, first thing in the morning, after the morning routine, an assessment of the previous week, otherwise I find myself completing on Wednesday, like today.
+2. **Failure:** Praying and waking up on time.<br />
+**Lesson:** For the fifth week running: "Consistency, consistency, consistency. That's the name of the game." You win the day, by winning the night. You win the night, by winning the day. You win the day by praying, you win the night by waking up at 7:05AM.
+3. **Failure:** Stretch-Eat evening sequence.<br />
+**Lesson:** 5PM, we go through the hip mobility routine, 5:30PM, we start eating, 7PM latest, we start the digestion process, 4 hours before the 11PM bedtime.
+
+### 🌟 <b>Highlights of the Week</b>
+- <b>Memorable moment / breakthrough / proud event</b>: Breakthrough; Increasing the efficiency with which I process MDTs video edit projects, thanks to the many reps I have had to put in over the past 2 weeks.
+- <b>Quote, inspiration, or personal reflection</b>: "Volume negates Luck." — Alex Hormozi. A personal classic. Video editor does what video editors do, he edits videos. Do it again, and again, and again, and again. Eventually, something will stick.
+
+---
+
+## 📅 <b>Coming Up Next Week, InshaAllah</b> - October 18th to 24th 2026
+- [ ] Be done eating by 7PM.
+- [ ] Stay out of bed come [7:05AM](https://www.youtube.com/watch?v=T4H7EC9j6mg).
+- [ ] Ensure to spend 30 minutes, [every day](https://www.youtube.com/shorts/mQcTJdyTFtA) going through the [Hip Mobility Routine for Athletes](https://www.youtube.com/watch?v=x-uNaley_O8).
+- [ ] Complete uploads to [Matchday Damage](https://www.youtube.com/@MatchdayDamage) not more than 24 hours after each game's fulltime.
+- [ ] Average 1 hour a day of German language practice.
+
+---
+
+## 📈 <b>Meta</b>
+| Metric | This Week |
+| ------ | --------- |
+| GitHub Commits | 8 |
+| Job Applications | 3 |
+| Sleep Avg (hrs) | 7 |
+| Total Coding Time (hrs) | N/A |
+| Training Sessions (Football) | 2 |
+
+---
+
+> _“L'excellence c'est dans la capacité à pouvoir influencer, et impacter la vie de ceux qui vous entourent; et votre propre vie.” — Ibrahim Traore, "L'urgence de l'industrialisation et l'impératif des fillières scientifiques."_
+
+<!-- Let's update the log every Sunday. Let's Go! -->
+
+---
+
 ## Week 73 — Sunday, 18th October 2026
 
 ### 🌱 **What Was Worked On**
