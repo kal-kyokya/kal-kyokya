@@ -23,6 +23,67 @@ Updated: {{ 28-Sep-26 }}
 
 ---
 
+## Week 75 — Sunday, 1st November 2026
+
+### 🌱 **What Was Worked On**
+
+- **Projects**
+	1. **Content & Social Media Manager for Football Podcast**: Week 4 of working with [Matchday Tribunal](https://www.youtube.com/@MatchdayTribunal), this week seeing the completion of 5 video projects covering targeted segment of the ~100 minute-long podcast episode recorded over the weekend.
+	2. **[Futtech-Django](https://www.futtech.kalkyokya.tech/showcase)**: Kept expanding the [Matchday Damage](https://www.youtube.com/@MatchdayDamage) video library (The social media extension of Futtech), with humorous edits covering the Ballon D'Or, the weekend's EPL's top 6 games and both Barcelona's UCL and La Liga fixtures, generating 6 videos between Monday and Tuesday.
+
+- **Learning & Growth**
+	1. Monday noon, as I sought to overcome Codex Cloud only being available for Pro users, I learned that my laptop is running an old version of windows that doesn't support ChatGPT for windows.
+	2. Wednesday, late in the evening, working on Zongo, [Sargo IO's Terms of Services](https://sargo.io/terms/) exposed me to the idea of financial products needing to have clear utilization terms.
+	3. Thursday saw me furthering the idea of reading FinTech product's terms of services and saw me look into [Shwary's](https://shwary.com/) and [Pretium](https://pretium.africa/).
+
+- **Job hunting**
+	- Submitted 1 proposal, with a 100% 'viewed by client' rate, got interviewed by 1 and hired by none, for a job related to Football, Sports and game footage analysis/editing.
+
+### 🏆 <b>3 Wins and/or Achievements</b>
+1. Having Matchday Damage swiftly cover Barcelona's games.
+2. Attending Wagenge's training in Makuyu and not being press resistant enough.
+3. 2.4M survival promise for yet another week, through Poland's plug.
+
+### 🔭 <b>3 Fails & Lessons Learned</b>
+1. **Failure:** Weekly work log.<br />
+**Lesson:** "Monday, first thing in the morning, after the morning routine, an assessment of the previous week, otherwise I find myself completing on Wednesday, like today".
+2. **Failure:** Praying and waking up on time.<br />
+**Lesson:** I bought Melatonin today, 3 tablets to cure this sixth week running issue: "Consistency, consistency, consistency. That's the name of the game." You win the day, by winning the night. You win the night, by winning the day. You win the day by praying, you win the night by waking up at 7:05AM.
+3. **Failure:** Stretch-Eat evening sequence.<br />
+**Lesson:** 5PM, we go through the hip mobility routine, 5:30PM, we start eating, 7PM latest, we start the digestion process, 4 hours before the 11PM bedtime.
+
+### 🌟 <b>Highlights of the Week</b>
+- <b>Memorable moment / breakthrough / proud event</b>: Staying on the pitch upon completion of Wagenge's training session and receiving the opportunity to take, maybe, 100 shots at goal, from a distance, most likely, outside the box, with rotating keepers of different heights that had me thinking of the best way to beat them.
+- <b>Quote, inspiration, or personal reflection</b>: "Express Yourself." — Coach Kirubi. Flashes of greatness. Moments of quality, where a brother will hog the ball and take on people, absorb pressure. I just don't quite know how to pick the time to give into individualism and collective play. That's where being part of a Team comes in. We can learn. We will Learn. We must learn.
+
+---
+
+## 📅 <b>Coming Up Next Week, InshaAllah</b> - October 26th to November 1st 2026
+- [ ] Be done eating by 7PM.
+- [ ] Stay out of bed come [7:05AM](https://www.youtube.com/watch?v=T4H7EC9j6mg).
+- [ ] Ensure to spend 30 minutes, [every day](https://www.youtube.com/shorts/mQcTJdyTFtA) going through the [Hip Mobility Routine for Athletes](https://www.youtube.com/watch?v=x-uNaley_O8).
+- [ ] Complete uploads to [Matchday Damage](https://www.youtube.com/@MatchdayDamage) not more than 24 hours after each game's fulltime.
+- [ ] Average 1 hour a day of German language practice.
+
+---
+
+## 📈 <b>Meta</b>
+| Metric | This Week |
+| ------ | --------- |
+| GitHub Commits | 9 |
+| Job Applications | 1 |
+| Sleep Avg (hrs) | 7 |
+| Total Coding Time (hrs) | 1 |
+| Training Sessions (Football) | 1 |
+
+---
+
+> _“The curse of discipline is that every day looks the same. The curse of indiscipline is that every year does.” — Hemant Mohapatra, "On X."_
+
+<!-- Let's update the log every Sunday. Let's Go! -->
+
+---
+
 ## Week 74 — Sunday, 25th October 2026
 
 ### 🌱 **What Was Worked On**
