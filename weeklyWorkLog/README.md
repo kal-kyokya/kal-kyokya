@@ -36,7 +36,7 @@ Updated: {{ 28-Sep-26 }}
 	2. Friday afternoon, I got to rethink my approach of Stoicism, thanks to this attempt at having a ["interesting" AI-generated video](https://www.youtube.com/watch?v=_kEMTPfNMiY) bringing Marcus Aurelius and Andrew Tate in one place.
 
 - **Job hunting**
-	- Submitted 1 proposal, with a 100% 'viewed by client' rate, got interviewed by 1 and hired by none, for a job related to Football, Sports and game footage analysis/editing.
+	- Submitted 0 proposal, with a 0% 'viewed by client' rate, got interviewed by none and hired by none, for jobs related to Football, Sports and game footage analysis/editing.
 
 ### 🏆 <b>3 Wins and/or Achievements</b>
 1. Having Matchday Damage swiftly cover Barcelona's games.
