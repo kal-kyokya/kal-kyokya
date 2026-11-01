@@ -77,7 +77,7 @@ Updated: {{ 28-Sep-26 }}
 
 ---
 
-> _“The curse of discipline is that every day looks the same. The curse of indiscipline is that every year does.” — Hemant Mohapatra, "On X."_
+> _“The (Stoic) philosophy was hijacked twice. Once by people who made it passive, and once by people who made it cold. Neither captures it.” — The True Meaning of Stoicism, "Discipline, Feeling and Purpose - Marcus Aurelius & A. Tate"_
 
 <!-- Let's update the log every Sunday. Let's Go! -->
 
