@@ -32,9 +32,8 @@ Updated: {{ 28-Sep-26 }}
 	2. **[Futtech-Django](https://www.futtech.kalkyokya.tech/showcase)**: Kept expanding the [Matchday Damage](https://www.youtube.com/@MatchdayDamage) video library (The social media extension of Futtech), with humorous edits covering the Ballon D'Or, the weekend's EPL's top 6 games and both Barcelona's UCL and La Liga fixtures, generating 6 videos between Monday and Tuesday.
 
 - **Learning & Growth**
-	1. Monday noon, as I sought to overcome Codex Cloud only being available for Pro users, I learned that my laptop is running an old version of windows that doesn't support ChatGPT for windows.
-	2. Wednesday, late in the evening, working on Zongo, [Sargo IO's Terms of Services](https://sargo.io/terms/) exposed me to the idea of financial products needing to have clear utilization terms.
-	3. Thursday saw me furthering the idea of reading FinTech product's terms of services and saw me look into [Shwary's](https://shwary.com/) and [Pretium](https://pretium.africa/).
+	1. Thursday night, during a week where most of the learning was practical thanks to the amount of video editing and football training hours, I encountered {[this YouTube video](https://www.youtube.com/watch?v=dUbLFVncCzk) discussing fitness and mentioning an "super serious" approach I have, thus far, taken in the gym.
+	2. Friday afternoon, I got to rethink my approach of Stoicism, thanks to this attempt at having a ["interesting" AI-generated video](https://www.youtube.com/watch?v=_kEMTPfNMiY) bringing Marcus Aurelius and Andrew Tate in one place.
 
 - **Job hunting**
 	- Submitted 1 proposal, with a 100% 'viewed by client' rate, got interviewed by 1 and hired by none, for a job related to Football, Sports and game footage analysis/editing.
