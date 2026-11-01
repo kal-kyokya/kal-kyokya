@@ -39,15 +39,15 @@ Updated: {{ 28-Sep-26 }}
 	- Submitted 0 proposal, with a 0% 'viewed by client' rate, got interviewed by none and hired by none, for jobs related to Football, Sports and game footage analysis/editing.
 
 ### 🏆 <b>3 Wins and/or Achievements</b>
-1. Having Matchday Damage swiftly cover Barcelona's games.
-2. Attending Wagenge's training in Makuyu and not being press resistant enough.
-3. 2.4M survival promise for yet another week, through Poland's plug.
+1. Refining MDT's "potential agentic" workflow via speech-to-text usage.
+2. Covering the Ballon d'Or, from a Barcelona fan's POV, for Matchday Damage.
+3. Playing with a smile during the inside-the-penalty-box Konza City warm up.
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
-1. **Failure:** Weekly work log.<br />
-**Lesson:** "Monday, first thing in the morning, after the morning routine, an assessment of the previous week, otherwise I find myself completing on Wednesday, like today".
-2. **Failure:** Praying and waking up on time.<br />
-**Lesson:** I bought Melatonin today, 3 tablets to cure this sixth week running issue: "Consistency, consistency, consistency. That's the name of the game." You win the day, by winning the night. You win the night, by winning the day. You win the day by praying, you win the night by waking up at 7:05AM.
+1. **Failure:** Poor communication.<br />
+**Lesson:** We get it, "Minimum amount of interaction, maximum impact." Now, the thing is, in a professional setting, working quietly and showing up with results leaves clients and employers wondering what you are up to and makes it hard for them to plan their schedule. Better announce your aim first, then disappear and go for it. Your private life can live by that, not your professional.
+2. **Failure:** Zongo.<br />
+**Lesson:** Get the ChatGPT plus subscription and get on with Code generation.
 3. **Failure:** Stretch-Eat evening sequence.<br />
 **Lesson:** 5PM, we go through the hip mobility routine, 5:30PM, we start eating, 7PM latest, we start the digestion process, 4 hours before the 11PM bedtime.
 
