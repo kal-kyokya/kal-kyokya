@@ -52,8 +52,8 @@ Updated: {{ 28-Sep-26 }}
 **Lesson:** 5PM, we go through the hip mobility routine, 5:30PM, we start eating, 7PM latest, we start the digestion process, 4 hours before the 11PM bedtime.
 
 ### 🌟 <b>Highlights of the Week</b>
-- <b>Memorable moment / breakthrough / proud event</b>: Staying on the pitch upon completion of Wagenge's training session and receiving the opportunity to take, maybe, 100 shots at goal, from a distance, most likely, outside the box, with rotating keepers of different heights that had me thinking of the best way to beat them.
-- <b>Quote, inspiration, or personal reflection</b>: "Express Yourself." — Coach Kirubi. Flashes of greatness. Moments of quality, where a brother will hog the ball and take on people, absorb pressure. I just don't quite know how to pick the time to give into individualism and collective play. That's where being part of a Team comes in. We can learn. We will Learn. We must learn.
+- <b>Memorable moment / breakthrough / proud event</b>: By my "non-confrontational" and slightly disagreable temperament standards: Exercising control of the self, over Pathos, as I had a relatively dificult, ~2 hour-long, back-and-forth WhatsApp exchange, with MDT, over the audit request made to me, and the implications on volume of edits I could generate. Discussion that helped both party clarify their priority list and after which the quality of my edit went up, as a result of momentarily pausing the audit.
+- <b>Quote, inspiration, or personal reflection</b>: Back-to-back weeks of: "Express Yourself." — Coach Kirubi. Once again: flashes of greatness. Moments of quality, where a brother will hog the ball and take on people, absorb pressure, showboat and be alive, whether with words, runs, pressing, passing, etc. That's the version of me that I need to channel for 90 minutes.
 
 ---
 
