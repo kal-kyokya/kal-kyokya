@@ -60,8 +60,8 @@ Updated: {{ 28-Sep-26 }}
 **Lesson:** 5PM, we go through the hip mobility routine, 5:30PM, we start eating, 7PM latest, we start the digestion process, 4 hours before the 11PM bedtime.
 
 ### 🌟 <b>Highlights of the Week</b>
-- <b>Memorable moment / breakthrough / proud event</b>: By my "non-confrontational" and slightly disagreable temperament standards: Exercising control of the self, over Pathos, as I had a relatively dificult, ~2 hour-long, back-and-forth WhatsApp exchange, with MDT, over the audit request made to me, and the implications on volume of edits I could generate. Discussion that helped both party clarify their priority list and after which the quality of my edit went up, as a result of momentarily pausing the audit.
-- <b>Quote, inspiration, or personal reflection</b>: Back-to-back weeks of: "Express Yourself." — Coach Kirubi. Once again: flashes of greatness. Moments of quality, where a brother will hog the ball and take on people, absorb pressure, showboat and be alive, whether with words, runs, pressing, passing, etc. That's the version of me that I need to channel for 90 minutes.
+- <b>Memorable moment / breakthrough / proud event</b>: Completing the preliminary quantitative report of MDT's 3 day audit process and immediately informing them of my unwillingness to renew my contract. DD, 2.4M, DLHI, 'slow more controlled'. Yeah. I choose to assert myself, paid my dues, did an inventory of the submissions made across the duration of the contract and identified an opportunity to part ways, rather than stick around and resentfully work under a contract whose negociations weren't satisfactory.
+- <b>Quote, inspiration, or personal reflection</b>: "Spare the rod, spoil the child." — Proverbs 13:24. The English version of "Qui aime bien, châtie bien". Also known as "Tough Love." A phrase/concepti I believe in and whose application from my parents had brought about the person I am. I wanted to know the English version.
 
 ---
 
