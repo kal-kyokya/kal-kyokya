@@ -23,6 +23,67 @@ Updated: {{ 28-Sep-26 }}
 
 ---
 
+## Week 76 — Sunday, 8th November 2026
+
+### 🌱 **What Was Worked On**
+
+- **Projects**
+	1. **Content & Social Media Manager for Football Podcast**: Week 5 (Final week) of working with [Matchday Tribunal](https://www.youtube.com/@MatchdayTribunal). This week seeing the completion of 2 video projects and the submission of a preliminary quantitative report from the YouTube page's audit done over 3 days.
+	2. **[Futtech-Django](https://www.futtech.kalkyokya.tech/showcase)**: Began a complete project audit and polised up the backend's auth throttling rate, tenant domains, data validation, and more.
+	3. **[Futtech-Django](https://www.futtech.kalkyokya.tech/showcase)**: Kept expanding the [Matchday Damage](https://www.youtube.com/@MatchdayDamage) video library (The social media extension of Futtech), with humorous edits covering the Ballon D'Or, the weekend's EPL's top 6 games and both Barcelona's UCL and La Liga fixtures, generating 9 videos between Monday and Sunday.
+
+- **Learning & Growth**
+	1. Thursday night, during a week where most of the learning was practical thanks to the amount of video editing and football training hours, I encountered {[this YouTube video](https://www.youtube.com/watch?v=dUbLFVncCzk) discussing fitness and mentioning an "super serious" approach I have, thus far, taken in the gym.
+	2. Friday afternoon, I got to rethink my approach of Stoicism, thanks to this attempt at having a ["interesting" AI-generated video](https://www.youtube.com/watch?v=_kEMTPfNMiY) bringing Marcus Aurelius and Andrew Tate in one place.
+
+- **Job hunting**
+	- Submitted 0 proposal, with a 0% 'viewed by client' rate, got interviewed by none and hired by none, for jobs related to Football, Sports and game footage analysis/editing.
+
+### 🏆 <b>3 Wins and/or Achievements</b>
+1. Refining MDT's "potential agentic" workflow via speech-to-text usage.
+2. Covering the Ballon d'Or, from a Barcelona fan's POV, for Matchday Damage.
+3. Playing with a smile during the inside-the-penalty-box Konza City warm up.
+
+### 🔭 <b>3 Fails & Lessons Learned</b>
+1. **Failure:** Poor communication.<br />
+**Lesson:** We get it, "Minimum amount of interaction, maximum impact." Now, the thing is, in a professional setting, working quietly and showing up with results leaves clients and employers wondering what you are up to and makes it hard for them to plan their schedule. Better announce your aim first, then disappear and go for it. Your private life can live by that, not your professional.
+2. **Failure:** Zongo.<br />
+**Lesson:** Get the ChatGPT plus subscription and get on with Code generation.
+3. **Failure:** Stretch-Eat evening sequence.<br />
+**Lesson:** 5PM, we go through the hip mobility routine, 5:30PM, we start eating, 7PM latest, we start the digestion process, 4 hours before the 11PM bedtime.
+
+### 🌟 <b>Highlights of the Week</b>
+- <b>Memorable moment / breakthrough / proud event</b>: By my "non-confrontational" and slightly disagreable temperament standards: Exercising control of the self, over Pathos, as I had a relatively dificult, ~2 hour-long, back-and-forth WhatsApp exchange, with MDT, over the audit request made to me, and the implications on volume of edits I could generate. Discussion that helped both party clarify their priority list and after which the quality of my edit went up, as a result of momentarily pausing the audit.
+- <b>Quote, inspiration, or personal reflection</b>: Back-to-back weeks of: "Express Yourself." — Coach Kirubi. Once again: flashes of greatness. Moments of quality, where a brother will hog the ball and take on people, absorb pressure, showboat and be alive, whether with words, runs, pressing, passing, etc. That's the version of me that I need to channel for 90 minutes.
+
+---
+
+## 📅 <b>Coming Up Next Week, InshaAllah</b> - November 2nd to 8th 2026
+- [ ] Be done eating by 7PM.
+- [ ] Stay out of bed come [7:55AM](https://www.youtube.com/watch?v=T4H7EC9j6mg).
+- [ ] Ensure to spend 30 minutes, [every day](https://www.youtube.com/shorts/mQcTJdyTFtA) going through the [Hip Mobility Routine for Athletes](https://www.youtube.com/watch?v=x-uNaley_O8).
+- [ ] Complete uploads to [Matchday Damage](https://www.youtube.com/@MatchdayDamage) not more than 24 hours after each game's fulltime.
+- [ ] Average 1 hour a day of German language practice.
+
+---
+
+## 📈 <b>Meta</b>
+| Metric | This Week |
+| ------ | --------- |
+| GitHub Commits | 7 |
+| Job Applications | N/A |
+| Sleep Avg (hrs) | 7 |
+| Total Coding Time (hrs) | N/A |
+| Training Sessions (Football) | 3 |
+
+---
+
+> _“The (Stoic) philosophy was hijacked twice. Once by people who made it passive, and once by people who made it cold. Neither captures it.” — The True Meaning of Stoicism, "Discipline, Feeling and Purpose - Marcus Aurelius & A. Tate"_
+
+<!-- Let's update the log every Sunday. Let's Go! -->
+
+---
+
 ## Week 75 — Sunday, 1st November 2026
 
 ### 🌱 **What Was Worked On**
