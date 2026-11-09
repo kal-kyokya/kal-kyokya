@@ -85,7 +85,7 @@ Updated: {{ 28-Sep-26 }}
 
 ---
 
-> _“The (Stoic) philosophy was hijacked twice. Once by people who made it passive, and once by people who made it cold. Neither captures it.” — The True Meaning of Stoicism, "Discipline, Feeling and Purpose - Marcus Aurelius & A. Tate"_
+> _“To be honest, I only ever compete with myself.. no other man's success or failure affects my life in the end.” — Anthony Gordon, "Aston Villa pre-game Champions League press interview."_
 
 <!-- Let's update the log every Sunday. Let's Go! -->
 
