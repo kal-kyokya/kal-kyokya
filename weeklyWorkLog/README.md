@@ -47,9 +47,9 @@ Updated: {{ 28-Sep-26 }}
 	- Declined renewal of Matchday Tribunal contract due to mismatch between hours required by the job and my availability.
 
 ### 🏆 <b>3 Wins and/or Achievements</b>
-1. Refining MDT's "potential agentic" workflow via speech-to-text usage.
-2. Covering the Ballon d'Or, from a Barcelona fan's POV, for Matchday Damage.
-3. Playing with a smile during the inside-the-penalty-box Konza City warm up.
+1. Tinkering with YouTube creator studio's advanced-mode metrics and breakdowns.
+2. Fulfilling my MDT obligations and earning a bonus, partying ways, payment.
+3. Having young blood asking The Dem why he walks in slow-mo. lol.
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
 1. **Failure:** Poor communication.<br />
