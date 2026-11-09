@@ -43,7 +43,8 @@ Updated: {{ 28-Sep-26 }}
 	8. Having extended my week all the way to Sunday, I saw myself looking up [playwright chromium](https://www.google.com/search?q=playwright+chromium), a browser engine making Futtech much more robust.
 
 - **Job hunting**
-	- Submitted 0 proposal, with a 0% 'viewed by client' rate, got interviewed by none and hired by none, for jobs related to Football, Sports and game footage analysis/editing.
+	- Submitted 2 proposals, with a 100% 'viewed by client' rate, got interviewed by none and hired by none, for jobs related to football, sport and game footage analysis/editing.
+	- Declined renewal of Matchday Tribunal contract due to mismatch between hours required by the job and my availability.
 
 ### 🏆 <b>3 Wins and/or Achievements</b>
 1. Refining MDT's "potential agentic" workflow via speech-to-text usage.
