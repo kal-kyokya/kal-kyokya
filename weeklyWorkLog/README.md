@@ -53,9 +53,9 @@ Updated: {{ 28-Sep-26 }}
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
 1. **Failure:** Poor communication.<br />
-**Lesson:** We get it, "Minimum amount of interaction, maximum impact." Now, the thing is, in a professional setting, working quietly and showing up with results leaves clients and employers wondering what you are up to and makes it hard for them to plan their schedule. Better announce your aim first, then disappear and go for it. Your private life can live by that, not your professional.
+**Lesson:** Second week running: We get it, "Minimum amount of interaction, maximum impact." Now, the thing is, in a professional setting, working quietly and showing up with results leaves clients and employers wondering what you are up to, and makes it hard for them to plan their schedule. Better announce your aim first, then disappear and go for it. Your private life can live by that, not your professional.
 2. **Failure:** Zongo.<br />
-**Lesson:** Get the ChatGPT plus subscription and get on with Code generation.
+**Lesson:** We got the ChatGPT plus subscription, gotta dedicate 2 hours daily to code generation and whiteboard defense preparation.
 3. **Failure:** Stretch-Eat evening sequence.<br />
 **Lesson:** 5PM, we go through the hip mobility routine, 5:30PM, we start eating, 7PM latest, we start the digestion process, 4 hours before the 11PM bedtime.
 
