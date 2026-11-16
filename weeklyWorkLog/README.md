@@ -51,8 +51,7 @@ Updated: {{ 16-Nov-26 }}
 	17. With this lazy loading concept combined with a type of file I had seen and interacted with a number of times, over the past 365 days: ['.webp' files](https://www.google.com/search?q=loading+lazy+html+attribute).
 
 - **Job hunting**
-	- Submitted 2 proposals, with a 100% 'viewed by client' rate, got interviewed by none and hired by none, for jobs related to football, sport and game footage analysis/editing.
-	- Declined renewal of Matchday Tribunal contract due to mismatch between hours required by the job and my availability.
+	- Submitted 0 proposals, with a 0% 'viewed by client' rate, got interviewed by none and hired by none, for jobs related to football, sport and game footage analysis/editing.
 
 ### 🏆 <b>3 Wins and/or Achievements</b>
 1. Tinkering with YouTube creator studio's advanced-mode metrics and breakdowns.
