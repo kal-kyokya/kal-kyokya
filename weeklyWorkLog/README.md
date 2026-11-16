@@ -2,7 +2,7 @@
 Jean-Paul KYOKYA — Weekly Work Log (Brag List)
 Repository: kal-kyokya
 Created: {{ 31-May-25 }}
-Updated: {{ 28-Sep-26 }}
+Updated: {{ 16-Nov-26 }}
 -->
 
 # Jean-Paul KYOKYA — Weekly Work Log
@@ -20,6 +20,73 @@ Updated: {{ 28-Sep-26 }}
 🔹 What was achieved; personally and professionally.<br />
 🔹 What didn’t go well — and what was learned.<br />
 🔹 Any standout moments or breakthroughs.
+
+---
+
+## Week 77 — Sunday, 15th November 2026
+
+### 🌱 **What Was Worked On**
+
+- **Projects**
+	1. **[Futtech-Django](https://www.futtech.kalkyokya.tech/showcase)**: Progressed with the repository's complete audit and refactored all frontend's configuration files, styling module, as well as React components and contexts.
+	2. **[Futtech-Django](https://www.futtech.kalkyokya.tech/showcase)**: Kept expanding the [Matchday Damage](https://www.youtube.com/@MatchdayDamage) video library (The social media extension of Futtech), with humorous edits covering the weekend's EPL's top 6 games and Barcelona's last La Liga fixture before the november international break, generating 2 videos between Monday and Sunday (all of them on Monday).
+
+- **Learning & Growth**
+	1. Starting Tuesday afternoon, after having regained access to Codex Cloud via subscription to ChatGPT plus, I had to loo up [god classes](https://www.google.com/search?q=god+class+programming) and [fat views](https://www.google.com/search?q=fat+views+programming), 2 programming concepts tied to the refactor of the Django backend structure I was undertaking.
+	2. Same afternoon, I learned of the [HTTP 409 Conflict status code](https://www.google.com/search?q=http+409+status+code), with regards to Futtech's payment integration using M-Pesa ans Stripe, and the potential mismatches between system and provider's states/statuses.
+	3. The evening saw me seek a reminder with regards to the meaning of the [STK acronym](https://www.google.com/search?q=stk+acronym) in an M-Pesa payment context requiring usage of the Sim ToolKit functionality.
+	4. Wednesday, first thing in the morning, was a continuation of payment integration investigation, with my requiring to visualize the [M-Pesa callback data shape](https://www.google.com/search?q=mpesa+callback+data+shape) in order to have a better grasp of the backend code I was reviewing.
+	5. Thursday morning had me now inspecting Google Sign In, starting with a investigation of [Google Sign In's 'hd' attribute](https://www.google.com/search?q=google+sign+in+hd+attribute).
+	6. Friday, early afternoon, still inspecting authentication and authorization, and coincidentally being exposed to [this video by The PrimeTime](https://www.youtube.com/watch?v=B3_Ftfhkzz0) discussing an SSH password vulnerability exploits that recently got exposed, I sought to find [Django User model's location](https://www.google.com/search?q=django+user+model+location) to confirm what maximum length password attributes were assigned.
+	7. Early evening, with a full social media brand audit expected of me, I got the chance to browse [YouTube's Creator Studio](https://studio.youtube.com/), and subsequently learn about [the meaning of CTR](https://www.google.com/search?q=ctr+meaning).
+	8. Having extended my week all the way to Sunday, I saw myself looking up [playwright chromium](https://www.google.com/search?q=playwright+chromium), a browser engine making Futtech much more robust.
+
+- **Job hunting**
+	- Submitted 2 proposals, with a 100% 'viewed by client' rate, got interviewed by none and hired by none, for jobs related to football, sport and game footage analysis/editing.
+	- Declined renewal of Matchday Tribunal contract due to mismatch between hours required by the job and my availability.
+
+### 🏆 <b>3 Wins and/or Achievements</b>
+1. Tinkering with YouTube creator studio's advanced-mode metrics and breakdowns.
+2. Fulfilling my MDT obligations and earning a bonus, partying ways, payment.
+3. Having young blood asking The Dem why he walks in slow-mo. lol.
+
+### 🔭 <b>3 Fails & Lessons Learned</b>
+1. **Failure:** Poor communication.<br />
+**Lesson:** Second week running: We get it, "Minimum amount of interaction, maximum impact." Now, the thing is, in a professional setting, working quietly and showing up with results leaves clients and employers wondering what you are up to, and makes it hard for them to plan their schedule. Better announce your aim first, then disappear and go for it. Your private life can live by that, not your professional.
+2. **Failure:** Zongo.<br />
+**Lesson:** We got the ChatGPT plus subscription, gotta dedicate 2 hours daily to code generation and whiteboard defense preparation.
+3. **Failure:** Stretch-Eat evening sequence.<br />
+**Lesson:** 5PM, we go through the hip mobility routine, 5:30PM, we start eating, 7PM latest, we start the digestion process, 4 hours before the 11PM bedtime.
+
+### 🌟 <b>Highlights of the Week</b>
+- <b>Memorable moment / breakthrough / proud event</b>: Completing the preliminary quantitative report of MDT's 3 day audit process and immediately informing them of my unwillingness to renew my contract. DD, 2.4M, DLHI, 'slow more controlled'. Yeah. I choose to assert myself, paid my dues, did an inventory of the submissions made across the duration of the contract and identified an opportunity to part ways, rather than stick around and resentfully work under a contract whose negociations weren't satisfactory.
+- <b>Quote, inspiration, or personal reflection</b>: "Spare the rod, spoil the child." — Proverbs 13:24. The English version of "Qui aime bien, châtie bien". Also known as "Tough Love." A phrase/concepti I believe in and whose application from my parents had brought about the person I am. I wanted to know the English version.
+
+---
+
+## 📅 <b>Coming Up Next Week, InshaAllah</b> - November 9th to 15th 2026
+- [ ] Be done eating by 7PM.
+- [ ] Stay out of bed come [7:55AM](https://www.youtube.com/watch?v=T4H7EC9j6mg).
+- [ ] Ensure to spend 30 minutes, [every day](https://www.youtube.com/shorts/mQcTJdyTFtA) going through the [Hip Mobility Routine for Athletes](https://www.youtube.com/watch?v=x-uNaley_O8).
+- [ ] Complete uploads to [Matchday Damage](https://www.youtube.com/@MatchdayDamage) not more than 24 hours after each game's fulltime.
+- [ ] Average 1 hour a day of German language practice.
+
+---
+
+## 📈 <b>Meta</b>
+| Metric | This Week |
+| ------ | --------- |
+| GitHub Commits | 32 |
+| Job Applications | 2 |
+| Sleep Avg (hrs) | 7 |
+| Total Coding Time (hrs) | 12 |
+| Training Sessions (Football) | N/A |
+
+---
+
+> _“To be honest, I only ever compete with myself.. no other man's success or failure affects my life in the end.” — Anthony Gordon, "Aston Villa pre-game Champions League press interview."_
+
+<!-- Let's update the log every Sunday. Let's Go! -->
 
 ---
 
