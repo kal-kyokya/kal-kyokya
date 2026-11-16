@@ -54,9 +54,9 @@ Updated: {{ 16-Nov-26 }}
 	- Submitted 0 proposals, with a 0% 'viewed by client' rate, got interviewed by none and hired by none, for jobs related to football, sport and game footage analysis/editing.
 
 ### 🏆 <b>3 Wins and/or Achievements</b>
-1. Tinkering with YouTube creator studio's advanced-mode metrics and breakdowns.
-2. Fulfilling my MDT obligations and earning a bonus, partying ways, payment.
-3. Having young blood asking The Dem why he walks in slow-mo. lol.
+1. Scoring my first goal for Wagenge, while wearing the number 10.
+2. Progressing with Futtech's frontend refactor and picturing the beauty awaiting.
+3. Having the 2.4M kind of access enabling one to cover two months of rent.
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
 1. **Failure:** Poor communication.<br />
