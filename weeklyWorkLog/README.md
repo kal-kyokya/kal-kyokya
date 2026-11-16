@@ -54,17 +54,17 @@ Updated: {{ 16-Nov-26 }}
 	- Submitted 0 proposals, with a 0% 'viewed by client' rate, got interviewed by none and hired by none, for jobs related to football, sport and game footage analysis/editing.
 
 ### 🏆 <b>3 Wins and/or Achievements</b>
-1. Scoring my first goal for Wagenge, while wearing the number 10.
+1. kanzu, step over, croquetta take ons, getting my first Wagenge goal, with #10 on my back.
 2. Progressing with Futtech's frontend refactor and picturing the beauty awaiting.
 3. Having the 2.4M kind of access enabling one to cover two months of rent.
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
-1. **Failure:** Poor communication.<br />
-**Lesson:** Second week running: We get it, "Minimum amount of interaction, maximum impact." Now, the thing is, in a professional setting, working quietly and showing up with results leaves clients and employers wondering what you are up to, and makes it hard for them to plan their schedule. Better announce your aim first, then disappear and go for it. Your private life can live by that, not your professional.
+1. **Failure:** Game involvement.<br />
+**Lesson:** 'Uko na tabiya ya kuwatch game.' was said to me by Wagenge's coach. Imma need to keep on repeating to myself one of 'On toes' and/or 'Active, active', allthat zoning out ends up getting me caught off guard.
 2. **Failure:** Zongo.<br />
-**Lesson:** We got the ChatGPT plus subscription, gotta dedicate 2 hours daily to code generation and whiteboard defense preparation.
-3. **Failure:** Stretch-Eat evening sequence.<br />
-**Lesson:** 5PM, we go through the hip mobility routine, 5:30PM, we start eating, 7PM latest, we start the digestion process, 4 hours before the 11PM bedtime.
+**Lesson:** Still on that: 'We got the ChatGPT plus subscription, gotta dedicate 2 hours daily to code generation and whiteboard defense preparation'.
+3. **Failure:** The social.<br />
+**Lesson:** Yeah, called it disagreableness, call it conscientiousness, either way, the boy is out there man, unwilling to 'do things he doesn't want to do', bonding, making friends. Is that what DLHI calls us to? It sure feels right, plus it helps us live the same day; consistency in the pursuit of the goal, an unencumbered mind.
 
 ### 🌟 <b>Highlights of the Week</b>
 - <b>Memorable moment / breakthrough / proud event</b>: Completing the preliminary quantitative report of MDT's 3 day audit process and immediately informing them of my unwillingness to renew my contract. DD, 2.4M, DLHI, 'slow more controlled'. Yeah. I choose to assert myself, paid my dues, did an inventory of the submissions made across the duration of the contract and identified an opportunity to part ways, rather than stick around and resentfully work under a contract whose negociations weren't satisfactory.
