@@ -92,7 +92,7 @@ Updated: {{ 16-Nov-26 }}
 
 ---
 
-> _“To be honest, I only ever compete with myself.. no other man's success or failure affects my life in the end.” — Anthony Gordon, "Aston Villa pre-game Champions League press interview."_
+> _“On est la moyenne de nos srabs, on attire c'qui nous est commun. Si t'es entouré d'fils de p*te, c'est qu'toi aussi t'en es un.” — Dinos Stamina 27 November 2020, "93 mesures."_
 
 <!-- Let's update the log every Sunday. Let's Go! -->
 
