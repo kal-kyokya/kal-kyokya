@@ -88,7 +88,7 @@ Updated: {{ 16-Nov-26 }}
 
 ---
 
-> _“On est la moyenne de nos srabs, on attire c'qui nous est commun. Si t'es entouré d'fils de p*te, c'est qu'toi aussi t'en es un.” — Dinos Stamina 27 November 2020, "93 mesures."_
+> _“There is no peace for the man who has seen what he could become.” — Epictetus, "DLHI."_
 
 <!-- Let's update the log every Sunday. Let's Go! -->
 
@@ -163,7 +163,7 @@ Updated: {{ 16-Nov-26 }}
 
 ---
 
-> _“On est la moyenne de nos srabs, on attire c'qui nous est commun. Si t'es entouré d'fils de p*te, c'est qu'toi aussi t'en es un.” — Dinos Stamina 27 November 2020, "93 mesures."_
+> _“On est la moyenne de nos srabs, on attire c'qui nous est commun. Si t'es entouré d'fils de p*te, c'est qu'toi aussi t'en es un.” — Dinos - Stamina - 27 November 2020, "93 mesures."_
 
 <!-- Let's update the log every Sunday. Let's Go! -->
 
