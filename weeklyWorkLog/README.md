@@ -47,7 +47,7 @@ Updated: {{ 16-Nov-26 }}
 	12. Later on in the afternoon, reading the definition of ['semantics' in a software context](https://www.google.com/search?q=semantics+in+software) drew my attention as I was back to refactoring Futtech frontend's pages.
 
 - **Job hunting**
-	- Submitted 0 proposals, with a 0% 'viewed by client' rate, got interviewed by none and hired by none, for jobs related to football, sport and game footage analysis/editing.
+	- Submitted 1 proposal, with a 0% 'viewed by client' rate, got interviewed by none and hired by none, for jobs related to football, sport and game footage analysis/editing.
 
 ### 🏆 <b>3 Wins and/or Achievements</b>
 1. kanzu, step over, croquetta take ons, getting my first Wagenge goal, with #10 on my back.
