@@ -63,8 +63,8 @@ Updated: {{ 16-Nov-26 }}
 **Lesson:** I don't mind friction these days. Is that what 'being a cold mofo' is all about? DLHI, guided by truth, and justice, honestly, sincerely, genuinely "refusing to do things he hates, that's another form of telling the truth"? Well, I don't mind being the vilain. Makes me a hero?
 
 ### 🌟 <b>Highlights of the Week</b>
-- <b>Memorable moment / breakthrough / proud event</b>: Getting a goal for Wagenge man. Making the run, in behind the defense, having the pass come through, beating the defender to the ball, looking up to see the keeper off his line, poking it through his legs, seeing the ball hit the net, go towards the corner flag, right hand up in the air, executing the Fimbu celebration, dapping up the gang, pointing back at the number 10 whose owner gave the assist, restarting the game and moving on from that beautiful and memorable moment, yeah, that was something.
-- <b>Quote, inspiration, or personal reflection</b>: "Entrepreneur's mind. Athlete's body. Artist's soul." — IG-explained concept. DLHI. Beauty man. It's just... it's just beauty at all levels. From the looks, to the thoughts, to the actions, the being. It's a commitment to truth, to justice, to excellence. Yeah, gotta continuously find ways to remind ourselves of this. That's what we are up to.
+- <b>Memorable moment / breakthrough / proud event</b>: Sunday's internal game was felt, was experienced, was lived, was pathosed. Tensions, emotions, passions, provocations. We were out there man, and I loved it. First time being on the winning team, first time giving into trash talking on the pitch, first time being a nuisance from the sideline, first assist in one. I now know what it means to give your all for the side you are on, when it comes to internal games.
+- <b>Quote, inspiration, or personal reflection</b>: "Being passionate is not being emotional." — Reflection on Wagenge's sunday internal game. I gave into Pathos. There is no guilt attached to that indulgence. It feels justified. Necessary. Required. That kind of aggression is... just. I'm aggressive. Quite aggressive. I get to channel some of that through football.
 
 ---
 
