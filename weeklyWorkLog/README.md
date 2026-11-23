@@ -28,28 +28,23 @@ Updated: {{ 16-Nov-26 }}
 ### 🌱 **What Was Worked On**
 
 - **Projects**
-	1. **[Professional Portfolio Website](https://www.kalkyokya.tech)**: Convert all JPEG, JPG and PNG images to '.webp', after refactoring the website for adherence to web design advice 'received' from [here](https://www.youtube.com/watch?v=DuowDNn3TNc).
+	1. **[Professional Portfolio Website](https://www.kalkyokya.tech)**: Convert all JPEG, JPG and PNG images to '.webp', after redesigning the website for adherence to web design advice 'received' from [here](https://www.youtube.com/watch?v=DuowDNn3TNc).
 	1. **[Futtech-Django](https://www.futtech.kalkyokya.tech/showcase)**: Reach the pre-build stage following the repository's complete audit after having refactored all frontend's pages and only requiring refactor of tests and browser configurations.
 	2. **[Futtech-Django](https://www.futtech.kalkyokya.tech/showcase)**: Kept expanding the [Matchday Damage](https://www.youtube.com/@MatchdayDamage) video library (The social media extension of Futtech), with humorous edits covering the weekend's EPL's top 6 games and Barcelona's last La Liga fixture before the november international break, generating 7 videos between Monday and Sunday.
 
 - **Learning & Growth**
 	1. Monday afternoon, having refactored the styling and logic residing inside the same directory, I looked up the structure of ['git add; git commit; git push'](https://www.google.com/search?q=git+add+git+commit+git+push), a series of command for which I have written a script and therefore have not manually written in a while. This was so that I have two different commits for each file.
-	2. Monday evening, having been exposed to a number of web design concept during Futtech's refactor, I took it upon myself to watch 3 of the best Web Design YouTube tutorials/videos I selected. [This one](https://www.youtube.com/watch?v=DuowDNn3TNc) stood out and was inspired refactor of my [Professional Portfolio Website](https://www.kalkyokya.tech).
-	3. .
-	4. .
-	5. .
-	6. .
-	7. .
-	8. .
-	9. .
-	10. .
-	11. .
-	12. .
-	13. .
-	14. .
-	15. .
-	16. .
-	17. .
+	2. Monday evening, having been exposed to a number of web design concept during Futtech's refactor, I took it upon myself to watch 3 of the best Web Design YouTube tutorials/videos I selected. [This one](https://www.youtube.com/watch?v=DuowDNn3TNc) stood out and was inspired redesign of my [Professional Portfolio Website](https://www.kalkyokya.tech).
+	3. Tuesday afternoon was marked by the extraction of the idea of `Energy, Openess & Cohesiveness >< Corrupt, Insular & Arrogant` from [this Game Theory lecture](https://www.youtube.com/watch?v=ybufqRY77PQ). Quite eye-opening.
+	4. Tuesday saw me investigating of ['&amp;' in HTML](https://www.google.com/search?q=%26amp+in+html) as I skimmed through the portfolio website's 'index.html' file.
+	5. Wednesday early evening brought about the differentiation found in screen sizes when defining [max-width with 575.98px or 767.98px](https://www.google.com/search?q=max+width+575+767).
+	6. Thursday had me proactively redesign the portfolio website and had the emergence of look ups such as [bootstrap's fa icons list](https://www.google.com/search?q=bootstrap+fa+icons+list) as well as the ['img' HMTL tag](https://www.google.com/search?q=img+html+tag).
+	7. Friday early morning saw me investigate ['.webp' files](https://www.google.com/search?q=webp+file), compressed images that speed up loading of web apps and websites.
+	8. Same morning, understanding the meaning associated with the idea of ['to poll a status' in programming](https://www.google.com/search?q=to+poll+a+status+programming) revealed itself as important.
+	9. I immediately followed the above search with a quick reminder of the functions [setTimeout() and setInterval()](https://www.google.com/search?q=settimeout+and+setinterval).
+	10. Friday, very late in the evening, had attached to it a read of the comparison between [display 'flex' and 'grid'](https://www.google.com/search?q=display+flex+vs+grid).
+	11. Saturday, very early in the afternoon, from [this video by ThePrimeAgen](https://www.youtube.com/watch?v=pAGwvAWV4bk) containing a mention of the kind of Software Engineering one should strive to be, exposure this humourous German compound word: [Kunstintelligenziterationsschwächenrückschrittssarkasmus](https://www.google.com/search?q=Kunstintelligenziterationsschw%C3%A4chenr%C3%BCckschrittssarkasmus), dropped in the comment section inspired me to try out different LLMs for matchday damage's brainstorming and immediately paid off.
+	12. Later on in the afternoon, reading the definition of ['semantics' in a software context](https://www.google.com/search?q=semantics+in+software) drew my attention as I was back to refactoring Futtech frontend's pages.
 
 - **Job hunting**
 	- Submitted 0 proposals, with a 0% 'viewed by client' rate, got interviewed by none and hired by none, for jobs related to football, sport and game footage analysis/editing.
