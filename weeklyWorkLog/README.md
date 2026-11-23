@@ -28,6 +28,7 @@ Updated: {{ 16-Nov-26 }}
 ### 🌱 **What Was Worked On**
 
 - **Projects**
+	1. **[Professional Portfolio Website](https://www.kalkyokya.tech)**: Convert all JPEG, JPG and PNG images to '.webp', after refactoring the website for adherence to web design advice 'received' from [here](https://www.youtube.com/watch?v=DuowDNn3TNc).
 	1. **[Futtech-Django](https://www.futtech.kalkyokya.tech/showcase)**: Reach the pre-build stage following the repository's complete audit after having refactored all frontend's pages and only requiring refactor of tests and browser configurations.
 	2. **[Futtech-Django](https://www.futtech.kalkyokya.tech/showcase)**: Kept expanding the [Matchday Damage](https://www.youtube.com/@MatchdayDamage) video library (The social media extension of Futtech), with humorous edits covering the weekend's EPL's top 6 games and Barcelona's last La Liga fixture before the november international break, generating 7 videos between Monday and Sunday.
 
