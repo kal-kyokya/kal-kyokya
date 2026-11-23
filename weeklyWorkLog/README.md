@@ -23,6 +23,81 @@ Updated: {{ 16-Nov-26 }}
 
 ---
 
+## Week 78 — Sunday, 22nd November 2026
+
+### 🌱 **What Was Worked On**
+
+- **Projects**
+	1. **[Futtech-Django](https://www.futtech.kalkyokya.tech/showcase)**: Reach the pre-build stage following the repository's complete audit after having refactored all frontend's pages and only requiring refactor of tests and browser configurations.
+	2. **[Futtech-Django](https://www.futtech.kalkyokya.tech/showcase)**: Kept expanding the [Matchday Damage](https://www.youtube.com/@MatchdayDamage) video library (The social media extension of Futtech), with humorous edits covering the weekend's EPL's top 6 games and Barcelona's last La Liga fixture before the november international break, generating 7 videos between Monday and Sunday.
+
+- **Learning & Growth**
+	1. Started on Monday with a long awaited exposure to [The /wayfinder Skill by Matt Pocock](https://www.aihero.dev/skills-wayfinder), initially through [this YouTube video by M. Pocock himself](https://www.youtube.com/watch?v=F3lL98Pj90o).
+	2. Tuesday's refactoring efforts saw me requiring a reminder on the functioning of [the 'clamp() function in CSS'](https://www.google.com/search?q=clamp+css).
+	3. Same afternoon, had me querying google with ['The star sign (Asterisk) as a wildcard in programming'](https://www.google.com/search?q=the+star+sign+asterisk+as+a+wildcard+in+programming), helping me understand, in the context of Futtech's codebase, nuances such as replacement for unknown values vs iterable input to a function.
+	4. Late that evening, while refactoring Futtech's 'App.jsx', combination of [the React 'Suspense' component and the 'lazy()' function](https://www.google.com/search?q=react+suspense+and+lazy) helped me reach this desire I had to optimize Futtech's loading.
+	5. An hour and a half to midnight, I recalled a mention of [GDPR](https://www.google.com/search?q=gdpr) made by Wagenge's coach on our drive to Karura, with regards to data protection and glanced at the search's overview.
+	6. Wednesday afternoon saw me try out a [SVG Visualizer](https://www.google.com/search?q=svg+visualizer) given the newly added usage of an SVG arrow representing URL redirect links.
+	7. I had seen it a number of times but never cared to know its name: an ['eyebrow' in web design and CSS](https://www.google.com/search?q=eyebrow+in+web+design+and+css) has been made part and parcel of Futtech's UI during this latest refactor.
+	8. I guess web design is a topic I need to make incremental improvement with. I'm thinking of getting daily, 20 minutes, YouTube enabled exposure to tutorials. It comes after closing wednesday's work with an investigation of ['figcaptions' in web design](https://www.google.com/search?q=figure+captions+in+web+design).
+	9. Thursday was marked by a continuation of the day before's learning as I looked up [The 'figure' HTML element](https://www.google.com/search?q=figure+html+tag) which gets paired with `figcaptions` to manage diagrams, images, and more.
+	10. Friday morning started with processing how a combination of ['Object.entries()' and 'Object.fromEntries()'] with the [spread/expansion operator](https://www.google.com/search?q=spread%2Fexpansion+operator) facilitates filtering JavaScript object attributes.
+	11. This was followed by a focused reading of the functioning of [useReducer's function init optional argument](https://www.google.com/search?q=useReducer+function+init+optional+argument).
+	12. Saturday afternoon, refactoring Futtech's playlists, saw me research a substantial amount of CSS concepts, attributes, values. Starting with ['padding-block'](https://www.google.com/search?q=padding-block+css), followed by ['fr': fractional units](https://www.google.com/search?q=Css+fr+unit+fractional+unit), as well as [the 'gap' attribute](https://www.google.com/search?q=gap+css+attribute).
+	13. Special mention to the [scroll snapping](https://www.google.com/search?q=scroll+snapping) CSS attribute and the associated web design concept, this promises to make playlist scrolling look, and feel, modern.
+	14. Same afternoon, a touch of JavaScript was present as I looked into [the 'Array.find()' method](https://www.google.com/search?q=array+find+method+in+javascript), with use being important to selection of matching playlist items.
+	15. The early evening's session had me seeking to further my understanding of instances of [React 'useRef()'](https://www.google.com/search?q=react+useref) and how it eases manipulation of DOM objects.
+	16. The week was closed with a late evening investigation of the next two points: [the 'loading=lazy' HTML attribute-value pair](https://www.google.com/search?q=loading+lazy+html+attribute).
+	17. With this lazy loading concept combined with a type of file I had seen and interacted with a number of times, over the past 365 days: ['.webp' files](https://www.google.com/search?q=loading+lazy+html+attribute).
+
+- **Job hunting**
+	- Submitted 0 proposals, with a 0% 'viewed by client' rate, got interviewed by none and hired by none, for jobs related to football, sport and game footage analysis/editing.
+
+### 🏆 <b>3 Wins and/or Achievements</b>
+1. kanzu, step over, croquetta take ons, getting my first Wagenge goal, with #10 on my back.
+2. Progressing with Futtech's frontend refactor and picturing the beauty awaiting.
+3. Having the 2.4M kind of access enabling one to cover two months of rent.
+
+### 🔭 <b>3 Fails & Lessons Learned</b>
+1. **Failure:** Game involvement.<br />
+**Lesson:** 'Uko na tabiya ya kuwatch game.' was said to me by Wagenge's coach. Imma need to keep on repeating to myself one of 'On toes' and/or 'Active, active', allthat zoning out ends up getting me caught off guard.
+2. **Failure:** Zongo.<br />
+**Lesson:** Still on that: 'We got the ChatGPT plus subscription, gotta dedicate 2 hours daily to code generation and whiteboard defense preparation'.
+3. **Failure:** The social.<br />
+**Lesson:** Yeah, called it disagreableness, call it conscientiousness, either way, the boy is out there man, unwilling to 'do things he doesn't want to do', bonding, making friends. Is that what DLHI calls us to? It sure feels right, plus it helps us live the same day; consistency in the pursuit of the goal, an unencumbered mind.
+
+### 🌟 <b>Highlights of the Week</b>
+- <b>Memorable moment / breakthrough / proud event</b>: Getting a goal for Wagenge man. Making the run, in behind the defense, having the pass come through, beating the defender to the ball, looking up to see the keeper off his line, poking it through his legs, seeing the ball hit the net, go towards the corner flag, right hand up in the air, executing the Fimbu celebration, dapping up the gang, pointing back at the number 10 whose owner gave the assist, restarting the game and moving on from that beautiful and memorable moment, yeah, that was something.
+- <b>Quote, inspiration, or personal reflection</b>: "Entrepreneur's mind. Athlete's body. Artist's soul." — IG-explained concept. DLHI. Beauty man. It's just... it's just beauty at all levels. From the looks, to the thoughts, to the actions, the being. It's a commitment to truth, to justice, to excellence. Yeah, gotta continuously find ways to remind ourselves of this. That's what we are up to.
+
+---
+
+## 📅 <b>Coming Up Next Week, InshaAllah</b> - November 16th to 22nd 2026
+- [ ] Be done eating by 7PM.
+- [ ] Stay out of bed come [7:55AM](https://www.youtube.com/watch?v=T4H7EC9j6mg).
+- [ ] Ensure to spend 30 minutes, [every day](https://www.youtube.com/shorts/mQcTJdyTFtA) going through the [Hip Mobility Routine for Athletes](https://www.youtube.com/watch?v=x-uNaley_O8) and ~20 minutes on web design YouTube tutorials.
+- [ ] Complete uploads to [Matchday Damage](https://www.youtube.com/@MatchdayDamage) not more than 24 hours after each game's fulltime.
+- [ ] Average 1 hour a day of German language practice.
+
+---
+
+## 📈 <b>Meta</b>
+| Metric | This Week |
+| ------ | --------- |
+| GitHub Commits | 59 |
+| Job Applications | 0 |
+| Sleep Avg (hrs) | 7 |
+| Total Coding Time (hrs) | 21 |
+| Training Sessions (Football) | 4 |
+
+---
+
+> _“On est la moyenne de nos srabs, on attire c'qui nous est commun. Si t'es entouré d'fils de p*te, c'est qu'toi aussi t'en es un.” — Dinos Stamina 27 November 2020, "93 mesures."_
+
+<!-- Let's update the log every Sunday. Let's Go! -->
+
+---
+
 ## Week 77 — Sunday, 15th November 2026
 
 ### 🌱 **What Was Worked On**
