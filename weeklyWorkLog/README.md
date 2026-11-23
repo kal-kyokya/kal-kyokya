@@ -56,11 +56,11 @@ Updated: {{ 16-Nov-26 }}
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
 1. **Failure:** Game involvement.<br />
-**Lesson:** 'Uko na tabiya ya kuwatch game.' was said to me by Wagenge's coach. Imma need to keep on repeating to myself one of 'On toes' and/or 'Active, active', allthat zoning out ends up getting me caught off guard.
+**Lesson:** Was a bit better this weekend, but still... Gotta work on: 'Uko na tabiya ya kuwatch game.' was said to me by Wagenge's coach. Imma need to keep on repeating to myself one of 'On toes' and/or 'Active, active', all that zoning out ends up getting me caught off guard.
 2. **Failure:** Zongo.<br />
-**Lesson:** Still on that: 'We got the ChatGPT plus subscription, gotta dedicate 2 hours daily to code generation and whiteboard defense preparation'.
-3. **Failure:** The social.<br />
-**Lesson:** Yeah, called it disagreableness, call it conscientiousness, either way, the boy is out there man, unwilling to 'do things he doesn't want to do', bonding, making friends. Is that what DLHI calls us to? It sure feels right, plus it helps us live the same day; consistency in the pursuit of the goal, an unencumbered mind.
+**Lesson:** Portfolio redesign done, Futtech's refactor completed, gotta proceed with that: 'We got the ChatGPT plus subscription, gotta dedicate 2 hours daily to code generation and whiteboard defense preparation'.
+3. **Failure:** Social conflict.<br />
+**Lesson:** I don't mind friction these days. Is that what 'being a cold mofo' is all about? DLHI, guided by truth, and justice, honestly, sincerely, genuinely "refusing to do things he hates, that's another form of telling the truth"? Well, I don't mind being the vilain. Makes me a hero?
 
 ### 🌟 <b>Highlights of the Week</b>
 - <b>Memorable moment / breakthrough / proud event</b>: Getting a goal for Wagenge man. Making the run, in behind the defense, having the pass come through, beating the defender to the ball, looking up to see the keeper off his line, poking it through his legs, seeing the ball hit the net, go towards the corner flag, right hand up in the air, executing the Fimbu celebration, dapping up the gang, pointing back at the number 10 whose owner gave the assist, restarting the game and moving on from that beautiful and memorable moment, yeah, that was something.
