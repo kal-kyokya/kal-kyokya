@@ -32,23 +32,23 @@ Updated: {{ 16-Nov-26 }}
 	2. **[Futtech-Django](https://www.futtech.kalkyokya.tech/showcase)**: Kept expanding the [Matchday Damage](https://www.youtube.com/@MatchdayDamage) video library (The social media extension of Futtech), with humorous edits covering the weekend's EPL's top 6 games and Barcelona's last La Liga fixture before the november international break, generating 7 videos between Monday and Sunday.
 
 - **Learning & Growth**
-	1. Started on Monday with a long awaited exposure to [The /wayfinder Skill by Matt Pocock](https://www.aihero.dev/skills-wayfinder), initially through [this YouTube video by M. Pocock himself](https://www.youtube.com/watch?v=F3lL98Pj90o).
-	2. Tuesday's refactoring efforts saw me requiring a reminder on the functioning of [the 'clamp() function in CSS'](https://www.google.com/search?q=clamp+css).
-	3. Same afternoon, had me querying google with ['The star sign (Asterisk) as a wildcard in programming'](https://www.google.com/search?q=the+star+sign+asterisk+as+a+wildcard+in+programming), helping me understand, in the context of Futtech's codebase, nuances such as replacement for unknown values vs iterable input to a function.
-	4. Late that evening, while refactoring Futtech's 'App.jsx', combination of [the React 'Suspense' component and the 'lazy()' function](https://www.google.com/search?q=react+suspense+and+lazy) helped me reach this desire I had to optimize Futtech's loading.
-	5. An hour and a half to midnight, I recalled a mention of [GDPR](https://www.google.com/search?q=gdpr) made by Wagenge's coach on our drive to Karura, with regards to data protection and glanced at the search's overview.
-	6. Wednesday afternoon saw me try out a [SVG Visualizer](https://www.google.com/search?q=svg+visualizer) given the newly added usage of an SVG arrow representing URL redirect links.
-	7. I had seen it a number of times but never cared to know its name: an ['eyebrow' in web design and CSS](https://www.google.com/search?q=eyebrow+in+web+design+and+css) has been made part and parcel of Futtech's UI during this latest refactor.
-	8. I guess web design is a topic I need to make incremental improvement with. I'm thinking of getting daily, 20 minutes, YouTube enabled exposure to tutorials. It comes after closing wednesday's work with an investigation of ['figcaptions' in web design](https://www.google.com/search?q=figure+captions+in+web+design).
-	9. Thursday was marked by a continuation of the day before's learning as I looked up [The 'figure' HTML element](https://www.google.com/search?q=figure+html+tag) which gets paired with `figcaptions` to manage diagrams, images, and more.
-	10. Friday morning started with processing how a combination of ['Object.entries()' and 'Object.fromEntries()'] with the [spread/expansion operator](https://www.google.com/search?q=spread%2Fexpansion+operator) facilitates filtering JavaScript object attributes.
-	11. This was followed by a focused reading of the functioning of [useReducer's function init optional argument](https://www.google.com/search?q=useReducer+function+init+optional+argument).
-	12. Saturday afternoon, refactoring Futtech's playlists, saw me research a substantial amount of CSS concepts, attributes, values. Starting with ['padding-block'](https://www.google.com/search?q=padding-block+css), followed by ['fr': fractional units](https://www.google.com/search?q=Css+fr+unit+fractional+unit), as well as [the 'gap' attribute](https://www.google.com/search?q=gap+css+attribute).
-	13. Special mention to the [scroll snapping](https://www.google.com/search?q=scroll+snapping) CSS attribute and the associated web design concept, this promises to make playlist scrolling look, and feel, modern.
-	14. Same afternoon, a touch of JavaScript was present as I looked into [the 'Array.find()' method](https://www.google.com/search?q=array+find+method+in+javascript), with use being important to selection of matching playlist items.
-	15. The early evening's session had me seeking to further my understanding of instances of [React 'useRef()'](https://www.google.com/search?q=react+useref) and how it eases manipulation of DOM objects.
-	16. The week was closed with a late evening investigation of the next two points: [the 'loading=lazy' HTML attribute-value pair](https://www.google.com/search?q=loading+lazy+html+attribute).
-	17. With this lazy loading concept combined with a type of file I had seen and interacted with a number of times, over the past 365 days: ['.webp' files](https://www.google.com/search?q=loading+lazy+html+attribute).
+	1. Monday afternoon, having refactored the styling and logic residing inside the same directory, I looked up the structure of ['git add; git commit; git push'](https://www.google.com/search?q=git+add+git+commit+git+push), a series of command for which I have written a script and therefore have not manually written in a while. This was so that I have two different commits for each file.
+	2. Monday evening, having been exposed to a number of web design concept during Futtech's refactor, I took it upon myself to watch 3 of the best Web Design YouTube tutorials/videos I selected. [This one](https://www.youtube.com/watch?v=DuowDNn3TNc) stood out and was inspired refactor of my [Professional Portfolio Website](https://www.kalkyokya.tech).
+	3. .
+	4. .
+	5. .
+	6. .
+	7. .
+	8. .
+	9. .
+	10. .
+	11. .
+	12. .
+	13. .
+	14. .
+	15. .
+	16. .
+	17. .
 
 - **Job hunting**
 	- Submitted 0 proposals, with a 0% 'viewed by client' rate, got interviewed by none and hired by none, for jobs related to football, sport and game footage analysis/editing.
