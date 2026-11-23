@@ -28,7 +28,7 @@ Updated: {{ 16-Nov-26 }}
 ### 🌱 **What Was Worked On**
 
 - **Projects**
-	1. **[Professional Portfolio Website](https://www.kalkyokya.tech)**: Convert all JPEG, JPG and PNG images to '.webp', after redesigning the website for adherence to web design advice 'received' from [here](https://www.youtube.com/watch?v=DuowDNn3TNc).
+	1. **[Professional Portfolio Website](https://www.kalkyokya.tech)**: Convert all JPEG, JPG and PNG images to '.webp', after redesigning the website for adherence to web design advice 'received' from [here](https://www.youtube.com/watch?v=DuowDNn3TNc) as I added my Upwork profile, Matchday Damage's YouTube profile and a Google Drive folder containing client's video edits, as well as, numbers and figures associated with Upwork and YouTube.
 	1. **[Futtech-Django](https://www.futtech.kalkyokya.tech/showcase)**: Reach the pre-build stage following the repository's complete audit after having refactored all frontend's pages and only requiring refactor of tests and browser configurations.
 	2. **[Futtech-Django](https://www.futtech.kalkyokya.tech/showcase)**: Kept expanding the [Matchday Damage](https://www.youtube.com/@MatchdayDamage) video library (The social media extension of Futtech), with humorous edits covering the weekend's EPL's top 6 games and Barcelona's last La Liga fixture before the november international break, generating 7 videos between Monday and Sunday.
 
@@ -50,9 +50,9 @@ Updated: {{ 16-Nov-26 }}
 	- Submitted 1 proposal, with a 0% 'viewed by client' rate, got interviewed by none and hired by none, for jobs related to football, sport and game footage analysis/editing.
 
 ### 🏆 <b>3 Wins and/or Achievements</b>
-1. kanzu, step over, croquetta take ons, getting my first Wagenge goal, with #10 on my back.
-2. Progressing with Futtech's frontend refactor and picturing the beauty awaiting.
-3. Having the 2.4M kind of access enabling one to cover two months of rent.
+1. Deadball Kanzu maaan, craaazy, long range effort, an assist, energetic sideline banter.
+2. Redesigning the portfolio website, guided by 'great footballer/amazing Software Engineer'.
+3. Overcoming the temptation to ghost upon seeing it rain before Wagenge Sunday's game.
 
 ### 🔭 <b>3 Fails & Lessons Learned</b>
 1. **Failure:** Game involvement.<br />
@@ -125,7 +125,7 @@ Updated: {{ 16-Nov-26 }}
 	- Submitted 0 proposals, with a 0% 'viewed by client' rate, got interviewed by none and hired by none, for jobs related to football, sport and game footage analysis/editing.
 
 ### 🏆 <b>3 Wins and/or Achievements</b>
-1. kanzu, step over, croquetta take ons, getting my first Wagenge goal, with #10 on my back.
+1. Kanzu, step over, croquetta take ons, getting my first Wagenge goal, with #10 on my back.
 2. Progressing with Futtech's frontend refactor and picturing the beauty awaiting.
 3. Having the 2.4M kind of access enabling one to cover two months of rent.
 
